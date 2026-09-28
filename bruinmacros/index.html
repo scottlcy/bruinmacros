@@ -184,7 +184,7 @@ function persist(){try{localStorage.setItem(KEY,JSON.stringify(store));saveOk=tr
 const targets=()=>({...DEFAULT_TARGETS,...(store.targets||{})});
 
 /* ---------- state ---------- */
-const S={date:ymd(new Date()),tab:"menu",menu:null,menuState:"loading",loc:null,meal:null,sortProtein:false,diet:null,q:""};
+const S={date:ymd(new Date()),tab:"menu",menu:null,menuState:"loading",loc:null,meal:null,sortProtein:false,q:""};
 function day(d=S.date){return store.days[d]||{entries:[],weight:null}}
 function totals(d=S.date){return day(d).entries.reduce((a,e)=>{const q=e.qty||1;a.cal+=e.cal*q;a.p+=e.p*q;a.c+=e.c*q;a.f+=e.f*q;return a},{cal:0,p:0,c:0,f:0})}
 function defaultMeal(names){
@@ -200,7 +200,7 @@ async function loadMenu(quiet){
   const want=S.date, id=++menuReq;
   if(!quiet){S.menuState="loading";render()}
   try{
-    const r=await fetch(`data/menus/${want}.json`,{cache:"no-cache"});
+    const r=await fetch(`data/menus/${want}.json?t=${Date.now()}`,{cache:"no-store"});
     if(id!==menuReq)return;
     if(r.status===404){S.menu=null;S.menuState="none";render();return}
     if(!r.ok)throw new Error(r.status);
@@ -213,8 +213,24 @@ async function loadMenu(quiet){
   if(!meals.includes(S.meal))S.meal=meals.length?defaultMeal(meals):null;
   render();
 }
-setInterval(()=>{if(!document.hidden)loadMenu(true)},15*60*1000);
+setInterval(()=>{if(!document.hidden)loadMenu(true)},5*60*1000);
 document.addEventListener("visibilitychange",()=>{if(!document.hidden){const t=ymd(new Date());const rolled=t!==S.lastToday&&S.date===S.lastToday;if(rolled)S.date=t;S.lastToday=t;loadMenu(!rolled)}});
+
+/* ---------- stay on the newest version of the site ---------- */
+// Compare this page's source with what the server has now; reload when it changed.
+let siteSig=null, lastTouch=0;
+["click","keydown","input"].forEach(ev=>document.addEventListener(ev,()=>{lastTouch=Date.now()},true));
+async function checkVersion(){
+  try{
+    const txt=await fetch(`./?t=${Date.now()}`,{cache:"no-store"}).then(r=>r.ok?r.text():null);
+    if(!txt)return;
+    let h=0;for(let i=0;i<txt.length;i++)h=(h*31+txt.charCodeAt(i))|0;
+    if(siteSig===null){siteSig=h;return}
+    if(h!==siteSig&&!document.hidden&&Date.now()-lastTouch>30000)location.reload();
+  }catch(e){}
+}
+checkVersion();setInterval(checkVersion,5*60*1000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden)checkVersion()});
 
 /* ---------- actions ---------- */
 function setDay(d,body){store.days[d]=body;persist();render()}
@@ -248,8 +264,7 @@ function render(){
 function itemMeta(it){
   if(it.nodata)return `<span class="nodata">No nutrition info posted. Add it by hand below.</span>`;
   const hp=it.cal>0&&it.p*4/it.cal>=0.3&&it.p>=10;
-  const diet=(it.tags||[]).filter(t=>/^(vegan|vegetarian|halal)$/i.test(t));
-  return `<span class="mono">${r0(it.cal)} kcal</span><span class="m-p">${r1(it.p)}P</span><span class="m-c">${r1(it.c)}C</span><span class="m-f">${r1(it.f)}F</span>${it.serving?`<span>${esc(it.serving)}</span>`:""}${hp?`<span class="tag hp">High protein</span>`:""}${diet.map(d=>`<span class="tag">${esc(d)}</span>`).join("")}`;
+  return `<span class="mono">${r0(it.cal)} kcal</span><span class="m-p">${r1(it.p)}P</span><span class="m-c">${r1(it.c)}C</span><span class="m-f">${r1(it.f)}F</span>${it.serving?`<span>${esc(it.serving)}</span>`:""}${hp?`<span class="tag hp">High protein</span>`:""}`;
 }
 function customForm(){
   return `<div class="card"><h3 style="font-size:16px;margin-bottom:4px">Add something else</h3>
@@ -282,7 +297,7 @@ function renderMenu(){
   const M=meals.find(m=>m.name===S.meal)||meals[0];
   const counts={};day().entries.forEach(e=>{if(e.id&&e.meal===M?.name)counts[e.id]=(counts[e.id]||0)+(e.qty||1)});
   const q=S.q.trim().toLowerCase();
-  const keep=it=>(!q||it.name.toLowerCase().includes(q))&&(!S.diet||(it.tags||[]).some(t=>t.toLowerCase()===S.diet.toLowerCase()));
+  const keep=it=>!q||it.name.toLowerCase().includes(q);
   const row=it=>`<div class="item"><div><div class="iname">${esc(it.name)}</div><div class="imeta">${itemMeta(it)}</div></div>
      <button class="add${counts[it.id]?" has":""}" data-add="${esc(it.id)}" aria-label="Add ${esc(it.name)}">${counts[it.id]?"✓ "+counts[it.id]:"+"}</button></div>`;
   const all=[];(M?.stations||[]).forEach(s=>s.items.forEach(it=>all.push(it)));
@@ -299,7 +314,6 @@ function renderMenu(){
     <div class="chips" role="group" aria-label="Meal">${meals.map(m=>`<button class="chip" aria-pressed="${m.name===M?.name}" data-meal="${esc(m.name)}">${esc(m.name)}</button>`).join("")}</div>
     <input class="search" id="q" type="search" placeholder="Search this meal" value="${esc(S.q)}" aria-label="Search this meal">
     <div class="row2">
-      <div class="chips" role="group" aria-label="Diet filter">${["Vegetarian","Vegan","Halal"].map(d=>`<button class="chip small" aria-pressed="${S.diet===d}" data-diet="${d}">${d}</button>`).join("")}</div>
       <label class="toggle"><input type="checkbox" id="sortp" ${S.sortProtein?"checked":""}> Best protein per calorie first</label>
     </div>
     <div>${body||`<div class="card empty">Nothing matches.</div>`}</div>
@@ -309,7 +323,6 @@ function renderMenu(){
   P.querySelectorAll("[data-add]").forEach(b=>b.onclick=()=>{const it=byId[b.dataset.add];if(it)addEntry(it,M.name)});
   P.querySelectorAll("[data-loc]").forEach(b=>b.onclick=()=>{S.loc=b.dataset.loc;const L2=locs.find(l=>l.name===S.loc);S.meal=defaultMeal((L2.meals||[]).map(m=>m.name));render()});
   P.querySelectorAll("[data-meal]").forEach(b=>b.onclick=()=>{S.meal=b.dataset.meal;render()});
-  P.querySelectorAll("[data-diet]").forEach(b=>b.onclick=()=>{S.diet=S.diet===b.dataset.diet?null:b.dataset.diet;render()});
   $("sortp").onchange=e=>{S.sortProtein=e.target.checked;render()};
   $("q").oninput=e=>{S.q=e.target.value;clearTimeout(S.qt);S.qt=setTimeout(()=>{const pos=e.target.selectionStart;render();const n=$("q");n.focus();n.setSelectionRange(pos,pos)},200)};
   bindCustom();
