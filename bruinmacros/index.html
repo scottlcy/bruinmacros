@@ -121,6 +121,14 @@ th{color:var(--muted);font-weight:500;font-size:12px;border-top:0}
 .note{font-size:13px;color:var(--muted);margin:0}
 footer{font-size:12.5px;color:var(--muted);line-height:1.55;border-top:1px solid var(--line);padding-top:14px}
 footer p{margin:0 0 6px}
+.editlink{border:0;background:none;color:var(--accent);font-weight:600;cursor:pointer;padding:0;margin-top:6px;font-size:14px;text-align:left}
+.setup{margin-top:8px;font-size:13px;color:var(--warn)}
+.seg{display:flex;gap:4px;flex-wrap:wrap}
+.result{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;text-align:center}
+.result div{background:var(--sunk);border-radius:10px;padding:10px 4px}
+.result b{display:block;font-family:"Bricolage Grotesque",sans-serif;font-size:22px}
+.result span{font-size:12px;color:var(--muted)}
+.field select{font:inherit;font-size:16px;color:var(--ink);background:var(--sunk);border:1px solid var(--line);border-radius:9px;padding:8px 10px;width:100%;min-width:0}
 .a2hs{display:flex;flex-direction:column;gap:8px;border-color:var(--accent);background:var(--pro-soft)}
 .a2hs b{font-size:15px}
 .a2hs p{margin:0;font-size:14px}
@@ -149,6 +157,8 @@ footer p{margin:0 0 6px}
       <div class="big mono" id="kcal">0</div>
       <div class="of" id="kcalof"></div>
       <div class="left" id="kcalleft"></div>
+      <button class="editlink" id="editgoals" type="button">Edit goals</button>
+      <div class="setup" id="setupnote" hidden>These are placeholder targets. Set your own in Goals.</div>
     </div>
     <div class="bars" id="bars"></div>
   </section>
@@ -157,11 +167,13 @@ footer p{margin:0 0 6px}
     <button class="tab" role="tab" aria-selected="true" data-tab="menu">Menu</button>
     <button class="tab" role="tab" aria-selected="false" data-tab="log">My day</button>
     <button class="tab" role="tab" aria-selected="false" data-tab="prog">Progress</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="goals">Goals</button>
   </div>
 
   <section class="panel" id="p-menu"></section>
   <section class="panel" id="p-log" hidden></section>
   <section class="panel" id="p-prog" hidden></section>
+  <section class="panel" id="p-goals" hidden></section>
 
   <footer>
     <p><b>Unofficial student project. Not affiliated with or endorsed by UCLA or UCLA Dining.</b></p>
@@ -286,8 +298,9 @@ function render(){
   const bar=(lab,v,tg,col)=>`<div class="bar"><div class="lab"><b>${lab}</b><span class="mono">${r0(v)} / ${tg} g · ${tg-v>=0?r0(tg-v)+" left":r0(v-tg)+" over"}</span></div><div class="track"><div class="fill" style="width:${Math.min(100,v/tg*100)}%;background:${col}"></div></div></div>`;
   $("bars").innerHTML=bar("Protein",t.p,T.p,"var(--pro)")+bar("Carbs",t.c,T.c,"var(--carb)")+bar("Fat",t.f,T.f,"var(--fat)");
   document.querySelectorAll(".tab").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===S.tab)));
-  $("p-menu").hidden=S.tab!=="menu";$("p-log").hidden=S.tab!=="log";$("p-prog").hidden=S.tab!=="prog";
-  if(S.tab==="menu")renderMenu();else if(S.tab==="log")renderLog();else renderProg();
+  $("p-menu").hidden=S.tab!=="menu";$("p-log").hidden=S.tab!=="log";$("p-prog").hidden=S.tab!=="prog";$("p-goals").hidden=S.tab!=="goals";
+  $("setupnote").hidden=!!store.targets;
+  if(S.tab==="menu")renderMenu();else if(S.tab==="log")renderLog();else if(S.tab==="prog")renderProg();else renderGoals();
 }
 
 function itemMeta(it){
@@ -412,7 +425,7 @@ function renderProg(){
       `You lost ${r1(c)} kg last week. That's a steady pace.`}
   P.innerHTML=`
     <div class="stats">
-      <div class="stat"><div class="k">7-day avg weight</div><div class="v mono">${latestAvg?r1(latestAvg)+" kg":"—"}</div><div class="s">${planToday?"Plan for today: "+r1(planToday)+" kg":"Set a goal below to see a plan"}</div></div>
+      <div class="stat"><div class="k">7-day avg weight</div><div class="v mono">${latestAvg?r1(latestAvg)+" kg":"—"}</div><div class="s">${planToday?"Plan for today: "+r1(planToday)+" kg":"Add a goal weight in Goals to see a plan"}</div></div>
       <div class="stat"><div class="k">Avg intake, 7 days</div><div class="v mono">${a7cal?fmtN(a7cal):"—"}</div><div class="s">${a7p?r0(a7p)+" g protein a day":"kcal a day"}</div></div>
       <div class="stat"><div class="k">Est. maintenance</div><div class="v mono">${tdee?fmtN(tdee):"—"}</div><div class="s">${tdee?"From your own logs":"Needs 2 weeks of logs"}</div></div>
     </div>
@@ -423,8 +436,51 @@ function renderProg(){
       <tr><th>Week of</th><th>Days logged</th><th>Avg kcal</th><th>Avg protein</th><th>Avg weight</th><th>Change</th></tr>
       ${weeks.map(w=>`<tr><td>${parseYmd(w.ws).toLocaleDateString([],{month:"short",day:"numeric"})}</td><td>${w.n}</td><td>${w.cal?fmtN(w.cal):"—"}</td><td>${w.p?r0(w.p)+" g":"—"}</td><td>${w.w?r1(w.w)+" kg":"—"}</td><td>${w.chg!=null?(w.chg>0?"+":"")+r1(w.chg)+" kg":"—"}</td></tr>`).join("")}
     </table></div></div>
-    <div class="card"><h3 style="font-size:17px;margin-bottom:4px">Your targets</h3>
-      <p class="note" style="margin-bottom:10px">${store.targets?"":"These are placeholders. Set your own daily targets. "}Goal weight and dates are optional and draw a plan line on the chart.</p>
+    <div class="card"><h3 style="font-size:17px;margin-bottom:4px">Back up or move your log</h3>
+      <p class="note" style="margin-bottom:10px">Your log lives only in this browser. Save a backup file, then load it on another device or after clearing your browser.</p>
+      <div class="btnrow"><button class="ghost" id="exp">Save backup file</button><label class="ghost" style="cursor:pointer">Load backup file<input id="imp" type="file" accept="application/json,.json" hidden></label></div></div>`;
+  $("exp").onclick=()=>{const blob=new Blob([JSON.stringify(store,null,1)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`bruinmacros-backup-${today}.json`;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},500)};
+  $("imp").onchange=async e=>{const f=e.target.files[0];if(!f)return;try{const s=JSON.parse(await f.text());if(!s||typeof s.days!=="object")throw 0;
+    const merged={targets:s.targets||store.targets,days:{...store.days,...s.days}};store=merged;persist();render();toast(`Loaded ${Object.keys(s.days).length} days`)}catch(err){toast("That file isn't a BruinMacros backup")}};
+}
+/* ---------- goals: calculator + targets ---------- */
+const ACT=[[1.2,"Mostly sitting, little exercise"],[1.375,"Light exercise 1–3 days a week"],[1.55,"Moderate exercise 3–5 days a week"],[1.725,"Hard training 6–7 days a week"],[1.9,"Hard training plus an active job, or twice a day"]];
+const RATES=[[-1,"Lose 1 kg a week"],[-0.75,"Lose 0.75 kg a week"],[-0.5,"Lose 0.5 kg a week"],[-0.25,"Lose 0.25 kg a week"],[0,"Maintain"],[0.25,"Gain 0.25 kg a week"],[0.5,"Gain 0.5 kg a week"]];
+function calcTargets(p){
+  const w=+p.weight,h=+p.height,a=+p.age,bf=+p.bf;
+  if(!(w>30&&h>100&&a>=13))return null;
+  // Katch-McArdle when body fat is known (uses lean mass), otherwise Mifflin-St Jeor.
+  const bmr=bf>3&&bf<60?370+21.6*w*(1-bf/100):10*w+6.25*h-5*a+(p.sex==="female"?-161:5);
+  const tdee=bmr*(+p.act||1.55);
+  const floor=p.sex==="female"?1200:1500;
+  const cal=Math.max(floor,Math.round((tdee+(+p.rate||0)*7700/7)/10)*10);
+  const lean=bf>3&&bf<60?w*(1-bf/100):null;
+  const prot=Math.round((+p.rate<0?2.2:1.8)*w);
+  const fat=Math.max(Math.round(0.6*w),Math.round(cal*0.25/9));
+  const carb=Math.max(0,Math.round((cal-prot*4-fat*9)/4));
+  return {bmr:Math.round(bmr),tdee:Math.round(tdee),cal,p:prot,c:carb,f:fat,lean,capped:cal===floor};
+}
+function renderGoals(){
+  const P=$("p-goals"), T=targets();
+  const pr={sex:"male",age:"",height:"",weight:"",bf:"",act:1.55,rate:-0.5,...(store.profile||{})};
+  const opt=(arr,v)=>arr.map(([val,lab])=>`<option value="${val}" ${+v===val?"selected":""}>${lab}</option>`).join("");
+  P.innerHTML=`
+    <div class="card"><h3 style="font-size:17px;margin-bottom:4px">Work out your targets</h3>
+      <p class="note" style="margin-bottom:10px">Fill in your stats and we'll estimate your maintenance calories and a daily target. Treat it as a starting point: after two weeks of logging, Progress shows your real maintenance from your own weigh-ins.</p>
+      <form id="cform2" class="tgrid">
+        <label class="field">Sex<select id="g-sex"><option value="male" ${pr.sex==="male"?"selected":""}>Male</option><option value="female" ${pr.sex==="female"?"selected":""}>Female</option></select></label>
+        <label class="field">Age<input id="g-age" type="number" inputmode="numeric" min="13" max="99" value="${esc(pr.age)}" required></label>
+        <label class="field">Height (cm)<input id="g-h" type="number" inputmode="decimal" min="100" max="250" step="any" value="${esc(pr.height)}" required></label>
+        <label class="field">Weight (kg)<input id="g-w" type="number" inputmode="decimal" min="30" max="250" step="any" value="${esc(pr.weight)}" required></label>
+        <label class="field">Body fat % (optional)<input id="g-bf" type="number" inputmode="decimal" min="3" max="60" step="any" value="${esc(pr.bf)}" placeholder="From a scan, if you have one"></label>
+        <label class="field full">Activity<select id="g-act">${opt(ACT,pr.act)}</select></label>
+        <label class="field full">Goal<select id="g-rate">${opt(RATES,pr.rate)}</select></label>
+        <button class="primary full" type="submit">Calculate</button>
+      </form>
+      <div id="calcout"></div>
+    </div>
+    <div class="card"><h3 style="font-size:17px;margin-bottom:4px">Your daily targets</h3>
+      <p class="note" style="margin-bottom:10px">${store.targets?"Adjust any number by hand.":"These are placeholders until you calculate or type your own."} Goal weight and dates are optional and draw a plan line on the Progress chart.</p>
       <form id="tform" class="tgrid">
         <label class="field">kcal<input id="t-cal" type="number" inputmode="numeric" value="${T.cal}" required></label>
         <label class="field">Protein g<input id="t-p" type="number" inputmode="numeric" value="${T.p}" required></label>
@@ -435,15 +491,29 @@ function renderProg(){
         <label class="field">Start date<input id="t-sd" type="date" value="${T.startDate??""}"></label>
         <label class="field">Goal date<input id="t-gd" type="date" value="${T.goalDate??""}"></label>
         <button class="primary full" type="submit">Save targets</button>
-      </form></div>
-    <div class="card"><h3 style="font-size:17px;margin-bottom:4px">Back up or move your log</h3>
-      <p class="note" style="margin-bottom:10px">Your log lives only in this browser. Save a backup file, then load it on another device or after clearing your browser.</p>
-      <div class="btnrow"><button class="ghost" id="exp">Save backup file</button><label class="ghost" style="cursor:pointer">Load backup file<input id="imp" type="file" accept="application/json,.json" hidden></label></div></div>`;
+      </form></div>`;
   const num=id=>{const v=parseFloat($(id).value);return isFinite(v)?v:null};
+  const readProfile=()=>({sex:$("g-sex").value,age:num("g-age"),height:num("g-h"),weight:num("g-w"),bf:num("g-bf"),act:+$("g-act").value,rate:+$("g-rate").value});
+  const show=res=>{
+    if(!res){$("calcout").innerHTML="";return}
+    const rateTxt=RATES.find(r=>r[0]===+$("g-rate").value)?.[1]||"";
+    $("calcout").innerHTML=`<div style="display:flex;flex-direction:column;gap:10px;margin-top:14px">
+      <p style="margin:0">Estimated maintenance: <b>${fmtN(res.tdee)} kcal</b> a day. To ${rateTxt.toLowerCase()}:</p>
+      <div class="result"><div><b>${fmtN(res.cal)}</b><span>kcal</span></div><div><b style="color:var(--pro)">${res.p}g</b><span>protein</span></div><div><b style="color:var(--carb)">${res.c}g</b><span>carbs</span></div><div><b style="color:var(--fat)">${res.f}g</b><span>fat</span></div></div>
+      ${res.capped?`<p class="note" style="color:var(--warn)">We kept calories at a safe minimum. A slower pace is a better fit for your stats.</p>`:""}
+      <p class="note">Protein is set high to protect muscle${+$("g-rate").value<0?" while you lose fat":""}, fat covers hormone health, and carbs fill the rest to fuel training.</p>
+      <button class="primary" type="button" id="usecalc">Use these targets</button></div>`;
+    $("usecalc").onclick=()=>{
+      const pf=readProfile();store.profile=pf;
+      store.targets={...targets(),...(store.targets||{}),cal:res.cal,p:res.p,c:res.c,f:res.f};
+      if(!store.targets.startWeight)store.targets.startWeight=pf.weight;
+      if(!store.targets.startDate)store.targets.startDate=ymd(new Date());
+      persist();render();toast("Targets saved");
+    };
+  };
+  $("cform2").onsubmit=e=>{e.preventDefault();const pf=readProfile();store.profile=pf;persist();const res=calcTargets(pf);show(res);if(!res)toast("Check your age, height and weight")};
+  if(store.profile)show(calcTargets(pr));
   $("tform").onsubmit=e=>{e.preventDefault();store.targets={cal:num("t-cal"),p:num("t-p"),c:num("t-c"),f:num("t-f"),startWeight:num("t-sw"),goalWeight:num("t-gw"),startDate:$("t-sd").value||null,goalDate:$("t-gd").value||null};persist();render();toast("Targets saved")};
-  $("exp").onclick=()=>{const blob=new Blob([JSON.stringify(store,null,1)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`bruinmacros-backup-${today}.json`;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},500)};
-  $("imp").onchange=async e=>{const f=e.target.files[0];if(!f)return;try{const s=JSON.parse(await f.text());if(!s||typeof s.days!=="object")throw 0;
-    const merged={targets:s.targets||store.targets,days:{...store.days,...s.days}};store=merged;persist();render();toast(`Loaded ${Object.keys(s.days).length} days`)}catch(err){toast("That file isn't a BruinMacros backup")}};
 }
 function chart(weights,avg7,T,hasPlan){
   const W=680,H=240,pl=40,pr=12,pt=12,pb=26;
@@ -468,6 +538,7 @@ function chart(weights,avg7,T,hasPlan){
 
 /* ---------- events ---------- */
 document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{S.tab=b.dataset.tab;render()});
+$("editgoals").onclick=()=>{S.tab="goals";render();document.querySelector(".tabs").scrollIntoView({behavior:"smooth",block:"start"})};
 $("prev").onclick=()=>{S.date=addDays(S.date,-1);S.q="";loadMenu()};
 $("next").onclick=()=>{S.date=addDays(S.date,1);S.q="";loadMenu()};
 S.lastToday=ymd(new Date());
