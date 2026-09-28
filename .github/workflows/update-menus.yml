@@ -1,7 +1,4 @@
-
-
-env:
-  PYTHONUNBUFFERED: "1" # show scraper progress live in the logname: Update menus and publish site
+name: Update menus and publish site
 
 on:
   schedule:
