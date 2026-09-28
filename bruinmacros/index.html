@@ -1,0 +1,435 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>BruinMacros</title>
+<meta name="description" content="Dining hall menus with calories and macros, and a tap-to-log food tracker. Unofficial student project.">
+<meta name="theme-color" content="#1f6f4a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="BruinMacros">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f6f4a'/%3E%3Cpath d='M18 44V20h8l6 12 6-12h8v24h-7V32l-7 12-7-12v12z' fill='white'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  --bg:#f2f4f1; --surface:#ffffff; --sunk:#eef1ec; --ink:#16201a; --muted:#5d6b62; --line:#dfe5dd;
+  --accent:#1f6f4a; --accent-ink:#ffffff;
+  --pro:#1f8a5b; --carb:#c07a0a; --fat:#7456c4;
+  --pro-soft:#e2f3ea; --warn:#b3401f;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    color-scheme:dark;
+    --bg:#0f1411; --surface:#171e1a; --sunk:#1d2621; --ink:#e8efe9; --muted:#96a59b; --line:#2a352e;
+    --accent:#5fcf94; --accent-ink:#0f1411;
+    --pro:#5fcf94; --carb:#f0b44a; --fat:#b29cf5;
+    --pro-soft:#18382a; --warn:#ff8a66;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;font-size:15px;line-height:1.45;padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+[hidden]{display:none!important}
+.wrap{max-width:760px;margin:0 auto;padding-inline:16px;padding-block:18px 40px;display:flex;flex-direction:column;gap:16px}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+h1,h2,h3{font-family:"Bricolage Grotesque","IBM Plex Sans",system-ui,sans-serif;margin:0;text-wrap:balance}
+button{font:inherit;color:inherit}
+button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+a{color:var(--accent)}
+
+.top{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.brand{font-size:24px;font-weight:800;letter-spacing:-.02em}
+.brand small{display:block;font-family:"IBM Plex Sans",sans-serif;font-size:12px;font-weight:500;color:var(--muted);letter-spacing:0}
+.datenav{display:flex;align-items:center;gap:6px}
+.iconbtn{border:1px solid var(--line);background:var(--surface);border-radius:10px;width:38px;height:38px;cursor:pointer;font-size:18px;line-height:1}
+.datelabel{min-width:140px;text-align:center;font-weight:600}
+.datelabel small{display:block;font-weight:400;color:var(--muted);font-size:12px}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:16px}
+.summary{display:grid;grid-template-columns:auto 1fr;gap:18px;align-items:center}
+@media (max-width:520px){.summary{grid-template-columns:1fr}}
+.kcal .big{font-family:"Bricolage Grotesque",sans-serif;font-size:40px;font-weight:800;letter-spacing:-.02em;line-height:1}
+.kcal .of{color:var(--muted);font-size:14px}
+.kcal .left{margin-top:6px;font-weight:600}
+.kcal .left.over{color:var(--warn)}
+.bars{display:flex;flex-direction:column;gap:10px}
+.bar .lab{display:flex;justify-content:space-between;gap:8px;font-size:13px;margin-bottom:4px}
+.bar .lab span{color:var(--muted)}
+.track{height:10px;border-radius:6px;background:var(--sunk);overflow:hidden}
+.fill{height:100%;border-radius:6px;transition:width .3s}
+
+.tabs{display:flex;gap:4px;background:var(--sunk);padding:4px;border-radius:12px;position:sticky;top:env(safe-area-inset-top,0);z-index:5}
+.tab{flex:1;border:0;background:transparent;border-radius:9px;padding:9px 0;font-weight:600;cursor:pointer;color:var(--muted)}
+.tab[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.panel{display:flex;flex-direction:column;gap:12px}
+
+.chips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 12px;white-space:nowrap;cursor:pointer;font-size:14px;font-weight:500}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip.small{padding:4px 10px;font-size:13px}
+.row2{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.toggle{display:flex;gap:6px;align-items:center;font-size:13px;color:var(--muted);cursor:pointer}
+.search{font:inherit;width:100%;padding:10px 12px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+.station h3{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-family:"IBM Plex Sans",sans-serif;font-weight:600;padding:12px 2px 6px}
+.list{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.item{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;padding:10px 12px;border-top:1px solid var(--line)}
+.list .item:first-child{border-top:0}
+.iname{font-weight:500}
+.imeta{font-size:12.5px;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:2px}
+.m-p{color:var(--pro);font-weight:600}.m-c{color:var(--carb);font-weight:600}.m-f{color:var(--fat);font-weight:600}
+.tag{font-size:11px;font-weight:600;padding:1px 7px;border-radius:5px;background:var(--sunk);color:var(--muted)}
+.tag.hp{background:var(--pro-soft);color:var(--pro)}
+.nodata{font-size:11.5px;color:var(--warn)}
+.add{border:0;background:var(--accent);color:var(--accent-ink);border-radius:10px;min-width:42px;height:38px;padding:0 10px;font-weight:700;cursor:pointer;font-size:15px}
+.add.has{background:var(--pro-soft);color:var(--pro)}
+.empty{padding:22px 16px;text-align:center;color:var(--muted)}
+.empty b{color:var(--ink);display:block;margin-bottom:4px}
+
+.form{display:grid;grid-template-columns:2fr repeat(4,1fr);gap:8px;align-items:end}
+@media (max-width:560px){.form{grid-template-columns:repeat(4,1fr)}.form .wide{grid-column:1/-1}}
+.tgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;align-items:end}
+.tgrid .full{grid-column:1/-1}
+.field input[type=date]{min-height:40px}
+.field{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted)}
+.field input{font:inherit;font-size:16px;color:var(--ink);background:var(--sunk);border:1px solid var(--line);border-radius:9px;padding:8px 10px;width:100%;min-width:0}
+.primary{border:0;background:var(--accent);color:var(--accent-ink);border-radius:10px;padding:10px 14px;font-weight:600;cursor:pointer}
+.ghost{border:1px solid var(--line);background:transparent;border-radius:10px;padding:9px 12px;cursor:pointer;font-weight:500}
+.btnrow{display:flex;gap:8px;flex-wrap:wrap}
+
+.logmeal h3{font-size:15px;padding:4px 2px 8px;display:flex;justify-content:space-between}
+.logmeal h3 span{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--muted);font-weight:500}
+.qty{display:flex;align-items:center;gap:4px}
+.qty button{border:1px solid var(--line);background:var(--sunk);border-radius:8px;width:32px;height:32px;cursor:pointer}
+.qty .n{min-width:36px;text-align:center;font-size:14px}
+.del{border:0;background:transparent;color:var(--muted);cursor:pointer;font-size:13px;padding:4px 6px}
+
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 14px}
+.stat .k{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.stat .v{font-family:"Bricolage Grotesque",sans-serif;font-size:24px;font-weight:600}
+.stat .s{font-size:12.5px;color:var(--muted)}
+.chartbox{overflow-x:auto}
+svg text{fill:var(--muted);font-size:11px;font-family:"IBM Plex Sans",sans-serif}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:right;padding:8px 6px;border-top:1px solid var(--line);font-variant-numeric:tabular-nums}
+th:first-child,td:first-child{text-align:left}
+th{color:var(--muted);font-weight:500;font-size:12px;border-top:0}
+.note{font-size:13px;color:var(--muted);margin:0}
+footer{font-size:12.5px;color:var(--muted);line-height:1.55;border-top:1px solid var(--line);padding-top:14px}
+footer p{margin:0 0 6px}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(18px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:9px 14px;border-radius:10px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:10}
+.toast.on{opacity:1}
+@media (prefers-reduced-motion: reduce){.fill,.toast{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">BruinMacros<small>Dining hall menus with macros</small></div>
+    <div class="datenav">
+      <button class="iconbtn" id="prev" aria-label="Previous day">‹</button>
+      <div class="datelabel" id="datelabel"></div>
+      <button class="iconbtn" id="next" aria-label="Next day">›</button>
+    </div>
+  </header>
+
+  <section class="card summary" aria-label="Totals for this day">
+    <div class="kcal">
+      <div class="big mono" id="kcal">0</div>
+      <div class="of" id="kcalof"></div>
+      <div class="left" id="kcalleft"></div>
+    </div>
+    <div class="bars" id="bars"></div>
+  </section>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" aria-selected="true" data-tab="menu">Menu</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="log">My day</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="prog">Progress</button>
+  </div>
+
+  <section class="panel" id="p-menu"></section>
+  <section class="panel" id="p-log" hidden></section>
+  <section class="panel" id="p-prog" hidden></section>
+
+  <footer>
+    <p><b>Unofficial student project. Not affiliated with or endorsed by UCLA or UCLA Dining.</b></p>
+    <p>Menus and nutrition come from <a href="https://dining.ucla.edu/" rel="noopener">UCLA Dining's website</a> and refresh hourly. Numbers can be off or change, so check allergens with dining staff.</p>
+    <p>Your log stays in this browser on this device. Nothing is sent anywhere. Use Back up in Progress to move it to another device.</p>
+  </footer>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+/* ---------- helpers ---------- */
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const r0=n=>Math.round(n), r1=n=>Math.round(n*10)/10, fmtN=n=>r0(n).toLocaleString();
+function ymd(d){return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")}
+function parseYmd(s){const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)}
+function addDays(s,n){const d=parseYmd(s);d.setDate(d.getDate()+n);return ymd(d)}
+function toast(t){const el=$("toast");el.textContent=t;el.classList.add("on");clearTimeout(toast.t);toast.t=setTimeout(()=>el.classList.remove("on"),1600)}
+
+/* ---------- storage (this device only) ---------- */
+const KEY="bruinmacros:v1";
+const DEFAULT_TARGETS={cal:2000,p:150,c:200,f:65,startWeight:null,goalWeight:null,startDate:null,goalDate:null};
+function load(){try{const s=JSON.parse(localStorage.getItem(KEY)||"null");if(s&&typeof s==="object")return s}catch(e){}return {targets:null,days:{}}}
+let store=load();
+let saveOk=true;
+function persist(){try{localStorage.setItem(KEY,JSON.stringify(store));saveOk=true}catch(e){if(saveOk)toast("This browser isn't saving. Private mode?");saveOk=false}}
+const targets=()=>({...DEFAULT_TARGETS,...(store.targets||{})});
+
+/* ---------- state ---------- */
+const S={date:ymd(new Date()),tab:"menu",menu:null,menuState:"loading",loc:null,meal:null,sortProtein:false,diet:null,q:""};
+function day(d=S.date){return store.days[d]||{entries:[],weight:null}}
+function totals(d=S.date){return day(d).entries.reduce((a,e)=>{const q=e.qty||1;a.cal+=e.cal*q;a.p+=e.p*q;a.c+=e.c*q;a.f+=e.f*q;return a},{cal:0,p:0,c:0,f:0})}
+function defaultMeal(names){
+  const now=new Date(),h=now.getHours()+now.getMinutes()/60;
+  const pref=h<10.5?["Breakfast","Brunch"]:h<16?["Lunch","Brunch"]:h<21?["Dinner"]:["Late Night","Extended Dinner","Dinner"];
+  for(const p of pref){const m=names.find(n=>n===p);if(m)return m}
+  return names[0];
+}
+
+/* ---------- menus (static files, refreshed by the hourly job) ---------- */
+let menuReq=0;
+async function loadMenu(quiet){
+  const want=S.date, id=++menuReq;
+  if(!quiet){S.menuState="loading";render()}
+  try{
+    const r=await fetch(`data/menus/${want}.json`,{cache:"no-cache"});
+    if(id!==menuReq)return;
+    if(r.status===404){S.menu=null;S.menuState="none";render();return}
+    if(!r.ok)throw new Error(r.status);
+    S.menu=await r.json();S.menuState="ok";
+  }catch(e){if(id!==menuReq)return;if(!S.menu){S.menuState="error"}}
+  const locs=(S.menu?.locations||[]).map(l=>l.name);
+  if(!locs.includes(S.loc))S.loc=locs[0]||null;
+  const L=(S.menu?.locations||[]).find(l=>l.name===S.loc);
+  const meals=(L?.meals||[]).map(m=>m.name);
+  if(!meals.includes(S.meal))S.meal=meals.length?defaultMeal(meals):null;
+  render();
+}
+setInterval(()=>{if(!document.hidden)loadMenu(true)},15*60*1000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden){const t=ymd(new Date());const rolled=t!==S.lastToday&&S.date===S.lastToday;if(rolled)S.date=t;S.lastToday=t;loadMenu(!rolled)}});
+
+/* ---------- actions ---------- */
+function setDay(d,body){store.days[d]=body;persist();render()}
+function addEntry(item,meal){
+  const d=day(), entries=[...d.entries];
+  const ex=item.id&&entries.find(e=>e.id===item.id&&e.meal===meal);
+  if(ex)ex.qty=r1((ex.qty||1)+1);
+  else entries.push({id:item.id||null,name:item.name,serving:item.serving||"",cal:+item.cal||0,p:+item.p||0,c:+item.c||0,f:+item.f||0,qty:1,meal,at:Date.now()});
+  setDay(S.date,{...d,entries});toast("Added "+item.name);
+}
+function setQty(i,q){const d=day(),entries=[...d.entries];if(q<=0)entries.splice(i,1);else entries[i]={...entries[i],qty:r1(q)};setDay(S.date,{...d,entries})}
+
+/* ---------- render ---------- */
+function render(){
+  const today=ymd(new Date()), dt=parseYmd(S.date);
+  const rel=S.date===today?"Today":S.date===addDays(today,-1)?"Yesterday":S.date===addDays(today,1)?"Tomorrow":dt.toLocaleDateString([],{weekday:"long"});
+  $("datelabel").innerHTML=`${rel}<small>${dt.toLocaleDateString([],{weekday:"short",month:"short",day:"numeric"})}</small>`;
+  const T=targets(), t=totals();
+  $("kcal").textContent=fmtN(t.cal);
+  $("kcalof").textContent=`of ${fmtN(T.cal)} kcal`;
+  const left=T.cal-t.cal;
+  $("kcalleft").className="left"+(left<0?" over":"");
+  $("kcalleft").textContent=left>=0?`${fmtN(left)} kcal left`:`${fmtN(-left)} kcal over`;
+  const bar=(lab,v,tg,col)=>`<div class="bar"><div class="lab"><b>${lab}</b><span class="mono">${r0(v)} / ${tg} g · ${tg-v>=0?r0(tg-v)+" left":r0(v-tg)+" over"}</span></div><div class="track"><div class="fill" style="width:${Math.min(100,v/tg*100)}%;background:${col}"></div></div></div>`;
+  $("bars").innerHTML=bar("Protein",t.p,T.p,"var(--pro)")+bar("Carbs",t.c,T.c,"var(--carb)")+bar("Fat",t.f,T.f,"var(--fat)");
+  document.querySelectorAll(".tab").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===S.tab)));
+  $("p-menu").hidden=S.tab!=="menu";$("p-log").hidden=S.tab!=="log";$("p-prog").hidden=S.tab!=="prog";
+  if(S.tab==="menu")renderMenu();else if(S.tab==="log")renderLog();else renderProg();
+}
+
+function itemMeta(it){
+  if(it.nodata)return `<span class="nodata">No nutrition info posted. Add it by hand below.</span>`;
+  const hp=it.cal>0&&it.p*4/it.cal>=0.3&&it.p>=10;
+  const diet=(it.tags||[]).filter(t=>/^(vegan|vegetarian|halal)$/i.test(t));
+  return `<span class="mono">${r0(it.cal)} kcal</span><span class="m-p">${r1(it.p)}P</span><span class="m-c">${r1(it.c)}C</span><span class="m-f">${r1(it.f)}F</span>${it.serving?`<span>${esc(it.serving)}</span>`:""}${hp?`<span class="tag hp">High protein</span>`:""}${diet.map(d=>`<span class="tag">${esc(d)}</span>`).join("")}`;
+}
+function customForm(){
+  return `<div class="card"><h3 style="font-size:16px;margin-bottom:4px">Add something else</h3>
+  <p class="note" style="margin-bottom:10px">A snack, or an item without posted numbers. Tap an item on the dining hall's website to see its label.</p>
+  <form id="cform" class="form">
+    <label class="field wide">Food<input id="c-name" required placeholder="e.g. Protein bar"></label>
+    <label class="field">kcal<input id="c-cal" type="number" inputmode="decimal" min="0" step="any" required></label>
+    <label class="field">Protein g<input id="c-p" type="number" inputmode="decimal" min="0" step="any" value="0"></label>
+    <label class="field">Carbs g<input id="c-c" type="number" inputmode="decimal" min="0" step="any" value="0"></label>
+    <label class="field">Fat g<input id="c-f" type="number" inputmode="decimal" min="0" step="any" value="0"></label>
+    <button class="primary" type="submit" style="grid-column:1/-1">Add to ${esc(S.meal||"my day")}</button>
+  </form></div>`;
+}
+function bindCustom(){
+  const f=$("cform");if(!f)return;
+  f.onsubmit=e=>{e.preventDefault();addEntry({name:$("c-name").value.trim(),cal:+$("c-cal").value,p:+$("c-p").value,c:+$("c-c").value,f:+$("c-f").value},S.meal||"Snack");f.reset()};
+}
+function renderMenu(){
+  const P=$("p-menu");
+  if(S.menuState==="loading"&&!S.menu){P.innerHTML=`<div class="card empty">Loading the menu…</div>`;return}
+  const locs=S.menu?.locations||[];
+  if(!locs.length){
+    const why=S.menuState==="error"?"<b>Couldn't load the menu</b>Check your connection and try again.":
+      S.date>ymd(new Date())?"<b>This day's menu isn't posted yet</b>Menus usually appear a day ahead.":
+      "<b>No menu for this day</b>Menus are kept for two weeks.";
+    P.innerHTML=`<div class="card empty">${why}</div>`+customForm();bindCustom();return;
+  }
+  const L=locs.find(l=>l.name===S.loc)||locs[0];
+  const meals=L.meals||[];
+  const M=meals.find(m=>m.name===S.meal)||meals[0];
+  const counts={};day().entries.forEach(e=>{if(e.id&&e.meal===M?.name)counts[e.id]=(counts[e.id]||0)+(e.qty||1)});
+  const q=S.q.trim().toLowerCase();
+  const keep=it=>(!q||it.name.toLowerCase().includes(q))&&(!S.diet||(it.tags||[]).some(t=>t.toLowerCase()===S.diet.toLowerCase()));
+  const row=it=>`<div class="item"><div><div class="iname">${esc(it.name)}</div><div class="imeta">${itemMeta(it)}</div></div>
+     <button class="add${counts[it.id]?" has":""}" data-add="${esc(it.id)}" aria-label="Add ${esc(it.name)}">${counts[it.id]?"✓ "+counts[it.id]:"+"}</button></div>`;
+  const all=[];(M?.stations||[]).forEach(s=>s.items.forEach(it=>all.push(it)));
+  let body;
+  if(S.sortProtein){
+    const ranked=all.filter(it=>!it.nodata&&it.cal>0&&keep(it)).sort((a,b)=>(b.p/b.cal)-(a.p/a.cal));
+    body=ranked.length?`<div class="list">${ranked.map(row).join("")}</div>`:"";
+  }else{
+    body=(M?.stations||[]).map(s=>{const its=s.items.filter(keep);return its.length?`<div class="station"><h3>${esc(s.name)}</h3><div class="list">${its.map(row).join("")}</div></div>`:""}).join("");
+  }
+  const upd=S.menu.updated?new Date(S.menu.updated).toLocaleString([],{weekday:"short",hour:"numeric",minute:"2-digit"}):"";
+  P.innerHTML=`
+    <div class="chips" role="group" aria-label="Dining location">${locs.map(l=>`<button class="chip" aria-pressed="${l.name===L.name}" data-loc="${esc(l.name)}">${esc(l.name)}</button>`).join("")}</div>
+    <div class="chips" role="group" aria-label="Meal">${meals.map(m=>`<button class="chip" aria-pressed="${m.name===M?.name}" data-meal="${esc(m.name)}">${esc(m.name)}</button>`).join("")}</div>
+    <input class="search" id="q" type="search" placeholder="Search this meal" value="${esc(S.q)}" aria-label="Search this meal">
+    <div class="row2">
+      <div class="chips" role="group" aria-label="Diet filter">${["Vegetarian","Vegan","Halal"].map(d=>`<button class="chip small" aria-pressed="${S.diet===d}" data-diet="${d}">${d}</button>`).join("")}</div>
+      <label class="toggle"><input type="checkbox" id="sortp" ${S.sortProtein?"checked":""}> Best protein per calorie first</label>
+    </div>
+    <div>${body||`<div class="card empty">Nothing matches.</div>`}</div>
+    <p class="note">Numbers are per serving as posted. Tap + again for another serving; use My day for half servings.${upd?` Menu checked ${upd}.`:""} <a href="${esc(L.url||"https://dining.ucla.edu/")}" rel="noopener">See ${esc(L.name)} on UCLA Dining</a></p>
+    ${customForm()}`;
+  const byId={};all.forEach(it=>byId[it.id]=it);
+  P.querySelectorAll("[data-add]").forEach(b=>b.onclick=()=>{const it=byId[b.dataset.add];if(it)addEntry(it,M.name)});
+  P.querySelectorAll("[data-loc]").forEach(b=>b.onclick=()=>{S.loc=b.dataset.loc;const L2=locs.find(l=>l.name===S.loc);S.meal=defaultMeal((L2.meals||[]).map(m=>m.name));render()});
+  P.querySelectorAll("[data-meal]").forEach(b=>b.onclick=()=>{S.meal=b.dataset.meal;render()});
+  P.querySelectorAll("[data-diet]").forEach(b=>b.onclick=()=>{S.diet=S.diet===b.dataset.diet?null:b.dataset.diet;render()});
+  $("sortp").onchange=e=>{S.sortProtein=e.target.checked;render()};
+  $("q").oninput=e=>{S.q=e.target.value;clearTimeout(S.qt);S.qt=setTimeout(()=>{const pos=e.target.selectionStart;render();const n=$("q");n.focus();n.setSelectionRange(pos,pos)},200)};
+  bindCustom();
+}
+
+function renderLog(){
+  const P=$("p-log"), d=day();
+  const groups={};d.entries.forEach((e,i)=>{(groups[e.meal||"Other"]=groups[e.meal||"Other"]||[]).push([e,i])});
+  const order=["Breakfast","Brunch","Lunch","Dinner","Extended Dinner","Late Night","All Day","Snack","Other"];
+  const rank=k=>{const i=order.indexOf(k);return i<0?99:i};
+  const meals=Object.keys(groups).sort((a,b)=>rank(a)-rank(b)).map(k=>{
+    const sum=groups[k].reduce((a,[e])=>a+e.cal*(e.qty||1),0);
+    return `<div class="logmeal"><h3>${esc(k)}<span>${fmtN(sum)} kcal</span></h3><div class="list">${groups[k].map(([e,i])=>`
+      <div class="item"><div><div class="iname">${esc(e.name)}</div><div class="imeta"><span class="mono">${fmtN(e.cal*(e.qty||1))} kcal</span><span class="m-p">${r1(e.p*(e.qty||1))}P</span><span class="m-c">${r1(e.c*(e.qty||1))}C</span><span class="m-f">${r1(e.f*(e.qty||1))}F</span></div></div>
+      <div class="qty"><button data-q="${i}" data-d="-0.5" aria-label="Half serving less">−</button><span class="n mono">${e.qty||1}×</span><button data-q="${i}" data-d="0.5" aria-label="Half serving more">+</button><button class="del" data-del="${i}">Remove</button></div></div>`).join("")}</div></div>`}).join("");
+  P.innerHTML=`
+    <div class="card"><form class="btnrow" id="wform" style="align-items:end">
+      <label class="field" style="width:150px">Morning weight (kg)<input id="w" type="number" inputmode="decimal" step="0.1" min="30" max="250" value="${d.weight??""}"></label>
+      <button class="primary" type="submit">Save weight</button>
+    </form><p class="note" style="margin-top:8px">Weigh in after waking up, before eating. Progress uses the weekly average.</p></div>
+    ${meals||`<div class="card empty"><b>Nothing logged yet</b>Pick what you ate from the Menu tab.</div>`}`;
+  P.querySelectorAll("[data-q]").forEach(b=>b.onclick=()=>{const i=+b.dataset.q;setQty(i,(d.entries[i].qty||1)+ +b.dataset.d)});
+  P.querySelectorAll("[data-del]").forEach(b=>b.onclick=()=>setQty(+b.dataset.del,0));
+  $("wform").onsubmit=e=>{e.preventDefault();const v=parseFloat($("w").value);setDay(S.date,{...day(),weight:isFinite(v)?v:null});toast(isFinite(v)?"Weight saved":"Weight cleared")};
+}
+
+function renderProg(){
+  const P=$("p-prog"), T=targets(), today=ymd(new Date());
+  const dates=Object.keys(store.days).sort();
+  const weights=dates.filter(d=>store.days[d].weight).map(d=>({d,w:+store.days[d].weight}));
+  const avg7=d=>{const xs=weights.filter(x=>x.d<=d&&x.d>addDays(d,-7)).map(x=>x.w);return xs.length?xs.reduce((a,b)=>a+b)/xs.length:null};
+  const latestAvg=weights.length?avg7(weights[weights.length-1].d):null;
+  const logged=dates.filter(d=>store.days[d].entries?.length);
+  const avgOf=(ds,k)=>ds.length?ds.reduce((a,d)=>a+totals(d)[k],0)/ds.length:null;
+  const last7=logged.filter(d=>d>addDays(today,-7)&&d<=today);
+  const a7cal=avgOf(last7,"cal"), a7p=avgOf(last7,"p");
+  let tdee=null;
+  const span=logged.filter(d=>d>addDays(today,-21));
+  if(span.length>=14&&weights.length>=6){
+    const first=span[0],last=span[span.length-1],w0=avg7(addDays(first,6)),w1=avg7(last),n=(parseYmd(last)-parseYmd(first))/864e5+1;
+    if(w0&&w1&&n>=14)tdee=avgOf(span,"cal")-((w1-w0)*7700)/n;
+  }
+  const hasPlan=T.startWeight&&T.goalWeight&&T.startDate&&T.goalDate;
+  let planToday=null;
+  if(hasPlan){const s=parseYmd(T.startDate),g=parseYmd(T.goalDate),el=Math.max(0,(parseYmd(today)-s)/864e5);planToday=T.startWeight-(T.startWeight-T.goalWeight)*Math.min(1,el/((g-s)/864e5))}
+  const firstDay=dates[0]||today, weeks=[];
+  for(let ws=firstDay;ws<=today;ws=addDays(ws,7)){
+    const we=addDays(ws,6),ds=dates.filter(d=>d>=ws&&d<=we),food=ds.filter(d=>store.days[d].entries?.length),ww=ds.map(d=>store.days[d].weight).filter(Boolean).map(Number);
+    weeks.push({ws,n:food.length,cal:avgOf(food,"cal"),p:avgOf(food,"p"),w:ww.length?ww.reduce((a,b)=>a+b)/ww.length:null});
+  }
+  weeks.forEach((w,i)=>{w.chg=(i&&w.w&&weeks[i-1].w)?w.w-weeks[i-1].w:null});
+  const lastWk=[...weeks].reverse().find(w=>w.chg!=null);
+  let verdict="Log your weight most mornings. After two weeks you'll get a clear call here.";
+  if(lastWk){const c=-lastWk.chg,rate=latestAvg?c/latestAvg*100:0;
+    verdict=c<-0.3?`You gained ${r1(-c)} kg last week. If you're cutting, trim about 150–200 kcal a day.`:
+      rate>1.2?`You lost ${r1(c)} kg last week, which is fast enough to risk muscle. Consider adding 150–200 kcal a day.`:
+      c<0.3?`Your weight held about steady last week (${c>=0?"-":"+"}${r1(Math.abs(c))} kg).`:
+      `You lost ${r1(c)} kg last week. That's a steady pace.`}
+  P.innerHTML=`
+    <div class="stats">
+      <div class="stat"><div class="k">7-day avg weight</div><div class="v mono">${latestAvg?r1(latestAvg)+" kg":"—"}</div><div class="s">${planToday?"Plan for today: "+r1(planToday)+" kg":"Set a goal below to see a plan"}</div></div>
+      <div class="stat"><div class="k">Avg intake, 7 days</div><div class="v mono">${a7cal?fmtN(a7cal):"—"}</div><div class="s">${a7p?r0(a7p)+" g protein a day":"kcal a day"}</div></div>
+      <div class="stat"><div class="k">Est. maintenance</div><div class="v mono">${tdee?fmtN(tdee):"—"}</div><div class="s">${tdee?"From your own logs":"Needs 2 weeks of logs"}</div></div>
+    </div>
+    <div class="card"><h3 style="font-size:17px;margin-bottom:6px">This week</h3><p style="margin:0">${verdict}</p></div>
+    <div class="card"><h3 style="font-size:17px;margin-bottom:8px">Weight trend</h3><div class="chartbox">${chart(weights,avg7,T,hasPlan)}</div>
+      <p class="note" style="margin-top:8px">Dots are weigh-ins, the solid line is your 7-day average${hasPlan?", the dashed line is your plan":""}.</p></div>
+    <div class="card"><h3 style="font-size:17px;margin-bottom:6px">By week</h3><div style="overflow-x:auto"><table>
+      <tr><th>Week of</th><th>Days logged</th><th>Avg kcal</th><th>Avg protein</th><th>Avg weight</th><th>Change</th></tr>
+      ${weeks.map(w=>`<tr><td>${parseYmd(w.ws).toLocaleDateString([],{month:"short",day:"numeric"})}</td><td>${w.n}</td><td>${w.cal?fmtN(w.cal):"—"}</td><td>${w.p?r0(w.p)+" g":"—"}</td><td>${w.w?r1(w.w)+" kg":"—"}</td><td>${w.chg!=null?(w.chg>0?"+":"")+r1(w.chg)+" kg":"—"}</td></tr>`).join("")}
+    </table></div></div>
+    <div class="card"><h3 style="font-size:17px;margin-bottom:4px">Your targets</h3>
+      <p class="note" style="margin-bottom:10px">${store.targets?"":"These are placeholders. Set your own daily targets. "}Goal weight and dates are optional and draw a plan line on the chart.</p>
+      <form id="tform" class="tgrid">
+        <label class="field">kcal<input id="t-cal" type="number" inputmode="numeric" value="${T.cal}" required></label>
+        <label class="field">Protein g<input id="t-p" type="number" inputmode="numeric" value="${T.p}" required></label>
+        <label class="field">Carbs g<input id="t-c" type="number" inputmode="numeric" value="${T.c}" required></label>
+        <label class="field">Fat g<input id="t-f" type="number" inputmode="numeric" value="${T.f}" required></label>
+        <label class="field">Start kg<input id="t-sw" type="number" step="0.1" value="${T.startWeight??""}"></label>
+        <label class="field">Goal kg<input id="t-gw" type="number" step="0.1" value="${T.goalWeight??""}"></label>
+        <label class="field">Start date<input id="t-sd" type="date" value="${T.startDate??""}"></label>
+        <label class="field">Goal date<input id="t-gd" type="date" value="${T.goalDate??""}"></label>
+        <button class="primary full" type="submit">Save targets</button>
+      </form></div>
+    <div class="card"><h3 style="font-size:17px;margin-bottom:4px">Back up or move your log</h3>
+      <p class="note" style="margin-bottom:10px">Your log lives only in this browser. Save a backup file, then load it on another device or after clearing your browser.</p>
+      <div class="btnrow"><button class="ghost" id="exp">Save backup file</button><label class="ghost" style="cursor:pointer">Load backup file<input id="imp" type="file" accept="application/json,.json" hidden></label></div></div>`;
+  const num=id=>{const v=parseFloat($(id).value);return isFinite(v)?v:null};
+  $("tform").onsubmit=e=>{e.preventDefault();store.targets={cal:num("t-cal"),p:num("t-p"),c:num("t-c"),f:num("t-f"),startWeight:num("t-sw"),goalWeight:num("t-gw"),startDate:$("t-sd").value||null,goalDate:$("t-gd").value||null};persist();render();toast("Targets saved")};
+  $("exp").onclick=()=>{const blob=new Blob([JSON.stringify(store,null,1)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`bruinmacros-backup-${today}.json`;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},500)};
+  $("imp").onchange=async e=>{const f=e.target.files[0];if(!f)return;try{const s=JSON.parse(await f.text());if(!s||typeof s.days!=="object")throw 0;
+    const merged={targets:s.targets||store.targets,days:{...store.days,...s.days}};store=merged;persist();render();toast(`Loaded ${Object.keys(s.days).length} days`)}catch(err){toast("That file isn't a BruinMacros backup")}};
+}
+function chart(weights,avg7,T,hasPlan){
+  const W=680,H=240,pl=40,pr=12,pt=12,pb=26;
+  if(!weights.length&&!hasPlan)return `<p class="empty" style="margin:0">Your weigh-ins will show up here.</p>`;
+  const ds=weights.map(x=>parseYmd(x.d));
+  const d0=new Date(Math.min(...ds,...(hasPlan?[parseYmd(T.startDate)]:[]))), d1=new Date(Math.max(...ds,...(hasPlan?[parseYmd(T.goalDate)]:[]),+d0+7*864e5));
+  const ws=weights.map(x=>x.w).concat(hasPlan?[T.startWeight,T.goalWeight]:[]);
+  const lo=Math.floor(Math.min(...ws)-1),hi=Math.ceil(Math.max(...ws)+1);
+  const X=d=>pl+(d-d0)/(d1-d0)*(W-pl-pr),Y=w=>pt+(hi-w)/(hi-lo)*(H-pt-pb);
+  const step=Math.max(1,Math.ceil((hi-lo)/6));
+  let g="";
+  for(let w=lo;w<=hi;w+=step){g+=`<line x1="${pl}" x2="${W-pr}" y1="${Y(w)}" y2="${Y(w)}" stroke="var(--line)"/><text x="${pl-6}" y="${Y(w)+4}" text-anchor="end">${w}</text>`}
+  const span=(d1-d0)/864e5, tick=span>60?28:span>20?7:2;
+  for(let d=new Date(d0);d<=d1;d.setDate(d.getDate()+tick))g+=`<text x="${X(d)}" y="${H-6}" text-anchor="middle">${d.toLocaleDateString([],{month:"short",day:"numeric"})}</text>`;
+  if(hasPlan)g+=`<line x1="${X(parseYmd(T.startDate))}" y1="${Y(T.startWeight)}" x2="${X(parseYmd(T.goalDate))}" y2="${Y(T.goalWeight)}" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="5 5"/>`;
+  g+=weights.map(x=>`<circle cx="${X(parseYmd(x.d))}" cy="${Y(x.w)}" r="3" fill="var(--carb)" opacity=".75"/>`).join("");
+  const pts=weights.map(x=>[X(parseYmd(x.d)),Y(avg7(x.d))]);
+  if(pts.length>1)g+=`<polyline points="${pts.map(p=>p.join(",")).join(" ")}" fill="none" stroke="var(--pro)" stroke-width="2.5"/>`;
+  if(pts.length)g+=`<circle cx="${pts.at(-1)[0]}" cy="${pts.at(-1)[1]}" r="5" fill="var(--pro)"/>`;
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%" style="min-width:520px" role="img" aria-label="Weight trend">${g}</svg>`;
+}
+
+/* ---------- events ---------- */
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{S.tab=b.dataset.tab;render()});
+$("prev").onclick=()=>{S.date=addDays(S.date,-1);S.q="";loadMenu()};
+$("next").onclick=()=>{S.date=addDays(S.date,1);S.q="";loadMenu()};
+S.lastToday=ymd(new Date());
+render();loadMenu();
+</script>
+</body>
+</html>
