@@ -121,6 +121,11 @@ th{color:var(--muted);font-weight:500;font-size:12px;border-top:0}
 .note{font-size:13px;color:var(--muted);margin:0}
 footer{font-size:12.5px;color:var(--muted);line-height:1.55;border-top:1px solid var(--line);padding-top:14px}
 footer p{margin:0 0 6px}
+.a2hs{display:flex;flex-direction:column;gap:8px;border-color:var(--accent);background:var(--pro-soft)}
+.a2hs b{font-size:15px}
+.a2hs p{margin:0;font-size:14px}
+.a2hs .note{color:var(--ink);opacity:.8}
+.a2hs svg{width:16px;height:16px;vertical-align:-3px;fill:none;stroke:currentColor;stroke-width:2}
 .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(18px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:9px 14px;border-radius:10px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:10}
 .toast.on{opacity:1}
 @media (prefers-reduced-motion: reduce){.fill,.toast{transition:none}}
@@ -136,6 +141,8 @@ footer p{margin:0 0 6px}
       <button class="iconbtn" id="next" aria-label="Next day">›</button>
     </div>
   </header>
+
+  <section class="card a2hs" id="a2hs" hidden aria-label="Add to Home Screen"></section>
 
   <section class="card summary" aria-label="Totals for this day">
     <div class="kcal">
@@ -231,6 +238,28 @@ async function checkVersion(){
 }
 checkVersion();setInterval(checkVersion,5*60*1000);
 document.addEventListener("visibilitychange",()=>{if(!document.hidden)checkVersion()});
+
+/* ---------- nudge phone users to add the site to their Home Screen ---------- */
+// On iPhone, Safari deletes a site's saved data after 7 days without a visit;
+// Home Screen web apps are exempt, so that's the safest place to keep a log.
+function setupA2HS(){
+  const ua=navigator.userAgent;
+  const ios=/iPhone|iPad|iPod/.test(ua)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
+  const android=/Android/.test(ua);
+  const installed=window.matchMedia("(display-mode: standalone)").matches||navigator.standalone===true;
+  let snoozed=0;try{snoozed=+localStorage.getItem("bruinmacros:a2hs")||0}catch(e){}
+  if(installed||!(ios||android)||Date.now()<snoozed)return;
+  const share='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M8 7l4-4 4 4M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg>';
+  const how=ios?`Tap Share ${share} at the bottom of Safari, then <b>Add to Home Screen</b>.`:`Tap the menu <b>⋮</b>, then <b>Add to Home screen</b> or <b>Install app</b>.`;
+  const why=ios?"Safari clears a website's saved data if you don't open it for 7 days. The Home Screen app keeps your log safe.":"It opens like an app and keeps your log in one place.";
+  const hasLog=Object.values(store.days||{}).some(d=>d.entries?.length||d.weight);
+  const el=$("a2hs");
+  el.innerHTML=`<b>Add BruinMacros to your Home Screen</b><p>${how}</p><p class="note">${why}${hasLog?" Already logged food here? Save a backup in Progress first, then load it in the Home Screen app, because the two don't share data.":""}</p>
+    <div class="btnrow"><button class="ghost" id="a2hs-later" type="button">Not now</button></div>`;
+  el.hidden=false;
+  $("a2hs-later").onclick=()=>{try{localStorage.setItem("bruinmacros:a2hs",String(Date.now()+3*864e5))}catch(e){}el.hidden=true};
+}
+setupA2HS();
 
 /* ---------- actions ---------- */
 function setDay(d,body){store.days[d]=body;persist();render()}
