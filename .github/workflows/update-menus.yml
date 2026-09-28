@@ -1,4 +1,7 @@
-name: Update menus and publish site
+
+
+env:
+  PYTHONUNBUFFERED: "1" # show scraper progress live in the logname: Update menus and publish site
 
 on:
   schedule:
@@ -18,6 +21,9 @@ permissions:
 defaults:
   run:
     working-directory: bruinmacros
+
+env:
+  PYTHONUNBUFFERED: "1" # show scraper progress live in the log
 
 concurrency:
   group: menus
