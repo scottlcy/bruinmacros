@@ -1,0 +1,90 @@
+name: Update menus and publish site
+
+on:
+  schedule:
+    # Every hour from about 6am to 10pm Los Angeles time (times here are UTC).
+    - cron: "17 13-23 * * *"
+    - cron: "17 0-5 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch: # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# The project files live in the bruinmacros/ folder of this repository.
+defaults:
+  run:
+    working-directory: bruinmacros
+
+concurrency:
+  group: menus
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: bruinmacros/scraper/requirements.txt
+
+      - name: Install
+        run: pip install -r scraper/requirements.txt
+
+      - name: Scrape today's and tomorrow's menus
+        # A push that only changes the site skips scraping to publish quickly.
+        if: github.event_name != 'push'
+        env:
+          CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
+        run: python scraper/scrape.py --debug
+
+      - name: Save new data to the repository
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "bruinmacros-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No menu changes."
+          else
+            git commit -m "Update menus $(TZ=America/Los_Angeles date '+%Y-%m-%d %H:%M')"
+            git pull --rebase --quiet
+            git push
+          fi
+
+      - name: Keep raw pages for troubleshooting (3 days)
+        if: github.event_name != 'push'
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-pages
+          path: bruinmacros/debug/
+          retention-days: 3
+          if-no-files-found: ignore
+
+      - name: Package the site
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp -r data _site/data
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: bruinmacros/_site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
