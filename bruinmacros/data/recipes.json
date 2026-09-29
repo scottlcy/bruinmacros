@@ -7,7 +7,7 @@
   "f": 4.25,
   "c": 14.5,
   "fetched": "2026-09-27",
-  "seen": "2026-09-27"
+  "seen": "2026-09-28"
  },
  "3042": {
   "name": "Al Pastor-Style Mushroom Taco",
@@ -378,7 +378,7 @@
   "f": 15.31,
   "c": 41.34,
   "fetched": "2026-09-27",
-  "seen": "2026-09-27"
+  "seen": "2026-09-28"
  },
  "4906": {
   "name": "Magic Bar",
@@ -3191,7 +3191,7 @@
   "p": 3.7,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-09-27"
+  "seen": "2026-09-28"
  },
  "5877": {
   "name": "Pumpkin Muffin",
@@ -10036,6 +10036,129 @@
   "f": 0.06,
   "c": 6.46,
   "p": 0.27,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "10046": {
+  "name": "Bacon",
+  "serving": "13.67oz",
+  "cal": 610.0,
+  "f": 59.04,
+  "c": 63.18,
+  "p": 40.25,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "10382": {
+  "name": "Chickpea Salad w/ Roasted Chilies",
+  "serving": "2.01oz",
+  "cal": 76.0,
+  "f": 3.76,
+  "c": 7.66,
+  "p": 2.78,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "10501": {
+  "name": "Speical K Berry",
+  "serving": "2.5oz",
+  "cal": 224.0,
+  "f": 0.74,
+  "c": 42.82,
+  "p": 19.36,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "10502": {
+  "name": "Froot Loops",
+  "serving": "2.5oz",
+  "cal": 218.0,
+  "f": 1.94,
+  "c": 50.54,
+  "p": 3.48,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "10503": {
+  "name": "Honey Nut Cherrios",
+  "serving": "2.5oz",
+  "cal": 220.0,
+  "f": 3.07,
+  "c": 46.63,
+  "p": 5.07,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "2077": {
+  "name": "Honey Huli Huli Rotisserie Chicken",
+  "serving": "2.93oz",
+  "cal": 139.0,
+  "f": 6.45,
+  "c": 10.6,
+  "p": 9.3,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "2183": {
+  "name": "Flank Steak w/ Harissa Dry Rub",
+  "serving": "2.4oz",
+  "cal": 130.0,
+  "f": 8.24,
+  "c": 1.55,
+  "p": 11.49,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "5368": {
+  "name": "Spanish Salmon",
+  "serving": "3.1oz",
+  "cal": 237.0,
+  "f": 18.52,
+  "c": 4.65,
+  "p": 15.01,
+  "tags": [],
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "5962": {
+  "name": "Mezze Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "6189": {
+  "name": "Soup Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-09-28",
+  "seen": "2026-09-28"
+ },
+ "7401": {
+  "name": "Cuban Black Beans",
+  "serving": "4oz",
+  "cal": 86.0,
+  "f": 1.76,
+  "c": 13.54,
+  "p": 3.91,
   "tags": [],
   "fetched": "2026-09-28",
   "seen": "2026-09-28"

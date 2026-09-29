@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "updated": "2026-09-28T20:10:16+00:00",
+ "updated": "2026-09-29T00:22:57+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -5317,6 +5317,16 @@
          "tags": []
         },
         {
+         "id": "10046",
+         "name": "Bacon",
+         "serving": "13.67oz",
+         "cal": 610.0,
+         "p": 40.25,
+         "c": 63.18,
+         "f": 59.04,
+         "tags": []
+        },
+        {
          "id": "10045",
          "name": "Buffalo Chicken Wrap",
          "serving": "12.67oz",
@@ -8796,6 +8806,41 @@
          "p": 5.1,
          "c": 43.94,
          "f": 28.65,
+         "tags": []
+        }
+       ]
+      },
+      {
+       "name": "CEREALS",
+       "items": [
+        {
+         "id": "10501",
+         "name": "Speical K Berry",
+         "serving": "2.5oz",
+         "cal": 224.0,
+         "p": 19.36,
+         "c": 42.82,
+         "f": 0.74,
+         "tags": []
+        },
+        {
+         "id": "10502",
+         "name": "Froot Loops",
+         "serving": "2.5oz",
+         "cal": 218.0,
+         "p": 3.48,
+         "c": 50.54,
+         "f": 1.94,
+         "tags": []
+        },
+        {
+         "id": "10503",
+         "name": "Honey Nut Cherrios",
+         "serving": "2.5oz",
+         "cal": 220.0,
+         "p": 5.07,
+         "c": 46.63,
+         "f": 3.07,
          "tags": []
         }
        ]

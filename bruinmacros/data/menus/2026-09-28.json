@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "updated": "2026-09-28T20:07:41+00:00",
+ "updated": "2026-09-29T00:22:32+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -489,6 +489,15 @@
          "c": 38.02,
          "f": 10.39,
          "tags": []
+        },
+        {
+         "id": "1698",
+         "name": "Pollo Asado Tacos",
+         "serving": "3.7oz",
+         "cal": 156,
+         "p": 14.01,
+         "c": 14.5,
+         "f": 4.25
         }
        ]
       },
@@ -770,6 +779,16 @@
          "f": 5.73
         },
         {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
          "id": "5612",
          "name": "Balsamic & Parmesan Broccoli Salad",
          "serving": "2oz",
@@ -902,7 +921,7 @@
        "items": [
         {
          "id": "9718",
-         "name": "Fish Mahi with Pickled Vegetables",
+         "name": "Seared Mahi Mahi with Spicy Fresno Pickled Vegetables",
          "serving": "6.44oz",
          "cal": 177.0,
          "p": 10.6,
@@ -1124,6 +1143,16 @@
          "c": 11.03,
          "f": 31.72,
          "tags": []
+        },
+        {
+         "id": "7401",
+         "name": "Cuban Black Beans",
+         "serving": "4oz",
+         "cal": 86.0,
+         "p": 3.91,
+         "c": 13.54,
+         "f": 1.76,
+         "tags": []
         }
        ]
       },
@@ -1234,6 +1263,43 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
@@ -1291,14 +1357,13 @@
          "tags": []
         },
         {
-         "id": "9958",
-         "name": "Blueberry Cobbler",
-         "serving": "5oz",
-         "cal": 379.0,
-         "p": 5.78,
-         "c": 58.89,
-         "f": 13.55,
-         "tags": []
+         "id": "4849",
+         "name": "Pumpkin Bake",
+         "serving": "5.05oz",
+         "cal": 316,
+         "p": 5.27,
+         "c": 41.34,
+         "f": 15.31
         },
         {
          "id": "9599",
@@ -1321,6 +1386,35 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "5601",
+         "name": "Fudge Brownie",
+         "serving": "2.2oz",
+         "cal": 229.0,
+         "p": 3.7,
+         "c": 28.69,
+         "f": 14.48,
+         "tags": []
+        },
+        {
+         "id": "10085",
+         "name": "Pumpkin Chai Tiramisu Cake",
+         "serving": "1.05oz",
+         "cal": 62,
+         "p": 1.65,
+         "c": 9.28,
+         "f": 3.55
+        },
+        {
+         "id": "3325",
+         "name": "Red Velvet Cake",
+         "serving": "3.21oz",
+         "cal": 500.0,
+         "p": 5.64,
+         "c": 51.07,
+         "f": 31.09,
+         "tags": []
         }
        ]
       }
@@ -2479,6 +2573,17 @@
          "c": 6.12,
          "f": 0.65,
          "tags": []
+        },
+        {
+         "id": "6189",
+         "name": "Soup Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3820,13 +3925,13 @@
        "name": "Alimenti",
        "items": [
         {
-         "id": "1935",
-         "name": "North African Spiced Pork w/ Oven Roasted Tomatoes & Fregola",
-         "serving": "7.86oz",
-         "cal": 322.0,
-         "p": 12.45,
-         "c": 43.18,
-         "f": 11.02,
+         "id": "2183",
+         "name": "Flank Steak w/ Harissa Dry Rub",
+         "serving": "2.4oz",
+         "cal": 130.0,
+         "p": 11.49,
+         "c": 1.55,
+         "f": 8.24,
          "tags": []
         },
         {
@@ -3901,13 +4006,22 @@
          "tags": []
         },
         {
-         "id": "5378",
-         "name": "Greek Honey Pistachio Cake",
-         "serving": "1.83oz",
-         "cal": 196.0,
-         "p": 3.37,
-         "c": 17.76,
-         "f": 12.48,
+         "id": "10085",
+         "name": "Pumpkin Chai Tiramisu Cake",
+         "serving": "1.05oz",
+         "cal": 62,
+         "p": 1.65,
+         "c": 9.28,
+         "f": 3.55
+        },
+        {
+         "id": "4114",
+         "name": "Chocolate Cream Mousse",
+         "serving": "4.07oz",
+         "cal": 413.0,
+         "p": 3.66,
+         "c": 17.16,
+         "f": 33.06,
          "tags": []
         },
         {
@@ -3934,6 +4048,27 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "5368",
+         "name": "Spanish Salmon",
+         "serving": "3.1oz",
+         "cal": 237.0,
+         "p": 15.01,
+         "c": 4.65,
+         "f": 18.52,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -4280,6 +4415,16 @@
          "p": 7.42,
          "c": 44.95,
          "f": 5.76
+        },
+        {
+         "id": "2077",
+         "name": "Honey Huli Huli Rotisserie Chicken",
+         "serving": "2.93oz",
+         "cal": 139.0,
+         "p": 9.3,
+         "c": 10.6,
+         "f": 6.45,
+         "tags": []
         }
        ]
       }
@@ -5404,6 +5549,16 @@
          "p": 40.18,
          "c": 41.47,
          "f": 32.64,
+         "tags": []
+        },
+        {
+         "id": "10046",
+         "name": "Bacon",
+         "serving": "13.67oz",
+         "cal": 610.0,
+         "p": 40.25,
+         "c": 63.18,
+         "f": 59.04,
          "tags": []
         },
         {
@@ -8884,6 +9039,41 @@
          "p": 5.1,
          "c": 43.94,
          "f": 28.65,
+         "tags": []
+        }
+       ]
+      },
+      {
+       "name": "CEREALS",
+       "items": [
+        {
+         "id": "10501",
+         "name": "Speical K Berry",
+         "serving": "2.5oz",
+         "cal": 224.0,
+         "p": 19.36,
+         "c": 42.82,
+         "f": 0.74,
+         "tags": []
+        },
+        {
+         "id": "10502",
+         "name": "Froot Loops",
+         "serving": "2.5oz",
+         "cal": 218.0,
+         "p": 3.48,
+         "c": 50.54,
+         "f": 1.94,
+         "tags": []
+        },
+        {
+         "id": "10503",
+         "name": "Honey Nut Cherrios",
+         "serving": "2.5oz",
+         "cal": 220.0,
+         "p": 5.07,
+         "c": 46.63,
+         "f": 3.07,
          "tags": []
         }
        ]
