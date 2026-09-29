@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "updated": "2026-09-29T18:39:13+00:00",
+ "updated": "2026-09-29T22:58:00+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1128,6 +1128,26 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49
+        },
+        {
+         "id": "6359",
+         "name": "Honey Roasted Chicken",
+         "serving": "4.45oz",
+         "cal": 300.0,
+         "p": 21.17,
+         "c": 4.91,
+         "f": 21.66,
+         "tags": []
+        },
+        {
+         "id": "2654",
+         "name": "Humita: Corn & Cheese Puree",
+         "serving": "3.78oz",
+         "cal": 174.0,
+         "p": 2.93,
+         "c": 13.39,
+         "f": 11.8,
+         "tags": []
         }
        ]
       },
@@ -1237,6 +1257,42 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168,
+         "p": 4.26,
+         "c": 17.17,
+         "f": 8.76
         }
        ]
       },
@@ -1324,6 +1380,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
         }
        ]
       }
@@ -2528,16 +2594,6 @@
          "tags": []
         },
         {
-         "id": "984",
-         "name": "Roasted Broccoli",
-         "serving": "3.21oz",
-         "cal": 79.0,
-         "p": 2.54,
-         "c": 4.39,
-         "f": 6.34,
-         "tags": []
-        },
-        {
          "id": "3328",
          "name": "Braised Red Cabbage",
          "serving": "2.07oz",
@@ -2545,6 +2601,16 @@
          "p": 0.69,
          "c": 7.89,
          "f": 0.87,
+         "tags": []
+        },
+        {
+         "id": "1468",
+         "name": "Roasted Vegetable Mix",
+         "serving": "3.4oz",
+         "cal": 31.0,
+         "p": 1.57,
+         "c": 5.16,
+         "f": 0.83,
          "tags": []
         }
        ]
@@ -3213,13 +3279,13 @@
          "tags": []
         },
         {
-         "id": "8659",
-         "name": "4 Cheese Baked Lasagna",
-         "serving": "5.96oz",
-         "cal": 392.0,
-         "p": 20.34,
-         "c": 33.58,
-         "f": 20.13,
+         "id": "7980",
+         "name": "Baked Rotini w/ Cheese",
+         "serving": "6.21oz",
+         "cal": 441.0,
+         "p": 14.56,
+         "c": 31.5,
+         "f": 27.09,
          "tags": []
         },
         {
@@ -3250,16 +3316,6 @@
          "c": 0,
          "f": 0,
          "nodata": true
-        },
-        {
-         "id": "6840",
-         "name": "Four Cheese Ziti",
-         "serving": "6.22oz",
-         "cal": 947.0,
-         "p": 16.18,
-         "c": 149.96,
-         "f": 24.47,
-         "tags": []
         }
        ]
       },
@@ -3295,13 +3351,14 @@
          "tags": []
         },
         {
-         "id": "10085",
-         "name": "Pumpkin Chai Tiramisu Cake",
-         "serving": "1.05oz",
-         "cal": 62,
-         "p": 1.65,
-         "c": 9.28,
-         "f": 3.55
+         "id": "5378",
+         "name": "Greek Honey Pistachio Cake",
+         "serving": "1.83oz",
+         "cal": 196.0,
+         "p": 3.37,
+         "c": 17.76,
+         "f": 12.48,
+         "tags": []
         },
         {
          "id": "4622",
@@ -3327,16 +3384,6 @@
       {
        "name": "Mezze",
        "items": [
-        {
-         "id": "2183",
-         "name": "Flank Steak w/ Harissa Dry Rub",
-         "serving": "2.4oz",
-         "cal": 130.0,
-         "p": 11.49,
-         "c": 1.55,
-         "f": 8.24,
-         "tags": []
-        },
         {
          "id": "7488",
          "name": "North African Style Honey Chicken",
@@ -3630,13 +3677,13 @@
          "tags": []
         },
         {
-         "id": "3670",
-         "name": "Roasted Kabocha Squash",
-         "serving": "3.63oz",
-         "cal": 36.0,
-         "p": 0.98,
-         "c": 8.81,
-         "f": 0.13,
+         "id": "1493",
+         "name": "Roasted Butternut Squash",
+         "serving": "3.1oz",
+         "cal": 46.0,
+         "p": 0.88,
+         "c": 10.19,
+         "f": 0.82,
          "tags": []
         },
         {
@@ -3807,6 +3854,16 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "nodata": true
+        },
         {
          "id": "5476",
          "name": "Focaccia",

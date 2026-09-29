@@ -632,7 +632,7 @@
   "c": 0,
   "nodata": true,
   "fetched": "2026-09-27",
-  "seen": "2026-09-27"
+  "seen": "2026-09-29"
  },
  "6379": {
   "name": "Bulgur Wheat",
@@ -8548,7 +8548,7 @@
   "p": 5.78,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-09-28"
+  "seen": "2026-09-29"
  },
  "9964": {
   "name": "Pre-Workout Protein Box",
@@ -11551,6 +11551,39 @@
   "f": 24.54,
   "c": 23.67,
   "p": 11.21,
+  "tags": [],
+  "fetched": "2026-09-29",
+  "seen": "2026-09-29"
+ },
+ "1468": {
+  "name": "Roasted Vegetable Mix",
+  "serving": "3.4oz",
+  "cal": 31.0,
+  "f": 0.83,
+  "c": 5.16,
+  "p": 1.57,
+  "tags": [],
+  "fetched": "2026-09-29",
+  "seen": "2026-09-29"
+ },
+ "1493": {
+  "name": "Roasted Butternut Squash",
+  "serving": "3.1oz",
+  "cal": 46.0,
+  "f": 0.82,
+  "c": 10.19,
+  "p": 0.88,
+  "tags": [],
+  "fetched": "2026-09-29",
+  "seen": "2026-09-29"
+ },
+ "7980": {
+  "name": "Baked Rotini w/ Cheese",
+  "serving": "6.21oz",
+  "cal": 441.0,
+  "f": 27.09,
+  "c": 31.5,
+  "p": 14.56,
   "tags": [],
   "fetched": "2026-09-29",
   "seen": "2026-09-29"
