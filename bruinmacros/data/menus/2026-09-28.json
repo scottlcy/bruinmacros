@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "updated": "2026-09-29T00:22:32+00:00",
+ "updated": "2026-09-29T05:45:49+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1135,23 +1135,22 @@
          "tags": []
         },
         {
-         "id": "116",
-         "name": "Broccoli Cheddar Soup",
-         "serving": "6oz",
-         "cal": 385.0,
-         "p": 8.57,
-         "c": 11.03,
-         "f": 31.72,
-         "tags": []
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         },
         {
-         "id": "7401",
-         "name": "Cuban Black Beans",
-         "serving": "4oz",
-         "cal": 86.0,
-         "p": 3.91,
-         "c": 13.54,
-         "f": 1.76,
+         "id": "6536",
+         "name": "Three Bean Portobello Chili",
+         "serving": "4.81oz",
+         "cal": 69.0,
+         "p": 2.66,
+         "c": 10.24,
+         "f": 2.29,
          "tags": []
         }
        ]
@@ -1317,36 +1316,6 @@
          "tags": []
         },
         {
-         "id": "4839",
-         "name": "White Chocolate Chip Cookie w/ Cranberries",
-         "serving": "1.29oz",
-         "cal": 157.0,
-         "p": 1.85,
-         "c": 20.97,
-         "f": 7.44,
-         "tags": []
-        },
-        {
-         "id": "228",
-         "name": "Dutch Apple Pie",
-         "serving": "4.4oz",
-         "cal": 323.0,
-         "p": 3.49,
-         "c": 47.09,
-         "f": 13.26,
-         "tags": []
-        },
-        {
-         "id": "3958",
-         "name": "Cranberry Crunch Bar",
-         "serving": "1.92oz",
-         "cal": 213.0,
-         "p": 2.8,
-         "c": 29.91,
-         "f": 9.39,
-         "tags": []
-        },
-        {
          "id": "4925",
          "name": "Oreo Mousse",
          "serving": "3.98oz",
@@ -1388,16 +1357,6 @@
          "nodata": true
         },
         {
-         "id": "5601",
-         "name": "Fudge Brownie",
-         "serving": "2.2oz",
-         "cal": 229.0,
-         "p": 3.7,
-         "c": 28.69,
-         "f": 14.48,
-         "tags": []
-        },
-        {
          "id": "10085",
          "name": "Pumpkin Chai Tiramisu Cake",
          "serving": "1.05oz",
@@ -1405,16 +1364,6 @@
          "p": 1.65,
          "c": 9.28,
          "f": 3.55
-        },
-        {
-         "id": "3325",
-         "name": "Red Velvet Cake",
-         "serving": "3.21oz",
-         "cal": 500.0,
-         "p": 5.64,
-         "c": 51.07,
-         "f": 31.09,
-         "tags": []
         }
        ]
       }
@@ -2555,16 +2504,6 @@
        "name": "Soups",
        "items": [
         {
-         "id": "447",
-         "name": "Chicken Noodle Soup",
-         "serving": "6.05oz",
-         "cal": 217.0,
-         "p": 9.96,
-         "c": 36.03,
-         "f": 4.23,
-         "tags": []
-        },
-        {
          "id": "753",
          "name": "Garden Vegetable Soup",
          "serving": "6oz",
@@ -2741,16 +2680,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "2028",
-         "name": "Pipi Kalua Flank Steak",
-         "serving": "2.02oz",
-         "cal": 88.0,
-         "p": 10.78,
-         "c": 1.2,
-         "f": 4.1,
-         "tags": []
-        },
-        {
          "id": "4110",
          "name": "Grilled African Spiced Tofu",
          "serving": "2oz",
@@ -2768,6 +2697,27 @@
          "p": 2.02,
          "c": 17.07,
          "f": 0.08,
+         "tags": []
+        },
+        {
+         "id": "5955",
+         "name": "Simply Grilled Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "3459",
+         "name": "Grilled Eggplant",
+         "serving": "1.99oz",
+         "cal": 25.0,
+         "p": 0.65,
+         "c": 3.77,
+         "f": 1.09,
          "tags": []
         }
        ]
@@ -2931,22 +2881,32 @@
          "tags": []
         },
         {
-         "id": "2728",
-         "name": "Fig Compote",
-         "serving": "1.27oz",
-         "cal": 71.0,
-         "p": 0.92,
-         "c": 17.4,
-         "f": 0.26,
-         "tags": []
-        },
-        {
          "id": "4614",
          "name": "Butternut Squash Confit",
          "serving": "2.08oz",
          "cal": 53.0,
          "p": 0.52,
          "c": 13.76,
+         "f": 0.09,
+         "tags": []
+        },
+        {
+         "id": "3855",
+         "name": "Mango Blueberry Compote",
+         "serving": "1.27oz",
+         "cal": 32.0,
+         "p": 0.26,
+         "c": 7.97,
+         "f": 0.12,
+         "tags": []
+        },
+        {
+         "id": "2917",
+         "name": "Pomegranate & Date Compote",
+         "serving": "1.36oz",
+         "cal": 52.0,
+         "p": 0.2,
+         "c": 13.56,
          "f": 0.09,
          "tags": []
         }
@@ -3539,6 +3499,16 @@
          "f": 2.91
         },
         {
+         "id": "6637",
+         "name": "Sun-Dried Tomato Pesto",
+         "serving": "0.98oz",
+         "cal": 146.0,
+         "p": 2.06,
+         "c": 7.15,
+         "f": 12.59,
+         "tags": []
+        },
+        {
          "id": "869",
          "name": "Garlic Oil",
          "serving": "1.46oz",
@@ -4060,13 +4030,23 @@
          "nodata": true
         },
         {
-         "id": "5368",
-         "name": "Spanish Salmon",
-         "serving": "3.1oz",
-         "cal": 237.0,
-         "p": 15.01,
-         "c": 4.65,
-         "f": 18.52,
+         "id": "6306",
+         "name": "Mediterranean Spinach Frittata",
+         "serving": "6.26oz",
+         "cal": 341.0,
+         "p": 13.04,
+         "c": 9.38,
+         "f": 26.75,
+         "tags": []
+        },
+        {
+         "id": "1037",
+         "name": "Prosciutto Caprese Lavash Sandwich",
+         "serving": "4.9oz",
+         "cal": 310.0,
+         "p": 13.92,
+         "c": 14.38,
+         "f": 21.25,
          "tags": []
         },
         {
