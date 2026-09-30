@@ -4730,7 +4730,7 @@
   "p": 5.75,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-09-27"
+  "seen": "2026-09-29"
  },
  "8295": {
   "name": "Pesto Turkey Bacon Wrap",
@@ -10138,7 +10138,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-28",
-  "seen": "2026-09-28"
+  "seen": "2026-09-29"
  },
  "6189": {
   "name": "Soup Special",
@@ -11584,6 +11584,39 @@
   "f": 27.09,
   "c": 31.5,
   "p": 14.56,
+  "tags": [],
+  "fetched": "2026-09-29",
+  "seen": "2026-09-29"
+ },
+ "1811": {
+  "name": "BBQ Brisket",
+  "serving": "3.86oz",
+  "cal": 178.0,
+  "f": 10.16,
+  "c": 0.62,
+  "p": 20.83,
+  "tags": [],
+  "fetched": "2026-09-29",
+  "seen": "2026-09-29"
+ },
+ "4005": {
+  "name": "Italian Style Seitan w/ Spinach & Whole Wheat Penne",
+  "serving": "5.49oz",
+  "cal": 283.0,
+  "f": 8.65,
+  "c": 44.66,
+  "p": 13.0,
+  "tags": [],
+  "fetched": "2026-09-29",
+  "seen": "2026-09-29"
+ },
+ "6271": {
+  "name": "Lemon Pepper White Fish",
+  "serving": "4.4oz",
+  "cal": 111.0,
+  "f": 2.48,
+  "c": 1.1,
+  "p": 19.79,
   "tags": [],
   "fetched": "2026-09-29",
   "seen": "2026-09-29"

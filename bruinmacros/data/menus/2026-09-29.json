@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "updated": "2026-09-30T02:07:47+00:00",
+ "updated": "2026-09-30T05:34:38+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -908,13 +908,13 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "1824",
-         "name": "Gaucho Tri Tip Steak w/ Salsa Criolla",
-         "serving": "3.07oz",
-         "cal": 159.0,
-         "p": 11.31,
-         "c": 1.72,
-         "f": 11.24,
+         "id": "6271",
+         "name": "Lemon Pepper White Fish",
+         "serving": "4.4oz",
+         "cal": 111.0,
+         "p": 19.79,
+         "c": 1.1,
+         "f": 2.48,
          "tags": []
         },
         {
@@ -943,13 +943,13 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "2668",
-         "name": "Chimichurri Pork Tenderloin",
-         "serving": "2.78oz",
-         "cal": 127.0,
-         "p": 13.66,
-         "c": 0.65,
-         "f": 7.52,
+         "id": "1811",
+         "name": "BBQ Brisket",
+         "serving": "3.86oz",
+         "cal": 178.0,
+         "p": 20.83,
+         "c": 0.62,
+         "f": 10.16,
          "tags": []
         },
         {
@@ -1112,13 +1112,14 @@
          "tags": []
         },
         {
-         "id": "10041",
-         "name": "Rustic Sausage Potato Kale Soup",
-         "serving": "6oz",
-         "cal": 178,
-         "p": 3.18,
-         "c": 8.84,
-         "f": 13.41
+         "id": "124",
+         "name": "Chicken Noodle Soup",
+         "serving": "6.01oz",
+         "cal": 178.0,
+         "p": 8.82,
+         "c": 27.04,
+         "f": 4.29,
+         "tags": []
         },
         {
          "id": "152",
@@ -1267,15 +1268,6 @@
          "f": 1.25
         },
         {
-         "id": "5612",
-         "name": "Balsamic & Parmesan Broccoli Salad",
-         "serving": "2oz",
-         "cal": 70,
-         "p": 3.46,
-         "c": 3.07,
-         "f": 5.2
-        },
-        {
          "id": "10383",
          "name": "Bean Salad w/ Sundried Tomato",
          "serving": "2oz",
@@ -1283,6 +1275,16 @@
          "p": 4.26,
          "c": 17.17,
          "f": 8.76
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
@@ -2514,13 +2516,13 @@
          "tags": []
         },
         {
-         "id": "2830",
-         "name": "Whole Wheat Spaghetti with Italian-Style Beyond Meatballs & Spinach",
-         "serving": "4.22oz",
-         "cal": 129.0,
-         "p": 6.36,
-         "c": 16.9,
-         "f": 4.82,
+         "id": "4005",
+         "name": "Italian Style Seitan w/ Spinach & Whole Wheat Penne",
+         "serving": "5.49oz",
+         "cal": 283.0,
+         "p": 13.0,
+         "c": 44.66,
+         "f": 8.65,
          "tags": []
         }
        ]
@@ -2574,6 +2576,16 @@
          "tags": []
         },
         {
+         "id": "984",
+         "name": "Roasted Broccoli",
+         "serving": "3.21oz",
+         "cal": 79.0,
+         "p": 2.54,
+         "c": 4.39,
+         "f": 6.34,
+         "tags": []
+        },
+        {
          "id": "3328",
          "name": "Braised Red Cabbage",
          "serving": "2.07oz",
@@ -2584,25 +2596,14 @@
          "tags": []
         },
         {
-         "id": "1468",
-         "name": "Roasted Vegetable Mix",
-         "serving": "3.4oz",
-         "cal": 31.0,
-         "p": 1.57,
-         "c": 5.16,
-         "f": 0.83,
+         "id": "829",
+         "name": "Farro",
+         "serving": "3.22oz",
+         "cal": 134.0,
+         "p": 5.75,
+         "c": 27.67,
+         "f": 0.43,
          "tags": []
-        },
-        {
-         "id": "5953",
-         "name": "Farm Stand Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
@@ -2635,16 +2636,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "4299",
-         "name": "Blackened Salmon",
-         "serving": "1.79oz",
-         "cal": 109.0,
-         "p": 9.48,
-         "c": 0.92,
-         "f": 7.26,
-         "tags": []
-        },
-        {
          "id": "999",
          "name": "Grilled Pineapple",
          "serving": "1.73oz",
@@ -2662,6 +2653,16 @@
          "p": 0.72,
          "c": 8.03,
          "f": 1.8,
+         "tags": []
+        },
+        {
+         "id": "3035",
+         "name": "Grilled Shrimp",
+         "serving": "2.12oz",
+         "cal": 55.0,
+         "p": 7.81,
+         "c": 0.64,
+         "f": 2.09,
          "tags": []
         }
        ]
@@ -3488,6 +3489,15 @@
          "tags": []
         },
         {
+         "id": "1105",
+         "name": "Smoked Mozzarella Spread",
+         "serving": "1.02oz",
+         "cal": 154,
+         "p": 3.17,
+         "c": 1.8,
+         "f": 14.69
+        },
+        {
          "id": "1277",
          "name": "Paprika Garlic Spread",
          "serving": "1.18oz",
@@ -3648,23 +3658,13 @@
          "tags": []
         },
         {
-         "id": "2997",
-         "name": "Halloumi Grilled Cheese Pita",
-         "serving": "5.25oz",
-         "cal": 484.0,
-         "p": 14.63,
-         "c": 12.91,
-         "f": 42.75,
-         "tags": []
-        },
-        {
-         "id": "1639",
-         "name": "Spinach & Roasted Pepper Bulgur Wheat",
-         "serving": "2.8oz",
-         "cal": 167.0,
-         "p": 6.42,
-         "c": 32.37,
-         "f": 0.98,
+         "id": "3561",
+         "name": "Zucchini Fritters w/ Cilantro Lime Cream",
+         "serving": "4.1oz",
+         "cal": 92.0,
+         "p": 3.34,
+         "c": 8.67,
+         "f": 5.62,
          "tags": []
         },
         {
@@ -3675,6 +3675,16 @@
          "p": 0.88,
          "c": 10.19,
          "f": 0.82,
+         "tags": []
+        },
+        {
+         "id": "1639",
+         "name": "Spinach & Roasted Pepper Bulgur Wheat",
+         "serving": "2.8oz",
+         "cal": 167.0,
+         "p": 6.42,
+         "c": 32.37,
+         "f": 0.98,
          "tags": []
         },
         {
@@ -3758,6 +3768,15 @@
          "c": 7.57,
          "f": 1.6,
          "tags": []
+        },
+        {
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         },
         {
          "id": "7936",
@@ -3847,23 +3866,15 @@
          "nodata": true
         },
         {
-         "id": "1945",
-         "name": "Tomato Couscous",
-         "serving": "1oz",
-         "cal": 64.0,
-         "p": 2.15,
-         "c": 13.1,
-         "f": 0.11,
-         "tags": []
-        },
-        {
-         "id": "3220",
-         "name": "French Green Lentil Sauté",
-         "serving": "3.12oz",
-         "cal": 133,
-         "p": 7.53,
-         "c": 22.1,
-         "f": 2.28
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "5986",
