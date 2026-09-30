@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "updated": "2026-09-29T22:58:00+00:00",
+ "updated": "2026-09-30T02:07:47+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1121,23 +1121,13 @@
          "f": 13.41
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
-        },
-        {
-         "id": "6359",
-         "name": "Honey Roasted Chicken",
-         "serving": "4.45oz",
-         "cal": 300.0,
-         "p": 21.17,
-         "c": 4.91,
-         "f": 21.66,
-         "tags": []
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         },
         {
          "id": "2654",
@@ -2584,16 +2574,6 @@
          "tags": []
         },
         {
-         "id": "902",
-         "name": "Wheat Berry",
-         "serving": "2.01oz",
-         "cal": 93.0,
-         "p": 3.58,
-         "c": 20.19,
-         "f": 0.44,
-         "tags": []
-        },
-        {
          "id": "3328",
          "name": "Braised Red Cabbage",
          "serving": "2.07oz",
@@ -2612,6 +2592,17 @@
          "c": 5.16,
          "f": 0.83,
          "tags": []
+        },
+        {
+         "id": "5953",
+         "name": "Farm Stand Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3769,15 +3760,6 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
-        },
-        {
          "id": "7936",
          "name": "Salad Bar Selection",
          "serving": "",
@@ -3865,13 +3847,23 @@
          "nodata": true
         },
         {
-         "id": "5476",
-         "name": "Focaccia",
-         "serving": "3.94oz",
-         "cal": 265,
-         "p": 7.42,
-         "c": 44.95,
-         "f": 5.76
+         "id": "1945",
+         "name": "Tomato Couscous",
+         "serving": "1oz",
+         "cal": 64.0,
+         "p": 2.15,
+         "c": 13.1,
+         "f": 0.11,
+         "tags": []
+        },
+        {
+         "id": "3220",
+         "name": "French Green Lentil Sauté",
+         "serving": "3.12oz",
+         "cal": 133,
+         "p": 7.53,
+         "c": 22.1,
+         "f": 2.28
         },
         {
          "id": "5986",
@@ -4490,31 +4482,6 @@
          "p": 22.8,
          "c": 160.14,
          "f": 24.0,
-         "tags": []
-        }
-       ]
-      },
-      {
-       "name": "Stone Oven",
-       "items": [
-        {
-         "id": "7609",
-         "name": "Green Onion Pancake",
-         "serving": "0.87oz",
-         "cal": 55.0,
-         "p": 1.64,
-         "c": 9.84,
-         "f": 0.94,
-         "tags": []
-        },
-        {
-         "id": "1846",
-         "name": "Spicy Hoisin Sauce",
-         "serving": "0.96oz",
-         "cal": 33.0,
-         "p": 0,
-         "c": 8.06,
-         "f": 0,
          "tags": []
         }
        ]
