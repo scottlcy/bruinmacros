@@ -632,7 +632,7 @@
   "c": 0,
   "nodata": true,
   "fetched": "2026-09-27",
-  "seen": "2026-09-29"
+  "seen": "2026-09-30"
  },
  "6379": {
   "name": "Bulgur Wheat",
@@ -2092,7 +2092,7 @@
   "p": 9.57,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-09-27"
+  "seen": "2026-09-30"
  },
  "3689": {
   "name": "Create Your Own Sandwich",
@@ -9774,7 +9774,7 @@
   "p": 1.09,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-09-29"
+  "seen": "2026-09-30"
  },
  "7329": {
   "name": "Almond Mushroom Rice",
@@ -10217,7 +10217,7 @@
   "p": 2.15,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-09-29"
+  "seen": "2026-09-30"
  },
  "5953": {
   "name": "Farm Stand Special",
@@ -11619,7 +11619,7 @@
   "p": 19.79,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-09-29"
+  "seen": "2026-09-30"
  },
  "10569": {
   "name": "Build Your Own Sushi Bowl",
@@ -12832,6 +12832,29 @@
   "c": 26.42,
   "p": 6.7,
   "tags": [],
+  "fetched": "2026-09-30",
+  "seen": "2026-09-30"
+ },
+ "6574": {
+  "name": "Chicken Tenders",
+  "serving": "6oz",
+  "cal": 366.0,
+  "f": 18.31,
+  "c": 24.85,
+  "p": 23.55,
+  "tags": [],
+  "fetched": "2026-09-30",
+  "seen": "2026-09-30"
+ },
+ "9464": {
+  "name": "Res Leches Cake",
+  "serving": "127oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
   "fetched": "2026-09-30",
   "seen": "2026-09-30"
  }
