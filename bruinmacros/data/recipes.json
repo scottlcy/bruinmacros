@@ -12857,5 +12857,28 @@
   "nodata": true,
   "fetched": "2026-09-30",
   "seen": "2026-09-30"
+ },
+ "3149": {
+  "name": "Couscous",
+  "serving": "2.06oz",
+  "cal": 225.0,
+  "f": 1.46,
+  "c": 44.13,
+  "p": 7.28,
+  "tags": [],
+  "fetched": "2026-09-30",
+  "seen": "2026-09-30"
+ },
+ "5956": {
+  "name": "Flex Bar Vegetarian Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-09-30",
+  "seen": "2026-09-30"
  }
 }

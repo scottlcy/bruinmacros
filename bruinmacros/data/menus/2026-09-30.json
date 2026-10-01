@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "updated": "2026-09-30T23:00:33+00:00",
+ "updated": "2026-10-01T02:09:44+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -961,23 +961,22 @@
          "tags": []
         },
         {
-         "id": "995",
-         "name": "Detroit-Style Pepperoni Pizza",
-         "serving": "4.08oz",
-         "cal": 364.0,
-         "p": 11.21,
-         "c": 23.67,
-         "f": 24.54,
-         "tags": []
+         "id": "3801",
+         "name": "Pepperoni Pizza",
+         "serving": "3.55oz",
+         "cal": 324,
+         "p": 8.98,
+         "c": 23.35,
+         "f": 20.84
         },
         {
-         "id": "3821",
-         "name": "Pepper & Mushroom Pizza",
-         "serving": "3.67oz",
+         "id": "1256",
+         "name": "Mushroom Pizza",
+         "serving": "3.47oz",
          "cal": 283.0,
-         "p": 7.63,
-         "c": 23.87,
-         "f": 16.83,
+         "p": 7.71,
+         "c": 23.63,
+         "f": 16.88,
          "tags": []
         }
        ]
@@ -1097,26 +1096,6 @@
          "tags": []
         },
         {
-         "id": "116",
-         "name": "Broccoli Cheddar Soup",
-         "serving": "6oz",
-         "cal": 385.0,
-         "p": 8.57,
-         "c": 11.03,
-         "f": 31.72,
-         "tags": []
-        },
-        {
-         "id": "6271",
-         "name": "Lemon Pepper White Fish",
-         "serving": "4.4oz",
-         "cal": 111.0,
-         "p": 19.79,
-         "c": 1.1,
-         "f": 2.48,
-         "tags": []
-        },
-        {
          "id": "6855",
          "name": "Corn & Lima Bean Succotash",
          "serving": "2.09oz",
@@ -1125,6 +1104,15 @@
          "c": 10.24,
          "f": 1.41,
          "tags": []
+        },
+        {
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         }
        ]
       },
@@ -1263,14 +1251,25 @@
          "f": 5.2
         },
         {
-         "id": "7296",
-         "name": "Warm Potato Salad",
-         "serving": "2.6oz",
-         "cal": 77.0,
-         "p": 1.09,
-         "c": 9.82,
-         "f": 3.62,
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
          "tags": []
+        },
+        {
+         "id": "5956",
+         "name": "Flex Bar Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1352,17 +1351,6 @@
          "id": "9600",
          "name": "Ice Cream & Frozen Yogurt Bar",
          "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "9464",
-         "name": "Res Leches Cake",
-         "serving": "127oz",
          "cal": 0,
          "p": 0,
          "c": 0,
@@ -3963,6 +3951,37 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "883",
+         "name": "Polenta",
+         "serving": "3.74oz",
+         "cal": 271.0,
+         "p": 12.06,
+         "c": 14.98,
+         "f": 18.98,
+         "tags": []
+        },
+        {
+         "id": "3149",
+         "name": "Couscous",
+         "serving": "2.06oz",
+         "cal": 225.0,
+         "p": 7.28,
+         "c": 44.13,
+         "f": 1.46,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
