@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "updated": "2026-10-01T02:09:44+00:00",
+ "updated": "2026-10-01T05:56:46+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -891,16 +891,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "6358",
-         "name": "Blackened Salmon",
-         "serving": "2.6oz",
-         "cal": 126.0,
-         "p": 15.31,
-         "c": 2.73,
-         "f": 6.18,
-         "tags": []
-        },
-        {
          "id": "2767",
          "name": "Cheddar Cheese Grits",
          "serving": "2.03oz",
@@ -919,6 +909,17 @@
          "c": 14.48,
          "f": 6.49,
          "tags": []
+        },
+        {
+         "id": "5876",
+         "name": "Front Burner Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1277,36 +1278,6 @@
        "name": "The Sweet Stop",
        "items": [
         {
-         "id": "280",
-         "name": "Chocolate Cupcake",
-         "serving": "3.69oz",
-         "cal": 375.0,
-         "p": 3.91,
-         "c": 37.53,
-         "f": 23.49,
-         "tags": []
-        },
-        {
-         "id": "5479",
-         "name": "Classic Chocolate Chip Cookie",
-         "serving": "1.3oz",
-         "cal": 162.0,
-         "p": 2.31,
-         "c": 22.79,
-         "f": 7.38,
-         "tags": []
-        },
-        {
-         "id": "4041",
-         "name": "Pumpkin Pie",
-         "serving": "2.37oz",
-         "cal": 123.0,
-         "p": 2.8,
-         "c": 22.32,
-         "f": 2.7,
-         "tags": []
-        },
-        {
          "id": "255",
          "name": "Blondie w/ Walnuts",
          "serving": "1.75oz",
@@ -1314,26 +1285,6 @@
          "p": 3.22,
          "c": 24.74,
          "f": 12.21,
-         "tags": []
-        },
-        {
-         "id": "4923",
-         "name": "Pumpkin Mousse",
-         "serving": "3.68oz",
-         "cal": 271.0,
-         "p": 1.2,
-         "c": 25.54,
-         "f": 16.84,
-         "tags": []
-        },
-        {
-         "id": "229",
-         "name": "Deep Dish Blackout Cake",
-         "serving": "3.42oz",
-         "cal": 282.0,
-         "p": 4.9,
-         "c": 37.65,
-         "f": 18.21,
          "tags": []
         },
         {
@@ -3745,13 +3696,13 @@
        "name": "Psistaris",
        "items": [
         {
-         "id": "2013",
-         "name": "Spanish Style Grilled Pork Chop",
-         "serving": "3.55oz",
-         "cal": 106.0,
-         "p": 0.15,
-         "c": 0.84,
-         "f": 10.88,
+         "id": "7612",
+         "name": "Beef Pita Shawarma",
+         "serving": "4.37oz",
+         "cal": 217.0,
+         "p": 13.07,
+         "c": 10.75,
+         "f": 13.07,
          "tags": []
         },
         {
@@ -3981,24 +3932,6 @@
          "c": 44.13,
          "f": 1.46,
          "tags": []
-        },
-        {
-         "id": "5476",
-         "name": "Focaccia",
-         "serving": "3.94oz",
-         "cal": 265,
-         "p": 7.42,
-         "c": 44.95,
-         "f": 5.76
-        },
-        {
-         "id": "5986",
-         "name": "Lavash Chips",
-         "serving": "1oz",
-         "cal": 82,
-         "p": 2,
-         "c": 10.51,
-         "f": 2.91
         },
         {
          "id": "6637",
@@ -4658,16 +4591,6 @@
       {
        "name": "Iron Grill",
        "items": [
-        {
-         "id": "2463",
-         "name": "Thai Fried Chicken",
-         "serving": "4.57oz",
-         "cal": 266.0,
-         "p": 22.33,
-         "c": 1.49,
-         "f": 18.6,
-         "tags": []
-        },
         {
          "id": "9311",
          "name": "Thai Basil Tofu Sandwich",
