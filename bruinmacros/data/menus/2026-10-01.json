@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "updated": "2026-10-01T18:53:38+00:00",
+ "updated": "2026-10-01T23:12:41+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -758,24 +758,6 @@
          "f": 1.25
         },
         {
-         "id": "2400",
-         "name": "Larchmont Chicken Salad",
-         "serving": "3oz",
-         "cal": 88,
-         "p": 6.11,
-         "c": 3.14,
-         "f": 5.73
-        },
-        {
-         "id": "5612",
-         "name": "Balsamic & Parmesan Broccoli Salad",
-         "serving": "2oz",
-         "cal": 70,
-         "p": 3.46,
-         "c": 3.07,
-         "f": 5.2
-        },
-        {
          "id": "10382",
          "name": "Chickpea Salad w/ Roasted Chilies",
          "serving": "2.01oz",
@@ -784,6 +766,27 @@
          "c": 7.66,
          "f": 3.76,
          "tags": []
+        },
+        {
+         "id": "812",
+         "name": "Mexican Street Corn Salad",
+         "serving": "1.86oz",
+         "cal": 158.0,
+         "p": 1.94,
+         "c": 5.41,
+         "f": 13.74,
+         "tags": []
+        },
+        {
+         "id": "5956",
+         "name": "Flex Bar Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1119,6 +1122,26 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49
+        },
+        {
+         "id": "6494",
+         "name": "Stewed Cannellini Beans",
+         "serving": "3.69oz",
+         "cal": 71.0,
+         "p": 2.57,
+         "c": 8.27,
+         "f": 3.0,
+         "tags": []
+        },
+        {
+         "id": "6401",
+         "name": "Smoked Chicken w/ Alabama White Sauce",
+         "serving": "2.99oz",
+         "cal": 224.0,
+         "p": 12.48,
+         "c": 3.18,
+         "f": 17.63,
+         "tags": []
         }
        ]
       },
@@ -1228,6 +1251,46 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "812",
+         "name": "Mexican Street Corn Salad",
+         "serving": "1.86oz",
+         "cal": 158.0,
+         "p": 1.94,
+         "c": 5.41,
+         "f": 13.74,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5956",
+         "name": "Flex Bar Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1314,6 +1377,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "255",
+         "name": "Blondie w/ Walnuts",
+         "serving": "1.75oz",
+         "cal": 219.0,
+         "p": 3.22,
+         "c": 24.74,
+         "f": 12.21,
+         "tags": []
         }
        ]
       }
@@ -2567,16 +2640,6 @@
          "tags": []
         },
         {
-         "id": "1174",
-         "name": "Mixed Grains--Farro, Wheatberry, & Brown Rice",
-         "serving": "2oz",
-         "cal": 93.0,
-         "p": 3.08,
-         "c": 19.62,
-         "f": 0.49,
-         "tags": []
-        },
-        {
          "id": "2320",
          "name": "Roasted Butternut Squash & Celery Root",
          "serving": "2.15oz",
@@ -2594,6 +2657,16 @@
          "p": 1.58,
          "c": 3.12,
          "f": 1.22,
+         "tags": []
+        },
+        {
+         "id": "816",
+         "name": "Quinoa",
+         "serving": "1oz",
+         "cal": 41.0,
+         "p": 1.53,
+         "c": 7.14,
+         "f": 0.64,
          "tags": []
         }
        ]
@@ -3181,14 +3254,15 @@
        "name": "Psistaris",
        "items": [
         {
-         "id": "7608",
-         "name": "Balsamic Chicken Wings",
-         "serving": "4.5oz",
-         "cal": 279.0,
-         "p": 20.26,
-         "c": 8.19,
-         "f": 17.65,
-         "tags": []
+         "id": "5961",
+         "name": "Psistaria Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "6623",
@@ -4360,6 +4434,41 @@
        ]
       },
       {
+       "name": "Iron Grill",
+       "items": [
+        {
+         "id": "8813",
+         "name": "Potato & Mozzarella Corndog",
+         "serving": "9oz",
+         "cal": 1073.0,
+         "p": 15.73,
+         "c": 95.06,
+         "f": 70.61,
+         "tags": []
+        },
+        {
+         "id": "8815",
+         "name": "Mozzarella & Fishcake Corn Dog",
+         "serving": "9oz",
+         "cal": 1036.0,
+         "p": 15.25,
+         "c": 96.7,
+         "f": 65.46,
+         "tags": []
+        },
+        {
+         "id": "8816",
+         "name": "Battered Pickle Chips",
+         "serving": "10.32oz",
+         "cal": 2292.0,
+         "p": 2.16,
+         "c": 15.8,
+         "f": 239.03,
+         "tags": []
+        }
+       ]
+      },
+      {
        "name": "Sweets Station",
        "items": [
         {
@@ -4398,36 +4507,6 @@
          "tags": []
         },
         {
-         "id": "1715",
-         "name": "Radish",
-         "serving": "1oz",
-         "cal": 5.0,
-         "p": 0.19,
-         "c": 0.96,
-         "f": 0.03,
-         "tags": []
-        },
-        {
-         "id": "2034",
-         "name": "Seasoned Blanched Spinach",
-         "serving": "1.06oz",
-         "cal": 19.0,
-         "p": 0.83,
-         "c": 1.1,
-         "f": 1.48,
-         "tags": []
-        },
-        {
-         "id": "7889",
-         "name": "Green Papaya Salad",
-         "serving": "2.04oz",
-         "cal": 30.0,
-         "p": 0.34,
-         "c": 6.91,
-         "f": 0.13,
-         "tags": []
-        },
-        {
          "id": "7807",
          "name": "Chinese Cucumber Salad",
          "serving": "2.05oz",
@@ -4435,26 +4514,6 @@
          "p": 0.44,
          "c": 5.27,
          "f": 0.05,
-         "tags": []
-        },
-        {
-         "id": "2440",
-         "name": "Vietnamese Pickled Vegetables",
-         "serving": "1.05oz",
-         "cal": 12.0,
-         "p": 0.22,
-         "c": 2.59,
-         "f": 0.04,
-         "tags": []
-        },
-        {
-         "id": "2780",
-         "name": "Marinated Soy Sprouts",
-         "serving": "1.7oz",
-         "cal": 83.0,
-         "p": 5.62,
-         "c": 4.21,
-         "f": 6.27,
          "tags": []
         }
        ]

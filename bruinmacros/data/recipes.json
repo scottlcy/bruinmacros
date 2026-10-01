@@ -5887,7 +5887,7 @@
   "p": 3.22,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-09-30"
+  "seen": "2026-10-01"
  },
  "2565": {
   "name": "Cauliflower Skordalia Spread",
@@ -9664,7 +9664,7 @@
   "p": 2.57,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-09-29"
+  "seen": "2026-10-01"
  },
  "6601": {
   "name": "Pesto Cream Sauce",
@@ -9884,7 +9884,7 @@
   "p": 1.53,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-09-29"
+  "seen": "2026-10-01"
  },
  "8623": {
   "name": "Ziti Pasta w/ Pepperoni",
@@ -12879,7 +12879,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-30",
-  "seen": "2026-09-30"
+  "seen": "2026-10-01"
  },
  "5876": {
   "name": "Front Burner Special",
@@ -13880,6 +13880,62 @@
   "f": 9.3,
   "c": 34.92,
   "p": 12.08,
+  "tags": [],
+  "fetched": "2026-10-01",
+  "seen": "2026-10-01"
+ },
+ "5961": {
+  "name": "Psistaria Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-01",
+  "seen": "2026-10-01"
+ },
+ "812": {
+  "name": "Mexican Street Corn Salad",
+  "serving": "1.86oz",
+  "cal": 158.0,
+  "f": 13.74,
+  "c": 5.41,
+  "p": 1.94,
+  "tags": [],
+  "fetched": "2026-10-01",
+  "seen": "2026-10-01"
+ },
+ "8813": {
+  "name": "Potato & Mozzarella Corndog",
+  "serving": "9oz",
+  "cal": 1073.0,
+  "f": 70.61,
+  "c": 95.06,
+  "p": 15.73,
+  "tags": [],
+  "fetched": "2026-10-01",
+  "seen": "2026-10-01"
+ },
+ "8815": {
+  "name": "Mozzarella & Fishcake Corn Dog",
+  "serving": "9oz",
+  "cal": 1036.0,
+  "f": 65.46,
+  "c": 96.7,
+  "p": 15.25,
+  "tags": [],
+  "fetched": "2026-10-01",
+  "seen": "2026-10-01"
+ },
+ "8816": {
+  "name": "Battered Pickle Chips",
+  "serving": "10.32oz",
+  "cal": 2292.0,
+  "f": 239.03,
+  "c": 15.8,
+  "p": 2.16,
   "tags": [],
   "fetched": "2026-10-01",
   "seen": "2026-10-01"
