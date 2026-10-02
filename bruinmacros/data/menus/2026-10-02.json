@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "updated": "2026-10-01T23:13:08+00:00",
+ "updated": "2026-10-02T02:16:13+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -3754,6 +3754,31 @@
        ]
       },
       {
+       "name": "Iron Grill",
+       "items": [
+        {
+         "id": "2438",
+         "name": "Banh Mi Nem Chua",
+         "serving": "19.3oz",
+         "cal": 1214.0,
+         "p": 33.37,
+         "c": 203.7,
+         "f": 26.8,
+         "tags": []
+        },
+        {
+         "id": "5180",
+         "name": "Shrimp Chips",
+         "serving": "2.1oz",
+         "cal": 208.0,
+         "p": 1.04,
+         "c": 50.73,
+         "f": 0,
+         "tags": []
+        }
+       ]
+      },
+      {
        "name": "Sweets Station",
        "items": [
         {
@@ -3792,36 +3817,6 @@
          "tags": []
         },
         {
-         "id": "1715",
-         "name": "Radish",
-         "serving": "1oz",
-         "cal": 5.0,
-         "p": 0.19,
-         "c": 0.96,
-         "f": 0.03,
-         "tags": []
-        },
-        {
-         "id": "2034",
-         "name": "Seasoned Blanched Spinach",
-         "serving": "1.06oz",
-         "cal": 19.0,
-         "p": 0.83,
-         "c": 1.1,
-         "f": 1.48,
-         "tags": []
-        },
-        {
-         "id": "7889",
-         "name": "Green Papaya Salad",
-         "serving": "2.04oz",
-         "cal": 30.0,
-         "p": 0.34,
-         "c": 6.91,
-         "f": 0.13,
-         "tags": []
-        },
-        {
          "id": "7807",
          "name": "Chinese Cucumber Salad",
          "serving": "2.05oz",
@@ -3829,26 +3824,6 @@
          "p": 0.44,
          "c": 5.27,
          "f": 0.05,
-         "tags": []
-        },
-        {
-         "id": "2440",
-         "name": "Vietnamese Pickled Vegetables",
-         "serving": "1.05oz",
-         "cal": 12.0,
-         "p": 0.22,
-         "c": 2.59,
-         "f": 0.04,
-         "tags": []
-        },
-        {
-         "id": "2780",
-         "name": "Marinated Soy Sprouts",
-         "serving": "1.7oz",
-         "cal": 83.0,
-         "p": 5.62,
-         "c": 4.21,
-         "f": 6.27,
          "tags": []
         }
        ]

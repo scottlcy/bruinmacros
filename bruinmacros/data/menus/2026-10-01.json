@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "updated": "2026-10-01T23:12:41+00:00",
+ "updated": "2026-10-02T02:15:47+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1134,14 +1134,15 @@
          "tags": []
         },
         {
-         "id": "6401",
-         "name": "Smoked Chicken w/ Alabama White Sauce",
-         "serving": "2.99oz",
-         "cal": 224.0,
-         "p": 12.48,
-         "c": 3.18,
-         "f": 17.63,
-         "tags": []
+         "id": "6360",
+         "name": "BBQ Pork Tenderloin",
+         "serving": "425.76oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3953,6 +3954,36 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "6307",
+         "name": "Beef Shwarma",
+         "serving": "1.05oz",
+         "cal": 54.0,
+         "p": 5.07,
+         "c": 0.66,
+         "f": 3.4,
+         "tags": []
+        },
+        {
+         "id": "2758",
+         "name": "Braised Spicy Lentils w/ Potatoes & Tomatoes",
+         "serving": "4.85oz",
+         "cal": 128.0,
+         "p": 6.02,
+         "c": 20.43,
+         "f": 2.93,
+         "tags": []
+        },
+        {
+         "id": "1404",
+         "name": "Saffron Rice",
+         "serving": "2.01oz",
+         "cal": 104.0,
+         "p": 2.04,
+         "c": 22.73,
+         "f": 0.19,
+         "tags": []
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3969,16 +4000,6 @@
          "p": 2,
          "c": 10.51,
          "f": 2.91
-        },
-        {
-         "id": "6637",
-         "name": "Sun-Dried Tomato Pesto",
-         "serving": "0.98oz",
-         "cal": 146.0,
-         "p": 2.06,
-         "c": 7.15,
-         "f": 12.59,
-         "tags": []
         },
         {
          "id": "869",
@@ -4054,15 +4075,6 @@
          "tags": []
         },
         {
-         "id": "1105",
-         "name": "Smoked Mozzarella Spread",
-         "serving": "1.02oz",
-         "cal": 154,
-         "p": 3.17,
-         "c": 1.8,
-         "f": 14.69
-        },
-        {
          "id": "1277",
          "name": "Paprika Garlic Spread",
          "serving": "1.18oz",
@@ -4070,16 +4082,6 @@
          "p": 0.41,
          "c": 1.63,
          "f": 24.29
-        },
-        {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
         },
         {
          "id": "1323",
@@ -4147,16 +4149,6 @@
          "tags": []
         },
         {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -4164,16 +4156,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
-         "tags": []
         }
        ]
       },
@@ -4595,6 +4577,16 @@
          "c": 14.85,
          "f": 3.56,
          "tags": []
+        },
+        {
+         "id": "4436",
+         "name": "Dumpling Dipping Sauce",
+         "serving": "0.85oz",
+         "cal": 9.0,
+         "p": 0.51,
+         "c": 1.38,
+         "f": 0.02,
+         "tags": []
         }
        ]
       },
@@ -4714,6 +4706,16 @@
          "c": 16.64,
          "f": 0.17,
          "tags": []
+        },
+        {
+         "id": "9146",
+         "name": "White Chocolate Chip Matcha Cookie",
+         "serving": "3oz",
+         "cal": 372.0,
+         "p": 5.58,
+         "c": 47.06,
+         "f": 18.01,
+         "tags": []
         }
        ]
       },
@@ -4768,6 +4770,16 @@
          "p": 4.04,
          "c": 44.52,
          "f": 0,
+         "tags": []
+        },
+        {
+         "id": "3465",
+         "name": "Baby Bok Choy Stir Fry",
+         "serving": "4.36oz",
+         "cal": 52.0,
+         "p": 1.94,
+         "c": 5.5,
+         "f": 2.79,
          "tags": []
         }
        ]
