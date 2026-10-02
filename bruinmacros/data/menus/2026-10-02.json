@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "updated": "2026-10-02T18:25:29+00:00",
+ "updated": "2026-10-02T22:58:08+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1083,6 +1083,16 @@
          "c": 11.03,
          "f": 31.72,
          "tags": []
+        },
+        {
+         "id": "6365",
+         "name": "Kansas City BBQ Pork Ribs",
+         "serving": "8.15oz",
+         "cal": 482.0,
+         "p": 25.42,
+         "c": 40.45,
+         "f": 24.78,
+         "tags": []
         }
        ]
       },
@@ -1192,6 +1202,43 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
         }
        ]
       },
@@ -2047,23 +2094,23 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "2227",
-         "name": "Lemon Ginger Marinated Grilled Chicken Thigh",
-         "serving": "1.67oz",
-         "cal": 58.0,
-         "p": 7.67,
-         "c": 1.26,
-         "f": 2.01,
+         "id": "1292",
+         "name": "Grilled Dijon Chicken Thigh",
+         "serving": "1.57oz",
+         "cal": 67.0,
+         "p": 7.57,
+         "c": 0.12,
+         "f": 3.5,
          "tags": []
         },
         {
-         "id": "3508",
-         "name": "Thai Tofu Stacker",
-         "serving": "2.1oz",
-         "cal": 74.0,
-         "p": 3.64,
-         "c": 10.03,
-         "f": 2.17,
+         "id": "2996",
+         "name": "Farro-Mushroom Stacker",
+         "serving": "4.18oz",
+         "cal": 175.0,
+         "p": 2.84,
+         "c": 13.56,
+         "f": 13.07,
          "tags": []
         },
         {
@@ -2137,16 +2184,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "1167",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 96.0,
-         "p": 3.37,
-         "c": 18.22,
-         "f": 1.07,
-         "tags": []
-        },
-        {
          "id": "5427",
          "name": "Multi-Grain Bread",
          "serving": "1.48oz",
@@ -2154,16 +2191,6 @@
          "p": 3.41,
          "c": 18.54,
          "f": 1.06,
-         "tags": []
-        },
-        {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
          "tags": []
         },
         {
@@ -2197,16 +2224,6 @@
          "tags": []
         },
         {
-         "id": "1417",
-         "name": "Apricot Almond Bar",
-         "serving": "1.37oz",
-         "cal": 126.0,
-         "p": 2.55,
-         "c": 17.05,
-         "f": 5.57,
-         "tags": []
-        },
-        {
          "id": "2939",
          "name": "Almond Cashew Butter",
          "serving": "1oz",
@@ -2214,16 +2231,6 @@
          "p": 5.12,
          "c": 7.24,
          "f": 14.09,
-         "tags": []
-        },
-        {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
          "tags": []
         },
         {
@@ -2237,23 +2244,43 @@
          "tags": []
         },
         {
-         "id": "3464",
-         "name": "Kumquat Compote",
-         "serving": "1.27oz",
-         "cal": 44.0,
-         "p": 0.41,
-         "c": 11.04,
-         "f": 0.14,
+         "id": "4814",
+         "name": "Raspberry Princess Bar",
+         "serving": "1.76oz",
+         "cal": 159.0,
+         "p": 1.96,
+         "c": 23.63,
+         "f": 6.47,
          "tags": []
         },
         {
-         "id": "2292",
-         "name": "Pear-Date Compote",
-         "serving": "1.12oz",
-         "cal": 55.0,
-         "p": 0.36,
-         "c": 14.05,
-         "f": 0.08,
+         "id": "1400",
+         "name": "Coconut Pineapple Bread",
+         "serving": "2.63oz",
+         "cal": 282.0,
+         "p": 3.28,
+         "c": 28.12,
+         "f": 17.08,
+         "tags": []
+        },
+        {
+         "id": "3160",
+         "name": "Plantain Butter",
+         "serving": "1.19oz",
+         "cal": 61.0,
+         "p": 0.37,
+         "c": 12.79,
+         "f": 0.93,
+         "tags": []
+        },
+        {
+         "id": "1205",
+         "name": "Blueberry Compote",
+         "serving": "1.7oz",
+         "cal": 31.0,
+         "p": 0.07,
+         "c": 7.47,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -2611,6 +2638,16 @@
          "p": 2.57,
          "c": 5.96,
          "f": 2.18,
+         "tags": []
+        },
+        {
+         "id": "1987",
+         "name": "Roasted Plantains",
+         "serving": "2oz",
+         "cal": 98.0,
+         "p": 0.71,
+         "c": 19.28,
+         "f": 1.9,
          "tags": []
         }
        ]

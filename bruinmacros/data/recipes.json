@@ -308,7 +308,7 @@
   "f": 5.73,
   "c": 3.14,
   "fetched": "2026-09-27",
-  "seen": "2026-10-01"
+  "seen": "2026-10-02"
  },
  "5612": {
   "name": "Balsamic & Parmesan Broccoli Salad",
@@ -10407,7 +10407,7 @@
   "p": 7.57,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-09-30"
+  "seen": "2026-10-02"
  },
  "1296": {
   "name": "Shrimp Po Boy Sandwich",
@@ -11853,7 +11853,7 @@
   "p": 0.71,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-01"
+  "seen": "2026-10-02"
  },
  "2012": {
   "name": "Egg, Mushroom & Kale on W.W. English Muffin",
@@ -12095,7 +12095,7 @@
   "p": 2.84,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-01"
+  "seen": "2026-10-02"
  },
  "3055": {
   "name": "Pear Butter",
@@ -12525,7 +12525,7 @@
   "p": 25.42,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-01"
+  "seen": "2026-10-02"
  },
  "6401": {
   "name": "Smoked Chicken w/ Alabama White Sauce",
@@ -14490,6 +14490,17 @@
   "p": 0,
   "tags": [],
   "nodata": true,
+  "fetched": "2026-10-02",
+  "seen": "2026-10-02"
+ },
+ "4814": {
+  "name": "Raspberry Princess Bar",
+  "serving": "1.76oz",
+  "cal": 159.0,
+  "f": 6.47,
+  "c": 23.63,
+  "p": 1.96,
+  "tags": [],
   "fetched": "2026-10-02",
   "seen": "2026-10-02"
  }
