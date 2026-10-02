@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "updated": "2026-10-02T02:15:47+00:00",
+ "updated": "2026-10-02T05:39:31+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1061,14 +1061,14 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1115,34 +1115,33 @@
          "f": 13.41
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         },
         {
-         "id": "6494",
-         "name": "Stewed Cannellini Beans",
-         "serving": "3.69oz",
-         "cal": 71.0,
-         "p": 2.57,
-         "c": 8.27,
-         "f": 3.0,
+         "id": "6334",
+         "name": "Spicy Shrimp and Okra Stew",
+         "serving": "3.88oz",
+         "cal": 229.0,
+         "p": 5.32,
+         "c": 4.31,
+         "f": 20.64,
          "tags": []
         },
         {
-         "id": "6360",
-         "name": "BBQ Pork Tenderloin",
-         "serving": "425.76oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "7330",
+         "name": "Cajun Red Beans & Rice",
+         "serving": "6.04oz",
+         "cal": 450.0,
+         "p": 9.65,
+         "c": 87.12,
+         "f": 5.77,
+         "tags": []
         }
        ]
       },
@@ -1298,65 +1297,6 @@
       {
        "name": "The Sweet Stop",
        "items": [
-        {
-         "id": "4899",
-         "name": "Pumpkin Cheesecake",
-         "serving": "4.01oz",
-         "cal": 333.0,
-         "p": 5.07,
-         "c": 30.92,
-         "f": 20.57,
-         "tags": []
-        },
-        {
-         "id": "299",
-         "name": "Old-Fashioned Oatmeal Raisin Cookie",
-         "serving": "1.3oz",
-         "cal": 152,
-         "p": 2.1,
-         "c": 23.02,
-         "f": 5.87
-        },
-        {
-         "id": "3964",
-         "name": "Key Lime Pie",
-         "serving": "4.55oz",
-         "cal": 402.0,
-         "p": 7.81,
-         "c": 60.34,
-         "f": 13.44,
-         "tags": []
-        },
-        {
-         "id": "3954",
-         "name": "Chipmunk Bar",
-         "serving": "1.79oz",
-         "cal": 170.0,
-         "p": 3.26,
-         "c": 23.37,
-         "f": 8.22,
-         "tags": []
-        },
-        {
-         "id": "237",
-         "name": "Blackberry Peach Crisp",
-         "serving": "4.34oz",
-         "cal": 111.0,
-         "p": 1.67,
-         "c": 39.87,
-         "f": 4.38,
-         "tags": []
-        },
-        {
-         "id": "4910",
-         "name": "Peach Cobbler",
-         "serving": "5.55oz",
-         "cal": 277.0,
-         "p": 3.44,
-         "c": 52.17,
-         "f": 11.22,
-         "tags": []
-        },
         {
          "id": "9599",
          "name": "Yogurt Bar",
@@ -3868,13 +3808,13 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         },
         {
          "id": "7936",
