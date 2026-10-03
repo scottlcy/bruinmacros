@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "updated": "2026-10-03T19:57:56+00:00",
+ "updated": "2026-10-03T23:03:52+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1137,6 +1137,16 @@
          "p": 0.49,
          "c": 4.58,
          "f": 0.26
+        },
+        {
+         "id": "6364",
+         "name": "Buttery Corn on the Cob",
+         "serving": "5.19oz",
+         "cal": 185.0,
+         "p": 5.06,
+         "c": 31.78,
+         "f": 5.48,
+         "tags": []
         }
        ]
       },
@@ -1212,6 +1222,43 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
         }
        ]
       },
@@ -2517,24 +2564,25 @@
          "tags": []
         },
         {
-         "id": "2255",
-         "name": "Steamed Barley",
-         "serving": "2.01oz",
-         "cal": 101.0,
-         "p": 2.82,
-         "c": 22.11,
-         "f": 0.33,
+         "id": "957",
+         "name": "Roasted Butternut Squash",
+         "serving": "4oz",
+         "cal": 51.0,
+         "p": 1.13,
+         "c": 13.24,
+         "f": 0.11,
          "tags": []
         },
         {
-         "id": "2351",
-         "name": "Roasted Carrots & Onions",
-         "serving": "2.3oz",
-         "cal": 35.0,
-         "p": 0.62,
-         "c": 6.15,
-         "f": 0.99,
-         "tags": []
+         "id": "5953",
+         "name": "Farm Stand Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "1069",
