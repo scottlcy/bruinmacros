@@ -4441,7 +4441,7 @@
   "p": 7.69,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-02"
+  "seen": "2026-10-03"
  },
  "7605": {
   "name": "Croissant",
@@ -10229,7 +10229,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-29",
-  "seen": "2026-09-30"
+  "seen": "2026-10-03"
  },
  "6273": {
   "name": "Wilted Collard Greens",
@@ -12315,7 +12315,7 @@
   "p": 13.06,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-01"
+  "seen": "2026-10-03"
  },
  "4190": {
   "name": "White Bean Ragout w/ Quinoa, Green Beans, & Mushroom",
@@ -14886,6 +14886,17 @@
   "f": 26.53,
   "c": 20.91,
   "p": 21.11,
+  "tags": [],
+  "fetched": "2026-10-03",
+  "seen": "2026-10-03"
+ },
+ "6956": {
+  "name": "Lemon Poppy Quickbread",
+  "serving": "2.01oz",
+  "cal": 205.0,
+  "f": 13.67,
+  "c": 17.05,
+  "p": 2.94,
   "tags": [],
   "fetched": "2026-10-03",
   "seen": "2026-10-03"
