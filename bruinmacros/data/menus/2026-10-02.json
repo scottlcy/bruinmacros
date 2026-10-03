@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "updated": "2026-10-03T01:56:53+00:00",
+ "updated": "2026-10-03T05:20:35+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1001,16 +1001,6 @@
          "tags": []
         },
         {
-         "id": "10038",
-         "name": "Nashville Hot Fish Sandwich",
-         "serving": "8.01oz",
-         "cal": 523.0,
-         "p": 20.91,
-         "c": 60.2,
-         "f": 23.31,
-         "tags": []
-        },
-        {
          "id": "8468",
          "name": "Beyond Burger",
          "serving": "7.63oz",
@@ -1020,13 +1010,13 @@
          "f": 16.32
         },
         {
-         "id": "9043",
-         "name": "Curly Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 214.0,
-         "p": 2.66,
-         "c": 26.66,
-         "f": 10.66,
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
          "tags": []
         }
        ]
@@ -1082,16 +1072,6 @@
          "p": 8.57,
          "c": 11.03,
          "f": 31.72,
-         "tags": []
-        },
-        {
-         "id": "9876",
-         "name": "BBQ Beef Chili",
-         "serving": "2.32oz",
-         "cal": 1590.0,
-         "p": 89.97,
-         "c": 91.11,
-         "f": 93.53,
          "tags": []
         }
        ]
@@ -1266,16 +1246,6 @@
          "tags": []
         },
         {
-         "id": "307",
-         "name": "Cherry Almond Crumble Pie",
-         "serving": "3.2oz",
-         "cal": 224.0,
-         "p": 3.41,
-         "c": 26.97,
-         "f": 11.2,
-         "tags": []
-        },
-        {
          "id": "312",
          "name": "Almond Fudge Bar",
          "serving": "2.26oz",
@@ -1283,16 +1253,6 @@
          "p": 4.21,
          "c": 38.31,
          "f": 13.75,
-         "tags": []
-        },
-        {
-         "id": "4114",
-         "name": "Chocolate Cream Mousse",
-         "serving": "4.07oz",
-         "cal": 413.0,
-         "p": 3.66,
-         "c": 17.16,
-         "f": 33.06,
          "tags": []
         },
         {
@@ -2681,13 +2641,13 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "7584",
-         "name": "Halal Lemon Oregano Chicken Thigh",
-         "serving": "1.61oz",
-         "cal": 78.0,
-         "p": 7.69,
-         "c": 0.21,
-         "f": 4.64,
+         "id": "8020",
+         "name": "Halal Orange Chipotle Herb Chicken Thigh",
+         "serving": "1.59oz",
+         "cal": 56.0,
+         "p": 7.84,
+         "c": 0.87,
+         "f": 2.17,
          "tags": []
         },
         {
