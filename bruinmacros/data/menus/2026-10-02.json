@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "updated": "2026-10-02T22:58:08+00:00",
+ "updated": "2026-10-03T01:56:53+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1085,13 +1085,13 @@
          "tags": []
         },
         {
-         "id": "6365",
-         "name": "Kansas City BBQ Pork Ribs",
-         "serving": "8.15oz",
-         "cal": 482.0,
-         "p": 25.42,
-         "c": 40.45,
-         "f": 24.78,
+         "id": "9876",
+         "name": "BBQ Beef Chili",
+         "serving": "2.32oz",
+         "cal": 1590.0,
+         "p": 89.97,
+         "c": 91.11,
+         "f": 93.53,
          "tags": []
         }
        ]
@@ -2641,13 +2641,13 @@
          "tags": []
         },
         {
-         "id": "1987",
-         "name": "Roasted Plantains",
-         "serving": "2oz",
-         "cal": 98.0,
-         "p": 0.71,
-         "c": 19.28,
-         "f": 1.9,
+         "id": "4197",
+         "name": "Tempeh Chili",
+         "serving": "8.1oz",
+         "cal": 100.0,
+         "p": 5.42,
+         "c": 11.68,
+         "f": 3.81,
          "tags": []
         }
        ]
