@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "updated": "2026-10-04T05:55:44+00:00",
+ "updated": "2026-10-04T17:35:00+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -31,6 +31,16 @@
          "p": 0,
          "c": 18.47,
          "f": 0,
+         "tags": []
+        },
+        {
+         "id": "1475",
+         "name": "French Toast",
+         "serving": "2.48oz",
+         "cal": 188.0,
+         "p": 6.53,
+         "c": 31.89,
+         "f": 4.97,
          "tags": []
         }
        ]
@@ -612,15 +622,6 @@
          "tags": []
         },
         {
-         "id": "7435",
-         "name": "De la Olla Beans",
-         "serving": "2oz",
-         "cal": 192,
-         "p": 11.04,
-         "c": 32.43,
-         "f": 1.89
-        },
-        {
          "id": "1976",
          "name": "Chicken Tortilla Soup",
          "serving": "6.05oz",
@@ -638,6 +639,16 @@
          "p": 1.29,
          "c": 6.12,
          "f": 0.65,
+         "tags": []
+        },
+        {
+         "id": "1133",
+         "name": "Cuban Red Beans & Rice",
+         "serving": "1.8oz",
+         "cal": 94.0,
+         "p": 4.14,
+         "c": 15.47,
+         "f": 1.4,
          "tags": []
         }
        ]
@@ -748,6 +759,36 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
@@ -1415,16 +1456,6 @@
          "tags": []
         },
         {
-         "id": "2179",
-         "name": "Pineapple Compote",
-         "serving": "1.02oz",
-         "cal": 35.0,
-         "p": 0.12,
-         "c": 9.09,
-         "f": 0.03,
-         "tags": []
-        },
-        {
          "id": "3004",
          "name": "Waffle",
          "serving": "1.25oz",
@@ -1432,6 +1463,16 @@
          "p": 1.49,
          "c": 12.43,
          "f": 1.49,
+         "tags": []
+        },
+        {
+         "id": "994",
+         "name": "Pear-Pineapple Compote",
+         "serving": "1.76oz",
+         "cal": 48.0,
+         "p": 0.3,
+         "c": 11.92,
+         "f": 0.06,
          "tags": []
         }
        ]
@@ -1581,26 +1622,6 @@
          "nodata": true
         },
         {
-         "id": "2256",
-         "name": "Almond Butter",
-         "serving": "1.08oz",
-         "cal": 195.0,
-         "p": 5.48,
-         "c": 5.49,
-         "f": 17.92,
-         "tags": []
-        },
-        {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
-         "tags": []
-        },
-        {
          "id": "2945",
          "name": "Peanut Butter",
          "serving": "1oz",
@@ -1611,13 +1632,33 @@
          "tags": []
         },
         {
-         "id": "3436",
-         "name": "Green Tea-Shiso Marmalade",
-         "serving": "1.52oz",
-         "cal": 49.0,
-         "p": 0.12,
-         "c": 12.29,
-         "f": 0.06,
+         "id": "7682",
+         "name": "Carrot Walnut Zucchini Quickbread",
+         "serving": "2.42oz",
+         "cal": 238.0,
+         "p": 4.28,
+         "c": 28.57,
+         "f": 11.84,
+         "tags": []
+        },
+        {
+         "id": "3259",
+         "name": "Apple, Pear & Cranberry Compote",
+         "serving": "1.73oz",
+         "cal": 33.0,
+         "p": 0.21,
+         "c": 7.6,
+         "f": 0.28,
+         "tags": []
+        },
+        {
+         "id": "888",
+         "name": "Cacao Butter",
+         "serving": "1.09oz",
+         "cal": 38.0,
+         "p": 0.97,
+         "c": 7.08,
+         "f": 0.69,
          "tags": []
         }
        ]
@@ -1928,6 +1969,16 @@
          "c": 11.93,
          "f": 2.45,
          "tags": []
+        },
+        {
+         "id": "994",
+         "name": "Pear-Pineapple Compote",
+         "serving": "1.76oz",
+         "cal": 48.0,
+         "p": 0.3,
+         "c": 11.92,
+         "f": 0.06,
+         "tags": []
         }
        ]
       },
@@ -2086,26 +2137,6 @@
          "tags": []
         },
         {
-         "id": "2939",
-         "name": "Almond Cashew Butter",
-         "serving": "1oz",
-         "cal": 167.0,
-         "p": 5.12,
-         "c": 7.24,
-         "f": 14.09,
-         "tags": []
-        },
-        {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
-         "tags": []
-        },
-        {
          "id": "2945",
          "name": "Peanut Butter",
          "serving": "1oz",
@@ -2126,13 +2157,33 @@
          "tags": []
         },
         {
-         "id": "3436",
-         "name": "Green Tea-Shiso Marmalade",
-         "serving": "1.52oz",
-         "cal": 49.0,
-         "p": 0.12,
-         "c": 12.29,
-         "f": 0.06,
+         "id": "7682",
+         "name": "Carrot Walnut Zucchini Quickbread",
+         "serving": "2.42oz",
+         "cal": 238.0,
+         "p": 4.28,
+         "c": 28.57,
+         "f": 11.84,
+         "tags": []
+        },
+        {
+         "id": "3259",
+         "name": "Apple, Pear & Cranberry Compote",
+         "serving": "1.73oz",
+         "cal": 33.0,
+         "p": 0.21,
+         "c": 7.6,
+         "f": 0.28,
+         "tags": []
+        },
+        {
+         "id": "888",
+         "name": "Cacao Butter",
+         "serving": "1.09oz",
+         "cal": 38.0,
+         "p": 0.97,
+         "c": 7.08,
+         "f": 0.69,
          "tags": []
         }
        ]
