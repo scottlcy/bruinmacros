@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "updated": "2026-10-04T02:38:45+00:00",
+ "updated": "2026-10-04T05:55:22+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -907,14 +907,15 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "7343",
-         "name": "Country Fried Beef Steak",
+         "id": "6245",
+         "name": "Kitchen Special",
          "serving": "4oz",
-         "cal": 556.0,
-         "p": 16.67,
-         "c": 29.99,
-         "f": 15.33,
-         "tags": []
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "8962",
@@ -1256,35 +1257,6 @@
       {
        "name": "The Sweet Stop",
        "items": [
-        {
-         "id": "283",
-         "name": "Red Velvet Cupcake",
-         "serving": "3.83oz",
-         "cal": 553.0,
-         "p": 5.82,
-         "c": 50.66,
-         "f": 34.92,
-         "tags": []
-        },
-        {
-         "id": "300",
-         "name": "Double Chocolate Cookie",
-         "serving": "1.3oz",
-         "cal": 167,
-         "p": 2.03,
-         "c": 22.15,
-         "f": 8.51
-        },
-        {
-         "id": "244",
-         "name": "Banana Cream Pie",
-         "serving": "4.04oz",
-         "cal": 271.0,
-         "p": 3.19,
-         "c": 31.59,
-         "f": 14.37,
-         "tags": []
-        },
         {
          "id": "285",
          "name": "Chocolate Cherry Crisp",
@@ -2607,13 +2579,13 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "8020",
-         "name": "Halal Orange Chipotle Herb Chicken Thigh",
-         "serving": "1.59oz",
-         "cal": 56.0,
-         "p": 7.84,
-         "c": 0.87,
-         "f": 2.17,
+         "id": "7580",
+         "name": "Halal Chipotle BBQ Chicken Thigh",
+         "serving": "1.69oz",
+         "cal": 61.0,
+         "p": 7.78,
+         "c": 2.44,
+         "f": 1.96,
          "tags": []
         },
         {

@@ -14912,5 +14912,28 @@
   "nodata": true,
   "fetched": "2026-10-03",
   "seen": "2026-10-03"
+ },
+ "6245": {
+  "name": "Kitchen Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-03",
+  "seen": "2026-10-03"
+ },
+ "7580": {
+  "name": "Halal Chipotle BBQ Chicken Thigh",
+  "serving": "1.69oz",
+  "cal": 61.0,
+  "f": 1.96,
+  "c": 2.44,
+  "p": 7.78,
+  "tags": [],
+  "fetched": "2026-10-03",
+  "seen": "2026-10-03"
  }
 }
