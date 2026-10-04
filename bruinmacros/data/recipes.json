@@ -12249,7 +12249,7 @@
   "p": 1.18,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-01"
+  "seen": "2026-10-04"
  },
  "3821": {
   "name": "Pepper & Mushroom Pizza",
@@ -12315,7 +12315,7 @@
   "p": 13.06,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-03"
+  "seen": "2026-10-04"
  },
  "4190": {
   "name": "White Bean Ragout w/ Quinoa, Green Beans, & Mushroom",
@@ -14701,7 +14701,7 @@
   "p": 0.12,
   "tags": [],
   "fetched": "2026-10-03",
-  "seen": "2026-10-03"
+  "seen": "2026-10-04"
  },
  "3437": {
   "name": "Pear Vanilla Water",
@@ -15747,6 +15747,17 @@
   "f": 14.55,
   "c": 72.7,
   "p": 14.48,
+  "tags": [],
+  "fetched": "2026-10-04",
+  "seen": "2026-10-04"
+ },
+ "4328": {
+  "name": "Lentil, Chard, & Sweet Potato Curry",
+  "serving": "7.21oz",
+  "cal": 298.0,
+  "f": 3.41,
+  "c": 58.43,
+  "p": 9.91,
   "tags": [],
   "fetched": "2026-10-04",
   "seen": "2026-10-04"

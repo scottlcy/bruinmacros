@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "updated": "2026-10-04T17:35:00+00:00",
+ "updated": "2026-10-04T21:24:16+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1936,13 +1936,33 @@
          "tags": []
         },
         {
-         "id": "1069",
-         "name": "Sautéed Spinach",
-         "serving": "2.27oz",
-         "cal": 27.0,
-         "p": 1.58,
-         "c": 3.12,
-         "f": 1.22,
+         "id": "4013",
+         "name": "Red Chile Chicken Wings",
+         "serving": "2.7oz",
+         "cal": 185.0,
+         "p": 13.06,
+         "c": 1.36,
+         "f": 13.84,
+         "tags": []
+        },
+        {
+         "id": "3787",
+         "name": "Mashed Cauliflower",
+         "serving": "2.1oz",
+         "cal": 31.0,
+         "p": 1.18,
+         "c": 4.54,
+         "f": 1.17,
+         "tags": []
+        },
+        {
+         "id": "4328",
+         "name": "Lentil, Chard, & Sweet Potato Curry",
+         "serving": "7.21oz",
+         "cal": 298.0,
+         "p": 9.91,
+         "c": 58.43,
+         "f": 3.41,
          "tags": []
         }
        ]
@@ -1968,16 +1988,6 @@
          "p": 1.98,
          "c": 11.93,
          "f": 2.45,
-         "tags": []
-        },
-        {
-         "id": "994",
-         "name": "Pear-Pineapple Compote",
-         "serving": "1.76oz",
-         "cal": 48.0,
-         "p": 0.3,
-         "c": 11.92,
-         "f": 0.06,
          "tags": []
         }
        ]
@@ -2137,6 +2147,26 @@
          "tags": []
         },
         {
+         "id": "2939",
+         "name": "Almond Cashew Butter",
+         "serving": "1oz",
+         "cal": 167.0,
+         "p": 5.12,
+         "c": 7.24,
+         "f": 14.09,
+         "tags": []
+        },
+        {
+         "id": "1205",
+         "name": "Blueberry Compote",
+         "serving": "1.7oz",
+         "cal": 31.0,
+         "p": 0.07,
+         "c": 7.47,
+         "f": 0.11,
+         "tags": []
+        },
+        {
          "id": "2945",
          "name": "Peanut Butter",
          "serving": "1oz",
@@ -2157,13 +2187,13 @@
          "tags": []
         },
         {
-         "id": "7682",
-         "name": "Carrot Walnut Zucchini Quickbread",
-         "serving": "2.42oz",
-         "cal": 238.0,
-         "p": 4.28,
-         "c": 28.57,
-         "f": 11.84,
+         "id": "3436",
+         "name": "Green Tea-Shiso Marmalade",
+         "serving": "1.52oz",
+         "cal": 49.0,
+         "p": 0.12,
+         "c": 12.29,
+         "f": 0.06,
          "tags": []
         },
         {
