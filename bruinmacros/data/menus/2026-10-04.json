@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "updated": "2026-10-04T21:24:16+00:00",
+ "updated": "2026-10-05T00:55:26+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1070,25 +1070,6 @@
          "tags": []
         },
         {
-         "id": "7341",
-         "name": "Steamed Rice",
-         "serving": "3oz",
-         "cal": 318.0,
-         "p": 6.37,
-         "c": 68.62,
-         "f": 0.87,
-         "tags": []
-        },
-        {
-         "id": "7435",
-         "name": "De la Olla Beans",
-         "serving": "2oz",
-         "cal": 192,
-         "p": 11.04,
-         "c": 32.43,
-         "f": 1.89
-        },
-        {
          "id": "1976",
          "name": "Chicken Tortilla Soup",
          "serving": "6.05oz",
@@ -1106,6 +1087,26 @@
          "p": 1.29,
          "c": 6.12,
          "f": 0.65,
+         "tags": []
+        },
+        {
+         "id": "1156",
+         "name": "Mexican Rice",
+         "serving": "2.33oz",
+         "cal": 199.0,
+         "p": 3.87,
+         "c": 40.6,
+         "f": 1.76,
+         "tags": []
+        },
+        {
+         "id": "6914",
+         "name": "Spicy Braised Lentils with Potato",
+         "serving": "4.85oz",
+         "cal": 122.0,
+         "p": 5.81,
+         "c": 18.95,
+         "f": 2.9,
          "tags": []
         }
        ]
@@ -1216,6 +1217,46 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
         }
        ]
       },
@@ -2572,16 +2613,6 @@
          "tags": []
         },
         {
-         "id": "929",
-         "name": "Red Quinoa",
-         "serving": "2.33oz",
-         "cal": 97.0,
-         "p": 3.68,
-         "c": 17.13,
-         "f": 1.54,
-         "tags": []
-        },
-        {
          "id": "984",
          "name": "Roasted Broccoli",
          "serving": "3.21oz",
@@ -2599,6 +2630,27 @@
          "p": 1.95,
          "c": 4.1,
          "f": 1.15,
+         "tags": []
+        },
+        {
+         "id": "5953",
+         "name": "Farm Stand Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "816",
+         "name": "Quinoa",
+         "serving": "1oz",
+         "cal": 41.0,
+         "p": 1.53,
+         "c": 7.14,
+         "f": 0.64,
          "tags": []
         }
        ]
@@ -3309,12 +3361,62 @@
          "c": 0,
          "f": 0,
          "nodata": true
+        },
+        {
+         "id": "5378",
+         "name": "Greek Honey Pistachio Cake",
+         "serving": "1.83oz",
+         "cal": 196.0,
+         "p": 3.37,
+         "c": 17.76,
+         "f": 12.48,
+         "tags": []
         }
        ]
       },
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "2827",
+         "name": "Daube Beef Provençal",
+         "serving": "3.55oz",
+         "cal": 130.0,
+         "p": 4.78,
+         "c": 5.68,
+         "f": 9.93,
+         "tags": []
+        },
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "nodata": true
+        },
+        {
+         "id": "1421",
+         "name": "Stewed Cannellini Beans w/ Tomatoes",
+         "serving": "3.68oz",
+         "cal": 74.0,
+         "p": 2.69,
+         "c": 9.13,
+         "f": 3.03,
+         "tags": []
+        },
+        {
+         "id": "7691",
+         "name": "Koshari Lentil, Chickpea, and Saute Rice",
+         "serving": "7oz",
+         "cal": 410.0,
+         "p": 15.17,
+         "c": 69.03,
+         "f": 8.03,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -3332,16 +3434,6 @@
          "p": 2,
          "c": 10.51,
          "f": 2.91
-        },
-        {
-         "id": "6637",
-         "name": "Sun-Dried Tomato Pesto",
-         "serving": "0.98oz",
-         "cal": 146.0,
-         "p": 2.06,
-         "c": 7.15,
-         "f": 12.59,
-         "tags": []
         },
         {
          "id": "869",
@@ -3435,25 +3527,6 @@
          "f": 24.29
         },
         {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
-        },
-        {
-         "id": "1323",
-         "name": "Morrocan Spicy Lentil Dip",
-         "serving": "4.19oz",
-         "cal": 190,
-         "p": 12.44,
-         "c": 32.65,
-         "f": 1.69
-        },
-        {
          "id": "1274",
          "name": "White Bean, Feta, & Za'atar Spread",
          "serving": "1.14oz",
@@ -3472,24 +3545,6 @@
          "f": 14.32
         },
         {
-         "id": "8142",
-         "name": "Garlic Lebneh",
-         "serving": "8.64oz",
-         "cal": 142,
-         "p": 23.43,
-         "c": 10.18,
-         "f": 0.91
-        },
-        {
-         "id": "1870",
-         "name": "Htipiti Feta Spread",
-         "serving": "1oz",
-         "cal": 70,
-         "p": 2.87,
-         "c": 2.65,
-         "f": 5.24
-        },
-        {
          "id": "3852",
          "name": "Marinated Red Grape Tomatoes",
          "serving": "4.7oz",
@@ -3500,26 +3555,6 @@
          "tags": []
         },
         {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -3527,16 +3562,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
-         "tags": []
         }
        ]
       },

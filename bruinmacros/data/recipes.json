@@ -632,7 +632,7 @@
   "c": 0,
   "nodata": true,
   "fetched": "2026-09-27",
-  "seen": "2026-10-01"
+  "seen": "2026-10-04"
  },
  "6379": {
   "name": "Bulgur Wheat",
@@ -6826,7 +6826,7 @@
   "p": 3.37,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-02"
+  "seen": "2026-10-04"
  },
  "5379": {
   "name": "Ricotta Rosa Baked Pasta",
@@ -9884,7 +9884,7 @@
   "p": 1.53,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-01"
+  "seen": "2026-10-04"
  },
  "8623": {
   "name": "Ziti Pasta w/ Pepperoni",
@@ -10229,7 +10229,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-29",
-  "seen": "2026-10-03"
+  "seen": "2026-10-04"
  },
  "6273": {
   "name": "Wilted Collard Greens",
@@ -11322,7 +11322,7 @@
   "p": 5.81,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-09-30"
+  "seen": "2026-10-04"
  },
  "7330": {
   "name": "Cajun Red Beans & Rice",
@@ -12980,7 +12980,7 @@
   "p": 3.87,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-02"
+  "seen": "2026-10-04"
  },
  "1193": {
   "name": "Chicken & Egg Breakfast Pita",
@@ -13079,7 +13079,7 @@
   "p": 2.69,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-02"
+  "seen": "2026-10-04"
  },
  "1560": {
   "name": "Naan Bread",
@@ -13288,7 +13288,7 @@
   "p": 4.78,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-02"
+  "seen": "2026-10-04"
  },
  "2942": {
   "name": "Butter Mochi",
@@ -13695,7 +13695,7 @@
   "p": 15.17,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-02"
+  "seen": "2026-10-04"
  },
  "7765": {
   "name": "Tri-Color Roasted Cauliflower",
@@ -15758,6 +15758,17 @@
   "f": 3.41,
   "c": 58.43,
   "p": 9.91,
+  "tags": [],
+  "fetched": "2026-10-04",
+  "seen": "2026-10-04"
+ },
+ "9799": {
+  "name": "Shrimp Aguachile Tostada Bar",
+  "serving": "4.2oz",
+  "cal": 106.0,
+  "f": 4.36,
+  "c": 8.4,
+  "p": 7.87,
   "tags": [],
   "fetched": "2026-10-04",
   "seen": "2026-10-04"
