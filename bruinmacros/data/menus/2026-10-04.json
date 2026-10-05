@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "updated": "2026-10-05T00:55:26+00:00",
+ "updated": "2026-10-05T05:42:36+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -923,16 +923,6 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "2052",
-         "name": "Carne Asada Fries",
-         "serving": "3.81oz",
-         "cal": 205.0,
-         "p": 15.29,
-         "c": 5.55,
-         "f": 13.0,
-         "tags": []
-        },
-        {
          "id": "6188",
          "name": "Beyond Chicken Tenders",
          "serving": "4oz",
@@ -951,6 +941,17 @@
          "c": 26.98,
          "f": 4.04,
          "tags": []
+        },
+        {
+         "id": "6245",
+         "name": "Kitchen Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1045,30 +1046,20 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
       {
        "name": "Harvest Kitchen",
        "items": [
-        {
-         "id": "6909",
-         "name": "Cilantro Jalapeno Chicken Thigh",
-         "serving": "3.05oz",
-         "cal": 112.0,
-         "p": 15.06,
-         "c": 0.96,
-         "f": 4.39,
-         "tags": []
-        },
         {
          "id": "1976",
          "name": "Chicken Tortilla Soup",
@@ -1077,16 +1068,6 @@
          "p": 9.39,
          "c": 25.64,
          "f": 4.32,
-         "tags": []
-        },
-        {
-         "id": "753",
-         "name": "Garden Vegetable Soup",
-         "serving": "6oz",
-         "cal": 34.0,
-         "p": 1.29,
-         "c": 6.12,
-         "f": 0.65,
          "tags": []
         },
         {
@@ -1108,6 +1089,26 @@
          "c": 18.95,
          "f": 2.9,
          "tags": []
+        },
+        {
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
+        },
+        {
+         "id": "6360",
+         "name": "BBQ Pork Tenderloin",
+         "serving": "425.76oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1273,24 +1274,6 @@
          "f": 28.36
         },
         {
-         "id": "309",
-         "name": "Snickerdoodle Cookies",
-         "serving": "1.3oz",
-         "cal": 141,
-         "p": 0.86,
-         "c": 31.27,
-         "f": 2.36
-        },
-        {
-         "id": "242",
-         "name": "Chocolate Silk Pie",
-         "serving": "2.48oz",
-         "cal": 224,
-         "p": 2.91,
-         "c": 20.06,
-         "f": 17.39
-        },
-        {
          "id": "297",
          "name": "Red Velvet Brownie",
          "serving": "2.49oz",
@@ -1298,15 +1281,6 @@
          "p": 6.58,
          "c": 36.32,
          "f": 13.27
-        },
-        {
-         "id": "288",
-         "name": "Mixed Berry Crisp",
-         "serving": "3.2oz",
-         "cal": 150,
-         "p": 1.47,
-         "c": 29.72,
-         "f": 3.21
         },
         {
          "id": "4849",
@@ -1338,6 +1312,26 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "287",
+         "name": "Cranberry Apple Crisp",
+         "serving": "4.46oz",
+         "cal": 168.0,
+         "p": 1.64,
+         "c": 32.28,
+         "f": 4.34,
+         "tags": []
+        },
+        {
+         "id": "5601",
+         "name": "Fudge Brownie",
+         "serving": "2.2oz",
+         "cal": 229.0,
+         "p": 3.7,
+         "c": 28.69,
+         "f": 14.48,
+         "tags": []
         }
        ]
       }
@@ -3208,13 +3202,14 @@
          "tags": []
         },
         {
-         "id": "1396",
-         "name": "Greek Style Roasted Carrot & Pepper Saute",
-         "serving": "3.36oz",
-         "cal": 85,
-         "p": 0.95,
-         "c": 7.23,
-         "f": 5.83
+         "id": "1493",
+         "name": "Roasted Butternut Squash",
+         "serving": "3.1oz",
+         "cal": 46.0,
+         "p": 0.88,
+         "c": 10.19,
+         "f": 0.82,
+         "tags": []
         },
         {
          "id": "203",
@@ -3343,13 +3338,23 @@
          "tags": []
         },
         {
-         "id": "4297",
-         "name": "Italian Cream Cake",
-         "serving": "1.9oz",
-         "cal": 207.0,
-         "p": 2.38,
-         "c": 20.43,
-         "f": 12.73,
+         "id": "5378",
+         "name": "Greek Honey Pistachio Cake",
+         "serving": "1.83oz",
+         "cal": 196.0,
+         "p": 3.37,
+         "c": 17.76,
+         "f": 12.48,
+         "tags": []
+        },
+        {
+         "id": "4439",
+         "name": "Rice Pudding",
+         "serving": "5.89oz",
+         "cal": 152.0,
+         "p": 3.32,
+         "c": 28.81,
+         "f": 2.72,
          "tags": []
         },
         {
@@ -3361,16 +3366,6 @@
          "c": 0,
          "f": 0,
          "nodata": true
-        },
-        {
-         "id": "5378",
-         "name": "Greek Honey Pistachio Cake",
-         "serving": "1.83oz",
-         "cal": 196.0,
-         "p": 3.37,
-         "c": 17.76,
-         "f": 12.48,
-         "tags": []
         }
        ]
       },
@@ -3378,43 +3373,23 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "2827",
-         "name": "Daube Beef Provençal",
-         "serving": "3.55oz",
-         "cal": 130.0,
-         "p": 4.78,
-         "c": 5.68,
-         "f": 9.93,
+         "id": "3695",
+         "name": "Pasta Frutti di Mare",
+         "serving": "5.85oz",
+         "cal": 342.0,
+         "p": 14.0,
+         "c": 62.5,
+         "f": 4.77,
          "tags": []
         },
         {
-         "id": "8477",
-         "name": "Mezze Special",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
-        },
-        {
-         "id": "1421",
-         "name": "Stewed Cannellini Beans w/ Tomatoes",
-         "serving": "3.68oz",
-         "cal": 74.0,
-         "p": 2.69,
-         "c": 9.13,
-         "f": 3.03,
-         "tags": []
-        },
-        {
-         "id": "7691",
-         "name": "Koshari Lentil, Chickpea, and Saute Rice",
-         "serving": "7oz",
-         "cal": 410.0,
-         "p": 15.17,
-         "c": 69.03,
-         "f": 8.03,
+         "id": "8672",
+         "name": "Mediterranean Roasted Tofu",
+         "serving": "7.07oz",
+         "cal": 246.0,
+         "p": 21.03,
+         "c": 9.59,
+         "f": 15.16,
          "tags": []
         },
         {
@@ -3562,6 +3537,16 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
+        },
+        {
+         "id": "1421",
+         "name": "Stewed Cannellini Beans w/ Tomatoes",
+         "serving": "3.68oz",
+         "cal": 74.0,
+         "p": 2.69,
+         "c": 9.13,
+         "f": 3.03,
+         "tags": []
         }
        ]
       },

@@ -3191,7 +3191,7 @@
   "p": 3.7,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-09-28"
+  "seen": "2026-10-04"
  },
  "5877": {
   "name": "Pumpkin Muffin",
@@ -11575,7 +11575,7 @@
   "p": 0.88,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-10-01"
+  "seen": "2026-10-04"
  },
  "7980": {
   "name": "Baked Rotini w/ Cheese",
@@ -12238,7 +12238,7 @@
   "p": 14.0,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-01"
+  "seen": "2026-10-04"
  },
  "3787": {
   "name": "Mashed Cauliflower",
@@ -12492,7 +12492,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-30",
-  "seen": "2026-10-01"
+  "seen": "2026-10-04"
  },
  "6362": {
   "name": "BBQ Chicken Drumsticks",
@@ -14923,7 +14923,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-03",
-  "seen": "2026-10-03"
+  "seen": "2026-10-04"
  },
  "7580": {
   "name": "Halal Chipotle BBQ Chicken Thigh",
@@ -15769,6 +15769,39 @@
   "f": 4.36,
   "c": 8.4,
   "p": 7.87,
+  "tags": [],
+  "fetched": "2026-10-04",
+  "seen": "2026-10-04"
+ },
+ "287": {
+  "name": "Cranberry Apple Crisp",
+  "serving": "4.46oz",
+  "cal": 168.0,
+  "f": 4.34,
+  "c": 32.28,
+  "p": 1.64,
+  "tags": [],
+  "fetched": "2026-10-04",
+  "seen": "2026-10-04"
+ },
+ "4439": {
+  "name": "Rice Pudding",
+  "serving": "5.89oz",
+  "cal": 152.0,
+  "f": 2.72,
+  "c": 28.81,
+  "p": 3.32,
+  "tags": [],
+  "fetched": "2026-10-04",
+  "seen": "2026-10-04"
+ },
+ "8672": {
+  "name": "Mediterranean Roasted Tofu",
+  "serving": "7.07oz",
+  "cal": 246.0,
+  "f": 15.16,
+  "c": 9.59,
+  "p": 21.03,
   "tags": [],
   "fetched": "2026-10-04",
   "seen": "2026-10-04"
