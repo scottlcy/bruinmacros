@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "updated": "2026-10-06T18:55:03+00:00",
+ "updated": "2026-10-06T23:03:52+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1120,16 +1120,6 @@
          "tags": []
         },
         {
-         "id": "7331",
-         "name": "Herbed Rice Pilaf",
-         "serving": "3.01oz",
-         "cal": 174.0,
-         "p": 3.42,
-         "c": 36.33,
-         "f": 1.04,
-         "tags": []
-        },
-        {
          "id": "6916",
          "name": "Spicy Black Beans",
          "serving": "2.03oz",
@@ -1158,6 +1148,26 @@
          "c": 6.12,
          "f": 0.65,
          "tags": []
+        },
+        {
+         "id": "7188",
+         "name": "Coconut Rice",
+         "serving": "1.96oz",
+         "cal": 106.0,
+         "p": 1.67,
+         "c": 18.59,
+         "f": 2.43,
+         "tags": []
+        },
+        {
+         "id": "2233",
+         "name": "Orange Glazed Brazilian Chicken Wings",
+         "serving": "6.5oz",
+         "cal": 310.0,
+         "p": 22.14,
+         "c": 12.07,
+         "f": 19.41,
+         "tags": []
         }
        ]
       },
@@ -1174,16 +1184,6 @@
          "f": 0.26
         },
         {
-         "id": "6904",
-         "name": "Garlicky Green Beans",
-         "serving": "2.22oz",
-         "cal": 29.0,
-         "p": 1.4,
-         "c": 5.85,
-         "f": 0.38,
-         "tags": []
-        },
-        {
          "id": "7339",
          "name": "Roasted Carrots",
          "serving": "3.91oz",
@@ -1191,6 +1191,16 @@
          "p": 1.01,
          "c": 10.36,
          "f": 2.86,
+         "tags": []
+        },
+        {
+         "id": "6905",
+         "name": "Roasted Brussels Sprouts",
+         "serving": "2.15oz",
+         "cal": 35.0,
+         "p": 2.03,
+         "c": 5.4,
+         "f": 1.14,
          "tags": []
         }
        ]
@@ -1267,6 +1277,57 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "812",
+         "name": "Mexican Street Corn Salad",
+         "serving": "1.86oz",
+         "cal": 158.0,
+         "p": 1.94,
+         "c": 5.41,
+         "f": 13.74,
+         "tags": []
+        },
+        {
+         "id": "5956",
+         "name": "Flex Bar Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1291,16 +1352,6 @@
          "p": 2.52,
          "c": 18.92,
          "f": 17.54,
-         "tags": []
-        },
-        {
-         "id": "1088",
-         "name": "Pecan Pie",
-         "serving": "3.6oz",
-         "cal": 407.0,
-         "p": 3.19,
-         "c": 52.59,
-         "f": 20.72,
          "tags": []
         },
         {
@@ -1354,6 +1405,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
         }
        ]
       }
@@ -2000,16 +2061,6 @@
          "tags": []
         },
         {
-         "id": "902",
-         "name": "Wheat Berry",
-         "serving": "2.01oz",
-         "cal": 93.0,
-         "p": 3.58,
-         "c": 20.19,
-         "f": 0.44,
-         "tags": []
-        },
-        {
          "id": "984",
          "name": "Roasted Broccoli",
          "serving": "3.21oz",
@@ -2027,6 +2078,26 @@
          "p": 0.98,
          "c": 3.9,
          "f": 1.94,
+         "tags": []
+        },
+        {
+         "id": "922",
+         "name": "Spicy Fingerling Potatoes",
+         "serving": "2.03oz",
+         "cal": 45.0,
+         "p": 0.95,
+         "c": 8.89,
+         "f": 0.62,
+         "tags": []
+        },
+        {
+         "id": "2327",
+         "name": "Quinoa Pilaf",
+         "serving": "1.67oz",
+         "cal": 66.0,
+         "p": 2.28,
+         "c": 10.9,
+         "f": 1.44,
          "tags": []
         }
        ]
@@ -2160,26 +2231,6 @@
          "tags": []
         },
         {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
-         "tags": []
-        },
-        {
          "id": "3402",
          "name": "Pistachio Bread",
          "serving": "2.31oz",
@@ -2197,16 +2248,6 @@
          "p": 2.89,
          "c": 17.72,
          "f": 13.58,
-         "tags": []
-        },
-        {
-         "id": "1244",
-         "name": "Raspberry Ginger Oat Bar",
-         "serving": "2.48oz",
-         "cal": 247.0,
-         "p": 4.72,
-         "c": 34.1,
-         "f": 10.7,
          "tags": []
         },
         {
@@ -2240,23 +2281,23 @@
          "tags": []
         },
         {
-         "id": "2014",
-         "name": "Citrus Marmalade",
-         "serving": "1.42oz",
-         "cal": 53.0,
-         "p": 0.09,
-         "c": 13.51,
-         "f": 0.04,
+         "id": "6955",
+         "name": "Orange Cranberry Quickbread",
+         "serving": "1.39oz",
+         "cal": 139.0,
+         "p": 1.84,
+         "c": 12.99,
+         "f": 8.67,
          "tags": []
         },
         {
-         "id": "2179",
-         "name": "Pineapple Compote",
-         "serving": "1.02oz",
-         "cal": 35.0,
-         "p": 0.12,
-         "c": 9.09,
-         "f": 0.03,
+         "id": "3928",
+         "name": "Peach Vanilla Compote",
+         "serving": "2.06oz",
+         "cal": 56.0,
+         "p": 0.25,
+         "c": 14.82,
+         "f": 0,
          "tags": []
         }
        ]
@@ -2605,13 +2646,13 @@
          "tags": []
         },
         {
-         "id": "816",
-         "name": "Quinoa",
-         "serving": "1oz",
-         "cal": 41.0,
-         "p": 1.53,
-         "c": 7.14,
-         "f": 0.64,
+         "id": "2327",
+         "name": "Quinoa Pilaf",
+         "serving": "1.67oz",
+         "cal": 66.0,
+         "p": 2.28,
+         "c": 10.9,
+         "f": 1.44,
          "tags": []
         },
         {
@@ -3422,16 +3463,6 @@
          "nodata": true
         },
         {
-         "id": "1128",
-         "name": "Eggplant \"Bacon\" BLT Sandwich",
-         "serving": "6.68oz",
-         "cal": 247.0,
-         "p": 5.64,
-         "c": 35.25,
-         "f": 9.41,
-         "tags": []
-        },
-        {
          "id": "7578",
          "name": "Herbed Farro",
          "serving": "1.27oz",
@@ -3873,6 +3904,36 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "2279",
+         "name": "Basque Style Chicken",
+         "serving": "8.05oz",
+         "cal": 233.0,
+         "p": 19.53,
+         "c": 26.19,
+         "f": 5.61,
+         "tags": []
+        },
+        {
+         "id": "1047",
+         "name": "Italiano Panini",
+         "serving": "4.83oz",
+         "cal": 309.0,
+         "p": 17.8,
+         "c": 15.84,
+         "f": 21.37,
+         "tags": []
+        },
+        {
+         "id": "5868",
+         "name": "Red Beans & Rice",
+         "serving": "9.17oz",
+         "cal": 238.0,
+         "p": 9.12,
+         "c": 47.2,
+         "f": 1.43,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
