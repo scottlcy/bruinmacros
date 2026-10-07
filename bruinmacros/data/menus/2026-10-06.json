@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "updated": "2026-10-07T02:23:32+00:00",
+ "updated": "2026-10-07T06:02:24+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -936,16 +936,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "9064",
-         "name": "Lemon Cod",
-         "serving": "2.01oz",
-         "cal": 146.0,
-         "p": 7.42,
-         "c": 1.51,
-         "f": 12.56,
-         "tags": []
-        },
-        {
          "id": "8743",
          "name": "Brazilian Saffron Rice",
          "serving": "2.01oz",
@@ -964,22 +954,22 @@
          "c": 5.19,
          "f": 4.16,
          "tags": []
+        },
+        {
+         "id": "2246",
+         "name": "Camarao de Coco",
+         "serving": "5.12oz",
+         "cal": 77.0,
+         "p": 5.32,
+         "c": 4.79,
+         "f": 3.81,
+         "tags": []
         }
        ]
       },
       {
        "name": "The Kitchen",
        "items": [
-        {
-         "id": "6473",
-         "name": "Picanha Sirloin Steak",
-         "serving": "3.19oz",
-         "cal": 124.0,
-         "p": 16.74,
-         "c": 3.6,
-         "f": 4.33,
-         "tags": []
-        },
         {
          "id": "2277",
          "name": "Roasted Fingerling Potato & Cilantro Pesto",
@@ -998,6 +988,16 @@
          "p": 12.97,
          "c": 8.74,
          "f": 5.04,
+         "tags": []
+        },
+        {
+         "id": "6366",
+         "name": "Mesquite BBQ Chicken",
+         "serving": "2.95oz",
+         "cal": 127.0,
+         "p": 15.05,
+         "c": 0,
+         "f": 5.78,
          "tags": []
         }
        ]
@@ -1066,16 +1066,6 @@
          "f": 24.95
         },
         {
-         "id": "2223",
-         "name": "Brazilian Loaded Hot Dog",
-         "serving": "4.8oz",
-         "cal": 329.0,
-         "p": 9.18,
-         "c": 33.63,
-         "f": 17.91,
-         "tags": []
-        },
-        {
          "id": "2576",
          "name": "Piri Piri Chicken Sandwich",
          "serving": "7.37oz",
@@ -1095,14 +1085,14 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1150,13 +1140,13 @@
          "tags": []
         },
         {
-         "id": "2233",
-         "name": "Orange Glazed Brazilian Chicken Wings",
-         "serving": "6.5oz",
-         "cal": 310.0,
-         "p": 22.14,
-         "c": 12.07,
-         "f": 19.41,
+         "id": "9875",
+         "name": "Brazilian Braised Pork",
+         "serving": "3.38oz",
+         "cal": 134.0,
+         "p": 17.3,
+         "c": 1.0,
+         "f": 6.55,
          "tags": []
         }
        ]
@@ -3915,13 +3905,13 @@
          "nodata": true
         },
         {
-         "id": "5868",
-         "name": "Red Beans & Rice",
-         "serving": "9.17oz",
-         "cal": 238.0,
-         "p": 9.12,
-         "c": 47.2,
-         "f": 1.43,
+         "id": "2199",
+         "name": "North African Grilled Tofu w/ Chopped Salad",
+         "serving": "7.35oz",
+         "cal": 350.0,
+         "p": 12.73,
+         "c": 13.94,
+         "f": 27.41,
          "tags": []
         },
         {
