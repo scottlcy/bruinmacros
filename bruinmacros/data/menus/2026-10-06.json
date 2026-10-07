@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "updated": "2026-10-06T23:03:52+00:00",
+ "updated": "2026-10-07T02:23:32+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -991,13 +991,13 @@
          "tags": []
         },
         {
-         "id": "6188",
-         "name": "Beyond Chicken Tenders",
-         "serving": "4oz",
-         "cal": 303.0,
-         "p": 18.45,
-         "c": 18.45,
-         "f": 15.81,
+         "id": "6182",
+         "name": "Peppered Beyond Steak",
+         "serving": "4.59oz",
+         "cal": 133.0,
+         "p": 12.97,
+         "c": 8.74,
+         "f": 5.04,
          "tags": []
         }
        ]
@@ -1109,16 +1109,6 @@
       {
        "name": "Harvest Kitchen",
        "items": [
-        {
-         "id": "9875",
-         "name": "Brazilian Braised Pork",
-         "serving": "3.38oz",
-         "cal": 134.0,
-         "p": 17.3,
-         "c": 1.0,
-         "f": 6.55,
-         "tags": []
-        },
         {
          "id": "6916",
          "name": "Spicy Black Beans",
@@ -3547,6 +3537,15 @@
          "f": 0.53
         },
         {
+         "id": "6203",
+         "name": "Muhammara (Spicy Roasted Pepper Dip)",
+         "serving": "1.99oz",
+         "cal": 97,
+         "p": 1.68,
+         "c": 3.5,
+         "f": 8.38
+        },
+        {
          "id": "1511",
          "name": "Artichoke Spinach Dip",
          "serving": "2.28oz",
@@ -3905,24 +3904,15 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "2279",
-         "name": "Basque Style Chicken",
-         "serving": "8.05oz",
-         "cal": 233.0,
-         "p": 19.53,
-         "c": 26.19,
-         "f": 5.61,
-         "tags": []
-        },
-        {
-         "id": "1047",
-         "name": "Italiano Panini",
-         "serving": "4.83oz",
-         "cal": 309.0,
-         "p": 17.8,
-         "c": 15.84,
-         "f": 21.37,
-         "tags": []
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "5868",
