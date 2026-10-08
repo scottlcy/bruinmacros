@@ -508,7 +508,7 @@
   "f": 0.08,
   "c": 9.81,
   "fetched": "2026-09-27",
-  "seen": "2026-10-02"
+  "seen": "2026-10-08"
  },
  "1884": {
   "name": "Risotto Parmigiano",
@@ -10229,7 +10229,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-29",
-  "seen": "2026-10-04"
+  "seen": "2026-10-08"
  },
  "6273": {
   "name": "Wilted Collard Greens",
@@ -10606,7 +10606,7 @@
   "p": 4.9,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-10-07"
+  "seen": "2026-10-08"
  },
  "2297": {
   "name": "Cinnamon Polenta Pancake w/ Apple Cranberry Compote",
@@ -11355,7 +11355,7 @@
   "p": 18.61,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-10-07"
+  "seen": "2026-10-08"
  },
  "7998": {
   "name": "Cauliflower Fennel Salad",
@@ -17383,7 +17383,7 @@
   "p": 4.0,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-07"
+  "seen": "2026-10-08"
  },
  "1216": {
   "name": "Mediterranean Tomato Salsa",
@@ -18582,6 +18582,40 @@
   "f": 5.04,
   "c": 7.49,
   "p": 16.0,
+  "tags": [],
+  "fetched": "2026-10-08",
+  "seen": "2026-10-08"
+ },
+ "2348": {
+  "name": "Oven Roasted Herb Potatoes",
+  "serving": "3oz",
+  "cal": 101.0,
+  "f": 4.82,
+  "c": 12.84,
+  "p": 1.57,
+  "tags": [],
+  "fetched": "2026-10-08",
+  "seen": "2026-10-08"
+ },
+ "6181": {
+  "name": "Mezze Vegetarian Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-08",
+  "seen": "2026-10-08"
+ },
+ "9527": {
+  "name": "Strawberry Compote & Red Wine",
+  "serving": "0.88oz",
+  "cal": 29.0,
+  "f": 1.44,
+  "c": 3.65,
+  "p": 0.2,
   "tags": [],
   "fetched": "2026-10-08",
   "seen": "2026-10-08"

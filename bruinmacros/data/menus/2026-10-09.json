@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "updated": "2026-10-08T19:18:24+00:00",
+ "updated": "2026-10-08T23:47:08+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -3648,26 +3648,6 @@
          "tags": []
         },
         {
-         "id": "1565",
-         "name": "Creamy Spinach w/ Paneer Cheese",
-         "serving": "6oz",
-         "cal": 196.0,
-         "p": 9.62,
-         "c": 9.33,
-         "f": 14.45,
-         "tags": []
-        },
-        {
-         "id": "1515",
-         "name": "Citrus Basmati Rice",
-         "serving": "3.96oz",
-         "cal": 431.0,
-         "p": 7.32,
-         "c": 76.87,
-         "f": 9.36,
-         "tags": []
-        },
-        {
          "id": "1540",
          "name": "Spiced Baby Carrots w/ Cardamom Yogurt",
          "serving": "4.34oz",
@@ -3686,6 +3666,15 @@
          "c": 2.55,
          "f": 2.48,
          "tags": []
+        },
+        {
+         "id": "1881",
+         "name": "Basmati Rice",
+         "serving": "1.02oz",
+         "cal": 45,
+         "p": 0.88,
+         "c": 9.81,
+         "f": 0.08
         }
        ]
       },
