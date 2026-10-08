@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "updated": "2026-10-08T00:12:31+00:00",
+ "updated": "2026-10-08T06:06:34+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -979,16 +979,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "1761",
-         "name": "Honey BBQ Salmon",
-         "serving": "4.9oz",
-         "cal": 246.0,
-         "p": 15.16,
-         "c": 18.78,
-         "f": 11.92,
-         "tags": []
-        },
-        {
          "id": "6855",
          "name": "Corn & Lima Bean Succotash",
          "serving": "2.09oz",
@@ -1007,22 +997,22 @@
          "c": 24.65,
          "f": 7.09,
          "tags": []
+        },
+        {
+         "id": "1942",
+         "name": "Beef Fajitas",
+         "serving": "4.99oz",
+         "cal": 138.0,
+         "p": 16.84,
+         "c": 4.99,
+         "f": 5.78,
+         "tags": []
         }
        ]
       },
       {
        "name": "The Kitchen",
        "items": [
-        {
-         "id": "6408",
-         "name": "St. Louis Style Pork Ribs",
-         "serving": "6.54oz",
-         "cal": 396.0,
-         "p": 31.5,
-         "c": 4.87,
-         "f": 27.63,
-         "tags": []
-        },
         {
          "id": "7345",
          "name": "Oven Roasted Herb Potatoes",
@@ -1041,6 +1031,16 @@
          "p": 18.45,
          "c": 18.45,
          "f": 15.81,
+         "tags": []
+        },
+        {
+         "id": "6366",
+         "name": "Mesquite BBQ Chicken",
+         "serving": "2.95oz",
+         "cal": 127.0,
+         "p": 15.05,
+         "c": 0,
+         "f": 5.78,
          "tags": []
         }
        ]
@@ -1200,26 +1200,6 @@
          "p": 1.85,
          "c": 10.11,
          "f": 9.26
-        },
-        {
-         "id": "8743",
-         "name": "Brazilian Saffron Rice",
-         "serving": "2.01oz",
-         "cal": 102.0,
-         "p": 2.25,
-         "c": 21.84,
-         "f": 0.31,
-         "tags": []
-        },
-        {
-         "id": "6166",
-         "name": "Midwest Pepper Steak",
-         "serving": "3.7oz",
-         "cal": 310.0,
-         "p": 8.21,
-         "c": 3.54,
-         "f": 28.34,
-         "tags": []
         }
        ]
       },
@@ -1387,26 +1367,6 @@
          "tags": []
         },
         {
-         "id": "5479",
-         "name": "Classic Chocolate Chip Cookie",
-         "serving": "1.3oz",
-         "cal": 162.0,
-         "p": 2.31,
-         "c": 22.79,
-         "f": 7.38,
-         "tags": []
-        },
-        {
-         "id": "4041",
-         "name": "Pumpkin Pie",
-         "serving": "2.37oz",
-         "cal": 123.0,
-         "p": 2.8,
-         "c": 22.32,
-         "f": 2.7,
-         "tags": []
-        },
-        {
          "id": "255",
          "name": "Blondie w/ Walnuts",
          "serving": "1.75oz",
@@ -1469,23 +1429,13 @@
          "tags": []
         },
         {
-         "id": "261",
-         "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
-         "serving": "2.23oz",
-         "cal": 227.0,
-         "p": 2.79,
-         "c": 26.64,
-         "f": 11.89,
-         "tags": []
-        },
-        {
-         "id": "284",
-         "name": "Tres Leches Cake",
-         "serving": "5.16oz",
-         "cal": 451.0,
-         "p": 7.89,
-         "c": 45.06,
-         "f": 26.1,
+         "id": "229",
+         "name": "Deep Dish Blackout Cake",
+         "serving": "3.42oz",
+         "cal": 282.0,
+         "p": 4.9,
+         "c": 37.65,
+         "f": 18.21,
          "tags": []
         }
        ]
@@ -2626,13 +2576,13 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         }
        ]
       },
@@ -2665,16 +2615,6 @@
        "name": "Harvest",
        "items": [
         {
-         "id": "925",
-         "name": "Roasted Herbed Chicken",
-         "serving": "2.4oz",
-         "cal": 150.0,
-         "p": 11.84,
-         "c": 0.65,
-         "f": 10.67,
-         "tags": []
-        },
-        {
          "id": "987",
          "name": "Roasted Potatoes",
          "serving": "1.64oz",
@@ -2695,13 +2635,13 @@
          "tags": []
         },
         {
-         "id": "3376",
-         "name": "Crostini",
-         "serving": "0.45oz",
-         "cal": 27.0,
-         "p": 0.86,
-         "c": 5.2,
-         "f": 0.12,
+         "id": "4146",
+         "name": "Korean Style Fried Chicken Wings",
+         "serving": "15.95oz",
+         "cal": 967.0,
+         "p": 63.34,
+         "c": 35.58,
+         "f": 62.07,
          "tags": []
         }
        ]
@@ -2730,6 +2670,16 @@
          "tags": []
         },
         {
+         "id": "955",
+         "name": "Barley Pilaf",
+         "serving": "2.38oz",
+         "cal": 97.0,
+         "p": 2.57,
+         "c": 19.84,
+         "f": 1.06,
+         "tags": []
+        },
+        {
          "id": "946",
          "name": "Roasted Cauliflower",
          "serving": "3oz",
@@ -2747,26 +2697,6 @@
          "p": 2.57,
          "c": 5.96,
          "f": 2.18,
-         "tags": []
-        },
-        {
-         "id": "3959",
-         "name": "Soba Noodles",
-         "serving": "1oz",
-         "cal": 96.0,
-         "p": 4.06,
-         "c": 21.04,
-         "f": 0.2,
-         "tags": []
-        },
-        {
-         "id": "3218",
-         "name": "Cuban Style Pork",
-         "serving": "3.75oz",
-         "cal": 203.0,
-         "p": 17.43,
-         "c": 6.83,
-         "f": 11.55,
          "tags": []
         }
        ]
@@ -2800,16 +2730,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "1983",
-         "name": "Classic Steakhouse Tri-Tip",
-         "serving": "1.66oz",
-         "cal": 74.0,
-         "p": 9.37,
-         "c": 0.42,
-         "f": 3.46,
-         "tags": []
-        },
-        {
          "id": "1999",
          "name": "Housemade Steak Sauce",
          "serving": "1.96oz",
@@ -2830,13 +2750,13 @@
          "tags": []
         },
         {
-         "id": "2531",
-         "name": "Baked Yam",
-         "serving": "2oz",
-         "cal": 91.0,
-         "p": 0.82,
-         "c": 14.94,
-         "f": 3.11,
+         "id": "10202",
+         "name": "Braised Pork Tenderloin",
+         "serving": "2.01oz",
+         "cal": 67.0,
+         "p": 8.51,
+         "c": 1.13,
+         "f": 3.18,
          "tags": []
         }
        ]
@@ -4027,33 +3947,44 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "1047",
-         "name": "Italiano Panini",
-         "serving": "4.83oz",
-         "cal": 309.0,
-         "p": 17.8,
-         "c": 15.84,
-         "f": 21.37,
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "7612",
+         "name": "Beef Pita Shawarma",
+         "serving": "4.37oz",
+         "cal": 217.0,
+         "p": 13.07,
+         "c": 10.75,
+         "f": 13.07,
          "tags": []
         },
         {
-         "id": "6298",
-         "name": "Chicken & Sweet Tomato Saute",
-         "serving": "5.02oz",
-         "cal": 166.0,
-         "p": 18.05,
-         "c": 5.97,
-         "f": 7.24,
+         "id": "3149",
+         "name": "Couscous",
+         "serving": "2.06oz",
+         "cal": 225.0,
+         "p": 7.28,
+         "c": 44.13,
+         "f": 1.46,
          "tags": []
         },
         {
-         "id": "2178",
-         "name": "Corn Couscous Fritter",
-         "serving": "1.67oz",
-         "cal": 157.0,
-         "p": 2.77,
-         "c": 13.78,
-         "f": 10.22,
+         "id": "4492",
+         "name": "Barley Pilaf",
+         "serving": "4.31oz",
+         "cal": 178.0,
+         "p": 4.86,
+         "c": 37.72,
+         "f": 1.32,
          "tags": []
         },
         {

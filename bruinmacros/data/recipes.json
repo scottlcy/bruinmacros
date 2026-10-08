@@ -9818,7 +9818,7 @@
   "p": 13.07,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-06"
+  "seen": "2026-10-07"
  },
  "7692": {
   "name": "Pork Sausage, Peppers, and Polenta",
@@ -10138,7 +10138,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-28",
-  "seen": "2026-10-06"
+  "seen": "2026-10-07"
  },
  "6189": {
   "name": "Soup Special",
@@ -12867,7 +12867,7 @@
   "p": 7.28,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-09-30"
+  "seen": "2026-10-07"
  },
  "5956": {
   "name": "Flex Bar Vegetarian Special",
@@ -17350,7 +17350,7 @@
   "p": 15.05,
   "tags": [],
   "fetched": "2026-10-06",
-  "seen": "2026-10-06"
+  "seen": "2026-10-07"
  },
  "2209": {
   "name": "Cioppino",
@@ -17987,6 +17987,50 @@
   "f": 0.44,
   "c": 15.68,
   "p": 3.1,
+  "tags": [],
+  "fetched": "2026-10-07",
+  "seen": "2026-10-07"
+ },
+ "10202": {
+  "name": "Braised Pork Tenderloin",
+  "serving": "2.01oz",
+  "cal": 67.0,
+  "f": 3.18,
+  "c": 1.13,
+  "p": 8.51,
+  "tags": [],
+  "fetched": "2026-10-07",
+  "seen": "2026-10-07"
+ },
+ "1942": {
+  "name": "Beef Fajitas",
+  "serving": "4.99oz",
+  "cal": 138.0,
+  "f": 5.78,
+  "c": 4.99,
+  "p": 16.84,
+  "tags": [],
+  "fetched": "2026-10-07",
+  "seen": "2026-10-07"
+ },
+ "4146": {
+  "name": "Korean Style Fried Chicken Wings",
+  "serving": "15.95oz",
+  "cal": 967.0,
+  "f": 62.07,
+  "c": 35.58,
+  "p": 63.34,
+  "tags": [],
+  "fetched": "2026-10-07",
+  "seen": "2026-10-07"
+ },
+ "4492": {
+  "name": "Barley Pilaf",
+  "serving": "4.31oz",
+  "cal": 178.0,
+  "f": 1.32,
+  "c": 37.72,
+  "p": 4.86,
   "tags": [],
   "fetched": "2026-10-07",
   "seen": "2026-10-07"
