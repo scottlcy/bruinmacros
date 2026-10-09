@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "updated": "2026-10-09T18:49:20+00:00",
+ "updated": "2026-10-09T23:16:09+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -987,6 +987,16 @@
          "c": 1.98,
          "f": 0.02,
          "tags": []
+        },
+        {
+         "id": "383",
+         "name": "Honey Mustard Dressing",
+         "serving": "2.01oz",
+         "cal": 335.0,
+         "p": 0.04,
+         "c": 5.39,
+         "f": 34.53,
+         "tags": []
         }
        ]
       },
@@ -1145,6 +1155,16 @@
          "p": 1.85,
          "c": 10.11,
          "f": 9.26
+        },
+        {
+         "id": "2698",
+         "name": "Chicken Pot Pie",
+         "serving": "4.08oz",
+         "cal": 166.0,
+         "p": 7.41,
+         "c": 10.09,
+         "f": 10.07,
+         "tags": []
         }
        ]
       },
@@ -1254,6 +1274,36 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
         }
        ]
       },
@@ -2467,6 +2517,16 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49
+        },
+        {
+         "id": "3783",
+         "name": "Butternut Squash Soup",
+         "serving": "4.05oz",
+         "cal": 49.0,
+         "p": 0.87,
+         "c": 11.13,
+         "f": 0.39,
+         "tags": []
         }
        ]
       },
@@ -2544,13 +2604,13 @@
          "tags": []
         },
         {
-         "id": "902",
-         "name": "Wheat Berry",
-         "serving": "2.01oz",
-         "cal": 93.0,
-         "p": 3.58,
-         "c": 20.19,
-         "f": 0.44,
+         "id": "4402",
+         "name": "Saffron Chickpea Risotto",
+         "serving": "2.56oz",
+         "cal": 71.0,
+         "p": 2.1,
+         "c": 14.28,
+         "f": 0.59,
          "tags": []
         },
         {
@@ -3350,14 +3410,15 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "10544",
-         "name": "Roasted Salmon",
-         "serving": "2.07oz",
-         "cal": 87.0,
-         "p": 12.41,
-         "c": 0.03,
-         "f": 4.11,
-         "tags": []
+         "id": "6181",
+         "name": "Mezze Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "6378",
@@ -3370,14 +3431,24 @@
          "tags": []
         },
         {
-         "id": "8477",
-         "name": "Mezze Special",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "id": "1985",
+         "name": "Baby Potatoes w/ Smoked Paprika",
+         "serving": "2.75oz",
+         "cal": 200.0,
+         "p": 1.03,
+         "c": 9.28,
+         "f": 17.79,
+         "tags": []
+        },
+        {
+         "id": "6273",
+         "name": "Wilted Collard Greens",
+         "serving": "2.23oz",
+         "cal": 45.0,
+         "p": 1.73,
+         "c": 3.67,
+         "f": 3.05,
+         "tags": []
         },
         {
          "id": "883",
