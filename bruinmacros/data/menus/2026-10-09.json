@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "updated": "2026-10-09T06:11:31+00:00",
+ "updated": "2026-10-09T18:49:20+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -590,13 +590,13 @@
          "f": 16.32
         },
         {
-         "id": "9043",
-         "name": "Curly Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 214.0,
-         "p": 2.66,
-         "c": 26.66,
-         "f": 10.66,
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
          "tags": []
         }
        ]
@@ -761,6 +761,46 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "812",
+         "name": "Mexican Street Corn Salad",
+         "serving": "1.86oz",
+         "cal": 158.0,
+         "p": 1.94,
+         "c": 5.41,
+         "f": 13.74,
+         "tags": []
         }
        ]
       },
@@ -1584,26 +1624,6 @@
          "tags": []
         },
         {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
-         "tags": []
-        },
-        {
          "id": "1392",
          "name": "Lemon Poppy Bread",
          "serving": "2.05oz",
@@ -1634,33 +1654,43 @@
          "tags": []
         },
         {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
+         "id": "1400",
+         "name": "Coconut Pineapple Bread",
+         "serving": "2.63oz",
+         "cal": 282.0,
+         "p": 3.28,
+         "c": 28.12,
+         "f": 17.08,
+         "tags": []
+        },
+        {
+         "id": "2836",
+         "name": "Tangerine Marmalade",
+         "serving": "1.26oz",
+         "cal": 25.0,
+         "p": 0.36,
+         "c": 6.19,
+         "f": 0.14,
+         "tags": []
+        },
+        {
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
          "f": 0.11,
          "tags": []
         },
         {
-         "id": "3156",
-         "name": "Chocolate Peanut Butter",
-         "serving": "1.03oz",
-         "cal": 99.0,
-         "p": 3.66,
-         "c": 5.36,
-         "f": 6.59,
-         "tags": []
-        },
-        {
-         "id": "3320",
-         "name": "Chayote & Apple Butter",
-         "serving": "3.66oz",
-         "cal": 69.0,
-         "p": 0.46,
-         "c": 16.69,
-         "f": 0.18,
+         "id": "2945",
+         "name": "Peanut Butter",
+         "serving": "1oz",
+         "cal": 91.0,
+         "p": 3.81,
+         "c": 6.0,
+         "f": 6.21,
          "tags": []
         }
        ]
@@ -1734,12 +1764,12 @@
        "name": "Beverage Special",
        "items": [
         {
-         "id": "3437",
-         "name": "Pear Vanilla Water",
-         "serving": "10.76oz",
-         "cal": 13.0,
+         "id": "3163",
+         "name": "Pineapple Water",
+         "serving": "11.01oz",
+         "cal": 9.0,
          "p": 0.09,
-         "c": 2.99,
+         "c": 2.15,
          "f": 0.03,
          "tags": []
         }
@@ -1928,16 +1958,6 @@
          "tags": []
         },
         {
-         "id": "908",
-         "name": "Brown Jasmine Rice",
-         "serving": "3.47oz",
-         "cal": 209.0,
-         "p": 4.28,
-         "c": 43.23,
-         "f": 1.82,
-         "tags": []
-        },
-        {
          "id": "890",
          "name": "Roasted Gold & Red Beets",
          "serving": "3oz",
@@ -1955,6 +1975,26 @@
          "p": 2.57,
          "c": 5.96,
          "f": 2.18,
+         "tags": []
+        },
+        {
+         "id": "956",
+         "name": "Brown Calrose Rice",
+         "serving": "2.03oz",
+         "cal": 105.0,
+         "p": 2.16,
+         "c": 21.89,
+         "f": 0.77,
+         "tags": []
+        },
+        {
+         "id": "957",
+         "name": "Roasted Butternut Squash",
+         "serving": "4oz",
+         "cal": 51.0,
+         "p": 1.13,
+         "c": 13.24,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -2088,26 +2128,6 @@
          "tags": []
         },
         {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
-         "tags": []
-        },
-        {
          "id": "1392",
          "name": "Lemon Poppy Bread",
          "serving": "2.05oz",
@@ -2128,16 +2148,6 @@
          "tags": []
         },
         {
-         "id": "1417",
-         "name": "Apricot Almond Bar",
-         "serving": "1.37oz",
-         "cal": 126.0,
-         "p": 2.55,
-         "c": 17.05,
-         "f": 5.57,
-         "tags": []
-        },
-        {
          "id": "2939",
          "name": "Almond Cashew Butter",
          "serving": "1oz",
@@ -2145,16 +2155,6 @@
          "p": 5.12,
          "c": 7.24,
          "f": 14.09,
-         "tags": []
-        },
-        {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
          "tags": []
         },
         {
@@ -2168,23 +2168,43 @@
          "tags": []
         },
         {
-         "id": "3320",
-         "name": "Chayote & Apple Butter",
-         "serving": "3.66oz",
-         "cal": 69.0,
-         "p": 0.46,
-         "c": 16.69,
-         "f": 0.18,
+         "id": "1400",
+         "name": "Coconut Pineapple Bread",
+         "serving": "2.63oz",
+         "cal": 282.0,
+         "p": 3.28,
+         "c": 28.12,
+         "f": 17.08,
          "tags": []
         },
         {
-         "id": "904",
-         "name": "Blueberry & Roasted Red Grape Marmalade",
-         "serving": "1.57oz",
-         "cal": 39.0,
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
+         "tags": []
+        },
+        {
+         "id": "2836",
+         "name": "Tangerine Marmalade",
+         "serving": "1.26oz",
+         "cal": 25.0,
+         "p": 0.36,
+         "c": 6.19,
+         "f": 0.14,
+         "tags": []
+        },
+        {
+         "id": "2917",
+         "name": "Pomegranate & Date Compote",
+         "serving": "1.36oz",
+         "cal": 52.0,
          "p": 0.2,
-         "c": 9.54,
-         "f": 0.13,
+         "c": 13.56,
+         "f": 0.09,
          "tags": []
         }
        ]
@@ -3210,6 +3230,17 @@
        "name": "Alimenti",
        "items": [
         {
+         "id": "5963",
+         "name": "Alimenti Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
          "id": "1639",
          "name": "Spinach & Roasted Pepper Bulgur Wheat",
          "serving": "2.8oz",
@@ -3319,6 +3350,46 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "10544",
+         "name": "Roasted Salmon",
+         "serving": "2.07oz",
+         "cal": 87.0,
+         "p": 12.41,
+         "c": 0.03,
+         "f": 4.11,
+         "tags": []
+        },
+        {
+         "id": "6378",
+         "name": "Tabouli Vegetable Lavash",
+         "serving": "5.67oz",
+         "cal": 309.0,
+         "p": 8.9,
+         "c": 37.56,
+         "f": 13.59,
+         "tags": []
+        },
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "nodata": true
+        },
+        {
+         "id": "883",
+         "name": "Polenta",
+         "serving": "3.74oz",
+         "cal": 271.0,
+         "p": 12.06,
+         "c": 14.98,
+         "f": 18.98,
+         "tags": []
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3335,16 +3406,6 @@
          "p": 2,
          "c": 10.51,
          "f": 2.91
-        },
-        {
-         "id": "6637",
-         "name": "Sun-Dried Tomato Pesto",
-         "serving": "0.98oz",
-         "cal": 146.0,
-         "p": 2.06,
-         "c": 7.15,
-         "f": 12.59,
-         "tags": []
         },
         {
          "id": "869",
@@ -3383,15 +3444,6 @@
          "f": 0.53
         },
         {
-         "id": "4416",
-         "name": "Baba Ghanoush",
-         "serving": "4.64oz",
-         "cal": 71,
-         "p": 2.1,
-         "c": 8.54,
-         "f": 3.8
-        },
-        {
          "id": "6203",
          "name": "Muhammara (Spicy Roasted Pepper Dip)",
          "serving": "1.99oz",
@@ -3410,16 +3462,6 @@
          "f": 10.3
         },
         {
-         "id": "2565",
-         "name": "Cauliflower Skordalia Spread",
-         "serving": "1.21oz",
-         "cal": 48.0,
-         "p": 1.5,
-         "c": 3.73,
-         "f": 3.24,
-         "tags": []
-        },
-        {
          "id": "1105",
          "name": "Smoked Mozzarella Spread",
          "serving": "1.02oz",
@@ -3436,16 +3478,6 @@
          "p": 0.41,
          "c": 1.63,
          "f": 24.29
-        },
-        {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
         },
         {
          "id": "1323",
@@ -3493,36 +3525,6 @@
          "f": 5.24
         },
         {
-         "id": "3852",
-         "name": "Marinated Red Grape Tomatoes",
-         "serving": "4.7oz",
-         "cal": 307.0,
-         "p": 0.88,
-         "c": 4.34,
-         "f": 30.93,
-         "tags": []
-        },
-        {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -3530,16 +3532,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
-         "tags": []
         }
        ]
       },
@@ -3877,13 +3869,13 @@
        "name": "Stone Oven",
        "items": [
         {
-         "id": "4242",
-         "name": "Cauliflower & Potato Korma",
-         "serving": "3.12oz",
-         "cal": 51.0,
-         "p": 1.43,
-         "c": 8.98,
-         "f": 1.22,
+         "id": "1707",
+         "name": "Bengali Shrimp & Potato",
+         "serving": "3.97oz",
+         "cal": 119.0,
+         "p": 6.32,
+         "c": 9.13,
+         "f": 6.16,
          "tags": []
         },
         {
@@ -3894,16 +3886,6 @@
          "p": 15.19,
          "c": 43.18,
          "f": 5.22,
-         "tags": []
-        },
-        {
-         "id": "1707",
-         "name": "Bengali Shrimp & Potato",
-         "serving": "3.97oz",
-         "cal": 119.0,
-         "p": 6.32,
-         "c": 9.13,
-         "f": 6.16,
          "tags": []
         },
         {
