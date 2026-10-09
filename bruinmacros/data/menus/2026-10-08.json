@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "updated": "2026-10-08T23:46:43+00:00",
+ "updated": "2026-10-09T06:11:06+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -987,16 +987,6 @@
        "name": "The Pizzeria",
        "items": [
         {
-         "id": "3818",
-         "name": "Meatball Pizza",
-         "serving": "3.81oz",
-         "cal": 324.0,
-         "p": 9.93,
-         "c": 24.88,
-         "f": 19.76,
-         "tags": []
-        },
-        {
          "id": "3821",
          "name": "Pepper & Mushroom Pizza",
          "serving": "3.67oz",
@@ -1014,6 +1004,15 @@
          "p": 8.98,
          "c": 23.35,
          "f": 20.84
+        },
+        {
+         "id": "2370",
+         "name": "Cheese Pizza",
+         "serving": "3.24oz",
+         "cal": 280,
+         "p": 7.44,
+         "c": 23.33,
+         "f": 16.83
         }
        ]
       },
@@ -1075,32 +1074,12 @@
          "p": 26.46,
          "c": 39.35,
          "f": 16.32
-        },
-        {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
         }
        ]
       },
       {
        "name": "Harvest Kitchen",
        "items": [
-        {
-         "id": "2692",
-         "name": "Lemon Garlic Chicken Thighs",
-         "serving": "4.72oz",
-         "cal": 184.0,
-         "p": 22.57,
-         "c": 5.16,
-         "f": 7.34,
-         "tags": []
-        },
         {
          "id": "6917",
          "name": "Spinach Lemon Rice",
@@ -1139,6 +1118,16 @@
          "p": 1.29,
          "c": 6.12,
          "f": 0.65,
+         "tags": []
+        },
+        {
+         "id": "6184",
+         "name": "Minnesota Hunters Chili",
+         "serving": "2.19oz",
+         "cal": 1138.0,
+         "p": 66.23,
+         "c": 43.13,
+         "f": 75.65,
          "tags": []
         }
        ]
@@ -1286,16 +1275,6 @@
        "name": "The Sweet Stop",
        "items": [
         {
-         "id": "4899",
-         "name": "Pumpkin Cheesecake",
-         "serving": "4.01oz",
-         "cal": 333.0,
-         "p": 5.07,
-         "c": 30.92,
-         "f": 20.57,
-         "tags": []
-        },
-        {
          "id": "299",
          "name": "Old-Fashioned Oatmeal Raisin Cookie",
          "serving": "1.3oz",
@@ -1305,16 +1284,6 @@
          "f": 5.87
         },
         {
-         "id": "3964",
-         "name": "Key Lime Pie",
-         "serving": "4.55oz",
-         "cal": 402.0,
-         "p": 7.81,
-         "c": 60.34,
-         "f": 13.44,
-         "tags": []
-        },
-        {
          "id": "3954",
          "name": "Chipmunk Bar",
          "serving": "1.79oz",
@@ -1322,26 +1291,6 @@
          "p": 3.26,
          "c": 23.37,
          "f": 8.22,
-         "tags": []
-        },
-        {
-         "id": "237",
-         "name": "Blackberry Peach Crisp",
-         "serving": "4.34oz",
-         "cal": 111.0,
-         "p": 1.67,
-         "c": 39.87,
-         "f": 4.38,
-         "tags": []
-        },
-        {
-         "id": "4910",
-         "name": "Peach Cobbler",
-         "serving": "5.55oz",
-         "cal": 277.0,
-         "p": 3.44,
-         "c": 52.17,
-         "f": 11.22,
          "tags": []
         },
         {
@@ -1377,13 +1326,13 @@
          "tags": []
         },
         {
-         "id": "4923",
-         "name": "Pumpkin Mousse",
-         "serving": "3.68oz",
-         "cal": 271.0,
-         "p": 1.2,
-         "c": 25.54,
-         "f": 16.84,
+         "id": "255",
+         "name": "Blondie w/ Walnuts",
+         "serving": "1.75oz",
+         "cal": 219.0,
+         "p": 3.22,
+         "c": 24.74,
+         "f": 12.21,
          "tags": []
         }
        ]
@@ -3531,6 +3480,16 @@
          "f": 2.91
         },
         {
+         "id": "6637",
+         "name": "Sun-Dried Tomato Pesto",
+         "serving": "0.98oz",
+         "cal": 146.0,
+         "p": 2.06,
+         "c": 7.15,
+         "f": 12.59,
+         "tags": []
+        },
+        {
          "id": "869",
          "name": "Garlic Oil",
          "serving": "1.46oz",
@@ -3592,6 +3551,15 @@
          "p": 3.17,
          "c": 1.8,
          "f": 14.69
+        },
+        {
+         "id": "1277",
+         "name": "Paprika Garlic Spread",
+         "serving": "1.18oz",
+         "cal": 227,
+         "p": 0.41,
+         "c": 1.63,
+         "f": 24.29
         },
         {
          "id": "1569",
@@ -3955,14 +3923,15 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "7972",
-         "name": "Marinara & Meatballs",
-         "serving": "7.44oz",
-         "cal": 451.0,
-         "p": 18.61,
-         "c": 61.36,
-         "f": 14.5,
-         "tags": []
+         "id": "6181",
+         "name": "Mezze Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "3442",
@@ -6623,6 +6592,16 @@
          "p": 2.36,
          "c": 14.73,
          "f": 0.1,
+         "tags": []
+        },
+        {
+         "id": "7056",
+         "name": "Decaf Coffee",
+         "serving": "16oz",
+         "cal": 1604.0,
+         "p": 55.33,
+         "c": 341.94,
+         "f": 2.27,
          "tags": []
         }
        ]

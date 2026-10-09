@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "updated": "2026-10-08T23:47:08+00:00",
+ "updated": "2026-10-09T06:11:31+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -927,6 +927,26 @@
          "p": 0.43,
          "c": 0.62,
          "f": 12.63
+        },
+        {
+         "id": "8880",
+         "name": "Hibernation Habanero: Wake Up Your Taste Buds Within",
+         "serving": "0.5oz",
+         "cal": 7.0,
+         "p": 0.15,
+         "c": 1.46,
+         "f": 0.02,
+         "tags": []
+        },
+        {
+         "id": "8882",
+         "name": "Cub's Kick: Family-Friendly Fire",
+         "serving": "0.5oz",
+         "cal": 4.0,
+         "p": 0.14,
+         "c": 1.98,
+         "f": 0.02,
+         "tags": []
         }
        ]
       },
@@ -3787,21 +3807,6 @@
          "tags": []
         }
        ]
-      },
-      {
-       "name": ".",
-       "items": [
-        {
-         "id": "10370",
-         "name": "Chicken Tikka Flatbread",
-         "serving": "14.83oz",
-         "cal": 1002.0,
-         "p": 42.32,
-         "c": 83.43,
-         "f": 54.93,
-         "tags": []
-        }
-       ]
       }
      ]
     },
@@ -5925,6 +5930,16 @@
          "p": 2.36,
          "c": 14.73,
          "f": 0.1,
+         "tags": []
+        },
+        {
+         "id": "7056",
+         "name": "Decaf Coffee",
+         "serving": "16oz",
+         "cal": 1604.0,
+         "p": 55.33,
+         "c": 341.94,
+         "f": 2.27,
          "tags": []
         }
        ]

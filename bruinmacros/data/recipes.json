@@ -5887,7 +5887,7 @@
   "p": 3.22,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-07"
+  "seen": "2026-10-08"
  },
  "2565": {
   "name": "Cauliflower Skordalia Spread",
@@ -17096,7 +17096,7 @@
   "p": 66.23,
   "tags": [],
   "fetched": "2026-10-06",
-  "seen": "2026-10-07"
+  "seen": "2026-10-08"
  },
  "6212": {
   "name": "Crispy Pork Belly",
@@ -18616,6 +18616,39 @@
   "f": 1.44,
   "c": 3.65,
   "p": 0.2,
+  "tags": [],
+  "fetched": "2026-10-08",
+  "seen": "2026-10-08"
+ },
+ "7056": {
+  "name": "Decaf Coffee",
+  "serving": "16oz",
+  "cal": 1604.0,
+  "f": 2.27,
+  "c": 341.94,
+  "p": 55.33,
+  "tags": [],
+  "fetched": "2026-10-08",
+  "seen": "2026-10-08"
+ },
+ "8880": {
+  "name": "Hibernation Habanero: Wake Up Your Taste Buds Within",
+  "serving": "0.5oz",
+  "cal": 7.0,
+  "f": 0.02,
+  "c": 1.46,
+  "p": 0.15,
+  "tags": [],
+  "fetched": "2026-10-08",
+  "seen": "2026-10-08"
+ },
+ "8882": {
+  "name": "Cub's Kick: Family-Friendly Fire",
+  "serving": "0.5oz",
+  "cal": 4.0,
+  "f": 0.02,
+  "c": 1.98,
+  "p": 0.14,
   "tags": [],
   "fetched": "2026-10-08",
   "seen": "2026-10-08"
