@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "updated": "2026-10-10T17:51:50+00:00",
+ "updated": "2026-10-10T21:43:22+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1974,6 +1974,16 @@
          "c": 4.1,
          "f": 1.15,
          "tags": []
+        },
+        {
+         "id": "890",
+         "name": "Roasted Gold & Red Beets",
+         "serving": "3oz",
+         "cal": 84.0,
+         "p": 1.62,
+         "c": 9.64,
+         "f": 4.61,
+         "tags": []
         }
        ]
       },
@@ -2006,16 +2016,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "7587",
-         "name": "Halal Pineapple Chicken Thigh",
-         "serving": "1.63oz",
-         "cal": 55.0,
-         "p": 7.73,
-         "c": 1.08,
-         "f": 2.01,
-         "tags": []
-        },
-        {
          "id": "3171",
          "name": "Spicy Eggplant Parmesan Slider",
          "serving": "5.98oz",
@@ -2033,6 +2033,16 @@
          "p": 2.02,
          "c": 17.07,
          "f": 0.08,
+         "tags": []
+        },
+        {
+         "id": "7584",
+         "name": "Halal Lemon Oregano Chicken Thigh",
+         "serving": "1.61oz",
+         "cal": 78.0,
+         "p": 7.69,
+         "c": 0.21,
+         "f": 4.64,
          "tags": []
         }
        ]
@@ -2096,33 +2106,23 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
+         "id": "1263",
+         "name": "Dark Chocolate Loaf",
+         "serving": "2.74oz",
+         "cal": 256.0,
+         "p": 3.54,
+         "c": 39.16,
+         "f": 9.01,
          "tags": []
         },
         {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
+         "id": "1400",
+         "name": "Coconut Pineapple Bread",
+         "serving": "2.63oz",
+         "cal": 282.0,
+         "p": 3.28,
+         "c": 28.12,
+         "f": 17.08,
          "tags": []
         },
         {
@@ -2147,16 +2147,6 @@
          "nodata": true
         },
         {
-         "id": "3713",
-         "name": "Flaxsnax Breakfast Cookie w/ Pecans",
-         "serving": "1.14oz",
-         "cal": 157.0,
-         "p": 3.11,
-         "c": 8.58,
-         "f": 11.8,
-         "tags": []
-        },
-        {
          "id": "2939",
          "name": "Almond Cashew Butter",
          "serving": "1oz",
@@ -2164,6 +2154,16 @@
          "p": 5.12,
          "c": 7.24,
          "f": 14.09,
+         "tags": []
+        },
+        {
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         },
         {
@@ -2184,26 +2184,6 @@
          "p": 3.81,
          "c": 6.0,
          "f": 6.21,
-         "tags": []
-        },
-        {
-         "id": "2836",
-         "name": "Tangerine Marmalade",
-         "serving": "1.26oz",
-         "cal": 25.0,
-         "p": 0.36,
-         "c": 6.19,
-         "f": 0.14,
-         "tags": []
-        },
-        {
-         "id": "3280",
-         "name": "Cilantro Lime Marmalade",
-         "serving": "1.94oz",
-         "cal": 58.0,
-         "p": 0.21,
-         "c": 14.79,
-         "f": 0.09,
          "tags": []
         }
        ]
