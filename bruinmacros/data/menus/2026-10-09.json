@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "updated": "2026-10-09T23:16:09+00:00",
+ "updated": "2026-10-10T02:23:39+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -926,13 +926,14 @@
          "tags": []
         },
         {
-         "id": "3042",
-         "name": "Al Pastor-Style Mushroom Taco (Taco de Hongos)",
-         "serving": "3.72oz",
-         "cal": 141,
-         "p": 3.48,
-         "c": 22.2,
-         "f": 4.83
+         "id": "7783",
+         "name": "Beyond Beef Tacos",
+         "serving": "4.75oz",
+         "cal": 272.0,
+         "p": 22.92,
+         "c": 26.48,
+         "f": 9.38,
+         "tags": []
         }
        ]
       },
@@ -2604,13 +2605,13 @@
          "tags": []
         },
         {
-         "id": "4402",
-         "name": "Saffron Chickpea Risotto",
-         "serving": "2.56oz",
-         "cal": 71.0,
-         "p": 2.1,
-         "c": 14.28,
-         "f": 0.59,
+         "id": "3863",
+         "name": "Avocado-Stuffed Potato Skins",
+         "serving": "3.72oz",
+         "cal": 117.0,
+         "p": 2.66,
+         "c": 20.36,
+         "f": 3.04,
          "tags": []
         },
         {
