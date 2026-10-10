@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "updated": "2026-10-10T02:23:39+00:00",
+ "updated": "2026-10-10T05:54:39+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -3975,16 +3975,6 @@
       {
        "name": "Iron Grill",
        "items": [
-        {
-         "id": "1567",
-         "name": "Takoyaki",
-         "serving": "1.78oz",
-         "cal": 70.0,
-         "p": 1.96,
-         "c": 9.85,
-         "f": 2.33,
-         "tags": []
-        },
         {
          "id": "9296",
          "name": "Korean Egg Sandwich",
