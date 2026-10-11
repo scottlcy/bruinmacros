@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "updated": "2026-10-11T01:00:40+00:00",
+ "updated": "2026-10-11T05:49:03+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1084,16 +1084,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "2385",
-         "name": "Honey Lime Chicken Thighs",
-         "serving": "3.26oz",
-         "cal": 125.0,
-         "p": 15.56,
-         "c": 5.35,
-         "f": 3.83,
-         "tags": []
-        },
-        {
          "id": "7333",
          "name": "Garlic Flavored Rice",
          "serving": "3.25oz",
@@ -1131,6 +1121,16 @@
          "p": 1.29,
          "c": 6.12,
          "f": 0.65,
+         "tags": []
+        },
+        {
+         "id": "6366",
+         "name": "Mesquite BBQ Chicken",
+         "serving": "2.95oz",
+         "cal": 127.0,
+         "p": 15.05,
+         "c": 0,
+         "f": 5.78,
          "tags": []
         }
        ]
@@ -2493,14 +2493,15 @@
        "name": "Freshly Bowled",
        "items": [
         {
-         "id": "3674",
-         "name": "Fennel Pork Meatball w/ Whole Wheat Spaghetti & Tomato",
-         "serving": "5.53oz",
-         "cal": 121.0,
-         "p": 9.14,
-         "c": 14.92,
-         "f": 3.26,
-         "tags": []
+         "id": "5951",
+         "name": "Freshly Bowled Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "4370",
@@ -2593,13 +2594,13 @@
          "tags": []
         },
         {
-         "id": "3690",
-         "name": "Roasted Vegetables",
-         "serving": "2.87oz",
-         "cal": 36.0,
-         "p": 1.59,
-         "c": 5.39,
-         "f": 1.31,
+         "id": "1176",
+         "name": "Edamame Beans",
+         "serving": "3oz",
+         "cal": 94.0,
+         "p": 9.53,
+         "c": 6.46,
+         "f": 4.02,
          "tags": []
         },
         {
@@ -2643,13 +2644,13 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "7580",
-         "name": "Halal Chipotle BBQ Chicken Thigh",
-         "serving": "1.69oz",
-         "cal": 61.0,
-         "p": 7.78,
-         "c": 2.44,
-         "f": 1.96,
+         "id": "8020",
+         "name": "Halal Orange Chipotle Herb Chicken Thigh",
+         "serving": "1.59oz",
+         "cal": 56.0,
+         "p": 7.84,
+         "c": 0.87,
+         "f": 2.17,
          "tags": []
         },
         {
