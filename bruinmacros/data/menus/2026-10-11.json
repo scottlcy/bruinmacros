@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "updated": "2026-10-11T05:49:25+00:00",
+ "updated": "2026-10-11T18:04:43+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -14,13 +14,13 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "7300",
-         "name": "Buttermilk Pancakes",
-         "serving": "7.01oz",
-         "cal": 372.0,
-         "p": 8.22,
-         "c": 65.56,
-         "f": 8.8,
+         "id": "1475",
+         "name": "French Toast",
+         "serving": "2.48oz",
+         "cal": 188.0,
+         "p": 6.53,
+         "c": 31.89,
+         "f": 4.97,
          "tags": []
         },
         {
@@ -435,13 +435,13 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "7300",
-         "name": "Buttermilk Pancakes",
-         "serving": "7.01oz",
-         "cal": 372.0,
-         "p": 8.22,
-         "c": 65.56,
-         "f": 8.8,
+         "id": "1475",
+         "name": "French Toast",
+         "serving": "2.48oz",
+         "cal": 188.0,
+         "p": 6.53,
+         "c": 31.89,
+         "f": 4.97,
          "tags": []
         },
         {
@@ -698,13 +698,13 @@
          "tags": []
         },
         {
-         "id": "6903",
-         "name": "Pan Roasted Mushrooms with Onions",
-         "serving": "2.8oz",
-         "cal": 36.0,
-         "p": 2.07,
-         "c": 4.4,
-         "f": 1.51,
+         "id": "6905",
+         "name": "Roasted Brussels Sprouts",
+         "serving": "2.15oz",
+         "cal": 35.0,
+         "p": 2.03,
+         "c": 5.4,
+         "f": 1.14,
          "tags": []
         }
        ]
@@ -781,6 +781,36 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 78.0,
+         "p": 8.35,
+         "c": 1.62,
+         "f": 3.95,
+         "tags": []
+        },
+        {
+         "id": "10380",
+         "name": "Cajun Red Potato Salad",
+         "serving": "2oz",
+         "cal": 74.0,
+         "p": 1.14,
+         "c": 6.38,
+         "f": 4.79,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
         }
        ]
       },
@@ -833,13 +863,34 @@
          "f": 3.21
         },
         {
-         "id": "4849",
-         "name": "Pumpkin Bake",
-         "serving": "5.05oz",
-         "cal": 316,
-         "p": 5.27,
-         "c": 41.34,
-         "f": 15.31
+         "id": "247",
+         "name": "Banana Bread Pudding",
+         "serving": "6.53oz",
+         "cal": 413.0,
+         "p": 8.01,
+         "c": 40.11,
+         "f": 23.96,
+         "tags": []
+        },
+        {
+         "id": "312",
+         "name": "Almond Fudge Bar",
+         "serving": "2.26oz",
+         "cal": 268.0,
+         "p": 4.21,
+         "c": 38.31,
+         "f": 13.75,
+         "tags": []
+        },
+        {
+         "id": "4910",
+         "name": "Peach Cobbler",
+         "serving": "5.55oz",
+         "cal": 277.0,
+         "p": 3.44,
+         "c": 52.17,
+         "f": 11.22,
+         "tags": []
         },
         {
          "id": "9599",
@@ -1444,13 +1495,13 @@
          "tags": []
         },
         {
-         "id": "3259",
-         "name": "Apple, Pear & Cranberry Compote",
-         "serving": "1.73oz",
-         "cal": 33.0,
-         "p": 0.21,
-         "c": 7.6,
-         "f": 0.28,
+         "id": "1205",
+         "name": "Blueberry Compote",
+         "serving": "1.7oz",
+         "cal": 31.0,
+         "p": 0.07,
+         "c": 7.47,
+         "f": 0.11,
          "tags": []
         },
         {
@@ -1559,16 +1610,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -1610,43 +1651,43 @@
          "tags": []
         },
         {
-         "id": "2256",
-         "name": "Almond Butter",
-         "serving": "1.08oz",
-         "cal": 195.0,
-         "p": 5.48,
-         "c": 5.49,
-         "f": 17.92,
+         "id": "7682",
+         "name": "Carrot Walnut Zucchini Quickbread",
+         "serving": "2.42oz",
+         "cal": 238.0,
+         "p": 4.28,
+         "c": 28.57,
+         "f": 11.84,
          "tags": []
         },
         {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
+         "id": "2939",
+         "name": "Almond Cashew Butter",
+         "serving": "1oz",
+         "cal": 167.0,
+         "p": 5.12,
+         "c": 7.24,
+         "f": 14.09,
          "tags": []
         },
         {
-         "id": "3156",
-         "name": "Chocolate Peanut Butter",
-         "serving": "1.03oz",
-         "cal": 99.0,
-         "p": 3.66,
-         "c": 5.36,
-         "f": 6.59,
+         "id": "2945",
+         "name": "Peanut Butter",
+         "serving": "1oz",
+         "cal": 91.0,
+         "p": 3.81,
+         "c": 6.0,
+         "f": 6.21,
          "tags": []
         },
         {
-         "id": "994",
-         "name": "Pear-Pineapple Compote",
-         "serving": "1.76oz",
-         "cal": 48.0,
-         "p": 0.3,
-         "c": 11.92,
-         "f": 0.06,
+         "id": "2917",
+         "name": "Pomegranate & Date Compote",
+         "serving": "1.36oz",
+         "cal": 52.0,
+         "p": 0.2,
+         "c": 13.56,
+         "f": 0.09,
          "tags": []
         }
        ]
