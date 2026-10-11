@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "updated": "2026-10-10T21:43:22+00:00",
+ "updated": "2026-10-11T01:00:40+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1241,6 +1241,46 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "812",
+         "name": "Mexican Street Corn Salad",
+         "serving": "1.86oz",
+         "cal": 158.0,
+         "p": 1.94,
+         "c": 5.41,
+         "f": 13.74,
+         "tags": []
         }
        ]
       },
@@ -2543,23 +2583,23 @@
          "tags": []
         },
         {
-         "id": "829",
-         "name": "Farro",
-         "serving": "3.22oz",
-         "cal": 134.0,
-         "p": 5.75,
-         "c": 27.67,
-         "f": 0.43,
+         "id": "3172",
+         "name": "Heirloom Bean Stew",
+         "serving": "4oz",
+         "cal": 60.0,
+         "p": 3.16,
+         "c": 9.97,
+         "f": 0.93,
          "tags": []
         },
         {
-         "id": "1176",
-         "name": "Edamame Beans",
-         "serving": "3oz",
-         "cal": 94.0,
-         "p": 9.53,
-         "c": 6.46,
-         "f": 4.02,
+         "id": "3690",
+         "name": "Roasted Vegetables",
+         "serving": "2.87oz",
+         "cal": 36.0,
+         "p": 1.59,
+         "c": 5.39,
+         "f": 1.31,
          "tags": []
         },
         {

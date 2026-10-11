@@ -15771,7 +15771,7 @@
   "p": 7.87,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-09"
+  "seen": "2026-10-10"
  },
  "287": {
   "name": "Cranberry Apple Crisp",
@@ -17604,7 +17604,7 @@
   "p": 3.16,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-08"
+  "seen": "2026-10-10"
  },
  "3705": {
   "name": "Farfalle w/ Chicken in Pesto Cream Sauce",
@@ -19056,6 +19056,17 @@
   "f": 0.42,
   "c": 17.28,
   "p": 4.09,
+  "tags": [],
+  "fetched": "2026-10-10",
+  "seen": "2026-10-10"
+ },
+ "3690": {
+  "name": "Roasted Vegetables",
+  "serving": "2.87oz",
+  "cal": 36.0,
+  "f": 1.31,
+  "c": 5.39,
+  "p": 1.59,
   "tags": [],
   "fetched": "2026-10-10",
   "seen": "2026-10-10"
