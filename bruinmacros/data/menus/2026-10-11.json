@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "updated": "2026-10-11T21:58:11+00:00",
+ "updated": "2026-10-12T01:19:58+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1163,15 +1163,6 @@
        "name": "Seasonal Sides",
        "items": [
         {
-         "id": "7335",
-         "name": "Roasted Broccoli w/ Garlic",
-         "serving": "3.24oz",
-         "cal": 85,
-         "p": 2.65,
-         "c": 5.21,
-         "f": 6.36
-        },
-        {
          "id": "7336",
          "name": "Roasted Cauliflower",
          "serving": "3.37oz",
@@ -1189,6 +1180,16 @@
          "p": 2.07,
          "c": 4.4,
          "f": 1.51,
+         "tags": []
+        },
+        {
+         "id": "6905",
+         "name": "Roasted Brussels Sprouts",
+         "serving": "2.15oz",
+         "cal": 35.0,
+         "p": 2.03,
+         "c": 5.4,
+         "f": 1.14,
          "tags": []
         }
        ]
@@ -3392,6 +3393,16 @@
          "tags": []
         },
         {
+         "id": "4297",
+         "name": "Italian Cream Cake",
+         "serving": "1.9oz",
+         "cal": 207.0,
+         "p": 2.38,
+         "c": 20.43,
+         "f": 12.73,
+         "tags": []
+        },
+        {
          "id": "1138",
          "name": "Apple Crumble Tart",
          "serving": "1.16oz",
@@ -3416,6 +3427,36 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "1580",
+         "name": "Penne al Formaggio",
+         "serving": "7.24oz",
+         "cal": 543.0,
+         "p": 25.61,
+         "c": 47.5,
+         "f": 29.43,
+         "tags": []
+        },
+        {
+         "id": "1047",
+         "name": "Italiano Panini",
+         "serving": "4.83oz",
+         "cal": 309.0,
+         "p": 17.8,
+         "c": 15.84,
+         "f": 21.37,
+         "tags": []
+        },
+        {
+         "id": "1639",
+         "name": "Spinach & Roasted Pepper Bulgur Wheat",
+         "serving": "2.8oz",
+         "cal": 167.0,
+         "p": 6.42,
+         "c": 32.37,
+         "f": 0.98,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
