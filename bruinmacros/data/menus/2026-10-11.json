@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "updated": "2026-10-12T01:19:58+00:00",
+ "updated": "2026-10-12T06:00:22+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1086,14 +1086,14 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1139,15 +1139,6 @@
          "f": 13.41
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
-        },
-        {
          "id": "7332",
          "name": "BBQ Baked Beans",
          "serving": "3oz",
@@ -1155,6 +1146,16 @@
          "p": 4.66,
          "c": 19.26,
          "f": 0.78,
+         "tags": []
+        },
+        {
+         "id": "753",
+         "name": "Garden Vegetable Soup",
+         "serving": "6oz",
+         "cal": 34.0,
+         "p": 1.29,
+         "c": 6.12,
+         "f": 0.65,
          "tags": []
         }
        ]
@@ -1396,16 +1397,6 @@
          "p": 3.21,
          "c": 58.05,
          "f": 9.23,
-         "tags": []
-        },
-        {
-         "id": "247",
-         "name": "Banana Bread Pudding",
-         "serving": "6.53oz",
-         "cal": 413.0,
-         "p": 8.01,
-         "c": 40.11,
-         "f": 23.96,
          "tags": []
         }
        ]
@@ -3428,6 +3419,16 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "2254",
+         "name": "Shrimp Scampi",
+         "serving": "6oz",
+         "cal": 182.0,
+         "p": 21.69,
+         "c": 3.2,
+         "f": 8.77,
+         "tags": []
+        },
+        {
          "id": "1580",
          "name": "Penne al Formaggio",
          "serving": "7.24oz",
@@ -3438,13 +3439,13 @@
          "tags": []
         },
         {
-         "id": "1047",
-         "name": "Italiano Panini",
-         "serving": "4.83oz",
-         "cal": 309.0,
-         "p": 17.8,
-         "c": 15.84,
-         "f": 21.37,
+         "id": "4068",
+         "name": "Seared Tempeh",
+         "serving": "2.25oz",
+         "cal": 116.0,
+         "p": 11.56,
+         "c": 5.87,
+         "f": 6.12,
          "tags": []
         },
         {
