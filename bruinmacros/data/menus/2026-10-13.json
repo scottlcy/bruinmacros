@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "updated": "2026-10-12T21:45:43+00:00",
+ "updated": "2026-10-13T03:04:11+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1301,6 +1301,22 @@
     {
      "name": "Late Night",
      "stations": [
+      {
+       "name": "The Pizzeria",
+       "items": [
+        {
+         "id": "5914",
+         "name": "Cheese Pizza",
+         "serving": "21.92oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        }
+       ]
+      },
       {
        "name": "The Grill",
        "items": [
