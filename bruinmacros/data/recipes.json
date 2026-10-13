@@ -8437,7 +8437,7 @@
   "p": 58.14,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-09"
+  "seen": "2026-10-13"
  },
  "9736": {
   "name": "Sausage and Cheese Calzone",
@@ -8448,7 +8448,7 @@
   "p": 64.08,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-09"
+  "seen": "2026-10-13"
  },
  "9737": {
   "name": "Pepperoni and Cheese Calzone",
@@ -8459,7 +8459,7 @@
   "p": 63.09,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-09"
+  "seen": "2026-10-13"
  },
  "9738": {
   "name": "Chicken, Pesto, and Cheese calzone",
@@ -8470,7 +8470,7 @@
   "p": 76.0,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-09"
+  "seen": "2026-10-13"
  },
  "9739": {
   "name": "Tue - Chicken Parmesan",
@@ -12514,7 +12514,7 @@
   "p": 5.06,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-03"
+  "seen": "2026-10-13"
  },
  "6365": {
   "name": "Kansas City BBQ Pork Ribs",
@@ -18607,7 +18607,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-08",
-  "seen": "2026-10-12"
+  "seen": "2026-10-13"
  },
  "9527": {
   "name": "Strawberry Compote & Red Wine",
@@ -19080,7 +19080,7 @@
   "p": 1.14,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-10-11"
+  "seen": "2026-10-13"
  },
  "10381": {
   "name": "Huli Huli Chicken Salad",
@@ -20773,6 +20773,39 @@
   "f": 5.35,
   "c": 27.23,
   "p": 13.61,
+  "tags": [],
+  "fetched": "2026-10-13",
+  "seen": "2026-10-13"
+ },
+ "1407": {
+  "name": "Sauteed Mushrooms",
+  "serving": "2.49oz",
+  "cal": 48.0,
+  "f": 3.19,
+  "c": 3.81,
+  "p": 1.71,
+  "tags": [],
+  "fetched": "2026-10-13",
+  "seen": "2026-10-13"
+ },
+ "278": {
+  "name": "Cheesecake",
+  "serving": "3.38oz",
+  "cal": 314.0,
+  "f": 21.77,
+  "c": 27.29,
+  "p": 5.75,
+  "tags": [],
+  "fetched": "2026-10-13",
+  "seen": "2026-10-13"
+ },
+ "4502": {
+  "name": "Tiramisu",
+  "serving": "1.48oz",
+  "cal": 133.0,
+  "f": 9.04,
+  "c": 11.49,
+  "p": 3.36,
   "tags": [],
   "fetched": "2026-10-13",
   "seen": "2026-10-13"
