@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "updated": "2026-10-13T23:44:33+00:00",
+ "updated": "2026-10-14T04:56:17+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -4431,6 +4431,16 @@
        "name": "Stone Oven",
        "items": [
         {
+         "id": "9301",
+         "name": "Lemongrass Basil Chicken Sandwich",
+         "serving": "4.07oz",
+         "cal": 256.0,
+         "p": 17.08,
+         "c": 27.29,
+         "f": 7.63,
+         "tags": []
+        },
+        {
          "id": "9310",
          "name": "Grilled Tofu Sandwich",
          "serving": "5.41oz",
@@ -4438,16 +4448,6 @@
          "p": 7.68,
          "c": 33.22,
          "f": 16.08,
-         "tags": []
-        },
-        {
-         "id": "8587",
-         "name": "Grilled Beef Banh Mi",
-         "serving": "10.8oz",
-         "cal": 694.0,
-         "p": 42.64,
-         "c": 33.03,
-         "f": 43.07,
          "tags": []
         }
        ]
@@ -4624,16 +4624,6 @@
          "p": 4.04,
          "c": 44.52,
          "f": 0,
-         "tags": []
-        },
-        {
-         "id": "9387",
-         "name": "Saimin Noodle Soup w/ Pork Spam",
-         "serving": "3.88oz",
-         "cal": 48.0,
-         "p": 1.48,
-         "c": 2.32,
-         "f": 3.48,
          "tags": []
         }
        ]
@@ -9081,6 +9071,46 @@
          "c": 100.5,
          "f": 45.74,
          "tags": []
+        },
+        {
+         "id": "9735",
+         "name": "Fri - Calzone",
+         "serving": "12.86oz",
+         "cal": 969.0,
+         "p": 58.14,
+         "c": 73.12,
+         "f": 51.69,
+         "tags": []
+        },
+        {
+         "id": "9737",
+         "name": "Pepperoni and Cheese Calzone",
+         "serving": "13.5oz",
+         "cal": 1032.0,
+         "p": 63.09,
+         "c": 72.46,
+         "f": 56.62,
+         "tags": []
+        },
+        {
+         "id": "9736",
+         "name": "Sausage and Cheese Calzone",
+         "serving": "14oz",
+         "cal": 1042.0,
+         "p": 64.08,
+         "c": 74.0,
+         "f": 56.39,
+         "tags": []
+        },
+        {
+         "id": "9738",
+         "name": "Chicken, Pesto, and Cheese calzone",
+         "serving": "16.03oz",
+         "cal": 1106.0,
+         "p": 76.0,
+         "c": 74.19,
+         "f": 56.92,
+         "tags": []
         }
        ]
       },
@@ -9275,6 +9305,31 @@
          "p": 31.26,
          "c": 82.88,
          "f": 47.65,
+         "tags": []
+        }
+       ]
+      },
+      {
+       "name": "DOLCI",
+       "items": [
+        {
+         "id": "4502",
+         "name": "Tiramisu",
+         "serving": "1.48oz",
+         "cal": 133.0,
+         "p": 3.36,
+         "c": 11.49,
+         "f": 9.04,
+         "tags": []
+        },
+        {
+         "id": "278",
+         "name": "Cheesecake",
+         "serving": "3.38oz",
+         "cal": 314.0,
+         "p": 5.75,
+         "c": 27.29,
+         "f": 21.77,
          "tags": []
         }
        ]

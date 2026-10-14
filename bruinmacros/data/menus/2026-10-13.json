@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "updated": "2026-10-13T23:44:08+00:00",
+ "updated": "2026-10-14T04:55:54+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1065,16 +1065,6 @@
          "f": 24.95
         },
         {
-         "id": "6527",
-         "name": "Coney Island Hot Dog",
-         "serving": "10oz",
-         "cal": 1624.0,
-         "p": 81.85,
-         "c": 114.24,
-         "f": 105.28,
-         "tags": []
-        },
-        {
          "id": "7183",
          "name": "Blue Buffalo Chicken Sandwich",
          "serving": "8.25oz",
@@ -1094,14 +1084,14 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1138,15 +1128,6 @@
          "f": 13.41
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
-        },
-        {
          "id": "5948",
          "name": "Flex Bar Special",
          "serving": "4oz",
@@ -1158,14 +1139,13 @@
          "nodata": true
         },
         {
-         "id": "3190",
-         "name": "New England Style Clambake",
-         "serving": "6.67oz",
-         "cal": 329.0,
-         "p": 14.42,
-         "c": 13.97,
-         "f": 23.45,
-         "tags": []
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         }
        ]
       },
@@ -1200,16 +1180,6 @@
          "p": 0.49,
          "c": 4.58,
          "f": 0.26
-        },
-        {
-         "id": "6364",
-         "name": "Buttery Corn on the Cob",
-         "serving": "5.19oz",
-         "cal": 185.0,
-         "p": 5.06,
-         "c": 31.78,
-         "f": 5.48,
-         "tags": []
         }
        ]
       },
@@ -1316,14 +1286,13 @@
          "tags": []
         },
         {
-         "id": "10381",
-         "name": "Huli Huli Chicken Salad",
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
          "serving": "2oz",
-         "cal": 78.0,
-         "p": 8.35,
-         "c": 1.62,
-         "f": 3.95,
-         "tags": []
+         "cal": 168,
+         "p": 4.26,
+         "c": 17.17,
+         "f": 8.76
         }
        ]
       },
@@ -3775,13 +3744,13 @@
          "tags": []
         },
         {
-         "id": "1771",
-         "name": "Dukkah Spiced Butternut Squash",
-         "serving": "3.49oz",
-         "cal": 65.0,
-         "p": 1.63,
-         "c": 11.99,
-         "f": 2.03,
+         "id": "2253",
+         "name": "Roasted Yams",
+         "serving": "1.16oz",
+         "cal": 41.0,
+         "p": 0.5,
+         "c": 9.08,
+         "f": 0.28,
          "tags": []
         },
         {
@@ -3953,16 +3922,6 @@
       {
        "name": "Mezze",
        "items": [
-        {
-         "id": "3663",
-         "name": "Lamb, Rice, & Swiss Chard Sauté",
-         "serving": "2.06oz",
-         "cal": 64.0,
-         "p": 2.72,
-         "c": 3.31,
-         "f": 4.2,
-         "tags": []
-        },
         {
          "id": "6181",
          "name": "Mezze Vegetarian Special",
@@ -4516,16 +4475,6 @@
          "p": 6.09,
          "c": 33.32,
          "f": 6.29,
-         "tags": []
-        },
-        {
-         "id": "7621",
-         "name": "Garlic Fried Rice",
-         "serving": "2.34oz",
-         "cal": 238.0,
-         "p": 4.32,
-         "c": 46.65,
-         "f": 3.12,
          "tags": []
         }
        ]
