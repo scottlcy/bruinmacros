@@ -298,7 +298,7 @@
   "f": 1.25,
   "c": 2.87,
   "fetched": "2026-09-27",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -1470,7 +1470,7 @@
   "p": 0.12,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-07"
+  "seen": "2026-10-14"
  },
  "2193": {
   "name": "Green Lentils",
@@ -1882,7 +1882,7 @@
   "p": 3.21,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-10"
+  "seen": "2026-10-14"
  },
  "3156": {
   "name": "Chocolate Peanut Butter",
@@ -3718,7 +3718,7 @@
   "p": 1.0,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "6542": {
   "name": "Scrambled Eggs",
@@ -6030,7 +6030,7 @@
   "p": 0.92,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-12"
+  "seen": "2026-10-14"
  },
  "279": {
   "name": "Antipasto Salad",
@@ -8692,7 +8692,7 @@
   "p": 2.89,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "1419": {
   "name": "Sansai Mixed Rice",
@@ -8980,7 +8980,7 @@
   "p": 2.52,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "2457": {
   "name": "Tan Tan Ramen Noodle Soup",
@@ -9190,7 +9190,7 @@
   "p": 7.89,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "285": {
   "name": "Chocolate Cherry Crisp",
@@ -12925,7 +12925,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-01",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "10038": {
   "name": "Nashville Hot Fish Sandwich",
@@ -13189,7 +13189,7 @@
   "p": 0.36,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-09"
+  "seen": "2026-10-14"
  },
  "2335": {
   "name": "Boston Baked Lentils",
@@ -13508,7 +13508,7 @@
   "p": 6.12,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-02"
+  "seen": "2026-10-14"
  },
  "4052": {
   "name": "Whole Wheat Spaghetti w/ Garlic Clam Sauce",
@@ -13927,7 +13927,7 @@
   "p": 15.25,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-08"
+  "seen": "2026-10-14"
  },
  "8816": {
   "name": "Battered Pickle Chips",
@@ -14911,7 +14911,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-03",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "6245": {
   "name": "Kitchen Special",
@@ -15111,7 +15111,7 @@
   "p": 3.96,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "2201": {
   "name": "NOODLES BOWTIE FARFALLE",
@@ -19080,7 +19080,7 @@
   "p": 1.14,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "10381": {
   "name": "Huli Huli Chicken Salad",
@@ -19091,7 +19091,7 @@
   "p": 8.35,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "1022": {
   "name": "Pizzaiola Beef Sandwich",
@@ -19603,7 +19603,7 @@
   "p": 0.87,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-10-11"
+  "seen": "2026-10-14"
  },
  "2152": {
   "name": "Roasted Carrots",
@@ -21205,6 +21205,53 @@
   "c": 13.12,
   "p": 18.18,
   "tags": [],
+  "fetched": "2026-10-14",
+  "seen": "2026-10-14"
+ },
+ "1110": {
+  "name": "Red Lentil Stew",
+  "serving": "2.92oz",
+  "cal": 76.0,
+  "f": 0.45,
+  "c": 13.9,
+  "p": 4.6,
+  "tags": [],
+  "fetched": "2026-10-14",
+  "seen": "2026-10-14"
+ },
+ "5960": {
+  "name": "Capri Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-14",
+  "seen": "2026-10-14"
+ },
+ "6179": {
+  "name": "Capri Vegetarian Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-14",
+  "seen": "2026-10-14"
+ },
+ "6242": {
+  "name": "Simply Grilled Vegetarian Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
   "fetched": "2026-10-14",
   "seen": "2026-10-14"
  }
