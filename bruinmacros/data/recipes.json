@@ -8548,7 +8548,7 @@
   "p": 5.78,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "9964": {
   "name": "Pre-Workout Protein Box",
@@ -11410,7 +11410,7 @@
   "p": 8.75,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-09-30"
+  "seen": "2026-10-14"
  },
  "9249": {
   "name": "Kaldareta Beef",
@@ -13993,7 +13993,7 @@
   "p": 1.04,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-01"
+  "seen": "2026-10-14"
  },
  "1924": {
   "name": "Roasted Salmon",
@@ -14956,7 +14956,7 @@
   "p": 0.92,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "7086": {
   "name": "Sonoma Walnut Chicken Salad",
@@ -17560,7 +17560,7 @@
   "p": 9.68,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "2987": {
   "name": "Italian Marinated Grilled Chicken Thigh",
@@ -19548,7 +19548,7 @@
   "p": 9.87,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-10-12"
+  "seen": "2026-10-14"
  },
  "9813": {
   "name": "Seared Salmon w/Spicy Peruvian Salsa Verde",
@@ -20665,7 +20665,7 @@
   "p": 42.64,
   "tags": [],
   "fetched": "2026-10-13",
-  "seen": "2026-10-13"
+  "seen": "2026-10-14"
  },
  "868": {
   "name": "Fried Egg",
@@ -21252,6 +21252,17 @@
   "p": 0,
   "tags": [],
   "nodata": true,
+  "fetched": "2026-10-14",
+  "seen": "2026-10-14"
+ },
+ "3387": {
+  "name": "Ziti Bolognese",
+  "serving": "6.19oz",
+  "cal": 405.0,
+  "f": 9.03,
+  "c": 69.39,
+  "p": 3.65,
+  "tags": [],
   "fetched": "2026-10-14",
   "seen": "2026-10-14"
  }

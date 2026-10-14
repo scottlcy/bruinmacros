@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "updated": "2026-10-14T18:01:00+00:00",
+ "updated": "2026-10-14T21:41:16+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -625,17 +625,6 @@
          "tags": []
         },
         {
-         "id": "5948",
-         "name": "Flex Bar Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
          "id": "3279",
          "name": "Refried Beans w/ Cheese",
          "serving": "2.18oz",
@@ -643,6 +632,16 @@
          "p": 14.23,
          "c": 36.14,
          "f": 2.5,
+         "tags": []
+        },
+        {
+         "id": "9521",
+         "name": "Colombian Lentil and Chorizo Stew",
+         "serving": "8.6oz",
+         "cal": 223.0,
+         "p": 9.87,
+         "c": 31.22,
+         "f": 6.97,
          "tags": []
         },
         {
@@ -1110,16 +1109,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "9689",
-         "name": "Mahi Mahi with Tomatillo",
-         "serving": "2.52oz",
-         "cal": 55.0,
-         "p": 10.98,
-         "c": 1.14,
-         "f": 0.41,
-         "tags": []
-        },
-        {
          "id": "3278",
          "name": "Latin Beans & Rice",
          "serving": "3.9oz",
@@ -1157,6 +1146,36 @@
          "p": 8.57,
          "c": 11.03,
          "f": 31.72,
+         "tags": []
+        },
+        {
+         "id": "9521",
+         "name": "Colombian Lentil and Chorizo Stew",
+         "serving": "8.6oz",
+         "cal": 223.0,
+         "p": 9.87,
+         "c": 31.22,
+         "f": 6.97,
+         "tags": []
+        },
+        {
+         "id": "2884",
+         "name": "Macaroni & Cheese",
+         "serving": "3.15oz",
+         "cal": 216.0,
+         "p": 9.68,
+         "c": 22.55,
+         "f": 9.9,
+         "tags": []
+        },
+        {
+         "id": "1262",
+         "name": "Pork Pozole",
+         "serving": "7.58oz",
+         "cal": 101.0,
+         "p": 12.85,
+         "c": 5.58,
+         "f": 2.04,
          "tags": []
         }
        ]
@@ -1267,6 +1286,44 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168,
+         "p": 4.26,
+         "c": 17.17,
+         "f": 8.76
+        },
+        {
+         "id": "10380",
+         "name": "Cajun Red Potato Salad",
+         "serving": "2oz",
+         "cal": 74.0,
+         "p": 1.14,
+         "c": 6.38,
+         "f": 4.79,
+         "tags": []
         }
        ]
       },
@@ -1354,6 +1411,26 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
+        },
+        {
+         "id": "261",
+         "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
+         "serving": "2.23oz",
+         "cal": 227.0,
+         "p": 2.79,
+         "c": 26.64,
+         "f": 11.89,
+         "tags": []
         }
        ]
       }
@@ -2581,6 +2658,16 @@
          "c": 5.96,
          "f": 2.18,
          "tags": []
+        },
+        {
+         "id": "8709",
+         "name": "Vegetable Jambalaya",
+         "serving": "6.2oz",
+         "cal": 301.0,
+         "p": 8.75,
+         "c": 52.29,
+         "f": 6.47,
+         "tags": []
         }
        ]
       },
@@ -3364,15 +3451,14 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "5963",
-         "name": "Alimenti Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "3387",
+         "name": "Ziti Bolognese",
+         "serving": "6.19oz",
+         "cal": 405.0,
+         "p": 3.65,
+         "c": 69.39,
+         "f": 9.03,
+         "tags": []
         },
         {
          "id": "1989",

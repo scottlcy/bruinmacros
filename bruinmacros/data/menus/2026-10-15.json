@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "updated": "2026-10-14T18:01:30+00:00",
+ "updated": "2026-10-14T21:41:49+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -4352,15 +4352,24 @@
        "name": "Iron Grill",
        "items": [
         {
-         "id": "8697",
-         "name": "Loaded Cheesy Bulgogi Fries",
-         "serving": "22.14oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
+         "id": "8587",
+         "name": "Grilled Beef Banh Mi",
+         "serving": "10.8oz",
+         "cal": 694.0,
+         "p": 42.64,
+         "c": 33.03,
+         "f": 43.07,
+         "tags": []
+        },
+        {
+         "id": "5180",
+         "name": "Shrimp Chips",
+         "serving": "2.1oz",
+         "cal": 208.0,
+         "p": 1.04,
+         "c": 50.73,
          "f": 0,
-         "tags": [],
-         "nodata": true
+         "tags": []
         }
        ]
       },
