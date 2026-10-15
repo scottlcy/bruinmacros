@@ -13905,7 +13905,7 @@
   "p": 1.94,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-10"
+  "seen": "2026-10-14"
  },
  "8813": {
   "name": "Potato & Mozzarella Corndog",
@@ -14071,7 +14071,7 @@
   "p": 1.29,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-09"
+  "seen": "2026-10-14"
  },
  "2064": {
   "name": "Tri-Color Quinoa Pancake w/ Blueberries",
@@ -21273,6 +21273,17 @@
   "f": 6.02,
   "c": 23.01,
   "p": 1.73,
+  "tags": [],
+  "fetched": "2026-10-14",
+  "seen": "2026-10-14"
+ },
+ "2818": {
+  "name": "Buffalo Sauce",
+  "serving": "1oz",
+  "cal": 16.0,
+  "f": 1.29,
+  "c": 0.98,
+  "p": 0.02,
   "tags": [],
   "fetched": "2026-10-14",
   "seen": "2026-10-14"
