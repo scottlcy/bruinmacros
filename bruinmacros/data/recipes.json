@@ -298,7 +298,7 @@
   "f": 1.25,
   "c": 2.87,
   "fetched": "2026-09-27",
-  "seen": "2026-10-14"
+  "seen": "2026-10-15"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -5887,7 +5887,7 @@
   "p": 3.22,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-14"
+  "seen": "2026-10-15"
  },
  "2565": {
   "name": "Cauliflower Skordalia Spread",
@@ -7450,7 +7450,7 @@
   "p": 2.06,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-07"
+  "seen": "2026-10-15"
  },
  "6597": {
   "name": "Chicken Fettuccine Alfredo",
@@ -20189,7 +20189,7 @@
   "p": 0.71,
   "tags": [],
   "fetched": "2026-10-13",
-  "seen": "2026-10-14"
+  "seen": "2026-10-15"
  },
  "1079": {
   "name": "Chicken Parmesan Sandwich",
@@ -20720,7 +20720,7 @@
   "p": 27.22,
   "tags": [],
   "fetched": "2026-10-13",
-  "seen": "2026-10-14"
+  "seen": "2026-10-15"
  },
  "9647": {
   "name": "Rajas Poblanas",
@@ -21680,6 +21680,28 @@
   "f": 5.48,
   "c": 5.2,
   "p": 4.36,
+  "tags": [],
+  "fetched": "2026-10-15",
+  "seen": "2026-10-15"
+ },
+ "7961": {
+  "name": "Edamame with Shell",
+  "serving": "1oz",
+  "cal": 32.0,
+  "f": 1.33,
+  "c": 2.15,
+  "p": 3.16,
+  "tags": [],
+  "fetched": "2026-10-15",
+  "seen": "2026-10-15"
+ },
+ "906": {
+  "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
+  "serving": "3.57oz",
+  "cal": 205.0,
+  "f": 2.38,
+  "c": 39.2,
+  "p": 8.07,
   "tags": [],
   "fetched": "2026-10-15",
   "seen": "2026-10-15"
