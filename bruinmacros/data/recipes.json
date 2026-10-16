@@ -16577,7 +16577,7 @@
   "p": 0.24,
   "tags": [],
   "fetched": "2026-10-06",
-  "seen": "2026-10-10"
+  "seen": "2026-10-16"
  },
  "6955": {
   "name": "Orange Cranberry Quickbread",
@@ -19614,7 +19614,7 @@
   "p": 1.01,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-10-11"
+  "seen": "2026-10-16"
  },
  "2485": {
   "name": "Chickpea Panisse",
@@ -19658,7 +19658,7 @@
   "p": 11.56,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-10-12"
+  "seen": "2026-10-16"
  },
  "2738": {
   "name": "Cajun Chicken Wings",
@@ -20919,7 +20919,7 @@
   "p": 4.48,
   "tags": [],
   "fetched": "2026-10-14",
-  "seen": "2026-10-15"
+  "seen": "2026-10-16"
  },
  "2299": {
   "name": "Plantain, White Bean, Quinoa, & Swiss Chard Bowl",
@@ -21802,6 +21802,29 @@
   "c": 26.5,
   "p": 6.08,
   "tags": [],
+  "fetched": "2026-10-16",
+  "seen": "2026-10-16"
+ },
+ "4505": {
+  "name": "Seasonal Sugar Cookies",
+  "serving": "4.12oz",
+  "cal": 484.0,
+  "f": 35.73,
+  "c": 52.59,
+  "p": 6.14,
+  "tags": [],
+  "fetched": "2026-10-16",
+  "seen": "2026-10-16"
+ },
+ "6266": {
+  "name": "Farmstand Vegetarian Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
   "fetched": "2026-10-16",
   "seen": "2026-10-16"
  }

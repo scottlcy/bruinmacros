@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "updated": "2026-10-16T17:24:01+00:00",
+ "updated": "2026-10-16T21:07:26+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1091,16 +1091,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "6912",
-         "name": "BBQ Chipotle Chicken Thigh",
-         "serving": "3.01oz",
-         "cal": 111.0,
-         "p": 11.9,
-         "c": 6.5,
-         "f": 3.4,
-         "tags": []
-        },
-        {
          "id": "6915",
          "name": "Quinoa Pilaf",
          "serving": "4.45oz",
@@ -1248,6 +1238,34 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168,
+         "p": 4.26,
+         "c": 17.17,
+         "f": 8.76
+        },
+        {
+         "id": "10380",
+         "name": "Cajun Red Potato Salad",
+         "serving": "2oz",
+         "cal": 74.0,
+         "p": 1.14,
+         "c": 6.38,
+         "f": 4.79,
+         "tags": []
         }
        ]
       },
@@ -1335,6 +1353,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "257",
+         "name": "Cinnamon Streusel Coffee Cake",
+         "serving": "1.7oz",
+         "cal": 184.0,
+         "p": 2.54,
+         "c": 17.04,
+         "f": 11.57,
+         "tags": []
         }
        ]
       }
@@ -1913,16 +1941,6 @@
          "tags": []
         },
         {
-         "id": "956",
-         "name": "Brown Calrose Rice",
-         "serving": "2.03oz",
-         "cal": 105.0,
-         "p": 2.16,
-         "c": 21.89,
-         "f": 0.77,
-         "tags": []
-        },
-        {
          "id": "902",
          "name": "Wheat Berry",
          "serving": "2.01oz",
@@ -1943,13 +1961,23 @@
          "tags": []
         },
         {
-         "id": "887",
-         "name": "Sauteed Spinach & Kale",
-         "serving": "1.64oz",
-         "cal": 30.0,
-         "p": 1.95,
-         "c": 4.1,
-         "f": 1.15,
+         "id": "908",
+         "name": "Brown Jasmine Rice",
+         "serving": "3.47oz",
+         "cal": 209.0,
+         "p": 4.28,
+         "c": 43.23,
+         "f": 1.82,
+         "tags": []
+        },
+        {
+         "id": "985",
+         "name": "Sauteed Kale",
+         "serving": "2.33oz",
+         "cal": 48.0,
+         "p": 2.57,
+         "c": 5.96,
+         "f": 2.18,
          "tags": []
         }
        ]
@@ -2073,16 +2101,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -2090,16 +2108,6 @@
          "p": 2.58,
          "c": 18.57,
          "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
          "tags": []
         },
         {
@@ -2123,16 +2131,6 @@
          "tags": []
         },
         {
-         "id": "1417",
-         "name": "Apricot Almond Bar",
-         "serving": "1.37oz",
-         "cal": 126.0,
-         "p": 2.55,
-         "c": 17.05,
-         "f": 5.57,
-         "tags": []
-        },
-        {
          "id": "2939",
          "name": "Almond Cashew Butter",
          "serving": "1oz",
@@ -2140,16 +2138,6 @@
          "p": 5.12,
          "c": 7.24,
          "f": 14.09,
-         "tags": []
-        },
-        {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
          "tags": []
         },
         {
@@ -2163,16 +2151,6 @@
          "tags": []
         },
         {
-         "id": "3464",
-         "name": "Kumquat Compote",
-         "serving": "1.27oz",
-         "cal": 44.0,
-         "p": 0.41,
-         "c": 11.04,
-         "f": 0.14,
-         "tags": []
-        },
-        {
          "id": "2292",
          "name": "Pear-Date Compote",
          "serving": "1.12oz",
@@ -2180,6 +2158,26 @@
          "p": 0.36,
          "c": 14.05,
          "f": 0.08,
+         "tags": []
+        },
+        {
+         "id": "1400",
+         "name": "Coconut Pineapple Bread",
+         "serving": "2.63oz",
+         "cal": 282.0,
+         "p": 3.28,
+         "c": 28.12,
+         "f": 17.08,
+         "tags": []
+        },
+        {
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -2548,6 +2546,17 @@
          "c": 5.96,
          "f": 2.18,
          "tags": []
+        },
+        {
+         "id": "6266",
+         "name": "Farmstand Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3006,22 +3015,6 @@
          "nodata": true
         }
        ]
-      },
-      {
-       "name": "Frozen Yogurt",
-       "items": [
-        {
-         "id": "8122",
-         "name": "Frozen Yogurt Bar",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        }
-       ]
       }
      ]
     }
@@ -3154,6 +3147,16 @@
          "tags": []
         },
         {
+         "id": "2152",
+         "name": "Roasted Carrots",
+         "serving": "3.91oz",
+         "cal": 69.0,
+         "p": 1.01,
+         "c": 10.36,
+         "f": 2.86,
+         "tags": []
+        },
+        {
          "id": "1492",
          "name": "Italian Style Broccoli & Cauliflower",
          "serving": "3.02oz",
@@ -3161,16 +3164,6 @@
          "p": 2.06,
          "c": 4.27,
          "f": 1.29,
-         "tags": []
-        },
-        {
-         "id": "7934",
-         "name": "Roasted Zucchini",
-         "serving": "2.05oz",
-         "cal": 25.0,
-         "p": 1.53,
-         "c": 1.76,
-         "f": 1.58,
          "tags": []
         },
         {
@@ -3279,6 +3272,16 @@
          "f": 2.36
         },
         {
+         "id": "4505",
+         "name": "Seasonal Sugar Cookies",
+         "serving": "4.12oz",
+         "cal": 484.0,
+         "p": 6.14,
+         "c": 52.59,
+         "f": 35.73,
+         "tags": []
+        },
+        {
          "id": "299",
          "name": "Old-Fashioned Oatmeal Raisin Cookie",
          "serving": "1.3oz",
@@ -3343,13 +3346,13 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "3179",
-         "name": "Seared Salmon",
-         "serving": "3.31oz",
-         "cal": 206.0,
-         "p": 18.73,
-         "c": 0.12,
-         "f": 13.81,
+         "id": "2264",
+         "name": "Harissa Pork Ribs",
+         "serving": "1.79oz",
+         "cal": 88.0,
+         "p": 4.48,
+         "c": 5.96,
+         "f": 4.73,
          "tags": []
         },
         {
@@ -3371,6 +3374,16 @@
          "p": 6.08,
          "c": 26.5,
          "f": 0.74,
+         "tags": []
+        },
+        {
+         "id": "4068",
+         "name": "Seared Tempeh",
+         "serving": "2.25oz",
+         "cal": 116.0,
+         "p": 11.56,
+         "c": 5.87,
+         "f": 6.12,
          "tags": []
         },
         {
