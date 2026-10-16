@@ -20123,7 +20123,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-12",
-  "seen": "2026-10-12"
+  "seen": "2026-10-16"
  },
  "6170": {
   "name": "Roasted Broccolini",
@@ -20952,7 +20952,7 @@
   "p": 26.64,
   "tags": [],
   "fetched": "2026-10-14",
-  "seen": "2026-10-15"
+  "seen": "2026-10-16"
  },
  "3233": {
   "name": "Fried Yuca",
@@ -21172,7 +21172,7 @@
   "p": 0.71,
   "tags": [],
   "fetched": "2026-10-14",
-  "seen": "2026-10-15"
+  "seen": "2026-10-16"
  },
  "8697": {
   "name": "Loaded Cheesy Bulgogi Fries",
@@ -21825,6 +21825,17 @@
   "p": 0,
   "tags": [],
   "nodata": true,
+  "fetched": "2026-10-16",
+  "seen": "2026-10-16"
+ },
+ "7261": {
+  "name": "BBQ Pulled Pork",
+  "serving": "2oz",
+  "cal": 76.0,
+  "f": 3.48,
+  "c": 4.09,
+  "p": 7.45,
+  "tags": [],
   "fetched": "2026-10-16",
   "seen": "2026-10-16"
  }

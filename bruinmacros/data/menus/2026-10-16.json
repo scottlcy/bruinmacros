@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "updated": "2026-10-16T21:07:26+00:00",
+ "updated": "2026-10-16T23:35:29+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1128,6 +1128,36 @@
          "p": 8.57,
          "c": 11.03,
          "f": 31.72,
+         "tags": []
+        },
+        {
+         "id": "3228",
+         "name": "Oven Roasted Mojito Chicken",
+         "serving": "9.12oz",
+         "cal": 368.0,
+         "p": 26.64,
+         "c": 16.59,
+         "f": 22.4,
+         "tags": []
+        },
+        {
+         "id": "7261",
+         "name": "BBQ Pulled Pork",
+         "serving": "2oz",
+         "cal": 76.0,
+         "p": 7.45,
+         "c": 4.09,
+         "f": 3.48,
+         "tags": []
+        },
+        {
+         "id": "8663",
+         "name": "Roasted Plantains",
+         "serving": "2oz",
+         "cal": 98.0,
+         "p": 0.71,
+         "c": 19.28,
+         "f": 1.9,
          "tags": []
         }
        ]
@@ -2473,14 +2503,15 @@
        "name": "Harvest",
        "items": [
         {
-         "id": "2180",
-         "name": "Moroccan Salmon",
-         "serving": "1.66oz",
-         "cal": 96.0,
-         "p": 9.37,
-         "c": 0.15,
-         "f": 6.15,
-         "tags": []
+         "id": "5957",
+         "name": "Harvest Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "1009",
