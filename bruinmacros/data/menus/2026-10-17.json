@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-16T09:52:19+00:00",
+ "updated": "2026-10-16T17:24:22+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1410,16 +1410,6 @@
        "name": "Stone Fired",
        "items": [
         {
-         "id": "2037",
-         "name": "Four Grain Waffles w/ Oranges & Citrus Marmalade",
-         "serving": "3.87oz",
-         "cal": 168.0,
-         "p": 4.16,
-         "c": 28.06,
-         "f": 4.89,
-         "tags": []
-        },
-        {
          "id": "3419",
          "name": "Roasted Beet & Grilled Pineapple Butter",
          "serving": "2.79oz",
@@ -1437,6 +1427,16 @@
          "p": 1.49,
          "c": 12.43,
          "f": 1.49,
+         "tags": []
+        },
+        {
+         "id": "3083",
+         "name": "Four Grain Waffles",
+         "serving": "2.02oz",
+         "cal": 104.0,
+         "p": 3.49,
+         "c": 16.43,
+         "f": 2.94,
          "tags": []
         }
        ]
@@ -1823,16 +1823,6 @@
          "p": 1.85,
          "c": 10.11,
          "f": 9.26
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
-         "tags": []
         }
        ]
       },
@@ -1849,16 +1839,6 @@
          "f": 0,
          "tags": [],
          "nodata": true
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
-         "tags": []
         }
        ]
       },
@@ -1883,16 +1863,6 @@
          "p": 5.74,
          "c": 22.58,
          "f": 6.12,
-         "tags": []
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
          "tags": []
         }
        ]
@@ -1949,27 +1919,6 @@
          "c": 3.69,
          "f": 0.49,
          "tags": []
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
-         "tags": []
-        },
-        {
-         "id": "5953",
-         "name": "Farm Stand Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
@@ -1994,16 +1943,6 @@
          "p": 5.58,
          "c": 34.93,
          "f": 6.62,
-         "tags": []
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
          "tags": []
         }
        ]
@@ -2032,13 +1971,13 @@
          "tags": []
         },
         {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
+         "id": "7586",
+         "name": "Halal Italian Chicken Thigh",
+         "serving": "1.68oz",
+         "cal": 85.0,
+         "p": 7.75,
+         "c": 0.48,
+         "f": 5.26,
          "tags": []
         }
        ]
@@ -2094,16 +2033,6 @@
          "p": 0.77,
          "c": 9.95,
          "f": 0.35,
-         "tags": []
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
          "tags": []
         },
         {
@@ -2231,16 +2160,6 @@
          "c": 2.23,
          "f": 0.03,
          "tags": []
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
-         "tags": []
         }
        ]
       },
@@ -2296,16 +2215,6 @@
          "c": 1.25,
          "f": 0.62,
          "tags": []
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
-         "tags": []
         }
        ]
       },
@@ -2350,16 +2259,6 @@
          "p": 0,
          "c": 2.02,
          "f": 0,
-         "tags": []
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
          "tags": []
         }
        ]
@@ -2477,16 +2376,6 @@
          "f": 0,
          "tags": [],
          "nodata": true
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
-         "tags": []
         }
        ]
       },
@@ -2503,16 +2392,6 @@
          "f": 0,
          "tags": [],
          "nodata": true
-        },
-        {
-         "id": "906",
-         "name": "Ancient Grain Pilaf w/ Burnt Wheat Pasta",
-         "serving": "3.57oz",
-         "cal": 205.0,
-         "p": 8.07,
-         "c": 39.2,
-         "f": 2.38,
-         "tags": []
         }
        ]
       }
