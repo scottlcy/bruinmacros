@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "updated": "2026-10-16T00:24:49+00:00",
+ "updated": "2026-10-16T04:33:57+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1101,14 +1101,14 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1135,15 +1135,6 @@
          "f": 13.41
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
-        },
-        {
          "id": "9645",
          "name": "Poblano Chicken",
          "serving": "13.07oz",
@@ -1154,33 +1145,32 @@
          "tags": []
         },
         {
-         "id": "10566",
-         "name": "Sofrito Rice",
-         "serving": "1.89oz",
-         "cal": 56.0,
-         "p": 0.71,
-         "c": 7.16,
-         "f": 2.52,
+         "id": "7327",
+         "name": "Cilantro Rice",
+         "serving": "3.68oz",
+         "cal": 124,
+         "p": 2.1,
+         "c": 21.92,
+         "f": 2.66
+        },
+        {
+         "id": "9875",
+         "name": "Brazilian Braised Pork",
+         "serving": "3.38oz",
+         "cal": 134.0,
+         "p": 17.3,
+         "c": 1.0,
+         "f": 6.55,
          "tags": []
         },
         {
-         "id": "6267",
-         "name": "Camarones Guisados",
-         "serving": "4.46oz",
-         "cal": 216.0,
-         "p": 9.16,
-         "c": 5.67,
-         "f": 16.41,
-         "tags": []
-        },
-        {
-         "id": "3228",
-         "name": "Oven Roasted Mojito Chicken",
-         "serving": "9.12oz",
-         "cal": 368.0,
-         "p": 26.64,
-         "c": 16.59,
-         "f": 22.4,
+         "id": "116",
+         "name": "Broccoli Cheddar Soup",
+         "serving": "6oz",
+         "cal": 385.0,
+         "p": 8.57,
+         "c": 11.03,
+         "f": 31.72,
          "tags": []
         }
        ]
@@ -1355,16 +1345,6 @@
          "f": 5.87
         },
         {
-         "id": "3964",
-         "name": "Key Lime Pie",
-         "serving": "4.55oz",
-         "cal": 402.0,
-         "p": 7.81,
-         "c": 60.34,
-         "f": 13.44,
-         "tags": []
-        },
-        {
          "id": "3954",
          "name": "Chipmunk Bar",
          "serving": "1.79oz",
@@ -1417,16 +1397,6 @@
          "tags": []
         },
         {
-         "id": "229",
-         "name": "Deep Dish Blackout Cake",
-         "serving": "3.42oz",
-         "cal": 282.0,
-         "p": 4.9,
-         "c": 37.65,
-         "f": 18.21,
-         "tags": []
-        },
-        {
          "id": "9958",
          "name": "Blueberry Cobbler",
          "serving": "5oz",
@@ -1434,6 +1404,16 @@
          "p": 5.78,
          "c": 58.89,
          "f": 13.55,
+         "tags": []
+        },
+        {
+         "id": "4910",
+         "name": "Peach Cobbler",
+         "serving": "5.55oz",
+         "cal": 277.0,
+         "p": 3.44,
+         "c": 52.17,
+         "f": 11.22,
          "tags": []
         }
        ]
@@ -2521,16 +2501,6 @@
        "name": "Soups",
        "items": [
         {
-         "id": "1976",
-         "name": "Chicken Tortilla Soup",
-         "serving": "6.05oz",
-         "cal": 181.0,
-         "p": 9.39,
-         "c": 25.64,
-         "f": 4.32,
-         "tags": []
-        },
-        {
          "id": "152",
          "name": "Creamy Tomato Basil Soup",
          "serving": "6.05oz",
@@ -2538,6 +2508,16 @@
          "p": 1.85,
          "c": 10.11,
          "f": 9.26
+        },
+        {
+         "id": "130",
+         "name": "Seafood, Leek & Tomato Chowder",
+         "serving": "7.16oz",
+         "cal": 80.0,
+         "p": 9.96,
+         "c": 6.13,
+         "f": 0.97,
+         "tags": []
         }
        ]
       },
@@ -3270,6 +3250,15 @@
          "tags": []
         },
         {
+         "id": "1396",
+         "name": "Greek Style Roasted Carrot & Pepper Saute",
+         "serving": "3.36oz",
+         "cal": 85,
+         "p": 0.95,
+         "c": 7.23,
+         "f": 5.83
+        },
+        {
          "id": "203",
          "name": "Greek Salad",
          "serving": "2.02oz",
@@ -3908,23 +3897,23 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "879",
-         "name": "Meatballs & Marinara",
-         "serving": "2oz",
-         "cal": 88.0,
-         "p": 4.36,
-         "c": 5.2,
-         "f": 5.48,
+         "id": "7488",
+         "name": "North African Style Honey Chicken",
+         "serving": "4.34oz",
+         "cal": 290.0,
+         "p": 19.54,
+         "c": 10.52,
+         "f": 18.74,
          "tags": []
         },
         {
-         "id": "1123",
-         "name": "Spinach, Tomato, & Pesto Grilled Cheese Sandwich",
-         "serving": "4.86oz",
-         "cal": 271.0,
-         "p": 13.23,
-         "c": 33.97,
-         "f": 8.98,
+         "id": "7691",
+         "name": "Koshari Lentil, Chickpea, and Saute Rice",
+         "serving": "7oz",
+         "cal": 410.0,
+         "p": 15.17,
+         "c": 69.03,
+         "f": 8.03,
          "tags": []
         },
         {
