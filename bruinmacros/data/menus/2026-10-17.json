@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-16T23:35:52+00:00",
+ "updated": "2026-10-17T04:29:08+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -922,44 +922,24 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "7343",
-         "name": "Country Fried Beef Steak",
+         "id": "6245",
+         "name": "Kitchen Special",
          "serving": "4oz",
-         "cal": 556.0,
-         "p": 16.67,
-         "c": 29.99,
-         "f": 15.33,
-         "tags": []
-        },
-        {
-         "id": "8962",
-         "name": "Country-Style Gravy",
-         "serving": "2.1oz",
-         "cal": 41.0,
+         "cal": 0,
          "p": 0,
-         "c": 5.43,
-         "f": 1.81,
-         "tags": []
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
-         "id": "2665",
-         "name": "Steak Cut Fries",
-         "serving": "3.02oz",
-         "cal": 200.0,
-         "p": 3.98,
-         "c": 31.81,
-         "f": 4.97,
-         "tags": []
-        },
-        {
-         "id": "6188",
-         "name": "Beyond Chicken Tenders",
-         "serving": "4oz",
-         "cal": 303.0,
-         "p": 18.45,
-         "c": 18.45,
-         "f": 15.81,
-         "tags": []
+         "id": "3042",
+         "name": "Al Pastor-Style Mushroom Taco (Taco de Hongos)",
+         "serving": "3.72oz",
+         "cal": 141,
+         "p": 3.48,
+         "c": 22.2,
+         "f": 4.83
         }
        ]
       },

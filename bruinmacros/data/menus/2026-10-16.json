@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "updated": "2026-10-16T23:35:29+00:00",
+ "updated": "2026-10-17T04:28:49+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1047,16 +1047,6 @@
          "f": 24.95
         },
         {
-         "id": "2601",
-         "name": "Pastrami Burger",
-         "serving": "10.06oz",
-         "cal": 593.0,
-         "p": 41.37,
-         "c": 34.7,
-         "f": 32.93,
-         "tags": []
-        },
-        {
          "id": "10039",
          "name": "Baja Fish Sandwich",
          "serving": "7.68oz",
@@ -1076,13 +1066,13 @@
          "f": 16.32
         },
         {
-         "id": "9043",
-         "name": "Curly Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 214.0,
-         "p": 2.66,
-         "c": 26.66,
-         "f": 10.66,
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
          "tags": []
         }
        ]
@@ -1131,33 +1121,13 @@
          "tags": []
         },
         {
-         "id": "3228",
-         "name": "Oven Roasted Mojito Chicken",
-         "serving": "9.12oz",
-         "cal": 368.0,
-         "p": 26.64,
-         "c": 16.59,
-         "f": 22.4,
-         "tags": []
-        },
-        {
-         "id": "7261",
-         "name": "BBQ Pulled Pork",
-         "serving": "2oz",
-         "cal": 76.0,
-         "p": 7.45,
-         "c": 4.09,
-         "f": 3.48,
-         "tags": []
-        },
-        {
-         "id": "8663",
-         "name": "Roasted Plantains",
-         "serving": "2oz",
-         "cal": 98.0,
-         "p": 0.71,
-         "c": 19.28,
-         "f": 1.9,
+         "id": "8861",
+         "name": "Mojo Pork Tenderloin",
+         "serving": "2.25oz",
+         "cal": 93.0,
+         "p": 11.82,
+         "c": 0.96,
+         "f": 4.31,
          "tags": []
         }
        ]
@@ -1192,6 +1162,16 @@
          "p": 2.07,
          "c": 4.4,
          "f": 1.51,
+         "tags": []
+        },
+        {
+         "id": "8663",
+         "name": "Roasted Plantains",
+         "serving": "2oz",
+         "cal": 98.0,
+         "p": 0.71,
+         "c": 19.28,
+         "f": 1.9,
          "tags": []
         }
        ]
@@ -1296,6 +1276,16 @@
          "c": 6.38,
          "f": 4.79,
          "tags": []
+        },
+        {
+         "id": "3438",
+         "name": "Spicy Coleslaw",
+         "serving": "3.59oz",
+         "cal": 105.0,
+         "p": 0.77,
+         "c": 5.25,
+         "f": 9.3,
+         "tags": []
         }
        ]
       },
@@ -1343,16 +1333,6 @@
          "tags": []
         },
         {
-         "id": "4114",
-         "name": "Chocolate Cream Mousse",
-         "serving": "4.07oz",
-         "cal": 413.0,
-         "p": 3.66,
-         "c": 17.16,
-         "f": 33.06,
-         "tags": []
-        },
-        {
          "id": "8570",
          "name": "Chocolate Tres Leches Cake",
          "serving": "5.16oz",
@@ -1385,13 +1365,13 @@
          "nodata": true
         },
         {
-         "id": "257",
-         "name": "Cinnamon Streusel Coffee Cake",
-         "serving": "1.7oz",
-         "cal": 184.0,
-         "p": 2.54,
-         "c": 17.04,
-         "f": 11.57,
+         "id": "4910",
+         "name": "Peach Cobbler",
+         "serving": "5.55oz",
+         "cal": 277.0,
+         "p": 3.44,
+         "c": 52.17,
+         "f": 11.22,
          "tags": []
         }
        ]
@@ -2463,14 +2443,13 @@
          "tags": []
         },
         {
-         "id": "753",
-         "name": "Garden Vegetable Soup",
-         "serving": "6oz",
-         "cal": 34.0,
-         "p": 1.29,
-         "c": 6.12,
-         "f": 0.65,
-         "tags": []
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         }
        ]
       },
