@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-17T19:23:37+00:00",
+ "updated": "2026-10-17T22:18:07+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2497,13 +2497,13 @@
          "tags": []
         },
         {
-         "id": "2255",
-         "name": "Steamed Barley",
-         "serving": "2.01oz",
-         "cal": 101.0,
-         "p": 2.82,
-         "c": 22.11,
-         "f": 0.33,
+         "id": "7239",
+         "name": "Wild Rice Blend",
+         "serving": "2oz",
+         "cal": 65.0,
+         "p": 1.98,
+         "c": 13.66,
+         "f": 0.19,
          "tags": []
         },
         {
@@ -2532,24 +2532,15 @@
        "name": "Stone Fired",
        "items": [
         {
-         "id": "3143",
-         "name": "Roasted Pork, Sorrel, & Goat Cheese Pizza",
-         "serving": "2.62oz",
-         "cal": 150.0,
-         "p": 6.6,
-         "c": 22.99,
-         "f": 3.97,
-         "tags": []
-        },
-        {
-         "id": "3153",
-         "name": "Pear, Thyme, & Blue Cheese Pizza",
-         "serving": "3.18oz",
-         "cal": 175.0,
-         "p": 4.65,
-         "c": 33.87,
-         "f": 2.69,
-         "tags": []
+         "id": "5954",
+         "name": "Stone Oven Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },

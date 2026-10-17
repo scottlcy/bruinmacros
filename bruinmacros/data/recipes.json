@@ -15904,7 +15904,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-05",
-  "seen": "2026-10-05"
+  "seen": "2026-10-17"
  },
  "5964": {
   "name": "Psistaria Vegetarian Special",
@@ -22022,6 +22022,17 @@
   "f": 32.43,
   "c": 67.39,
   "p": 29.93,
+  "tags": [],
+  "fetched": "2026-10-17",
+  "seen": "2026-10-17"
+ },
+ "7239": {
+  "name": "Wild Rice Blend",
+  "serving": "2oz",
+  "cal": 65.0,
+  "f": 0.19,
+  "c": 13.66,
+  "p": 1.98,
   "tags": [],
   "fetched": "2026-10-17",
   "seen": "2026-10-17"
