@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-17T16:24:31+00:00",
+ "updated": "2026-10-17T19:23:37+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1940,13 +1940,23 @@
          "tags": []
         },
         {
-         "id": "1971",
-         "name": "Black Eyed Peas & Collard Greens",
-         "serving": "2.38oz",
-         "cal": 24.0,
-         "p": 1.29,
-         "c": 3.69,
-         "f": 0.49,
+         "id": "957",
+         "name": "Roasted Butternut Squash",
+         "serving": "4oz",
+         "cal": 51.0,
+         "p": 1.13,
+         "c": 13.24,
+         "f": 0.11,
+         "tags": []
+        },
+        {
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -2080,16 +2090,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -2097,16 +2097,6 @@
          "p": 2.58,
          "c": 18.57,
          "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
          "tags": []
         },
         {
@@ -2131,16 +2121,6 @@
          "nodata": true
         },
         {
-         "id": "3713",
-         "name": "Flaxsnax Breakfast Cookie w/ Pecans",
-         "serving": "1.14oz",
-         "cal": 157.0,
-         "p": 3.11,
-         "c": 8.58,
-         "f": 11.8,
-         "tags": []
-        },
-        {
          "id": "2939",
          "name": "Almond Cashew Butter",
          "serving": "1oz",
@@ -2148,16 +2128,6 @@
          "p": 5.12,
          "c": 7.24,
          "f": 14.09,
-         "tags": []
-        },
-        {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
          "tags": []
         },
         {
@@ -2171,23 +2141,23 @@
          "tags": []
         },
         {
-         "id": "4615",
-         "name": "Green Lentil Butter",
-         "serving": "1.18oz",
-         "cal": 68.0,
-         "p": 3.9,
-         "c": 13.23,
-         "f": 0.17,
+         "id": "1392",
+         "name": "Lemon Poppy Bread",
+         "serving": "2.05oz",
+         "cal": 209.0,
+         "p": 2.99,
+         "c": 17.38,
+         "f": 13.94,
          "tags": []
         },
         {
-         "id": "3101",
-         "name": "Orange-Papaya Marmalade",
-         "serving": "0.58oz",
-         "cal": 9.0,
-         "p": 0.1,
-         "c": 2.23,
-         "f": 0.03,
+         "id": "2292",
+         "name": "Pear-Date Compote",
+         "serving": "1.12oz",
+         "cal": 55.0,
+         "p": 0.36,
+         "c": 14.05,
+         "f": 0.08,
          "tags": []
         }
        ]
