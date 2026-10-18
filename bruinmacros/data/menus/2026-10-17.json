@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-17T22:18:07+00:00",
+ "updated": "2026-10-18T01:01:50+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1255,6 +1255,54 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168,
+         "p": 4.26,
+         "c": 17.17,
+         "f": 8.76
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 78.0,
+         "p": 8.35,
+         "c": 1.62,
+         "f": 3.95,
+         "tags": []
+        },
+        {
+         "id": "6660",
+         "name": "Ahi Poke",
+         "serving": "2.94oz",
+         "cal": 31.0,
+         "p": 1.6,
+         "c": 3.67,
+         "f": 1.24,
+         "tags": []
         }
        ]
       },
@@ -1340,6 +1388,26 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "302",
+         "name": "Sugar Cookies",
+         "serving": "1.3oz",
+         "cal": 180.0,
+         "p": 2.14,
+         "c": 18.98,
+         "f": 10.65,
+         "tags": []
+        },
+        {
+         "id": "3954",
+         "name": "Chipmunk Bar",
+         "serving": "1.79oz",
+         "cal": 170.0,
+         "p": 3.26,
+         "c": 23.37,
+         "f": 8.22,
+         "tags": []
         }
        ]
       }

@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "updated": "2026-10-17T22:18:30+00:00",
+ "updated": "2026-10-18T01:02:11+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2495,23 +2495,23 @@
        "name": "Stone Fired",
        "items": [
         {
-         "id": "2221",
-         "name": "BBQ Pork Tortilla Pizza",
-         "serving": "2.46oz",
-         "cal": 101.0,
-         "p": 7.48,
-         "c": 9.66,
-         "f": 3.57,
+         "id": "3143",
+         "name": "Roasted Pork, Sorrel, & Goat Cheese Pizza",
+         "serving": "2.62oz",
+         "cal": 150.0,
+         "p": 6.6,
+         "c": 22.99,
+         "f": 3.97,
          "tags": []
         },
         {
-         "id": "4256",
-         "name": "Hawaiian Macadamia Pesto, Goat Cheese, & Peppadew Flatbread",
-         "serving": "1.94oz",
-         "cal": 151.0,
-         "p": 4.18,
-         "c": 16.27,
-         "f": 8.16,
+         "id": "3153",
+         "name": "Pear, Thyme, & Blue Cheese Pizza",
+         "serving": "3.18oz",
+         "cal": 175.0,
+         "p": 4.65,
+         "c": 33.87,
+         "f": 2.69,
          "tags": []
         }
        ]
