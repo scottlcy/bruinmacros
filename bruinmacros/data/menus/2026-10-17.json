@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-18T01:01:50+00:00",
+ "updated": "2026-10-18T04:36:14+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1139,13 +1139,14 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
+         "id": "116",
+         "name": "Broccoli Cheddar Soup",
          "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
+         "cal": 385.0,
+         "p": 8.57,
+         "c": 11.03,
+         "f": 31.72,
+         "tags": []
         }
        ]
       },
@@ -1285,23 +1286,13 @@
          "tags": []
         },
         {
-         "id": "10381",
-         "name": "Huli Huli Chicken Salad",
-         "serving": "2oz",
-         "cal": 78.0,
-         "p": 8.35,
-         "c": 1.62,
-         "f": 3.95,
-         "tags": []
-        },
-        {
-         "id": "6660",
-         "name": "Ahi Poke",
-         "serving": "2.94oz",
-         "cal": 31.0,
-         "p": 1.6,
-         "c": 3.67,
-         "f": 1.24,
+         "id": "1795",
+         "name": "Cole Slaw",
+         "serving": "3.99oz",
+         "cal": 299.0,
+         "p": 1.21,
+         "c": 8.01,
+         "f": 29.0,
          "tags": []
         }
        ]
