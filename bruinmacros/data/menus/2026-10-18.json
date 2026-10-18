@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "updated": "2026-10-18T09:39:14+00:00",
+ "updated": "2026-10-18T16:32:18+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1374,13 +1374,13 @@
          "tags": []
         },
         {
-         "id": "2179",
-         "name": "Pineapple Compote",
-         "serving": "1.02oz",
-         "cal": 35.0,
-         "p": 0.12,
-         "c": 9.09,
-         "f": 0.03,
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         },
         {
@@ -1509,16 +1509,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -1570,16 +1560,6 @@
          "tags": []
         },
         {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
-         "tags": []
-        },
-        {
          "id": "2945",
          "name": "Peanut Butter",
          "serving": "1oz",
@@ -1587,16 +1567,6 @@
          "p": 3.81,
          "c": 6.0,
          "f": 6.21,
-         "tags": []
-        },
-        {
-         "id": "3436",
-         "name": "Green Tea-Shiso Marmalade",
-         "serving": "1.52oz",
-         "cal": 49.0,
-         "p": 0.12,
-         "c": 12.29,
-         "f": 0.06,
          "tags": []
         }
        ]
@@ -1635,16 +1605,6 @@
          "tags": []
         },
         {
-         "id": "6520",
-         "name": "Strawberry Yogurt",
-         "serving": "1oz",
-         "cal": 21.0,
-         "p": 1.0,
-         "c": 3.98,
-         "f": 0,
-         "tags": []
-        },
-        {
          "id": "6518",
          "name": "Wild Blueberries",
          "serving": "1oz",
@@ -1662,6 +1622,16 @@
          "p": 0.23,
          "c": 4.22,
          "f": 0.11,
+         "tags": []
+        },
+        {
+         "id": "6663",
+         "name": "Peach Yogurt",
+         "serving": "1oz",
+         "cal": 25.0,
+         "p": 2.07,
+         "c": 3.01,
+         "f": 0.47,
          "tags": []
         }
        ]
@@ -1735,13 +1705,13 @@
          "tags": []
         },
         {
-         "id": "3017",
-         "name": "Herbed Cream Cheese",
-         "serving": "1.03oz",
-         "cal": 62.0,
-         "p": 3.06,
-         "c": 2.1,
-         "f": 5.06,
+         "id": "3152",
+         "name": "Chocolate Chip Cream Cheese",
+         "serving": "1.16oz",
+         "cal": 90.0,
+         "p": 3.21,
+         "c": 1.8,
+         "f": 6.52,
          "tags": []
         }
        ]
