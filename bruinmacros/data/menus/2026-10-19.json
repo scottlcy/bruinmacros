@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "updated": "2026-10-18T22:26:34+00:00",
+ "updated": "2026-10-19T01:16:40+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2006,13 +2006,13 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "2121",
-         "name": "Sage Marinated Grilled Chicken Thigh",
-         "serving": "1.5oz",
-         "cal": 65.0,
+         "id": "7581",
+         "name": "Halal Cilantro Jalapeno Chicken Thigh",
+         "serving": "1.58oz",
+         "cal": 54.0,
          "p": 7.74,
-         "c": 1.22,
-         "f": 2.98,
+         "c": 0.55,
+         "f": 2.11,
          "tags": []
         },
         {

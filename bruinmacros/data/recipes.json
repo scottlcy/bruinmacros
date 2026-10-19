@@ -10329,7 +10329,7 @@
   "p": 5.64,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-10-06"
+  "seen": "2026-10-18"
  },
  "1132": {
   "name": "Eggplant Parmesan Sandwich",
@@ -18860,7 +18860,7 @@
   "p": 1.22,
   "tags": [],
   "fetched": "2026-10-10",
-  "seen": "2026-10-16"
+  "seen": "2026-10-18"
  },
  "1148": {
   "name": "Chocolate & Caramel Cream Cake",
@@ -21781,7 +21781,7 @@
   "p": 7.74,
   "tags": [],
   "fetched": "2026-10-16",
-  "seen": "2026-10-17"
+  "seen": "2026-10-18"
  },
  "9232": {
   "name": "Lemon Ricotta Pancakes",
@@ -22330,6 +22330,17 @@
   "f": 6.46,
   "c": 15.61,
   "p": 5.96,
+  "tags": [],
+  "fetched": "2026-10-18",
+  "seen": "2026-10-18"
+ },
+ "4806": {
+  "name": "Espresso Panna Cotta",
+  "serving": "1.32oz",
+  "cal": 89.0,
+  "f": 6.93,
+  "c": 4.13,
+  "p": 0.93,
   "tags": [],
   "fetched": "2026-10-18",
   "seen": "2026-10-18"

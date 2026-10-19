@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "updated": "2026-10-18T22:26:13+00:00",
+ "updated": "2026-10-19T01:16:15+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1248,16 +1248,6 @@
          "f": 5.73
         },
         {
-         "id": "10382",
-         "name": "Chickpea Salad w/ Roasted Chilies",
-         "serving": "2.01oz",
-         "cal": 76.0,
-         "p": 2.78,
-         "c": 7.66,
-         "f": 3.76,
-         "tags": []
-        },
-        {
          "id": "5612",
          "name": "Balsamic & Parmesan Broccoli Salad",
          "serving": "2oz",
@@ -1274,6 +1264,15 @@
          "p": 12.66,
          "c": 2.87,
          "f": 1.25
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168,
+         "p": 4.26,
+         "c": 17.17,
+         "f": 8.76
         }
        ]
       },
@@ -3133,13 +3132,13 @@
        "name": "Psistaris",
        "items": [
         {
-         "id": "1688",
-         "name": "Persian Joojeh Saffron Lemon Chicken Wings",
-         "serving": "5.69oz",
-         "cal": 329.0,
-         "p": 22.79,
-         "c": 2.61,
-         "f": 24.42,
+         "id": "3380",
+         "name": "Grilled Green Peppercorn Chicken Breast",
+         "serving": "3.53oz",
+         "cal": 216.0,
+         "p": 17.78,
+         "c": 1.52,
+         "f": 14.88,
          "tags": []
         },
         {
@@ -3317,13 +3316,24 @@
          "tags": []
         },
         {
-         "id": "10085",
-         "name": "Pumpkin Chai Tiramisu Cake",
-         "serving": "1.05oz",
-         "cal": 62,
-         "p": 1.65,
-         "c": 9.28,
-         "f": 3.55
+         "id": "4806",
+         "name": "Espresso Panna Cotta",
+         "serving": "1.32oz",
+         "cal": 89.0,
+         "p": 0.93,
+         "c": 4.13,
+         "f": 6.93,
+         "tags": []
+        },
+        {
+         "id": "1138",
+         "name": "Apple Crumble Tart",
+         "serving": "1.16oz",
+         "cal": 101.0,
+         "p": 1.22,
+         "c": 14.79,
+         "f": 3.9,
+         "tags": []
         },
         {
          "id": "4573",
@@ -3350,16 +3360,6 @@
       {
        "name": "Mezze",
        "items": [
-        {
-         "id": "2264",
-         "name": "Harissa Pork Ribs",
-         "serving": "1.79oz",
-         "cal": 88.0,
-         "p": 4.48,
-         "c": 5.96,
-         "f": 4.73,
-         "tags": []
-        },
         {
          "id": "5962",
          "name": "Mezze Special",
@@ -3515,6 +3515,16 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
+        },
+        {
+         "id": "1128",
+         "name": "Eggplant \"Bacon\" BLT Sandwich",
+         "serving": "6.68oz",
+         "cal": 247.0,
+         "p": 5.64,
+         "c": 35.25,
+         "f": 9.41,
+         "tags": []
         }
        ]
       },
