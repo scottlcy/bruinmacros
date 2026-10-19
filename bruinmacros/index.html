@@ -105,6 +105,9 @@ a{color:var(--accent)}
 .qty{display:flex;align-items:center;gap:4px}
 .qty button{border:1px solid var(--line);background:var(--sunk);border-radius:8px;width:32px;height:32px;cursor:pointer}
 .qty .n{min-width:36px;text-align:center;font-size:14px}
+.gwrap{display:flex;align-items:center;gap:4px;font-size:13px;color:var(--muted)}
+.gin{font:inherit;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:16px;color:var(--ink);background:var(--sunk);border:1px solid var(--line);border-radius:8px;padding:5px 6px;width:76px;text-align:right}
+.ghint{font-size:12px;color:var(--muted)}
 .del{border:0;background:transparent;color:var(--muted);cursor:pointer;font-size:13px;padding:4px 6px}
 
 .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
@@ -188,6 +191,8 @@ footer p{margin:0 0 6px}
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const r0=n=>Math.round(n), r1=n=>Math.round(n*10)/10, fmtN=n=>r0(n).toLocaleString();
+function baseG(sv){const s=String(sv||"").trim();let m=s.match(/^(\d*\.?\d+)\s*oz$/i);if(m)return parseFloat(m[1])*28.3495;m=s.match(/^(\d*\.?\d+)\s*g$/i);return m?parseFloat(m[1]):null}
+function toGrams(sv){const b=/oz$/i.test(String(sv).trim())?baseG(sv):null;return b?Math.round(b)+" g":sv}
 function ymd(d){return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")}
 function parseYmd(s){const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)}
 function addDays(s,n){const d=parseYmd(s);d.setDate(d.getDate()+n);return ymd(d)}
@@ -283,6 +288,8 @@ function addEntry(item,meal){
   setDay(S.date,{...d,entries});toast("Added "+item.name);
 }
 function setQty(i,q){const d=day(),entries=[...d.entries];if(q<=0)entries.splice(i,1);else entries[i]={...entries[i],qty:r1(q)};setDay(S.date,{...d,entries})}
+function setGrams(i,g){const d=day(),entries=[...d.entries],e=entries[i],b=baseG(e.serving);if(!b||!(g>0))return;
+  entries[i]={...e,grams:Math.round(g),qty:Math.round(g/b*1000)/1000};setDay(S.date,{...d,entries});toast(Math.round(g)+" g saved")}
 
 /* ---------- render ---------- */
 function render(){
@@ -306,7 +313,7 @@ function render(){
 function itemMeta(it){
   if(it.nodata)return `<span class="nodata">No nutrition info posted. Add it by hand below.</span>`;
   const hp=it.cal>0&&it.p*4/it.cal>=0.3&&it.p>=10;
-  return `<span class="mono">${r0(it.cal)} kcal</span><span class="m-p">${r1(it.p)}P</span><span class="m-c">${r1(it.c)}C</span><span class="m-f">${r1(it.f)}F</span>${it.serving?`<span>${esc(it.serving)}</span>`:""}${hp?`<span class="tag hp">High protein</span>`:""}`;
+  return `<span class="mono">${r0(it.cal)} kcal</span><span class="m-p">${r1(it.p)}P</span><span class="m-c">${r1(it.c)}C</span><span class="m-f">${r1(it.f)}F</span>${it.serving?`<span>${esc(toGrams(it.serving))}</span>`:""}${hp?`<span class="tag hp">High protein</span>`:""}`;
 }
 function customForm(){
   return `<div class="card"><h3 style="font-size:16px;margin-bottom:4px">Add something else</h3>
@@ -359,7 +366,7 @@ function renderMenu(){
       <label class="toggle"><input type="checkbox" id="sortp" ${S.sortProtein?"checked":""}> Best protein per calorie first</label>
     </div>
     <div>${body||`<div class="card empty">Nothing matches.</div>`}</div>
-    <p class="note">Numbers are per serving as posted. Tap + again for another serving; use My day for half servings.${upd?` Menu checked ${upd}.`:""} <a href="${esc(L.url||"https://dining.ucla.edu/")}" rel="noopener">See ${esc(L.name)} on UCLA Dining</a></p>
+    <p class="note">Numbers are per serving as posted. Tap + to add a serving, then type the exact grams you ate in My day.${upd?` Menu checked ${upd}.`:""} <a href="${esc(L.url||"https://dining.ucla.edu/")}" rel="noopener">See ${esc(L.name)} on UCLA Dining</a></p>
     ${customForm()}`;
   const byId={};all.forEach(it=>byId[it.id]=it);
   P.querySelectorAll("[data-add]").forEach(b=>b.onclick=()=>{const it=byId[b.dataset.add];if(it)addEntry(it,M.name)});
@@ -379,7 +386,9 @@ function renderLog(){
     const sum=groups[k].reduce((a,[e])=>a+e.cal*(e.qty||1),0);
     return `<div class="logmeal"><h3>${esc(k)}<span>${fmtN(sum)} kcal</span></h3><div class="list">${groups[k].map(([e,i])=>`
       <div class="item"><div><div class="iname">${esc(e.name)}</div><div class="imeta"><span class="mono">${fmtN(e.cal*(e.qty||1))} kcal</span><span class="m-p">${r1(e.p*(e.qty||1))}P</span><span class="m-c">${r1(e.c*(e.qty||1))}C</span><span class="m-f">${r1(e.f*(e.qty||1))}F</span></div></div>
-      <div class="qty"><button data-q="${i}" data-d="-0.5" aria-label="Half serving less">−</button><span class="n mono">${e.qty||1}×</span><button data-q="${i}" data-d="0.5" aria-label="Half serving more">+</button><button class="del" data-del="${i}">Remove</button></div></div>`).join("")}</div></div>`}).join("");
+      ${(()=>{const b=baseG(e.serving);if(b){const g=e.grams??Math.round(b*(e.qty||1));
+        return `<div style="display:flex;flex-direction:column;align-items:flex-end;gap:2px"><div class="qty"><label class="gwrap"><input class="gin" type="number" inputmode="decimal" min="0" step="1" data-g="${i}" value="${g}" aria-label="Grams of ${esc(e.name)}">g</label><button class="del" data-del="${i}">Remove</button></div><span class="ghint">1 serving = ${Math.round(b)} g</span></div>`}
+        return `<div class="qty"><button data-q="${i}" data-d="-0.5" aria-label="Half serving less">−</button><span class="n mono">${e.qty||1}×</span><button data-q="${i}" data-d="0.5" aria-label="Half serving more">+</button><button class="del" data-del="${i}">Remove</button></div>`})()}</div>`).join("")}</div></div>`}).join("");
   P.innerHTML=`
     <div class="card"><form class="btnrow" id="wform" style="align-items:end">
       <label class="field" style="width:150px">Morning weight (kg)<input id="w" type="number" inputmode="decimal" step="0.1" min="30" max="250" value="${d.weight??""}"></label>
@@ -388,6 +397,7 @@ function renderLog(){
     ${meals||`<div class="card empty"><b>Nothing logged yet</b>Pick what you ate from the Menu tab.</div>`}`;
   P.querySelectorAll("[data-q]").forEach(b=>b.onclick=()=>{const i=+b.dataset.q;setQty(i,(d.entries[i].qty||1)+ +b.dataset.d)});
   P.querySelectorAll("[data-del]").forEach(b=>b.onclick=()=>setQty(+b.dataset.del,0));
+  P.querySelectorAll("[data-g]").forEach(inp=>{inp.onchange=()=>{const v=parseFloat(inp.value);if(isFinite(v)&&v>0)setGrams(+inp.dataset.g,v)};inp.onkeydown=ev=>{if(ev.key==="Enter")inp.blur()};inp.onfocus=()=>inp.select()});
   $("wform").onsubmit=e=>{e.preventDefault();const v=parseFloat($("w").value);setDay(S.date,{...day(),weight:isFinite(v)?v:null});toast(isFinite(v)?"Weight saved":"Weight cleared")};
 }
 
