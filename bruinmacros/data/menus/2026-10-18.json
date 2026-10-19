@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "updated": "2026-10-19T01:16:15+00:00",
+ "updated": "2026-10-19T04:42:50+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1067,14 +1067,14 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1100,34 +1100,34 @@
          "f": 13.41
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
-        },
-        {
-         "id": "7344",
-         "name": "Cuban Black Beans",
-         "serving": "7.78oz",
-         "cal": 165.0,
-         "p": 7.65,
-         "c": 26.26,
-         "f": 3.51,
+         "id": "6912",
+         "name": "BBQ Chipotle Chicken Thigh",
+         "serving": "3.01oz",
+         "cal": 111.0,
+         "p": 11.9,
+         "c": 6.5,
+         "f": 3.4,
          "tags": []
         },
         {
-         "id": "5948",
-         "name": "Flex Bar Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "6915",
+         "name": "Quinoa Pilaf",
+         "serving": "4.45oz",
+         "cal": 229.0,
+         "p": 8.64,
+         "c": 39.41,
+         "f": 3.97,
+         "tags": []
+        },
+        {
+         "id": "753",
+         "name": "Garden Vegetable Soup",
+         "serving": "6oz",
+         "cal": 34.0,
+         "p": 1.29,
+         "c": 6.12,
+         "f": 0.65,
+         "tags": []
         }
        ]
       },
@@ -1298,15 +1298,6 @@
          "f": 2.36
         },
         {
-         "id": "242",
-         "name": "Chocolate Silk Pie",
-         "serving": "2.48oz",
-         "cal": 224,
-         "p": 2.91,
-         "c": 20.06,
-         "f": 17.39
-        },
-        {
          "id": "297",
          "name": "Red Velvet Brownie",
          "serving": "2.49oz",
@@ -1356,16 +1347,6 @@
          "nodata": true
         },
         {
-         "id": "285",
-         "name": "Chocolate Cherry Crisp",
-         "serving": "4.8oz",
-         "cal": 222.0,
-         "p": 2.68,
-         "c": 40.16,
-         "f": 7.77,
-         "tags": []
-        },
-        {
          "id": "4906",
          "name": "Magic Bar",
          "serving": "1.48oz",
@@ -1373,6 +1354,17 @@
          "p": 2.89,
          "c": 23.24,
          "f": 9.63
+        },
+        {
+         "id": "8569",
+         "name": "Chocolate Tres Leches Cake Batter",
+         "serving": "72.57oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       }
@@ -2508,16 +2500,6 @@
        "name": "Freshly Bowled",
        "items": [
         {
-         "id": "923",
-         "name": "Pebre-Marinated Flank Steak & Guacamole Bowl",
-         "serving": "6oz",
-         "cal": 258.0,
-         "p": 16.1,
-         "c": 31.88,
-         "f": 7.0,
-         "tags": []
-        },
-        {
          "id": "4355",
          "name": "Tamarind Tofu Cabbage Bowl",
          "serving": "4.77oz",
@@ -2526,6 +2508,17 @@
          "c": 21.41,
          "f": 8.74,
          "tags": []
+        },
+        {
+         "id": "5951",
+         "name": "Freshly Bowled Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -2648,16 +2641,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "4357",
-         "name": "Seared Mahi Mahi w/ Tomatillo Sauce",
-         "serving": "2.61oz",
-         "cal": 60.0,
-         "p": 12.22,
-         "c": 0.85,
-         "f": 0.47,
-         "tags": []
-        },
-        {
          "id": "3069",
          "name": "Grilled Mole Tofu",
          "serving": "2.55oz",
@@ -2675,6 +2658,26 @@
          "p": 1.75,
          "c": 14.91,
          "f": 2.34,
+         "tags": []
+        },
+        {
+         "id": "2180",
+         "name": "Moroccan Salmon",
+         "serving": "1.66oz",
+         "cal": 96.0,
+         "p": 9.37,
+         "c": 0.15,
+         "f": 6.15,
+         "tags": []
+        },
+        {
+         "id": "123",
+         "name": "Tomatillo Salsa",
+         "serving": "1.95oz",
+         "cal": 24.0,
+         "p": 1.93,
+         "c": 4.0,
+         "f": 0.01,
          "tags": []
         }
        ]
@@ -3372,6 +3375,16 @@
          "nodata": true
         },
         {
+         "id": "8076",
+         "name": "Mushroom Pizzaiola Sandwich",
+         "serving": "3.58oz",
+         "cal": 99.0,
+         "p": 5.25,
+         "c": 5.81,
+         "f": 6.51,
+         "tags": []
+        },
+        {
          "id": "3432",
          "name": "Seven Vegetable Tagine",
          "serving": "5.4oz",
@@ -3515,16 +3528,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
-        },
-        {
-         "id": "1128",
-         "name": "Eggplant \"Bacon\" BLT Sandwich",
-         "serving": "6.68oz",
-         "cal": 247.0,
-         "p": 5.64,
-         "c": 35.25,
-         "f": 9.41,
-         "tags": []
         }
        ]
       },
