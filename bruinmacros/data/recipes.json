@@ -218,7 +218,7 @@
   "f": 6.36,
   "c": 5.21,
   "fetched": "2026-09-27",
-  "seen": "2026-10-18"
+  "seen": "2026-10-19"
  },
  "7338": {
   "name": "Roasted Fingerling Potato",
@@ -328,7 +328,7 @@
   "f": 28.36,
   "c": 42.61,
   "fetched": "2026-09-27",
-  "seen": "2026-10-18"
+  "seen": "2026-10-19"
  },
  "309": {
   "name": "Snickerdoodle Cookies",
@@ -10229,7 +10229,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-29",
-  "seen": "2026-10-16"
+  "seen": "2026-10-19"
  },
  "6273": {
   "name": "Wilted Collard Greens",
@@ -11586,7 +11586,7 @@
   "p": 14.56,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-09-29"
+  "seen": "2026-10-19"
  },
  "1811": {
   "name": "BBQ Brisket",
@@ -12980,7 +12980,7 @@
   "p": 3.87,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-04"
+  "seen": "2026-10-19"
  },
  "1193": {
   "name": "Chicken & Egg Breakfast Pita",
@@ -21253,7 +21253,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-14",
-  "seen": "2026-10-14"
+  "seen": "2026-10-19"
  },
  "3387": {
   "name": "Ziti Bolognese",
@@ -22562,6 +22562,29 @@
   "f": 41.41,
   "c": 119.29,
   "p": 30.67,
+  "tags": [],
+  "fetched": "2026-10-19",
+  "seen": "2026-10-19"
+ },
+ "6241": {
+  "name": "Chef's Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-19",
+  "seen": "2026-10-19"
+ },
+ "6488": {
+  "name": "Beef Birria",
+  "serving": "8.48oz",
+  "cal": 36.0,
+  "f": 0.26,
+  "c": 7.45,
+  "p": 1.44,
   "tags": [],
   "fetched": "2026-10-19",
   "seen": "2026-10-19"

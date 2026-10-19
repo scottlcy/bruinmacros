@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "updated": "2026-10-19T19:21:52+00:00",
+ "updated": "2026-10-19T23:41:18+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1140,26 +1140,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "2692",
-         "name": "Lemon Garlic Chicken Thighs",
-         "serving": "4.72oz",
-         "cal": 184.0,
-         "p": 22.57,
-         "c": 5.16,
-         "f": 7.34,
-         "tags": []
-        },
-        {
-         "id": "7328",
-         "name": "Rice Pilaf",
-         "serving": "5.44oz",
-         "cal": 351.0,
-         "p": 6.84,
-         "c": 73.63,
-         "f": 2.03,
-         "tags": []
-        },
-        {
          "id": "6855",
          "name": "Corn & Lima Bean Succotash",
          "serving": "2.09oz",
@@ -1188,6 +1168,36 @@
          "c": 11.03,
          "f": 31.72,
          "tags": []
+        },
+        {
+         "id": "1156",
+         "name": "Mexican Rice",
+         "serving": "2.33oz",
+         "cal": 199.0,
+         "p": 3.87,
+         "c": 40.6,
+         "f": 1.76,
+         "tags": []
+        },
+        {
+         "id": "9681",
+         "name": "Fresno Chili Shrimp",
+         "serving": "5.04oz",
+         "cal": 173.0,
+         "p": 15.82,
+         "c": 10.95,
+         "f": 9.67,
+         "tags": []
+        },
+        {
+         "id": "6488",
+         "name": "Beef Birria",
+         "serving": "8.48oz",
+         "cal": 36.0,
+         "p": 1.44,
+         "c": 7.45,
+         "f": 0.26,
+         "tags": []
         }
        ]
       },
@@ -1205,16 +1215,6 @@
          "tags": []
         },
         {
-         "id": "7336",
-         "name": "Roasted Cauliflower",
-         "serving": "3.37oz",
-         "cal": 54.0,
-         "p": 1.82,
-         "c": 4.99,
-         "f": 3.4,
-         "tags": []
-        },
-        {
          "id": "6904",
          "name": "Garlicky Green Beans",
          "serving": "2.22oz",
@@ -1223,6 +1223,15 @@
          "c": 5.85,
          "f": 0.38,
          "tags": []
+        },
+        {
+         "id": "7335",
+         "name": "Roasted Broccoli w/ Garlic",
+         "serving": "3.24oz",
+         "cal": 85,
+         "p": 2.65,
+         "c": 5.21,
+         "f": 6.36
         }
        ]
       },
@@ -1298,6 +1307,43 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168,
+         "p": 4.26,
+         "c": 17.17,
+         "f": 8.76
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
@@ -1385,6 +1431,34 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "248",
+         "name": "Twinkie Cake",
+         "serving": "2.05oz",
+         "cal": 321.0,
+         "p": 2.89,
+         "c": 33.94,
+         "f": 20.31,
+         "tags": []
+        },
+        {
+         "id": "5432",
+         "name": "Chocolate Ganache Cake",
+         "serving": "2.92oz",
+         "cal": 430,
+         "p": 4.94,
+         "c": 42.61,
+         "f": 28.36
+        },
+        {
+         "id": "288",
+         "name": "Mixed Berry Crisp",
+         "serving": "3.2oz",
+         "cal": 150,
+         "p": 1.47,
+         "c": 29.72,
+         "f": 3.21
         }
        ]
       }
@@ -2617,16 +2691,6 @@
          "tags": []
         },
         {
-         "id": "3994",
-         "name": "Mixed Grains -- Lentil, Chickpea, Quinoa & Brown Rice",
-         "serving": "2oz",
-         "cal": 114.0,
-         "p": 5.01,
-         "c": 21.2,
-         "f": 1.02,
-         "tags": []
-        },
-        {
          "id": "957",
          "name": "Roasted Butternut Squash",
          "serving": "4oz",
@@ -2645,6 +2709,17 @@
          "c": 2.75,
          "f": 0.96,
          "tags": []
+        },
+        {
+         "id": "5953",
+         "name": "Farm Stand Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -2687,24 +2762,26 @@
          "tags": []
         },
         {
-         "id": "4020",
-         "name": "Grilled Ginger Miso Tofu",
-         "serving": "2.56oz",
-         "cal": 127.0,
-         "p": 6.54,
-         "c": 5.0,
-         "f": 9.4,
-         "tags": []
+         "id": "6242",
+         "name": "Simply Grilled Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
-         "id": "4021",
-         "name": "Yukon Gold Potato Wedges",
-         "serving": "1.64oz",
-         "cal": 43.0,
-         "p": 1.15,
-         "c": 9.72,
-         "f": 0.06,
-         "tags": []
+         "id": "6241",
+         "name": "Chef's Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3439,16 +3516,6 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "7488",
-         "name": "North African Style Honey Chicken",
-         "serving": "4.34oz",
-         "cal": 290.0,
-         "p": 19.54,
-         "c": 10.52,
-         "f": 18.74,
-         "tags": []
-        },
-        {
          "id": "3601",
          "name": "Pearled Couscous w/ Roasted Zucchini",
          "serving": "4.09oz",
@@ -3466,6 +3533,16 @@
          "p": 4.0,
          "c": 12.4,
          "f": 5.52,
+         "tags": []
+        },
+        {
+         "id": "7980",
+         "name": "Baked Rotini w/ Cheese",
+         "serving": "6.21oz",
+         "cal": 441.0,
+         "p": 14.56,
+         "c": 31.5,
+         "f": 27.09,
          "tags": []
         },
         {
@@ -3664,16 +3741,6 @@
          "p": 8.42,
          "c": 27.34,
          "f": 15.0,
-         "tags": []
-        },
-        {
-         "id": "2502",
-         "name": "Tuscan Grilled Kale Pizza w/ Orange Chili Oil",
-         "serving": "3.91oz",
-         "cal": 208.0,
-         "p": 7.46,
-         "c": 27.72,
-         "f": 7.26,
          "tags": []
         },
         {
@@ -4011,6 +4078,26 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "3442",
+         "name": "Espinacas con Garbanzos",
+         "serving": "3.67oz",
+         "cal": 112.0,
+         "p": 4.0,
+         "c": 12.4,
+         "f": 5.52,
+         "tags": []
+        },
+        {
+         "id": "3601",
+         "name": "Pearled Couscous w/ Roasted Zucchini",
+         "serving": "4.09oz",
+         "cal": 326.0,
+         "p": 10.01,
+         "c": 55.42,
+         "f": 6.38,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -4426,16 +4513,6 @@
          "tags": []
         },
         {
-         "id": "7743",
-         "name": "Sticky Rice",
-         "serving": "6oz",
-         "cal": 647.0,
-         "p": 13.29,
-         "c": 139.94,
-         "f": 1.6,
-         "tags": []
-        },
-        {
          "id": "1435",
          "name": "Fried Plantains",
          "serving": "1.05oz",
@@ -4453,6 +4530,16 @@
          "p": 26.46,
          "c": 39.35,
          "f": 16.32
+        },
+        {
+         "id": "7743",
+         "name": "Sticky Rice",
+         "serving": "6oz",
+         "cal": 647.0,
+         "p": 13.29,
+         "c": 139.94,
+         "f": 1.6,
+         "tags": []
         }
        ]
       },
