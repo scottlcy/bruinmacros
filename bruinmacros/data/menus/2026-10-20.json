@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "updated": "2026-10-20T17:58:36+00:00",
+ "updated": "2026-10-20T21:37:10+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1136,13 +1136,13 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "9871",
-         "name": "Chimichurri Shrimp",
-         "serving": "2.5oz",
-         "cal": 152.0,
-         "p": 7.82,
-         "c": 1.01,
-         "f": 12.33,
+         "id": "2692",
+         "name": "Lemon Garlic Chicken Thighs",
+         "serving": "4.72oz",
+         "cal": 184.0,
+         "p": 22.57,
+         "c": 5.16,
+         "f": 7.34,
          "tags": []
         },
         {
@@ -1291,6 +1291,43 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
         }
        ]
       },
@@ -1897,6 +1934,25 @@
          "p": 1.85,
          "c": 10.11,
          "f": 9.26
+        },
+        {
+         "id": "10040",
+         "name": "Potato Dumpling Soup",
+         "serving": "6oz",
+         "cal": 149,
+         "p": 3.11,
+         "c": 13.19,
+         "f": 9.49
+        },
+        {
+         "id": "1976",
+         "name": "Chicken Tortilla Soup",
+         "serving": "6.05oz",
+         "cal": 181.0,
+         "p": 9.39,
+         "c": 25.64,
+         "f": 4.32,
+         "tags": []
         }
        ]
       },
@@ -1974,16 +2030,6 @@
          "tags": []
         },
         {
-         "id": "902",
-         "name": "Wheat Berry",
-         "serving": "2.01oz",
-         "cal": 93.0,
-         "p": 3.58,
-         "c": 20.19,
-         "f": 0.44,
-         "tags": []
-        },
-        {
          "id": "984",
          "name": "Roasted Broccoli",
          "serving": "3.21oz",
@@ -2001,6 +2047,26 @@
          "p": 0.98,
          "c": 3.9,
          "f": 1.94,
+         "tags": []
+        },
+        {
+         "id": "3002",
+         "name": "Roasted Red Breakfast Potato Wedges",
+         "serving": "2.95oz",
+         "cal": 69.0,
+         "p": 1.45,
+         "c": 11.61,
+         "f": 2.05,
+         "tags": []
+        },
+        {
+         "id": "5396",
+         "name": "Mashed Potatoes",
+         "serving": "2oz",
+         "cal": 51.0,
+         "p": 0.91,
+         "c": 6.8,
+         "f": 2.38,
          "tags": []
         }
        ]
@@ -2134,16 +2200,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -2241,6 +2297,26 @@
          "p": 0.12,
          "c": 9.09,
          "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "3365",
+         "name": "Date & Cranberry Bar",
+         "serving": "2.61oz",
+         "cal": 253.0,
+         "p": 3.53,
+         "c": 37.87,
+         "f": 10.5,
+         "tags": []
+        },
+        {
+         "id": "5604",
+         "name": "Boston Brown Quickbread",
+         "serving": "2.58oz",
+         "cal": 183.0,
+         "p": 4.53,
+         "c": 39.97,
+         "f": 1.26,
          "tags": []
         }
        ]
@@ -2579,16 +2655,6 @@
          "tags": []
         },
         {
-         "id": "816",
-         "name": "Quinoa",
-         "serving": "1oz",
-         "cal": 41.0,
-         "p": 1.53,
-         "c": 7.14,
-         "f": 0.64,
-         "tags": []
-        },
-        {
          "id": "2687",
          "name": "Roasted Yams",
          "serving": "2.68oz",
@@ -2607,6 +2673,17 @@
          "c": 3.12,
          "f": 1.22,
          "tags": []
+        },
+        {
+         "id": "6266",
+         "name": "Farmstand Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3183,13 +3260,13 @@
        "name": "Psistaris",
        "items": [
         {
-         "id": "6057",
-         "name": "Herbs De Provence Chicken",
-         "serving": "3.7oz",
-         "cal": 124.0,
-         "p": 18.76,
-         "c": 1.34,
-         "f": 4.36,
+         "id": "6023",
+         "name": "Rosemary Chicken",
+         "serving": "5.48oz",
+         "cal": 413.0,
+         "p": 24.18,
+         "c": 1.75,
+         "f": 33.75,
          "tags": []
         },
         {
@@ -3402,16 +3479,6 @@
          "f": 0.08
         },
         {
-         "id": "883",
-         "name": "Polenta",
-         "serving": "3.74oz",
-         "cal": 271.0,
-         "p": 12.06,
-         "c": 14.98,
-         "f": 18.98,
-         "tags": []
-        },
-        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3494,16 +3561,6 @@
          "f": 10.3
         },
         {
-         "id": "2565",
-         "name": "Cauliflower Skordalia Spread",
-         "serving": "1.21oz",
-         "cal": 48.0,
-         "p": 1.5,
-         "c": 3.73,
-         "f": 3.24,
-         "tags": []
-        },
-        {
          "id": "1105",
          "name": "Smoked Mozzarella Spread",
          "serving": "1.02oz",
@@ -3565,6 +3622,16 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
+        },
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "nodata": true
         }
        ]
       },
@@ -3600,13 +3667,13 @@
          "tags": []
         },
         {
-         "id": "2251",
-         "name": "Shrimp Alfredo Pizza",
-         "serving": "3.16oz",
-         "cal": 196.0,
-         "p": 8.55,
-         "c": 23.65,
-         "f": 6.91,
+         "id": "6812",
+         "name": "Beef Gyro Pizza",
+         "serving": "3.7oz",
+         "cal": 266.0,
+         "p": 8.42,
+         "c": 27.34,
+         "f": 15.0,
          "tags": []
         },
         {
@@ -4301,6 +4368,16 @@
          "c": 139.94,
          "f": 1.6,
          "tags": []
+        },
+        {
+         "id": "6650",
+         "name": "Korean Braised Short Ribs",
+         "serving": "8oz",
+         "cal": 301.0,
+         "p": 21.92,
+         "c": 17.46,
+         "f": 16.25,
+         "tags": []
         }
        ]
       },
@@ -4315,6 +4392,16 @@
          "p": 31.82,
          "c": 97.39,
          "f": 60.91,
+         "tags": []
+        },
+        {
+         "id": "10361",
+         "name": "Chinese Sausage & Five Spice Flatbread",
+         "serving": "13.07oz",
+         "cal": 1010.0,
+         "p": 46.63,
+         "c": 81.82,
+         "f": 55.0,
          "tags": []
         }
        ]
@@ -4391,6 +4478,17 @@
          "c": 5.27,
          "f": 0.05,
          "tags": []
+        },
+        {
+         "id": "10656",
+         "name": "Pickled Daikon Takuwon",
+         "serving": "2oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       }
@@ -4465,6 +4563,16 @@
          "p": 13.29,
          "c": 139.94,
          "f": 1.6,
+         "tags": []
+        },
+        {
+         "id": "1452",
+         "name": "Macaroni Salad",
+         "serving": "3.09oz",
+         "cal": 334.0,
+         "p": 7.67,
+         "c": 45.33,
+         "f": 13.9,
          "tags": []
         }
        ]
