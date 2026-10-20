@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "updated": "2026-10-19T23:41:18+00:00",
+ "updated": "2026-10-20T04:53:01+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1170,33 +1170,23 @@
          "tags": []
         },
         {
-         "id": "1156",
-         "name": "Mexican Rice",
-         "serving": "2.33oz",
-         "cal": 199.0,
-         "p": 3.87,
-         "c": 40.6,
-         "f": 1.76,
+         "id": "7328",
+         "name": "Rice Pilaf",
+         "serving": "5.44oz",
+         "cal": 351.0,
+         "p": 6.84,
+         "c": 73.63,
+         "f": 2.03,
          "tags": []
         },
         {
-         "id": "9681",
-         "name": "Fresno Chili Shrimp",
-         "serving": "5.04oz",
-         "cal": 173.0,
-         "p": 15.82,
-         "c": 10.95,
-         "f": 9.67,
-         "tags": []
-        },
-        {
-         "id": "6488",
-         "name": "Beef Birria",
-         "serving": "8.48oz",
-         "cal": 36.0,
-         "p": 1.44,
-         "c": 7.45,
-         "f": 0.26,
+         "id": "6912",
+         "name": "BBQ Chipotle Chicken Thigh",
+         "serving": "3.01oz",
+         "cal": 111.0,
+         "p": 11.9,
+         "c": 6.5,
+         "f": 3.4,
          "tags": []
         }
        ]
@@ -1225,13 +1215,14 @@
          "tags": []
         },
         {
-         "id": "7335",
-         "name": "Roasted Broccoli w/ Garlic",
-         "serving": "3.24oz",
-         "cal": 85,
-         "p": 2.65,
-         "c": 5.21,
-         "f": 6.36
+         "id": "6906",
+         "name": "Roasted Broccoli",
+         "serving": "2.17oz",
+         "cal": 61.0,
+         "p": 1.69,
+         "c": 2.93,
+         "f": 4.92,
+         "tags": []
         }
        ]
       },
@@ -1371,16 +1362,6 @@
          "tags": []
         },
         {
-         "id": "228",
-         "name": "Dutch Apple Pie",
-         "serving": "4.4oz",
-         "cal": 323.0,
-         "p": 3.49,
-         "c": 47.09,
-         "f": 13.26,
-         "tags": []
-        },
-        {
          "id": "3958",
          "name": "Cranberry Crunch Bar",
          "serving": "1.92oz",
@@ -1431,16 +1412,6 @@
          "f": 0,
          "tags": [],
          "nodata": true
-        },
-        {
-         "id": "248",
-         "name": "Twinkie Cake",
-         "serving": "2.05oz",
-         "cal": 321.0,
-         "p": 2.89,
-         "c": 33.94,
-         "f": 20.31,
-         "tags": []
         },
         {
          "id": "5432",
@@ -2711,15 +2682,14 @@
          "tags": []
         },
         {
-         "id": "5953",
-         "name": "Farm Stand Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "968",
+         "name": "Bulgur Wheat",
+         "serving": "2.03oz",
+         "cal": 81.0,
+         "p": 3.1,
+         "c": 15.68,
+         "f": 0.44,
+         "tags": []
         }
        ]
       },
@@ -2762,15 +2732,14 @@
          "tags": []
         },
         {
-         "id": "6242",
-         "name": "Simply Grilled Vegetarian Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "4020",
+         "name": "Grilled Ginger Miso Tofu",
+         "serving": "2.56oz",
+         "cal": 127.0,
+         "p": 6.54,
+         "c": 5.0,
+         "f": 9.4,
+         "tags": []
         },
         {
          "id": "6241",
@@ -3410,6 +3379,16 @@
          "tags": []
         },
         {
+         "id": "1606",
+         "name": "Chicken Noodle Soup",
+         "serving": "6.01oz",
+         "cal": 340.0,
+         "p": 14.12,
+         "c": 65.16,
+         "f": 3.25,
+         "tags": []
+        },
+        {
          "id": "152",
          "name": "Creamy Tomato Basil Soup",
          "serving": "6.05oz",
@@ -3619,6 +3598,15 @@
          "p": 2.57,
          "c": 1.22,
          "f": 0.53
+        },
+        {
+         "id": "4416",
+         "name": "Baba Ghanoush",
+         "serving": "4.64oz",
+         "cal": 71,
+         "p": 2.1,
+         "c": 8.54,
+         "f": 3.8
         },
         {
          "id": "6203",
@@ -3952,13 +3940,13 @@
        "name": "Alimenti",
        "items": [
         {
-         "id": "1029",
-         "name": "Beef Brisket",
-         "serving": "3.07oz",
-         "cal": 126.0,
-         "p": 14.6,
-         "c": 0.75,
-         "f": 7.11,
+         "id": "1825",
+         "name": "Mesquite Barbecue Chicken Breast",
+         "serving": "2.65oz",
+         "cal": 117.0,
+         "p": 14.83,
+         "c": 0.01,
+         "f": 3.93,
          "tags": []
         },
         {
@@ -4015,6 +4003,16 @@
       {
        "name": "Dolce",
        "items": [
+        {
+         "id": "4806",
+         "name": "Espresso Panna Cotta",
+         "serving": "1.32oz",
+         "cal": 89.0,
+         "p": 0.93,
+         "c": 4.13,
+         "f": 6.93,
+         "tags": []
+        },
         {
          "id": "5479",
          "name": "Classic Chocolate Chip Cookie",
@@ -4078,6 +4076,16 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "nodata": true
+        },
         {
          "id": "3442",
          "name": "Espinacas con Garbanzos",
@@ -4764,6 +4772,16 @@
          "p": 15.26,
          "c": 0.88,
          "f": 5.95,
+         "tags": []
+        },
+        {
+         "id": "10470",
+         "name": "Chicken Vegetable Dumplings",
+         "serving": "11.14oz",
+         "cal": 357.0,
+         "p": 15.5,
+         "c": 59.57,
+         "f": 6.09,
          "tags": []
         }
        ]

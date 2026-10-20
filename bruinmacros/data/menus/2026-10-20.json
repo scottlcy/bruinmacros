@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "updated": "2026-10-19T23:41:43+00:00",
+ "updated": "2026-10-20T04:53:25+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2603,13 +2603,13 @@
          "tags": []
         },
         {
-         "id": "2142",
-         "name": "Baked Russet Potato",
-         "serving": "3.36oz",
-         "cal": 75.0,
-         "p": 2.02,
-         "c": 17.07,
-         "f": 0.08,
+         "id": "4259",
+         "name": "Baked Yukon Gold Potato",
+         "serving": "3.26oz",
+         "cal": 87.0,
+         "p": 2.31,
+         "c": 19.5,
+         "f": 0.12,
          "tags": []
         }
        ]
@@ -4265,16 +4265,6 @@
          "tags": []
         },
         {
-         "id": "507",
-         "name": "Sticky Rice",
-         "serving": "6oz",
-         "cal": 647.0,
-         "p": 13.29,
-         "c": 139.94,
-         "f": 1.6,
-         "tags": []
-        },
-        {
          "id": "1568",
          "name": "Vegetable Dumplings",
          "serving": "2.16oz",
@@ -4282,6 +4272,16 @@
          "p": 4.66,
          "c": 15.31,
          "f": 6.53,
+         "tags": []
+        },
+        {
+         "id": "507",
+         "name": "Sticky Rice",
+         "serving": "6oz",
+         "cal": 647.0,
+         "p": 13.29,
+         "c": 139.94,
+         "f": 1.6,
          "tags": []
         }
        ]

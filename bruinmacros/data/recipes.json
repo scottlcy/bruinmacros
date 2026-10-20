@@ -632,7 +632,7 @@
   "c": 0,
   "nodata": true,
   "fetched": "2026-09-27",
-  "seen": "2026-10-09"
+  "seen": "2026-10-19"
  },
  "6379": {
   "name": "Bulgur Wheat",
@@ -17162,7 +17162,7 @@
   "p": 1.69,
   "tags": [],
   "fetched": "2026-10-06",
-  "seen": "2026-10-07"
+  "seen": "2026-10-19"
  },
  "6940": {
   "name": "Taiwanese Beef Noodle Soup",
@@ -17989,7 +17989,7 @@
   "p": 3.1,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-11"
+  "seen": "2026-10-19"
  },
  "10202": {
   "name": "Braised Pork Tenderloin",
@@ -21528,7 +21528,7 @@
   "p": 11.9,
   "tags": [],
   "fetched": "2026-10-15",
-  "seen": "2026-10-18"
+  "seen": "2026-10-19"
  },
  "7315": {
   "name": "Crab Roll Sandwich",
@@ -22343,7 +22343,7 @@
   "p": 0.93,
   "tags": [],
   "fetched": "2026-10-18",
-  "seen": "2026-10-18"
+  "seen": "2026-10-19"
  },
  "8569": {
   "name": "Chocolate Tres Leches Cake Batter",
@@ -22585,6 +22585,28 @@
   "f": 0.26,
   "c": 7.45,
   "p": 1.44,
+  "tags": [],
+  "fetched": "2026-10-19",
+  "seen": "2026-10-19"
+ },
+ "1825": {
+  "name": "Mesquite Barbecue Chicken Breast",
+  "serving": "2.65oz",
+  "cal": 117.0,
+  "f": 3.93,
+  "c": 0.01,
+  "p": 14.83,
+  "tags": [],
+  "fetched": "2026-10-19",
+  "seen": "2026-10-19"
+ },
+ "4259": {
+  "name": "Baked Yukon Gold Potato",
+  "serving": "3.26oz",
+  "cal": 87.0,
+  "f": 0.12,
+  "c": 19.5,
+  "p": 2.31,
   "tags": [],
   "fetched": "2026-10-19",
   "seen": "2026-10-19"
