@@ -298,7 +298,7 @@
   "f": 1.25,
   "c": 2.87,
   "fetched": "2026-09-27",
-  "seen": "2026-10-19"
+  "seen": "2026-10-20"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -308,7 +308,7 @@
   "f": 5.73,
   "c": 3.14,
   "fetched": "2026-09-27",
-  "seen": "2026-10-19"
+  "seen": "2026-10-20"
  },
  "5612": {
   "name": "Balsamic & Parmesan Broccoli Salad",
@@ -318,7 +318,7 @@
   "f": 5.2,
   "c": 3.07,
   "fetched": "2026-09-27",
-  "seen": "2026-10-18"
+  "seen": "2026-10-20"
  },
  "5432": {
   "name": "Chocolate Ganache Cake",
@@ -378,7 +378,7 @@
   "f": 15.31,
   "c": 41.34,
   "fetched": "2026-09-27",
-  "seen": "2026-10-18"
+  "seen": "2026-10-20"
  },
  "4906": {
   "name": "Magic Bar",
@@ -508,7 +508,7 @@
   "f": 0.08,
   "c": 9.81,
   "fetched": "2026-09-27",
-  "seen": "2026-10-16"
+  "seen": "2026-10-20"
  },
  "1884": {
   "name": "Risotto Parmigiano",
@@ -2453,7 +2453,7 @@
   "p": 2.31,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-02"
+  "seen": "2026-10-20"
  },
  "411": {
   "name": "Roasted Salmon Sandwich",
@@ -3718,7 +3718,7 @@
   "p": 1.0,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-19"
+  "seen": "2026-10-20"
  },
  "6542": {
   "name": "Scrambled Eggs",
@@ -8548,7 +8548,7 @@
   "p": 5.78,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-19"
+  "seen": "2026-10-20"
  },
  "9964": {
   "name": "Pre-Workout Protein Box",
@@ -9928,7 +9928,7 @@
   "p": 12.06,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-14"
+  "seen": "2026-10-20"
  },
  "902": {
   "name": "Wheat Berry",
@@ -10060,7 +10060,7 @@
   "p": 2.78,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-19"
+  "seen": "2026-10-20"
  },
  "10501": {
   "name": "Speical K Berry",
@@ -10138,7 +10138,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-28",
-  "seen": "2026-10-18"
+  "seen": "2026-10-20"
  },
  "6189": {
   "name": "Soup Special",
@@ -22145,7 +22145,7 @@
   "p": 8.55,
   "tags": [],
   "fetched": "2026-10-18",
-  "seen": "2026-10-19"
+  "seen": "2026-10-20"
  },
  "2419": {
   "name": "Tempeh Scramble Veggie Bowl",
@@ -23008,6 +23008,17 @@
   "p": 0,
   "tags": [],
   "nodata": true,
+  "fetched": "2026-10-20",
+  "seen": "2026-10-20"
+ },
+ "5484": {
+  "name": "Vegan Cranberry Orange Quickbread",
+  "serving": "3.38oz",
+  "cal": 321.0,
+  "f": 14.01,
+  "c": 44.34,
+  "p": 3.92,
+  "tags": [],
   "fetched": "2026-10-20",
   "seen": "2026-10-20"
  }
