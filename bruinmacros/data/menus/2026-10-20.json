@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "updated": "2026-10-21T00:37:22+00:00",
+ "updated": "2026-10-21T04:50:23+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1121,14 +1121,14 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1362,16 +1362,6 @@
          "p": 3.19,
          "c": 52.59,
          "f": 20.72,
-         "tags": []
-        },
-        {
-         "id": "233",
-         "name": "Fudge Brownie",
-         "serving": "1.88oz",
-         "cal": 206.0,
-         "p": 3.38,
-         "c": 27.38,
-         "f": 10.67,
          "tags": []
         },
         {
@@ -2716,13 +2706,13 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "3056",
-         "name": "Garlic Coriander Grilled Pork",
-         "serving": "1.65oz",
-         "cal": 52.0,
-         "p": 9.57,
-         "c": 0.24,
-         "f": 1.12,
+         "id": "4263",
+         "name": "Coffee Crusted Beef Tri-Tip",
+         "serving": "2.03oz",
+         "cal": 92.0,
+         "p": 11.96,
+         "c": 1.44,
+         "f": 4.05,
          "tags": []
         },
         {
@@ -3227,6 +3217,16 @@
          "p": 24.18,
          "c": 1.75,
          "f": 33.75,
+         "tags": []
+        },
+        {
+         "id": "6057",
+         "name": "Herbs De Provence Chicken",
+         "serving": "3.7oz",
+         "cal": 124.0,
+         "p": 18.76,
+         "c": 1.34,
+         "f": 4.36,
          "tags": []
         },
         {
@@ -3916,17 +3916,6 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "5962",
-         "name": "Mezze Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
          "id": "1989",
          "name": "Greek Style Black-Eyed Pea Stew w/ Kale",
          "serving": "6.07oz",
@@ -4166,6 +4155,16 @@
          "p": 9.4,
          "c": 0,
          "f": 4.7,
+         "tags": []
+        },
+        {
+         "id": "6023",
+         "name": "Rosemary Chicken",
+         "serving": "5.48oz",
+         "cal": 413.0,
+         "p": 24.18,
+         "c": 1.75,
+         "f": 33.75,
          "tags": []
         }
        ]
