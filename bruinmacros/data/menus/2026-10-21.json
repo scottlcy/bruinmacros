@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "updated": "2026-10-21T10:10:48+00:00",
+ "updated": "2026-10-21T18:02:12+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -774,6 +774,43 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
         }
        ]
       },
@@ -861,6 +898,36 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "1088",
+         "name": "Pecan Pie",
+         "serving": "3.6oz",
+         "cal": 407.0,
+         "p": 3.19,
+         "c": 52.59,
+         "f": 20.72,
+         "tags": []
+        },
+        {
+         "id": "285",
+         "name": "Chocolate Cherry Crisp",
+         "serving": "4.8oz",
+         "cal": 222.0,
+         "p": 2.68,
+         "c": 40.16,
+         "f": 7.77,
+         "tags": []
+        },
+        {
+         "id": "3958",
+         "name": "Cranberry Crunch Bar",
+         "serving": "1.92oz",
+         "cal": 213.0,
+         "p": 2.8,
+         "c": 29.91,
+         "f": 9.39,
+         "tags": []
         }
        ]
       }
@@ -1406,16 +1473,6 @@
          "tags": []
         },
         {
-         "id": "2733",
-         "name": "Apple & Asian Pear Compote",
-         "serving": "1.34oz",
-         "cal": 25.0,
-         "p": 0.18,
-         "c": 5.54,
-         "f": 0.29,
-         "tags": []
-        },
-        {
          "id": "3004",
          "name": "Waffle",
          "serving": "1.25oz",
@@ -1423,6 +1480,16 @@
          "p": 1.49,
          "c": 12.43,
          "f": 1.49,
+         "tags": []
+        },
+        {
+         "id": "1205",
+         "name": "Blueberry Compote",
+         "serving": "1.7oz",
+         "cal": 31.0,
+         "p": 0.07,
+         "c": 7.47,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -1541,16 +1608,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -1611,23 +1668,43 @@
          "tags": []
         },
         {
-         "id": "3156",
-         "name": "Chocolate Peanut Butter",
-         "serving": "1.03oz",
-         "cal": 99.0,
-         "p": 3.66,
-         "c": 5.36,
-         "f": 6.59,
+         "id": "1395",
+         "name": "Lemon Blueberry Bread",
+         "serving": "2.21oz",
+         "cal": 207.0,
+         "p": 2.89,
+         "c": 17.72,
+         "f": 13.58,
          "tags": []
         },
         {
-         "id": "3460",
-         "name": "Kiwi-Apple Compote",
-         "serving": "1.86oz",
-         "cal": 60.0,
-         "p": 0.31,
-         "c": 15.19,
-         "f": 0.14,
+         "id": "3402",
+         "name": "Pistachio Bread",
+         "serving": "2.31oz",
+         "cal": 251.0,
+         "p": 5.73,
+         "c": 26.55,
+         "f": 14.07,
+         "tags": []
+        },
+        {
+         "id": "2945",
+         "name": "Peanut Butter",
+         "serving": "1oz",
+         "cal": 91.0,
+         "p": 3.81,
+         "c": 6.0,
+         "f": 6.21,
+         "tags": []
+        },
+        {
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -1828,6 +1905,24 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49
+        },
+        {
+         "id": "10041",
+         "name": "Rustic Sausage Potato Kale Soup",
+         "serving": "6oz",
+         "cal": 178,
+         "p": 3.18,
+         "c": 8.84,
+         "f": 13.41
+        },
+        {
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
         }
        ]
       },
@@ -1975,13 +2070,13 @@
          "tags": []
         },
         {
-         "id": "985",
-         "name": "Sauteed Kale",
-         "serving": "2.33oz",
-         "cal": 48.0,
-         "p": 2.57,
-         "c": 5.96,
-         "f": 2.18,
+         "id": "4323",
+         "name": "Garlic Bok Choy",
+         "serving": "3.1oz",
+         "cal": 20.0,
+         "p": 1.41,
+         "c": 2.6,
+         "f": 0.75,
          "tags": []
         }
        ]
@@ -2115,16 +2210,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -2205,23 +2290,43 @@
          "tags": []
         },
         {
-         "id": "3460",
-         "name": "Kiwi-Apple Compote",
-         "serving": "1.86oz",
-         "cal": 60.0,
-         "p": 0.31,
-         "c": 15.19,
-         "f": 0.14,
+         "id": "1395",
+         "name": "Lemon Blueberry Bread",
+         "serving": "2.21oz",
+         "cal": 207.0,
+         "p": 2.89,
+         "c": 17.72,
+         "f": 13.58,
          "tags": []
         },
         {
-         "id": "2733",
-         "name": "Apple & Asian Pear Compote",
-         "serving": "1.34oz",
-         "cal": 25.0,
-         "p": 0.18,
-         "c": 5.54,
-         "f": 0.29,
+         "id": "1244",
+         "name": "Raspberry Ginger Oat Bar",
+         "serving": "2.48oz",
+         "cal": 247.0,
+         "p": 4.72,
+         "c": 34.1,
+         "f": 10.7,
+         "tags": []
+        },
+        {
+         "id": "3402",
+         "name": "Pistachio Bread",
+         "serving": "2.31oz",
+         "cal": 251.0,
+         "p": 5.73,
+         "c": 26.55,
+         "f": 14.07,
+         "tags": []
+        },
+        {
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -3226,13 +3331,13 @@
          "tags": []
         },
         {
-         "id": "1311",
-         "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-         "serving": "2.66oz",
-         "cal": 48.0,
-         "p": 3.05,
-         "c": 6.32,
-         "f": 1.93,
+         "id": "1399",
+         "name": "Roasted Peppers & Peas w/ Dill",
+         "serving": "2oz",
+         "cal": 49.0,
+         "p": 1.88,
+         "c": 5.77,
+         "f": 2.25,
          "tags": []
         },
         {
@@ -3395,6 +3500,36 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "2340",
+         "name": "Roasted Pork Loin",
+         "serving": "3.93oz",
+         "cal": 240.0,
+         "p": 22.0,
+         "c": 0.02,
+         "f": 16.07,
+         "tags": []
+        },
+        {
+         "id": "2787",
+         "name": "Rice Pilaf",
+         "serving": "5.44oz",
+         "cal": 342.0,
+         "p": 6.32,
+         "c": 74.52,
+         "f": 1.14,
+         "tags": []
+        },
+        {
+         "id": "7980",
+         "name": "Baked Rotini w/ Cheese",
+         "serving": "6.21oz",
+         "cal": 441.0,
+         "p": 14.56,
+         "c": 31.5,
+         "f": 27.09,
+         "tags": []
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3486,16 +3621,6 @@
          "f": 10.3
         },
         {
-         "id": "2565",
-         "name": "Cauliflower Skordalia Spread",
-         "serving": "1.21oz",
-         "cal": 48.0,
-         "p": 1.5,
-         "c": 3.73,
-         "f": 3.24,
-         "tags": []
-        },
-        {
          "id": "1105",
          "name": "Smoked Mozzarella Spread",
          "serving": "1.02oz",
@@ -3512,16 +3637,6 @@
          "p": 0.41,
          "c": 1.63,
          "f": 24.29
-        },
-        {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
         },
         {
          "id": "1323",
@@ -3560,35 +3675,6 @@
          "f": 0.91
         },
         {
-         "id": "1870",
-         "name": "Htipiti Feta Spread",
-         "serving": "1oz",
-         "cal": 70,
-         "p": 2.87,
-         "c": 2.65,
-         "f": 5.24
-        },
-        {
-         "id": "3852",
-         "name": "Marinated Red Grape Tomatoes",
-         "serving": "4.7oz",
-         "cal": 307.0,
-         "p": 0.88,
-         "c": 4.34,
-         "f": 30.93,
-         "tags": []
-        },
-        {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
          "id": "1267",
          "name": "Pickled Vegetables",
          "serving": "2.05oz",
@@ -3606,16 +3692,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
-         "tags": []
         }
        ]
       },
@@ -3641,13 +3717,13 @@
          "f": 8.8
         },
         {
-         "id": "6210",
-         "name": "Mushroom & Mozzarella Stromboli",
-         "serving": "3.27oz",
-         "cal": 158.0,
-         "p": 8.26,
-         "c": 20.21,
-         "f": 4.94,
+         "id": "5970",
+         "name": "Margherita Pizza",
+         "serving": "3.49oz",
+         "cal": 201.0,
+         "p": 7.47,
+         "c": 23.68,
+         "f": 8.3,
          "tags": []
         },
         {
@@ -4343,16 +4419,6 @@
          "c": 139.94,
          "f": 1.6,
          "tags": []
-        },
-        {
-         "id": "4054",
-         "name": "Tofu w/ Hoisin Sauce",
-         "serving": "4.28oz",
-         "cal": 165.0,
-         "p": 7.15,
-         "c": 22.74,
-         "f": 5.77,
-         "tags": []
         }
        ]
       },
@@ -4403,6 +4469,26 @@
          "p": 2.95,
          "c": 28.54,
          "f": 9.25,
+         "tags": []
+        },
+        {
+         "id": "8815",
+         "name": "Mozzarella & Fishcake Corn Dog",
+         "serving": "9oz",
+         "cal": 1036.0,
+         "p": 15.25,
+         "c": 96.7,
+         "f": 65.46,
+         "tags": []
+        },
+        {
+         "id": "8813",
+         "name": "Potato & Mozzarella Corndog",
+         "serving": "9oz",
+         "cal": 1073.0,
+         "p": 15.73,
+         "c": 95.06,
+         "f": 70.61,
          "tags": []
         }
        ]
@@ -4771,185 +4857,6 @@
     {
      "name": "All Day",
      "stations": [
-      {
-       "name": "BREAKFAST SPECIALS",
-       "items": [
-        {
-         "id": "6321",
-         "name": "Build-Your-Own Breakfast Bowl",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "6323",
-         "name": "Build-Your-Own Breakfast Burrito",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "3746",
-         "name": "Bruin Waffle Plate",
-         "serving": "8.58oz",
-         "cal": 481.0,
-         "p": 28.35,
-         "c": 63.3,
-         "f": 39.36,
-         "tags": []
-        },
-        {
-         "id": "6938",
-         "name": "Parfait Fresh Berry",
-         "serving": "10oz",
-         "cal": 138.0,
-         "p": 13.06,
-         "c": 20.83,
-         "f": 1.11,
-         "tags": []
-        },
-        {
-         "id": "6807",
-         "name": "Parfait Oatmeal Blueberry & Apple",
-         "serving": "11.5oz",
-         "cal": 455.0,
-         "p": 14.7,
-         "c": 75.67,
-         "f": 11.83,
-         "tags": []
-        },
-        {
-         "id": "466",
-         "name": "Fresh Fruit Cup",
-         "serving": "14oz",
-         "cal": 167.0,
-         "p": 2.58,
-         "c": 42.54,
-         "f": 0.6,
-         "tags": []
-        },
-        {
-         "id": "6620",
-         "name": "Steel Cut Oatmeal",
-         "serving": "7.8oz",
-         "cal": 236.0,
-         "p": 6.92,
-         "c": 44.33,
-         "f": 3.47,
-         "tags": []
-        },
-        {
-         "id": "7204",
-         "name": "Oatmeal",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "5889",
-         "name": "General Mills Cereal",
-         "serving": "16oz",
-         "cal": 199.0,
-         "p": 3.54,
-         "c": 48.16,
-         "f": 1.09,
-         "tags": []
-        },
-        {
-         "id": "7398",
-         "name": "Rice Chex Cereal",
-         "serving": "1oz",
-         "cal": 114.0,
-         "p": 2.12,
-         "c": 24.68,
-         "f": 0.71,
-         "tags": []
-        },
-        {
-         "id": "7392",
-         "name": "Multi Grain Cheerios",
-         "serving": "2oz",
-         "cal": 210.0,
-         "p": 4.7,
-         "c": 46.07,
-         "f": 2.31,
-         "tags": []
-        },
-        {
-         "id": "7037",
-         "name": "Cheerios Cereal",
-         "serving": "1.5oz",
-         "cal": 153.0,
-         "p": 5.44,
-         "c": 31.53,
-         "f": 2.72,
-         "tags": []
-        },
-        {
-         "id": "7159",
-         "name": "Honey Nut Cheerios Cereal",
-         "serving": "1.5oz",
-         "cal": 161.0,
-         "p": 3.44,
-         "c": 34.38,
-         "f": 2.29,
-         "tags": []
-        },
-        {
-         "id": "7393",
-         "name": "Lucky Charms Cereal",
-         "serving": "1oz",
-         "cal": 108.0,
-         "p": 2.16,
-         "c": 22.81,
-         "f": 1.42,
-         "tags": []
-        },
-        {
-         "id": "7160",
-         "name": "Cinnamon Toast Crunch Cereal",
-         "serving": "1.5oz",
-         "cal": 187.0,
-         "p": 2.07,
-         "c": 34.13,
-         "f": 4.14,
-         "tags": []
-        },
-        {
-         "id": "7394",
-         "name": "Cocoa Puffs",
-         "serving": "1oz",
-         "cal": 109.0,
-         "p": 1.58,
-         "c": 23.6,
-         "f": 1.47,
-         "tags": []
-        },
-        {
-         "id": "7395",
-         "name": "Trix Cereal",
-         "serving": "1oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        }
-       ]
-      },
       {
        "name": "DAILY SPECIALS",
        "items": [
