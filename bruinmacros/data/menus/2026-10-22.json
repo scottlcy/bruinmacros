@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "updated": "2026-10-21T18:02:41+00:00",
+ "updated": "2026-10-21T21:43:01+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -3756,13 +3756,13 @@
        "name": "Alimenti",
        "items": [
         {
-         "id": "6848",
-         "name": "Turkish Drumstick",
-         "serving": "3.02oz",
-         "cal": 190.0,
-         "p": 11.52,
-         "c": 4.52,
-         "f": 13.59,
+         "id": "2658",
+         "name": "Grilled Moroccan Chicken",
+         "serving": "3.03oz",
+         "cal": 105.0,
+         "p": 15.32,
+         "c": 1.18,
+         "f": 3.97,
          "tags": []
         },
         {
