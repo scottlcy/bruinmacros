@@ -508,7 +508,7 @@
   "f": 0.08,
   "c": 9.81,
   "fetched": "2026-09-27",
-  "seen": "2026-10-20"
+  "seen": "2026-10-21"
  },
  "1884": {
   "name": "Risotto Parmigiano",
@@ -21528,7 +21528,7 @@
   "p": 11.9,
   "tags": [],
   "fetched": "2026-10-15",
-  "seen": "2026-10-19"
+  "seen": "2026-10-21"
  },
  "7315": {
   "name": "Crab Roll Sandwich",
@@ -23327,6 +23327,28 @@
   "f": 29.34,
   "c": 82.5,
   "p": 14.66,
+  "tags": [],
+  "fetched": "2026-10-21",
+  "seen": "2026-10-21"
+ },
+ "1281": {
+  "name": "Artichoke, Mushroom, & Fontina Grilled Sandwich",
+  "serving": "5.93oz",
+  "cal": 311.0,
+  "f": 16.23,
+  "c": 28.41,
+  "p": 13.2,
+  "tags": [],
+  "fetched": "2026-10-21",
+  "seen": "2026-10-21"
+ },
+ "3272": {
+  "name": "Steamed Rice",
+  "serving": "3oz",
+  "cal": 318.0,
+  "f": 0.87,
+  "c": 68.62,
+  "p": 6.37,
   "tags": [],
   "fetched": "2026-10-21",
   "seen": "2026-10-21"

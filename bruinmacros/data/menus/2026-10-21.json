@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "updated": "2026-10-22T00:41:51+00:00",
+ "updated": "2026-10-22T04:49:08+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -955,13 +955,13 @@
          "tags": []
         },
         {
-         "id": "2767",
-         "name": "Cheddar Cheese Grits",
-         "serving": "2.03oz",
-         "cal": 64.0,
-         "p": 1.92,
-         "c": 6.55,
-         "f": 3.23,
+         "id": "3272",
+         "name": "Steamed Rice",
+         "serving": "3oz",
+         "cal": 318.0,
+         "p": 6.37,
+         "c": 68.62,
+         "f": 0.87,
          "tags": []
         },
         {
@@ -1160,16 +1160,6 @@
          "tags": []
         },
         {
-         "id": "6359",
-         "name": "Honey Roasted Chicken",
-         "serving": "4.45oz",
-         "cal": 300.0,
-         "p": 21.17,
-         "c": 4.91,
-         "f": 21.66,
-         "tags": []
-        },
-        {
          "id": "2654",
          "name": "Humita: Corn & Cheese Puree",
          "serving": "3.78oz",
@@ -1177,6 +1167,16 @@
          "p": 2.93,
          "c": 13.39,
          "f": 11.8,
+         "tags": []
+        },
+        {
+         "id": "6912",
+         "name": "BBQ Chipotle Chicken Thigh",
+         "serving": "3.01oz",
+         "cal": 111.0,
+         "p": 11.9,
+         "c": 6.5,
+         "f": 3.4,
          "tags": []
         }
        ]
@@ -1341,16 +1341,6 @@
          "tags": []
         },
         {
-         "id": "5479",
-         "name": "Classic Chocolate Chip Cookie",
-         "serving": "1.3oz",
-         "cal": 162.0,
-         "p": 2.31,
-         "c": 22.79,
-         "f": 7.38,
-         "tags": []
-        },
-        {
          "id": "4041",
          "name": "Pumpkin Pie",
          "serving": "2.37oz",
@@ -1368,26 +1358,6 @@
          "p": 3.22,
          "c": 24.74,
          "f": 12.21,
-         "tags": []
-        },
-        {
-         "id": "4923",
-         "name": "Pumpkin Mousse",
-         "serving": "3.68oz",
-         "cal": 271.0,
-         "p": 1.2,
-         "c": 25.54,
-         "f": 16.84,
-         "tags": []
-        },
-        {
-         "id": "261",
-         "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
-         "serving": "2.23oz",
-         "cal": 227.0,
-         "p": 2.79,
-         "c": 26.64,
-         "f": 11.89,
          "tags": []
         },
         {
@@ -2752,6 +2722,16 @@
        "name": "Farmstand",
        "items": [
         {
+         "id": "145",
+         "name": "Frijoles de la Olla",
+         "serving": "1.99oz",
+         "cal": 90.0,
+         "p": 4.75,
+         "c": 14.05,
+         "f": 1.54,
+         "tags": []
+        },
+        {
          "id": "956",
          "name": "Brown Calrose Rice",
          "serving": "2.03oz",
@@ -4083,16 +4063,6 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "2183",
-         "name": "Flank Steak w/ Harissa Dry Rub",
-         "serving": "2.4oz",
-         "cal": 130.0,
-         "p": 11.49,
-         "c": 1.55,
-         "f": 8.24,
-         "tags": []
-        },
-        {
          "id": "1989",
          "name": "Greek Style Black-Eyed Pea Stew w/ Kale",
          "serving": "6.07oz",
@@ -4103,13 +4073,22 @@
          "tags": []
         },
         {
-         "id": "6299",
-         "name": "Vegetable Rice Pilaf",
-         "serving": "3.12oz",
-         "cal": 154.0,
-         "p": 2.61,
-         "c": 24.08,
-         "f": 4.56,
+         "id": "1881",
+         "name": "Basmati Rice",
+         "serving": "1.02oz",
+         "cal": 45,
+         "p": 0.88,
+         "c": 9.81,
+         "f": 0.08
+        },
+        {
+         "id": "1281",
+         "name": "Artichoke, Mushroom, & Fontina Grilled Sandwich",
+         "serving": "5.93oz",
+         "cal": 311.0,
+         "p": 13.2,
+         "c": 28.41,
+         "f": 16.23,
          "tags": []
         },
         {
