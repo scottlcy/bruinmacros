@@ -8548,7 +8548,7 @@
   "p": 5.78,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-20"
+  "seen": "2026-10-21"
  },
  "9964": {
   "name": "Pre-Workout Protein Box",
@@ -13894,7 +13894,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-01",
-  "seen": "2026-10-07"
+  "seen": "2026-10-21"
  },
  "812": {
   "name": "Mexican Street Corn Salad",
@@ -15111,7 +15111,7 @@
   "p": 3.96,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-20"
+  "seen": "2026-10-21"
  },
  "2201": {
   "name": "NOODLES BOWTIE FARFALLE",
@@ -22531,7 +22531,7 @@
   "p": 2.61,
   "tags": [],
   "fetched": "2026-10-19",
-  "seen": "2026-10-20"
+  "seen": "2026-10-21"
  },
  "6941": {
   "name": "Chard Swiss W/Shallots",
@@ -23316,6 +23316,17 @@
   "f": 3.97,
   "c": 1.18,
   "p": 15.32,
+  "tags": [],
+  "fetched": "2026-10-21",
+  "seen": "2026-10-21"
+ },
+ "7669": {
+  "name": "Cinnamon Roll with Cream Cheese",
+  "serving": "5.88oz",
+  "cal": 616.0,
+  "f": 29.34,
+  "c": 82.5,
+  "p": 14.66,
   "tags": [],
   "fetched": "2026-10-21",
   "seen": "2026-10-21"

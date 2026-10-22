@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "updated": "2026-10-21T21:43:01+00:00",
+ "updated": "2026-10-22T00:42:16+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -6834,6 +6834,21 @@
     {
      "name": "All Day",
      "stations": [
+      {
+       "name": "DAILY SPECIALS",
+       "items": [
+        {
+         "id": "7669",
+         "name": "Cinnamon Roll with Cream Cheese",
+         "serving": "5.88oz",
+         "cal": 616.0,
+         "p": 14.66,
+         "c": 82.5,
+         "f": 29.34,
+         "tags": []
+        }
+       ]
+      },
       {
        "name": "Craft-Your-Own Breakfast Skillet",
        "items": [
