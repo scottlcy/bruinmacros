@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "updated": "2026-10-22T17:58:47+00:00",
+ "updated": "2026-10-22T21:35:32+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1154,6 +1154,36 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49
+        },
+        {
+         "id": "6401",
+         "name": "Smoked Chicken w/ Alabama White Sauce",
+         "serving": "2.99oz",
+         "cal": 224.0,
+         "p": 12.48,
+         "c": 3.18,
+         "f": 17.63,
+         "tags": []
+        },
+        {
+         "id": "9718",
+         "name": "Seared Mahi Mahi with Spicy Fresno Pickled Vegetables",
+         "serving": "6.44oz",
+         "cal": 177.0,
+         "p": 10.6,
+         "c": 26.88,
+         "f": 1.53,
+         "tags": []
+        },
+        {
+         "id": "1942",
+         "name": "Beef Fajitas",
+         "serving": "4.99oz",
+         "cal": 138.0,
+         "p": 16.84,
+         "c": 4.99,
+         "f": 5.78,
+         "tags": []
         }
        ]
       },
@@ -1188,6 +1218,16 @@
          "p": 0.49,
          "c": 4.58,
          "f": 0.26
+        },
+        {
+         "id": "3996",
+         "name": "Roasted Summer Squash w/ Caramelized Onions",
+         "serving": "1.96oz",
+         "cal": 27.0,
+         "p": 0.56,
+         "c": 2.73,
+         "f": 1.69,
+         "tags": []
         }
        ]
       },
@@ -1263,6 +1303,43 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
         }
        ]
       },
@@ -1349,6 +1426,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "229",
+         "name": "Deep Dish Blackout Cake",
+         "serving": "3.42oz",
+         "cal": 282.0,
+         "p": 4.9,
+         "c": 37.65,
+         "f": 18.21,
+         "tags": []
         }
        ]
       }
@@ -3582,23 +3669,13 @@
          "f": 8.8
         },
         {
-         "id": "6210",
-         "name": "Mushroom & Mozzarella Stromboli",
-         "serving": "3.27oz",
-         "cal": 158.0,
-         "p": 8.26,
-         "c": 20.21,
-         "f": 4.94,
-         "tags": []
-        },
-        {
-         "id": "5970",
-         "name": "Margherita Pizza",
-         "serving": "3.49oz",
-         "cal": 201.0,
-         "p": 7.47,
-         "c": 23.68,
-         "f": 8.3,
+         "id": "6007",
+         "name": "Bell Pepper Pizza",
+         "serving": "4.15oz",
+         "cal": 242.0,
+         "p": 12.11,
+         "c": 24.75,
+         "f": 10.35,
          "tags": []
         },
         {
@@ -3674,13 +3751,13 @@
          "tags": []
         },
         {
-         "id": "2010",
-         "name": "Arancini",
-         "serving": "4.85oz",
-         "cal": 308.0,
-         "p": 9.04,
-         "c": 50.52,
-         "f": 8.09,
+         "id": "2997",
+         "name": "Halloumi Grilled Cheese Pita",
+         "serving": "5.25oz",
+         "cal": 484.0,
+         "p": 14.63,
+         "c": 12.91,
+         "f": 42.75,
          "tags": []
         },
         {
@@ -3721,15 +3798,6 @@
          "p": 0.4,
          "c": 4.49,
          "f": 6.76
-        },
-        {
-         "id": "5077",
-         "name": "Moroccan Couscous Salad",
-         "serving": "2.02oz",
-         "cal": 127,
-         "p": 2.88,
-         "c": 16.76,
-         "f": 6.01
         },
         {
          "id": "10383",
@@ -4145,15 +4213,6 @@
          "p": 0.4,
          "c": 4.49,
          "f": 6.76
-        },
-        {
-         "id": "5077",
-         "name": "Moroccan Couscous Salad",
-         "serving": "2.02oz",
-         "cal": 127,
-         "p": 2.88,
-         "c": 16.76,
-         "f": 6.01
         },
         {
          "id": "10383",
