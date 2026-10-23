@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "updated": "2026-10-22T21:35:32+00:00",
+ "updated": "2026-10-23T00:40:06+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1154,26 +1154,6 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49
-        },
-        {
-         "id": "6401",
-         "name": "Smoked Chicken w/ Alabama White Sauce",
-         "serving": "2.99oz",
-         "cal": 224.0,
-         "p": 12.48,
-         "c": 3.18,
-         "f": 17.63,
-         "tags": []
-        },
-        {
-         "id": "9718",
-         "name": "Seared Mahi Mahi with Spicy Fresno Pickled Vegetables",
-         "serving": "6.44oz",
-         "cal": 177.0,
-         "p": 10.6,
-         "c": 26.88,
-         "f": 1.53,
-         "tags": []
         },
         {
          "id": "1942",
@@ -2867,6 +2847,26 @@
          "tags": []
         },
         {
+         "id": "3370",
+         "name": "Key Lime Tart",
+         "serving": "0.93oz",
+         "cal": 79.0,
+         "p": 1.83,
+         "c": 11.54,
+         "f": 2.71,
+         "tags": []
+        },
+        {
+         "id": "1241",
+         "name": "Red Velvet Torte w/ Champagne Mousse",
+         "serving": "2.58oz",
+         "cal": 410.0,
+         "p": 4.51,
+         "c": 41.69,
+         "f": 24.38,
+         "tags": []
+        },
+        {
          "id": "2256",
          "name": "Almond Butter",
          "serving": "1.08oz",
@@ -2897,23 +2897,33 @@
          "tags": []
         },
         {
-         "id": "3055",
-         "name": "Pear Butter",
-         "serving": "1.09oz",
-         "cal": 44.0,
-         "p": 0.12,
-         "c": 10.92,
-         "f": 0.04,
+         "id": "2917",
+         "name": "Pomegranate & Date Compote",
+         "serving": "1.36oz",
+         "cal": 52.0,
+         "p": 0.2,
+         "c": 13.56,
+         "f": 0.09,
          "tags": []
         },
         {
-         "id": "3419",
-         "name": "Roasted Beet & Grilled Pineapple Butter",
-         "serving": "2.79oz",
-         "cal": 119.0,
-         "p": 0.82,
-         "c": 23.37,
-         "f": 3.03,
+         "id": "9527",
+         "name": "Strawberry Compote & Red Wine",
+         "serving": "0.88oz",
+         "cal": 29.0,
+         "p": 0.2,
+         "c": 3.65,
+         "f": 1.44,
+         "tags": []
+        },
+        {
+         "id": "2179",
+         "name": "Pineapple Compote",
+         "serving": "1.02oz",
+         "cal": 35.0,
+         "p": 0.12,
+         "c": 9.09,
+         "f": 0.03,
          "tags": []
         }
        ]
@@ -3325,13 +3335,13 @@
        "name": "Alimenti",
        "items": [
         {
-         "id": "2264",
-         "name": "Harissa Pork Ribs",
-         "serving": "1.79oz",
-         "cal": 88.0,
-         "p": 4.48,
-         "c": 5.96,
-         "f": 4.73,
+         "id": "2183",
+         "name": "Flank Steak w/ Harissa Dry Rub",
+         "serving": "2.4oz",
+         "cal": 130.0,
+         "p": 11.49,
+         "c": 1.55,
+         "f": 8.24,
          "tags": []
         },
         {
@@ -3751,6 +3761,16 @@
          "tags": []
         },
         {
+         "id": "1956",
+         "name": "Mediterranean Pasta Salad",
+         "serving": "2oz",
+         "cal": 137.0,
+         "p": 4.22,
+         "c": 25.25,
+         "f": 2.54,
+         "tags": []
+        },
+        {
          "id": "2997",
          "name": "Halloumi Grilled Cheese Pita",
          "serving": "5.25oz",
@@ -3941,6 +3961,36 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "2183",
+         "name": "Flank Steak w/ Harissa Dry Rub",
+         "serving": "2.4oz",
+         "cal": 130.0,
+         "p": 11.49,
+         "c": 1.55,
+         "f": 8.24,
+         "tags": []
+        },
+        {
+         "id": "2209",
+         "name": "Cioppino",
+         "serving": "2.94oz",
+         "cal": 91.0,
+         "p": 7.21,
+         "c": 3.02,
+         "f": 5.54,
+         "tags": []
+        },
+        {
+         "id": "1971",
+         "name": "Black Eyed Peas & Collard Greens",
+         "serving": "2.38oz",
+         "cal": 24.0,
+         "p": 1.29,
+         "c": 3.69,
+         "f": 0.49,
+         "tags": []
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3957,16 +4007,6 @@
          "p": 2,
          "c": 10.51,
          "f": 2.91
-        },
-        {
-         "id": "6637",
-         "name": "Sun-Dried Tomato Pesto",
-         "serving": "0.98oz",
-         "cal": 146.0,
-         "p": 2.06,
-         "c": 7.15,
-         "f": 12.59,
-         "tags": []
         },
         {
          "id": "869",
@@ -4003,15 +4043,6 @@
          "p": 2.57,
          "c": 1.22,
          "f": 0.53
-        },
-        {
-         "id": "4416",
-         "name": "Baba Ghanoush",
-         "serving": "4.64oz",
-         "cal": 71,
-         "p": 2.1,
-         "c": 8.54,
-         "f": 3.8
         },
         {
          "id": "6203",
@@ -4113,55 +4144,6 @@
          "p": 2.87,
          "c": 2.65,
          "f": 5.24
-        },
-        {
-         "id": "3852",
-         "name": "Marinated Red Grape Tomatoes",
-         "serving": "4.7oz",
-         "cal": 307.0,
-         "p": 0.88,
-         "c": 4.34,
-         "f": 30.93,
-         "tags": []
-        },
-        {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
-         "id": "9172",
-         "name": "Dolma",
-         "serving": "2.65oz",
-         "cal": 94,
-         "p": 1.88,
-         "c": 14.06,
-         "f": 3.75
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
-         "tags": []
         }
        ]
       },
