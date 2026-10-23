@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "updated": "2026-10-23T10:05:29+00:00",
+ "updated": "2026-10-23T17:52:45+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -762,6 +762,43 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
         }
        ]
       },
@@ -1519,16 +1556,6 @@
          "tags": []
         },
         {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
-         "tags": []
-        },
-        {
          "id": "1392",
          "name": "Lemon Poppy Bread",
          "serving": "2.05oz",
@@ -1569,23 +1596,33 @@
          "tags": []
         },
         {
-         "id": "3156",
-         "name": "Chocolate Peanut Butter",
-         "serving": "1.03oz",
-         "cal": 99.0,
-         "p": 3.66,
-         "c": 5.36,
-         "f": 6.59,
+         "id": "1400",
+         "name": "Coconut Pineapple Bread",
+         "serving": "2.63oz",
+         "cal": 282.0,
+         "p": 3.28,
+         "c": 28.12,
+         "f": 17.08,
          "tags": []
         },
         {
-         "id": "3320",
-         "name": "Chayote & Apple Butter",
-         "serving": "3.66oz",
-         "cal": 69.0,
-         "p": 0.46,
-         "c": 16.69,
-         "f": 0.18,
+         "id": "2945",
+         "name": "Peanut Butter",
+         "serving": "1oz",
+         "cal": 91.0,
+         "p": 3.81,
+         "c": 6.0,
+         "f": 6.21,
+         "tags": []
+        },
+        {
+         "id": "2917",
+         "name": "Pomegranate & Date Compote",
+         "serving": "1.36oz",
+         "cal": 52.0,
+         "p": 0.2,
+         "c": 13.56,
+         "f": 0.09,
          "tags": []
         }
        ]
@@ -1659,13 +1696,13 @@
        "name": "Beverage Special",
        "items": [
         {
-         "id": "3437",
-         "name": "Pear Vanilla Water",
-         "serving": "10.76oz",
-         "cal": 13.0,
-         "p": 0.09,
-         "c": 2.99,
-         "f": 0.03,
+         "id": "3329",
+         "name": "Navel Orange Water",
+         "serving": "12.09oz",
+         "cal": 23.0,
+         "p": 0.45,
+         "c": 5.52,
+         "f": 0.07,
          "tags": []
         }
        ]
@@ -3008,13 +3045,13 @@
          "nodata": true
         },
         {
-         "id": "2877",
-         "name": "Rigatoni Noodles",
-         "serving": "2oz",
-         "cal": 206.0,
-         "p": 6.99,
-         "c": 41.94,
-         "f": 1.61,
+         "id": "2201",
+         "name": "NOODLES BOWTIE FARFALLE",
+         "serving": "2.45oz",
+         "cal": 245.0,
+         "p": 8.49,
+         "c": 50.98,
+         "f": 1.35,
          "tags": []
         },
         {
@@ -3124,14 +3161,13 @@
          "tags": []
         },
         {
-         "id": "6273",
-         "name": "Wilted Collard Greens",
-         "serving": "2.23oz",
-         "cal": 45.0,
-         "p": 1.73,
-         "c": 3.67,
-         "f": 3.05,
-         "tags": []
+         "id": "3586",
+         "name": "Pan Roasted Brussels Sprouts",
+         "serving": "1.45oz",
+         "cal": 28,
+         "p": 1.21,
+         "c": 3.89,
+         "f": 1.24
         },
         {
          "id": "203",
@@ -3186,13 +3222,13 @@
          "tags": []
         },
         {
-         "id": "2392",
-         "name": "Lebanese Lentil & Bulgur Pilaf w/ Roasted Squash",
-         "serving": "11.21oz",
-         "cal": 611.0,
-         "p": 25.83,
-         "c": 109.38,
-         "f": 7.72,
+         "id": "2758",
+         "name": "Braised Spicy Lentils w/ Potatoes & Tomatoes",
+         "serving": "4.85oz",
+         "cal": 128.0,
+         "p": 6.02,
+         "c": 20.43,
+         "f": 2.93,
          "tags": []
         },
         {
@@ -3293,6 +3329,37 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "nodata": true
+        },
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "1402",
+         "name": "Mint Couscous",
+         "serving": "2oz",
+         "cal": 89.0,
+         "p": 3.02,
+         "c": 18.28,
+         "f": 0.15,
+         "tags": []
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3366,15 +3433,6 @@
          "f": 3.8
         },
         {
-         "id": "6203",
-         "name": "Muhammara (Spicy Roasted Pepper Dip)",
-         "serving": "1.99oz",
-         "cal": 97,
-         "p": 1.68,
-         "c": 3.5,
-         "f": 8.38
-        },
-        {
          "id": "1511",
          "name": "Artichoke Spinach Dip",
          "serving": "2.28oz",
@@ -3382,16 +3440,6 @@
          "p": 2.8,
          "c": 4.48,
          "f": 10.3
-        },
-        {
-         "id": "2565",
-         "name": "Cauliflower Skordalia Spread",
-         "serving": "1.21oz",
-         "cal": 48.0,
-         "p": 1.5,
-         "c": 3.73,
-         "f": 3.24,
-         "tags": []
         },
         {
          "id": "1105",
@@ -3410,16 +3458,6 @@
          "p": 0.41,
          "c": 1.63,
          "f": 24.29
-        },
-        {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
         },
         {
          "id": "1323",
@@ -3458,45 +3496,6 @@
          "f": 0.91
         },
         {
-         "id": "1870",
-         "name": "Htipiti Feta Spread",
-         "serving": "1oz",
-         "cal": 70,
-         "p": 2.87,
-         "c": 2.65,
-         "f": 5.24
-        },
-        {
-         "id": "3852",
-         "name": "Marinated Red Grape Tomatoes",
-         "serving": "4.7oz",
-         "cal": 307.0,
-         "p": 0.88,
-         "c": 4.34,
-         "f": 30.93,
-         "tags": []
-        },
-        {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -3504,16 +3503,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
-         "tags": []
         }
        ]
       },
@@ -3794,7 +3783,7 @@
        "items": [
         {
          "id": "7458",
-         "name": "Chicken Yakisoba with Shrimp Tempura",
+         "name": "Chicken Yakisoba",
          "serving": "17oz",
          "cal": 474.0,
          "p": 22.07,
@@ -4105,185 +4094,6 @@
     {
      "name": "All Day",
      "stations": [
-      {
-       "name": "BREAKFAST SPECIALS",
-       "items": [
-        {
-         "id": "6321",
-         "name": "Build-Your-Own Breakfast Bowl",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "6323",
-         "name": "Build-Your-Own Breakfast Burrito",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "3746",
-         "name": "Bruin Waffle Plate",
-         "serving": "8.58oz",
-         "cal": 481.0,
-         "p": 28.35,
-         "c": 63.3,
-         "f": 39.36,
-         "tags": []
-        },
-        {
-         "id": "6938",
-         "name": "Parfait Fresh Berry",
-         "serving": "10oz",
-         "cal": 138.0,
-         "p": 13.06,
-         "c": 20.83,
-         "f": 1.11,
-         "tags": []
-        },
-        {
-         "id": "6807",
-         "name": "Parfait Oatmeal Blueberry & Apple",
-         "serving": "11.5oz",
-         "cal": 455.0,
-         "p": 14.7,
-         "c": 75.67,
-         "f": 11.83,
-         "tags": []
-        },
-        {
-         "id": "466",
-         "name": "Fresh Fruit Cup",
-         "serving": "14oz",
-         "cal": 167.0,
-         "p": 2.58,
-         "c": 42.54,
-         "f": 0.6,
-         "tags": []
-        },
-        {
-         "id": "6620",
-         "name": "Steel Cut Oatmeal",
-         "serving": "7.8oz",
-         "cal": 236.0,
-         "p": 6.92,
-         "c": 44.33,
-         "f": 3.47,
-         "tags": []
-        },
-        {
-         "id": "7204",
-         "name": "Oatmeal",
-         "serving": "",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "5889",
-         "name": "General Mills Cereal",
-         "serving": "16oz",
-         "cal": 199.0,
-         "p": 3.54,
-         "c": 48.16,
-         "f": 1.09,
-         "tags": []
-        },
-        {
-         "id": "7392",
-         "name": "Multi Grain Cheerios",
-         "serving": "2oz",
-         "cal": 210.0,
-         "p": 4.7,
-         "c": 46.07,
-         "f": 2.31,
-         "tags": []
-        },
-        {
-         "id": "7037",
-         "name": "Cheerios Cereal",
-         "serving": "1.5oz",
-         "cal": 153.0,
-         "p": 5.44,
-         "c": 31.53,
-         "f": 2.72,
-         "tags": []
-        },
-        {
-         "id": "7159",
-         "name": "Honey Nut Cheerios Cereal",
-         "serving": "1.5oz",
-         "cal": 161.0,
-         "p": 3.44,
-         "c": 34.38,
-         "f": 2.29,
-         "tags": []
-        },
-        {
-         "id": "7393",
-         "name": "Lucky Charms Cereal",
-         "serving": "1oz",
-         "cal": 108.0,
-         "p": 2.16,
-         "c": 22.81,
-         "f": 1.42,
-         "tags": []
-        },
-        {
-         "id": "7160",
-         "name": "Cinnamon Toast Crunch Cereal",
-         "serving": "1.5oz",
-         "cal": 187.0,
-         "p": 2.07,
-         "c": 34.13,
-         "f": 4.14,
-         "tags": []
-        },
-        {
-         "id": "7394",
-         "name": "Cocoa Puffs",
-         "serving": "1oz",
-         "cal": 109.0,
-         "p": 1.58,
-         "c": 23.6,
-         "f": 1.47,
-         "tags": []
-        },
-        {
-         "id": "7395",
-         "name": "Trix Cereal",
-         "serving": "1oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "7398",
-         "name": "Rice Chex Cereal",
-         "serving": "1oz",
-         "cal": 114.0,
-         "p": 2.12,
-         "c": 24.68,
-         "f": 0.71,
-         "tags": []
-        }
-       ]
-      },
       {
        "name": "DAILY SPECIALS",
        "items": [
