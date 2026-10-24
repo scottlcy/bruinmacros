@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "updated": "2026-10-24T00:41:54+00:00",
+ "updated": "2026-10-24T04:38:52+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1054,13 +1054,13 @@
          "f": 16.32
         },
         {
-         "id": "9043",
-         "name": "Curly Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 214.0,
-         "p": 2.66,
-         "c": 26.66,
-         "f": 10.66,
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
          "tags": []
         }
        ]
@@ -1109,16 +1109,6 @@
          "tags": []
         },
         {
-         "id": "6401",
-         "name": "Smoked Chicken w/ Alabama White Sauce",
-         "serving": "2.99oz",
-         "cal": 224.0,
-         "p": 12.48,
-         "c": 3.18,
-         "f": 17.63,
-         "tags": []
-        },
-        {
          "id": "8707",
          "name": "Seafood Jambalaya w/ Andouille",
          "serving": "6oz",
@@ -1126,6 +1116,26 @@
          "p": 10.15,
          "c": 6.39,
          "f": 8.14,
+         "tags": []
+        },
+        {
+         "id": "7187",
+         "name": "Mahi Mahi Seared Fish",
+         "serving": "2oz",
+         "cal": 55.0,
+         "p": 10.2,
+         "c": 0.05,
+         "f": 1.14,
+         "tags": []
+        },
+        {
+         "id": "9876",
+         "name": "BBQ Beef Chili",
+         "serving": "2.32oz",
+         "cal": 1590.0,
+         "p": 89.97,
+         "c": 91.11,
+         "f": 93.53,
          "tags": []
         }
        ]
@@ -1308,16 +1318,6 @@
          "p": 4.21,
          "c": 38.31,
          "f": 13.75,
-         "tags": []
-        },
-        {
-         "id": "4114",
-         "name": "Chocolate Cream Mousse",
-         "serving": "4.07oz",
-         "cal": 413.0,
-         "p": 3.66,
-         "c": 17.16,
-         "f": 33.06,
          "tags": []
         },
         {
