@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "updated": "2026-10-24T16:35:24+00:00",
+ "updated": "2026-10-24T19:29:25+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1420,16 +1420,6 @@
        "name": "Stone Fired",
        "items": [
         {
-         "id": "2519",
-         "name": "Chickpea & Oat Waffle",
-         "serving": "2.7oz",
-         "cal": 137.0,
-         "p": 4.42,
-         "c": 21.77,
-         "f": 3.74,
-         "tags": []
-        },
-        {
          "id": "3004",
          "name": "Waffle",
          "serving": "1.25oz",
@@ -1447,6 +1437,16 @@
          "p": 0.25,
          "c": 14.82,
          "f": 0,
+         "tags": []
+        },
+        {
+         "id": "993",
+         "name": "Oat & Whole Wheat Waffle",
+         "serving": "3.09oz",
+         "cal": 178.0,
+         "p": 6.7,
+         "c": 26.42,
+         "f": 5.14,
          "tags": []
         }
        ]
@@ -1936,15 +1936,14 @@
          "tags": []
         },
         {
-         "id": "5954",
-         "name": "Stone Oven Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "3642",
+         "name": "Lamb, Tomato, Onion & Jalapeno Flatbread",
+         "serving": "3.24oz",
+         "cal": 163.0,
+         "p": 7.1,
+         "c": 19.61,
+         "f": 6.15,
+         "tags": []
         }
        ]
       },
@@ -2062,13 +2061,13 @@
          "tags": []
         },
         {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
+         "id": "1392",
+         "name": "Lemon Poppy Bread",
+         "serving": "2.05oz",
+         "cal": 209.0,
+         "p": 2.99,
+         "c": 17.38,
+         "f": 13.94,
          "tags": []
         },
         {
@@ -2093,13 +2092,13 @@
          "nodata": true
         },
         {
-         "id": "3713",
-         "name": "Flaxsnax Breakfast Cookie w/ Pecans",
-         "serving": "1.14oz",
-         "cal": 157.0,
-         "p": 3.11,
-         "c": 8.58,
-         "f": 11.8,
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         },
         {
@@ -2113,13 +2112,13 @@
          "tags": []
         },
         {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
+         "id": "994",
+         "name": "Pear-Pineapple Compote",
+         "serving": "1.76oz",
+         "cal": 48.0,
+         "p": 0.3,
+         "c": 11.92,
+         "f": 0.06,
          "tags": []
         },
         {
@@ -2130,26 +2129,6 @@
          "p": 3.81,
          "c": 6.0,
          "f": 6.21,
-         "tags": []
-        },
-        {
-         "id": "2836",
-         "name": "Tangerine Marmalade",
-         "serving": "1.26oz",
-         "cal": 25.0,
-         "p": 0.36,
-         "c": 6.19,
-         "f": 0.14,
-         "tags": []
-        },
-        {
-         "id": "3280",
-         "name": "Cilantro Lime Marmalade",
-         "serving": "1.94oz",
-         "cal": 58.0,
-         "p": 0.21,
-         "c": 14.79,
-         "f": 0.09,
          "tags": []
         }
        ]
