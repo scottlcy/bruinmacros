@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "updated": "2026-10-24T09:33:12+00:00",
+ "updated": "2026-10-24T16:35:24+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -785,6 +785,34 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
@@ -840,16 +868,6 @@
          "tags": []
         },
         {
-         "id": "247",
-         "name": "Banana Bread Pudding",
-         "serving": "6.53oz",
-         "cal": 413.0,
-         "p": 8.01,
-         "c": 40.11,
-         "f": 23.96,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -870,6 +888,26 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "248",
+         "name": "Twinkie Cake",
+         "serving": "2.05oz",
+         "cal": 321.0,
+         "p": 2.89,
+         "c": 33.94,
+         "f": 20.31,
+         "tags": []
+        },
+        {
+         "id": "307",
+         "name": "Cherry Almond Crumble Pie",
+         "serving": "3.2oz",
+         "cal": 224.0,
+         "p": 3.41,
+         "c": 26.97,
+         "f": 11.2,
+         "tags": []
         }
        ]
       }
@@ -1392,16 +1430,6 @@
          "tags": []
         },
         {
-         "id": "2917",
-         "name": "Pomegranate & Date Compote",
-         "serving": "1.36oz",
-         "cal": 52.0,
-         "p": 0.2,
-         "c": 13.56,
-         "f": 0.09,
-         "tags": []
-        },
-        {
          "id": "3004",
          "name": "Waffle",
          "serving": "1.25oz",
@@ -1409,6 +1437,16 @@
          "p": 1.49,
          "c": 12.43,
          "f": 1.49,
+         "tags": []
+        },
+        {
+         "id": "3928",
+         "name": "Peach Vanilla Compote",
+         "serving": "2.06oz",
+         "cal": 56.0,
+         "p": 0.25,
+         "c": 14.82,
+         "f": 0,
          "tags": []
         }
        ]
@@ -1517,16 +1555,6 @@
          "tags": []
         },
         {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
-         "tags": []
-        },
-        {
          "id": "176",
          "name": "Whole Wheat Sourdough Bread",
          "serving": "2.49oz",
@@ -1568,16 +1596,6 @@
          "tags": []
         },
         {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
-         "tags": []
-        },
-        {
          "id": "2945",
          "name": "Peanut Butter",
          "serving": "1oz",
@@ -1588,13 +1606,23 @@
          "tags": []
         },
         {
-         "id": "2836",
-         "name": "Tangerine Marmalade",
-         "serving": "1.26oz",
-         "cal": 25.0,
-         "p": 0.36,
-         "c": 6.19,
-         "f": 0.14,
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
+         "tags": []
+        },
+        {
+         "id": "994",
+         "name": "Pear-Pineapple Compote",
+         "serving": "1.76oz",
+         "cal": 48.0,
+         "p": 0.3,
+         "c": 11.92,
+         "f": 0.06,
          "tags": []
         }
        ]
@@ -1898,16 +1926,6 @@
        "name": "Stone Fired",
        "items": [
         {
-         "id": "4236",
-         "name": "Spicy Beef & Eggplant Flatbread",
-         "serving": "2.81oz",
-         "cal": 152.0,
-         "p": 7.3,
-         "c": 17.27,
-         "f": 5.93,
-         "tags": []
-        },
-        {
          "id": "3153",
          "name": "Pear, Thyme, & Blue Cheese Pizza",
          "serving": "3.18oz",
@@ -1916,6 +1934,17 @@
          "c": 33.87,
          "f": 2.69,
          "tags": []
+        },
+        {
+         "id": "5954",
+         "name": "Stone Oven Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
