@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "updated": "2026-10-25T09:49:53+00:00",
+ "updated": "2026-10-25T17:03:42+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -388,6 +388,16 @@
          "c": 14.2,
          "f": 10.17,
          "tags": []
+        },
+        {
+         "id": "229",
+         "name": "Deep Dish Blackout Cake",
+         "serving": "3.42oz",
+         "cal": 282.0,
+         "p": 4.9,
+         "c": 37.65,
+         "f": 18.21,
+         "tags": []
         }
        ]
       },
@@ -701,13 +711,13 @@
          "tags": []
         },
         {
-         "id": "2706",
-         "name": "Grilled Tri-color Carrots w/ Peruvian Salsa Verde",
-         "serving": "3.32oz",
-         "cal": 93,
-         "p": 0.92,
-         "c": 7.63,
-         "f": 6.33
+         "id": "7338",
+         "name": "Roasted Fingerling Potato",
+         "serving": "1.04oz",
+         "cal": 23,
+         "p": 0.49,
+         "c": 4.58,
+         "f": 0.26
         }
        ]
       },
@@ -783,6 +793,34 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
@@ -835,15 +873,6 @@
          "f": 3.21
         },
         {
-         "id": "4849",
-         "name": "Pumpkin Bake",
-         "serving": "5.05oz",
-         "cal": 316,
-         "p": 5.27,
-         "c": 41.34,
-         "f": 15.31
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -864,6 +893,35 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "229",
+         "name": "Deep Dish Blackout Cake",
+         "serving": "3.42oz",
+         "cal": 282.0,
+         "p": 4.9,
+         "c": 37.65,
+         "f": 18.21,
+         "tags": []
+        },
+        {
+         "id": "285",
+         "name": "Chocolate Cherry Crisp",
+         "serving": "4.8oz",
+         "cal": 222.0,
+         "p": 2.68,
+         "c": 40.16,
+         "f": 7.77,
+         "tags": []
+        },
+        {
+         "id": "4906",
+         "name": "Magic Bar",
+         "serving": "1.48oz",
+         "cal": 190,
+         "p": 2.89,
+         "c": 23.24,
+         "f": 9.63
         }
        ]
       }
@@ -1400,16 +1458,6 @@
          "tags": []
         },
         {
-         "id": "3259",
-         "name": "Apple, Pear & Cranberry Compote",
-         "serving": "1.73oz",
-         "cal": 33.0,
-         "p": 0.21,
-         "c": 7.6,
-         "f": 0.28,
-         "tags": []
-        },
-        {
          "id": "3004",
          "name": "Waffle",
          "serving": "1.25oz",
@@ -1417,6 +1465,16 @@
          "p": 1.49,
          "c": 12.43,
          "f": 1.49,
+         "tags": []
+        },
+        {
+         "id": "2179",
+         "name": "Pineapple Compote",
+         "serving": "1.02oz",
+         "cal": 35.0,
+         "p": 0.12,
+         "c": 9.09,
+         "f": 0.03,
          "tags": []
         }
        ]
@@ -1435,16 +1493,6 @@
          "tags": []
         },
         {
-         "id": "3774",
-         "name": "Carrot Marmalade",
-         "serving": "1.56oz",
-         "cal": 23.0,
-         "p": 0.36,
-         "c": 5.4,
-         "f": 0.08,
-         "tags": []
-        },
-        {
          "id": "2995",
          "name": "Vegan Pancake",
          "serving": "3.65oz",
@@ -1452,6 +1500,16 @@
          "p": 5.64,
          "c": 28.08,
          "f": 1.72,
+         "tags": []
+        },
+        {
+         "id": "3450",
+         "name": "Smoky Hibiscus Compote",
+         "serving": "1.28oz",
+         "cal": 47.0,
+         "p": 0.09,
+         "c": 12.05,
+         "f": 0.04,
          "tags": []
         }
        ]
@@ -1525,16 +1583,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -1565,17 +1613,6 @@
          "tags": []
         },
         {
-         "id": "3885",
-         "name": "Pumpkin Walnut Bread",
-         "serving": "45.8oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
          "id": "2256",
          "name": "Almond Butter",
          "serving": "1.08oz",
@@ -1583,16 +1620,6 @@
          "p": 5.48,
          "c": 5.49,
          "f": 17.92,
-         "tags": []
-        },
-        {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
          "tags": []
         },
         {
@@ -1613,6 +1640,36 @@
          "p": 0.3,
          "c": 11.92,
          "f": 0.06,
+         "tags": []
+        },
+        {
+         "id": "7682",
+         "name": "Carrot Walnut Zucchini Quickbread",
+         "serving": "2.42oz",
+         "cal": 238.0,
+         "p": 4.28,
+         "c": 28.57,
+         "f": 11.84,
+         "tags": []
+        },
+        {
+         "id": "2917",
+         "name": "Pomegranate & Date Compote",
+         "serving": "1.36oz",
+         "cal": 52.0,
+         "p": 0.2,
+         "c": 13.56,
+         "f": 0.09,
+         "tags": []
+        },
+        {
+         "id": "5484",
+         "name": "Vegan Cranberry Orange Quickbread",
+         "serving": "3.38oz",
+         "cal": 321.0,
+         "p": 3.92,
+         "c": 44.34,
+         "f": 14.01,
          "tags": []
         }
        ]
