@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "updated": "2026-10-25T19:36:40+00:00",
+ "updated": "2026-10-25T22:33:02+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1983,16 +1983,6 @@
        "name": "Stone Fired",
        "items": [
         {
-         "id": "3642",
-         "name": "Lamb, Tomato, Onion & Jalapeno Flatbread",
-         "serving": "3.24oz",
-         "cal": 163.0,
-         "p": 7.1,
-         "c": 19.61,
-         "f": 6.15,
-         "tags": []
-        },
-        {
          "id": "961",
          "name": "Marinated Roma Tomato Pizza",
          "serving": "2.94oz",
@@ -2001,6 +1991,17 @@
          "c": 21.07,
          "f": 5.16,
          "tags": []
+        },
+        {
+         "id": "5954",
+         "name": "Stone Oven Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
