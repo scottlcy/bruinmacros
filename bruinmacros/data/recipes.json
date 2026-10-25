@@ -7538,7 +7538,7 @@
   "p": 1.4,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-23"
+  "seen": "2026-10-24"
  },
  "6921": {
   "name": "Fried Baja Fish Taco",
@@ -10606,7 +10606,7 @@
   "p": 4.9,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-10-22"
+  "seen": "2026-10-24"
  },
  "2297": {
   "name": "Cinnamon Polenta Pancake w/ Apple Cranberry Compote",
@@ -11853,7 +11853,7 @@
   "p": 0.71,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-15"
+  "seen": "2026-10-24"
  },
  "2012": {
   "name": "Egg, Mushroom & Kale on W.W. English Muffin",
@@ -18011,7 +18011,7 @@
   "p": 16.84,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-22"
+  "seen": "2026-10-24"
  },
  "4146": {
   "name": "Korean Style Fried Chicken Wings",
@@ -23670,6 +23670,28 @@
   "p": 0,
   "tags": [],
   "nodata": true,
+  "fetched": "2026-10-24",
+  "seen": "2026-10-24"
+ },
+ "1187": {
+  "name": "Chile Spiced Tofu",
+  "serving": "1.81oz",
+  "cal": 60.0,
+  "f": 3.52,
+  "c": 3.05,
+  "p": 5.3,
+  "tags": [],
+  "fetched": "2026-10-24",
+  "seen": "2026-10-24"
+ },
+ "1298": {
+  "name": "Steamed Rice",
+  "serving": "2.03oz",
+  "cal": 245.0,
+  "f": 0.67,
+  "c": 52.79,
+  "p": 4.9,
+  "tags": [],
   "fetched": "2026-10-24",
   "seen": "2026-10-24"
  }

@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "updated": "2026-10-25T01:09:38+00:00",
+ "updated": "2026-10-25T04:43:19+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1080,23 +1080,13 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "2385",
-         "name": "Honey Lime Chicken Thighs",
-         "serving": "3.26oz",
-         "cal": 125.0,
-         "p": 15.56,
-         "c": 5.35,
-         "f": 3.83,
-         "tags": []
-        },
-        {
-         "id": "7330",
-         "name": "Cajun Red Beans & Rice",
-         "serving": "6.04oz",
-         "cal": 450.0,
-         "p": 9.65,
-         "c": 87.12,
-         "f": 5.77,
+         "id": "1942",
+         "name": "Beef Fajitas",
+         "serving": "4.99oz",
+         "cal": 138.0,
+         "p": 16.84,
+         "c": 4.99,
+         "f": 5.78,
          "tags": []
         },
         {
@@ -1120,13 +1110,23 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26
+        },
+        {
+         "id": "1298",
+         "name": "Steamed Rice",
+         "serving": "2.03oz",
+         "cal": 245.0,
+         "p": 4.9,
+         "c": 52.79,
+         "f": 0.67,
+         "tags": []
         }
        ]
       },
@@ -1144,13 +1144,13 @@
          "tags": []
         },
         {
-         "id": "7336",
-         "name": "Roasted Cauliflower",
-         "serving": "3.37oz",
-         "cal": 54.0,
-         "p": 1.82,
-         "c": 4.99,
-         "f": 3.4,
+         "id": "6904",
+         "name": "Garlicky Green Beans",
+         "serving": "2.22oz",
+         "cal": 29.0,
+         "p": 1.4,
+         "c": 5.85,
+         "f": 0.38,
          "tags": []
         },
         {
@@ -1280,32 +1280,13 @@
        "name": "The Sweet Stop",
        "items": [
         {
-         "id": "283",
-         "name": "Red Velvet Cupcake",
-         "serving": "3.83oz",
-         "cal": 553.0,
-         "p": 5.82,
-         "c": 50.66,
-         "f": 34.92,
-         "tags": []
-        },
-        {
-         "id": "300",
-         "name": "Double Chocolate Cookie",
-         "serving": "1.3oz",
-         "cal": 167,
-         "p": 2.03,
-         "c": 22.15,
-         "f": 8.51
-        },
-        {
-         "id": "244",
-         "name": "Banana Cream Pie",
-         "serving": "4.04oz",
-         "cal": 271.0,
-         "p": 3.19,
-         "c": 31.59,
-         "f": 14.37,
+         "id": "229",
+         "name": "Deep Dish Blackout Cake",
+         "serving": "3.42oz",
+         "cal": 282.0,
+         "p": 4.9,
+         "c": 37.65,
+         "f": 18.21,
          "tags": []
         },
         {
@@ -1325,16 +1306,6 @@
          "p": 2.68,
          "c": 40.16,
          "f": 7.77,
-         "tags": []
-        },
-        {
-         "id": "247",
-         "name": "Banana Bread Pudding",
-         "serving": "6.53oz",
-         "cal": 413.0,
-         "p": 8.01,
-         "c": 40.11,
-         "f": 23.96,
          "tags": []
         },
         {
@@ -2586,23 +2557,23 @@
          "tags": []
         },
         {
-         "id": "2697",
-         "name": "Grilled Portobello Mushroom",
-         "serving": "1.93oz",
-         "cal": 33.0,
-         "p": 1.08,
-         "c": 6.63,
-         "f": 0.15,
+         "id": "1187",
+         "name": "Chile Spiced Tofu",
+         "serving": "1.81oz",
+         "cal": 60.0,
+         "p": 5.3,
+         "c": 3.05,
+         "f": 3.52,
          "tags": []
         },
         {
-         "id": "2280",
-         "name": "Baked Red Rose Potato",
-         "serving": "2.51oz",
-         "cal": 70.0,
-         "p": 1.3,
-         "c": 10.94,
-         "f": 2.37,
+         "id": "1987",
+         "name": "Roasted Plantains",
+         "serving": "2oz",
+         "cal": 98.0,
+         "p": 0.71,
+         "c": 19.28,
+         "f": 1.9,
          "tags": []
         }
        ]
