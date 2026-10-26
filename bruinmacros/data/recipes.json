@@ -7516,7 +7516,7 @@
   "p": 2.21,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-22"
+  "seen": "2026-10-25"
  },
  "687": {
   "name": "Roast Beef Sandwich",
@@ -14923,7 +14923,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-03",
-  "seen": "2026-10-17"
+  "seen": "2026-10-25"
  },
  "7580": {
   "name": "Halal Chipotle BBQ Chicken Thigh",
@@ -23384,7 +23384,7 @@
   "p": 3.56,
   "tags": [],
   "fetched": "2026-10-22",
-  "seen": "2026-10-23"
+  "seen": "2026-10-25"
  },
  "2426": {
   "name": "Roasted Cauliflower & Veggie Wrap",
@@ -23725,6 +23725,39 @@
   "f": 23.86,
   "c": 59.55,
   "p": 7.05,
+  "tags": [],
+  "fetched": "2026-10-25",
+  "seen": "2026-10-25"
+ },
+ "6625": {
+  "name": "Herbs de Provence Grilled Tofu",
+  "serving": "3.7oz",
+  "cal": 121.0,
+  "f": 7.14,
+  "c": 5.78,
+  "p": 10.21,
+  "tags": [],
+  "fetched": "2026-10-25",
+  "seen": "2026-10-25"
+ },
+ "7309": {
+  "name": "Lemon Pepper Chicken",
+  "serving": "3.54oz",
+  "cal": 266.0,
+  "f": 21.86,
+  "c": 0.28,
+  "p": 15.85,
+  "tags": [],
+  "fetched": "2026-10-25",
+  "seen": "2026-10-25"
+ },
+ "8877": {
+  "name": "Collared Greens",
+  "serving": "4.21oz",
+  "cal": 38.0,
+  "f": 1.31,
+  "c": 5.48,
+  "p": 2.15,
   "tags": [],
   "fetched": "2026-10-25",
   "seen": "2026-10-25"

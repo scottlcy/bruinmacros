@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "updated": "2026-10-26T01:09:37+00:00",
+ "updated": "2026-10-26T04:49:26+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -975,16 +975,6 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "2052",
-         "name": "Carne Asada Fries",
-         "serving": "3.81oz",
-         "cal": 205.0,
-         "p": 15.29,
-         "c": 5.55,
-         "f": 13.0,
-         "tags": []
-        },
-        {
          "id": "6188",
          "name": "Beyond Chicken Tenders",
          "serving": "4oz",
@@ -1003,6 +993,17 @@
          "c": 26.98,
          "f": 4.04,
          "tags": []
+        },
+        {
+         "id": "6245",
+         "name": "Kitchen Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1097,30 +1098,20 @@
          "f": 16.32
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
       {
        "name": "Harvest Kitchen",
        "items": [
-        {
-         "id": "6909",
-         "name": "Cilantro Jalapeno Chicken Thigh",
-         "serving": "3.05oz",
-         "cal": 112.0,
-         "p": 15.06,
-         "c": 0.96,
-         "f": 4.39,
-         "tags": []
-        },
         {
          "id": "7341",
          "name": "Steamed Rice",
@@ -1130,15 +1121,6 @@
          "c": 68.62,
          "f": 0.87,
          "tags": []
-        },
-        {
-         "id": "7435",
-         "name": "De la Olla Beans",
-         "serving": "2oz",
-         "cal": 192,
-         "p": 11.04,
-         "c": 32.43,
-         "f": 1.89
         },
         {
          "id": "1976",
@@ -1161,13 +1143,23 @@
          "tags": []
         },
         {
-         "id": "7334",
-         "name": "Garbanzo Picadillo",
-         "serving": "2.99oz",
-         "cal": 71.0,
-         "p": 2.63,
-         "c": 10.67,
-         "f": 2.05,
+         "id": "6855",
+         "name": "Corn & Lima Bean Succotash",
+         "serving": "2.09oz",
+         "cal": 63.0,
+         "p": 2.21,
+         "c": 10.24,
+         "f": 1.41,
+         "tags": []
+        },
+        {
+         "id": "7309",
+         "name": "Lemon Pepper Chicken",
+         "serving": "3.54oz",
+         "cal": 266.0,
+         "p": 15.85,
+         "c": 0.28,
+         "f": 21.86,
          "tags": []
         }
        ]
@@ -1332,15 +1324,6 @@
          "f": 28.36
         },
         {
-         "id": "242",
-         "name": "Chocolate Silk Pie",
-         "serving": "2.48oz",
-         "cal": 224,
-         "p": 2.91,
-         "c": 20.06,
-         "f": 17.39
-        },
-        {
          "id": "297",
          "name": "Red Velvet Brownie",
          "serving": "2.49oz",
@@ -1397,16 +1380,6 @@
          "p": 2.68,
          "c": 40.16,
          "f": 7.77,
-         "tags": []
-        },
-        {
-         "id": "369",
-         "name": "Classic Chocolate Chip Cookie",
-         "serving": "4.1oz",
-         "cal": 526.0,
-         "p": 7.05,
-         "c": 59.55,
-         "f": 23.86,
          "tags": []
         }
        ]
@@ -3145,6 +3118,16 @@
          "tags": []
         },
         {
+         "id": "8877",
+         "name": "Collared Greens",
+         "serving": "4.21oz",
+         "cal": 38.0,
+         "p": 2.15,
+         "c": 5.48,
+         "f": 1.31,
+         "tags": []
+        },
+        {
          "id": "1177",
          "name": "Eggplant, Red Pepper &  Mozzarella Sandwich",
          "serving": "3.71oz",
@@ -3171,15 +3154,6 @@
          "p": 0.95,
          "c": 7.23,
          "f": 5.83
-        },
-        {
-         "id": "3586",
-         "name": "Pan Roasted Brussels Sprouts",
-         "serving": "1.45oz",
-         "cal": 28,
-         "p": 1.21,
-         "c": 3.89,
-         "f": 1.24
         },
         {
          "id": "203",
@@ -3345,33 +3319,23 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "2117",
-         "name": "Turkish Wings",
-         "serving": "3.02oz",
-         "cal": 180.0,
-         "p": 12.61,
-         "c": 4.52,
-         "f": 12.0,
+         "id": "6625",
+         "name": "Herbs de Provence Grilled Tofu",
+         "serving": "3.7oz",
+         "cal": 121.0,
+         "p": 10.21,
+         "c": 5.78,
+         "f": 7.14,
          "tags": []
         },
         {
-         "id": "6051",
-         "name": "Pistachio pesto pasta",
-         "serving": "6.19oz",
-         "cal": 442.0,
-         "p": 17.56,
-         "c": 83.63,
-         "f": 25.64,
-         "tags": []
-        },
-        {
-         "id": "2758",
-         "name": "Braised Spicy Lentils w/ Potatoes & Tomatoes",
-         "serving": "4.85oz",
-         "cal": 128.0,
-         "p": 6.02,
-         "c": 20.43,
-         "f": 2.93,
+         "id": "2317",
+         "name": "Farro w/ Roasted Red Peppers",
+         "serving": "2.26oz",
+         "cal": 92.0,
+         "p": 3.56,
+         "c": 17.2,
+         "f": 1.16,
          "tags": []
         },
         {
