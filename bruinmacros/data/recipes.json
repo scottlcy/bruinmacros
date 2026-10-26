@@ -318,7 +318,7 @@
   "f": 5.2,
   "c": 3.07,
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "5432": {
   "name": "Chocolate Ganache Cake",
@@ -368,7 +368,7 @@
   "f": 3.21,
   "c": 29.72,
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "4849": {
   "name": "Pumpkin Bake",
@@ -632,7 +632,7 @@
   "c": 0,
   "nodata": true,
   "fetched": "2026-09-27",
-  "seen": "2026-10-23"
+  "seen": "2026-10-26"
  },
  "6379": {
   "name": "Bulgur Wheat",
@@ -1982,7 +1982,7 @@
   "p": 3.53,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "3370": {
   "name": "Key Lime Tart",
@@ -5165,7 +5165,7 @@
   "p": 0.3,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "10056": {
   "name": "Turkey, Sausage, & Egg English Muffin Sandwich",
@@ -5611,7 +5611,7 @@
   "p": 16.46,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-09-30"
+  "seen": "2026-10-26"
  },
  "1923": {
   "name": "Kabocha & Coconut Milk Stew",
@@ -10060,7 +10060,7 @@
   "p": 2.78,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "10501": {
   "name": "Speical K Berry",
@@ -15771,7 +15771,7 @@
   "p": 7.87,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-11"
+  "seen": "2026-10-26"
  },
  "287": {
   "name": "Cranberry Apple Crisp",
@@ -15859,7 +15859,7 @@
   "p": 0.25,
   "tags": [],
   "fetched": "2026-10-05",
-  "seen": "2026-10-24"
+  "seen": "2026-10-26"
  },
  "4014": {
   "name": "Apple Cobbler",
@@ -23131,7 +23131,7 @@
   "p": 10.71,
   "tags": [],
   "fetched": "2026-10-21",
-  "seen": "2026-10-22"
+  "seen": "2026-10-26"
  },
  "3204": {
   "name": "Mojo-Marinated Flank Steak",
@@ -23760,7 +23760,7 @@
   "p": 2.15,
   "tags": [],
   "fetched": "2026-10-25",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "3568": {
   "name": "Spicy Pork & Chive Udon",
@@ -23780,6 +23780,39 @@
   "f": 62.86,
   "c": 102.96,
   "p": 19.02,
+  "tags": [],
+  "fetched": "2026-10-26",
+  "seen": "2026-10-26"
+ },
+ "2524": {
+  "name": "Black Quinoa",
+  "serving": "2.34oz",
+  "cal": 97.0,
+  "f": 1.54,
+  "c": 17.15,
+  "p": 3.67,
+  "tags": [],
+  "fetched": "2026-10-26",
+  "seen": "2026-10-26"
+ },
+ "5480": {
+  "name": "Vegan Banana Quickbread",
+  "serving": "2.34oz",
+  "cal": 221.0,
+  "f": 8.19,
+  "c": 33.35,
+  "p": 2.98,
+  "tags": [],
+  "fetched": "2026-10-26",
+  "seen": "2026-10-26"
+ },
+ "9349": {
+  "name": "Sonoma Chicken Walnut Salad",
+  "serving": "3.28oz",
+  "cal": 247.0,
+  "f": 20.19,
+  "c": 5.28,
+  "p": 10.0,
   "tags": [],
   "fetched": "2026-10-26",
   "seen": "2026-10-26"
