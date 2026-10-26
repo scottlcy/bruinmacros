@@ -378,7 +378,7 @@
   "f": 15.31,
   "c": 41.34,
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "4906": {
   "name": "Magic Bar",
@@ -1470,7 +1470,7 @@
   "p": 0.12,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "2193": {
   "name": "Green Lentils",
@@ -1750,7 +1750,7 @@
   "p": 0.2,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "2922": {
   "name": "Espresso Decaf",
@@ -10138,7 +10138,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-28",
-  "seen": "2026-10-23"
+  "seen": "2026-10-26"
  },
  "6189": {
   "name": "Soup Special",
@@ -10229,7 +10229,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-29",
-  "seen": "2026-10-19"
+  "seen": "2026-10-26"
  },
  "6273": {
   "name": "Wilted Collard Greens",
@@ -13894,7 +13894,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-01",
-  "seen": "2026-10-21"
+  "seen": "2026-10-26"
  },
  "812": {
   "name": "Mexican Street Corn Salad",
@@ -14967,7 +14967,7 @@
   "p": 9.94,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-10"
+  "seen": "2026-10-26"
  },
  "7682": {
   "name": "Carrot Walnut Zucchini Quickbread",
@@ -17989,7 +17989,7 @@
   "p": 3.1,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "10202": {
   "name": "Braised Pork Tenderloin",

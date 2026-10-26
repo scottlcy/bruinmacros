@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "updated": "2026-10-26T19:19:02+00:00",
+ "updated": "2026-10-26T23:52:55+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1184,6 +1184,16 @@
          "p": 1.85,
          "c": 10.11,
          "f": 9.26
+        },
+        {
+         "id": "7302",
+         "name": "Huli Huli Roasted Chicken",
+         "serving": "2.52oz",
+         "cal": 137.0,
+         "p": 10.52,
+         "c": 5.19,
+         "f": 8.11,
+         "tags": []
         }
        ]
       },
@@ -1200,16 +1210,6 @@
          "f": 6.36
         },
         {
-         "id": "3285",
-         "name": "Roasted Cauliflower w/ Chile & Lime",
-         "serving": "2.67oz",
-         "cal": 40.0,
-         "p": 1.55,
-         "c": 4.85,
-         "f": 2.0,
-         "tags": []
-        },
-        {
          "id": "6903",
          "name": "Pan Roasted Mushrooms with Onions",
          "serving": "2.8oz",
@@ -1218,6 +1218,15 @@
          "c": 4.4,
          "f": 1.51,
          "tags": []
+        },
+        {
+         "id": "7338",
+         "name": "Roasted Fingerling Potato",
+         "serving": "1.04oz",
+         "cal": 23,
+         "p": 0.49,
+         "c": 4.58,
+         "f": 0.26
         }
        ]
       },
@@ -1293,6 +1302,45 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
         }
        ]
       },
@@ -1350,16 +1398,6 @@
          "tags": []
         },
         {
-         "id": "9958",
-         "name": "Blueberry Cobbler",
-         "serving": "5oz",
-         "cal": 379.0,
-         "p": 5.78,
-         "c": 58.89,
-         "f": 13.55,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -1380,6 +1418,15 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4849",
+         "name": "Pumpkin Bake",
+         "serving": "5.05oz",
+         "cal": 316,
+         "p": 5.27,
+         "c": 41.34,
+         "f": 15.31
         }
        ]
       }
@@ -2615,16 +2662,6 @@
          "tags": []
         },
         {
-         "id": "2327",
-         "name": "Quinoa Pilaf",
-         "serving": "1.67oz",
-         "cal": 66.0,
-         "p": 2.28,
-         "c": 10.9,
-         "f": 1.44,
-         "tags": []
-        },
-        {
          "id": "2274",
          "name": "Pan Roasted Mushrooms w/ Onions",
          "serving": "2.81oz",
@@ -2643,6 +2680,17 @@
          "c": 4.1,
          "f": 1.15,
          "tags": []
+        },
+        {
+         "id": "5953",
+         "name": "Farm Stand Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -2795,6 +2843,16 @@
          "tags": []
         },
         {
+         "id": "5473",
+         "name": "Sliced Raisin Bread",
+         "serving": "1.46oz",
+         "cal": 119.0,
+         "p": 2.69,
+         "c": 22.44,
+         "f": 2.2,
+         "tags": []
+        },
+        {
          "id": "5604",
          "name": "Boston Brown Quickbread",
          "serving": "2.58oz",
@@ -2845,16 +2903,6 @@
          "tags": []
         },
         {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
-         "tags": []
-        },
-        {
          "id": "2945",
          "name": "Peanut Butter",
          "serving": "1oz",
@@ -2865,23 +2913,23 @@
          "tags": []
         },
         {
-         "id": "2728",
-         "name": "Fig Compote",
-         "serving": "1.27oz",
-         "cal": 71.0,
-         "p": 0.92,
-         "c": 17.4,
-         "f": 0.26,
+         "id": "2917",
+         "name": "Pomegranate & Date Compote",
+         "serving": "1.36oz",
+         "cal": 52.0,
+         "p": 0.2,
+         "c": 13.56,
+         "f": 0.09,
          "tags": []
         },
         {
-         "id": "4614",
-         "name": "Butternut Squash Confit",
-         "serving": "2.08oz",
-         "cal": 53.0,
-         "p": 0.52,
-         "c": 13.76,
-         "f": 0.09,
+         "id": "2179",
+         "name": "Pineapple Compote",
+         "serving": "1.02oz",
+         "cal": 35.0,
+         "p": 0.12,
+         "c": 9.09,
+         "f": 0.03,
          "tags": []
         }
        ]
@@ -3221,14 +3269,15 @@
        "name": "Psistaris",
        "items": [
         {
-         "id": "1037",
-         "name": "Prosciutto Caprese Lavash Sandwich",
-         "serving": "4.9oz",
-         "cal": 310.0,
-         "p": 13.92,
-         "c": 14.38,
-         "f": 21.25,
-         "tags": []
+         "id": "5961",
+         "name": "Psistaria Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "2273",
@@ -3426,24 +3475,15 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "8477",
+         "id": "5962",
          "name": "Mezze Special",
-         "serving": "",
+         "serving": "4oz",
          "cal": 0,
          "p": 0,
          "c": 0,
          "f": 0,
+         "tags": [],
          "nodata": true
-        },
-        {
-         "id": "2694",
-         "name": "Chickpeas Fritters",
-         "serving": "2.14oz",
-         "cal": 209.0,
-         "p": 10.71,
-         "c": 33.38,
-         "f": 4.24,
-         "tags": []
         },
         {
          "id": "1639",
@@ -3788,16 +3828,6 @@
          "tags": []
         },
         {
-         "id": "3261",
-         "name": "Flageolet Bean Ragout",
-         "serving": "2.92oz",
-         "cal": 107.0,
-         "p": 6.47,
-         "c": 19.67,
-         "f": 0.84,
-         "tags": []
-        },
-        {
          "id": "1492",
          "name": "Italian Style Broccoli & Cauliflower",
          "serving": "3.02oz",
@@ -3964,6 +3994,37 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "2719",
+         "name": "French Green Lentils",
+         "serving": "2.18oz",
+         "cal": 219.0,
+         "p": 11.54,
+         "c": 30.55,
+         "f": 5.94,
+         "tags": []
+        },
+        {
+         "id": "968",
+         "name": "Bulgur Wheat",
+         "serving": "2.03oz",
+         "cal": 81.0,
+         "p": 3.1,
+         "c": 15.68,
+         "f": 0.44,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -4237,24 +4298,6 @@
          "p": 0.4,
          "c": 4.49,
          "f": 6.76
-        },
-        {
-         "id": "5077",
-         "name": "Moroccan Couscous Salad",
-         "serving": "2.02oz",
-         "cal": 127,
-         "p": 2.88,
-         "c": 16.76,
-         "f": 6.01
-        },
-        {
-         "id": "10383",
-         "name": "Bean Salad w/ Sundried Tomato",
-         "serving": "2oz",
-         "cal": 168,
-         "p": 4.26,
-         "c": 17.17,
-         "f": 8.76
         }
        ]
       },
