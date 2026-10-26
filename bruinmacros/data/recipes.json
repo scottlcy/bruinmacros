@@ -298,7 +298,7 @@
   "f": 1.25,
   "c": 2.87,
   "fetched": "2026-09-27",
-  "seen": "2026-10-24"
+  "seen": "2026-10-25"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -600,7 +600,7 @@
   "f": 33.02,
   "c": 16.21,
   "fetched": "2026-09-27",
-  "seen": "2026-10-23"
+  "seen": "2026-10-25"
  },
  "10085": {
   "name": "Pumpkin Chai Tiramisu Cake",
@@ -610,7 +610,7 @@
   "f": 3.55,
   "c": 9.28,
   "fetched": "2026-09-27",
-  "seen": "2026-10-23"
+  "seen": "2026-10-25"
  },
  "7680": {
   "name": "Chicken Turkish Borek",
@@ -2127,7 +2127,7 @@
   "p": 3.11,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-24"
+  "seen": "2026-10-25"
  },
  "3716": {
   "name": "BBQ Chicken Salad",
@@ -9796,7 +9796,7 @@
   "p": 2.63,
   "tags": [],
   "fetched": "2026-09-28",
-  "seen": "2026-10-24"
+  "seen": "2026-10-25"
  },
  "7609": {
   "name": "Green Onion Pancake",
@@ -12018,7 +12018,7 @@
   "p": 6.02,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-23"
+  "seen": "2026-10-25"
  },
  "2855": {
   "name": "Lemon Dill Tofu, Bulgur Wheat, & Cucumber Salad Bowl",
@@ -14956,7 +14956,7 @@
   "p": 0.92,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-17"
+  "seen": "2026-10-25"
  },
  "7086": {
   "name": "Sonoma Walnut Chicken Salad",
@@ -17439,7 +17439,7 @@
   "p": 12.61,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-23"
+  "seen": "2026-10-25"
  },
  "2143": {
   "name": "Fusilli w/ Peppers & Onions",
@@ -23219,7 +23219,7 @@
   "p": 17.56,
   "tags": [],
   "fetched": "2026-10-21",
-  "seen": "2026-10-22"
+  "seen": "2026-10-25"
  },
  "6382": {
   "name": "Shrimp, Spinach, & Feta Pita",
@@ -23714,6 +23714,17 @@
   "f": 14.19,
   "c": 83.44,
   "p": 3.47,
+  "tags": [],
+  "fetched": "2026-10-25",
+  "seen": "2026-10-25"
+ },
+ "369": {
+  "name": "Classic Chocolate Chip Cookie",
+  "serving": "4.1oz",
+  "cal": 526.0,
+  "f": 23.86,
+  "c": 59.55,
+  "p": 7.05,
   "tags": [],
   "fetched": "2026-10-25",
   "seen": "2026-10-25"
