@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "updated": "2026-10-26T23:53:19+00:00",
+ "updated": "2026-10-27T05:08:10+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -4268,16 +4268,6 @@
          "tags": []
         },
         {
-         "id": "5927",
-         "name": "Kimchi Fried Rice",
-         "serving": "4.84oz",
-         "cal": 225.0,
-         "p": 9.16,
-         "c": 23.69,
-         "f": 9.76,
-         "tags": []
-        },
-        {
          "id": "6651",
          "name": "Fish Cake",
          "serving": "6.08oz",
@@ -4295,6 +4285,16 @@
          "p": 4.66,
          "c": 15.31,
          "f": 6.53,
+         "tags": []
+        },
+        {
+         "id": "7743",
+         "name": "Sticky Rice",
+         "serving": "6oz",
+         "cal": 647.0,
+         "p": 13.29,
+         "c": 139.94,
+         "f": 1.6,
          "tags": []
         }
        ]

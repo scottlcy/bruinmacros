@@ -328,7 +328,7 @@
   "f": 28.36,
   "c": 42.61,
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "309": {
   "name": "Snickerdoodle Cookies",
@@ -358,7 +358,7 @@
   "f": 13.27,
   "c": 36.32,
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "288": {
   "name": "Mixed Berry Crisp",
@@ -1459,7 +1459,7 @@
   "p": 1.75,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "2179": {
   "name": "Pineapple Compote",
@@ -11322,7 +11322,7 @@
   "p": 5.81,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-10-21"
+  "seen": "2026-10-26"
  },
  "7330": {
   "name": "Cajun Red Beans & Rice",
@@ -14923,7 +14923,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-03",
-  "seen": "2026-10-25"
+  "seen": "2026-10-26"
  },
  "7580": {
   "name": "Halal Chipotle BBQ Chicken Thigh",
@@ -23813,6 +23813,17 @@
   "f": 20.19,
   "c": 5.28,
   "p": 10.0,
+  "tags": [],
+  "fetched": "2026-10-26",
+  "seen": "2026-10-26"
+ },
+ "1858": {
+  "name": "Izmir Kofte (Turkish Lamb Meatball)",
+  "serving": "2oz",
+  "cal": 114.0,
+  "f": 7.97,
+  "c": 4.11,
+  "p": 5.91,
   "tags": [],
   "fetched": "2026-10-26",
   "seen": "2026-10-26"

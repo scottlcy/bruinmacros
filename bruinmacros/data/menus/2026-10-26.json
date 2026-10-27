@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "updated": "2026-10-26T23:52:55+00:00",
+ "updated": "2026-10-27T05:07:43+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -988,16 +988,6 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "7187",
-         "name": "Mahi Mahi Seared Fish",
-         "serving": "2oz",
-         "cal": 55.0,
-         "p": 10.2,
-         "c": 0.05,
-         "f": 1.14,
-         "tags": []
-        },
-        {
          "id": "6647",
          "name": "Spicy Pineapple Salsa",
          "serving": "1.15oz",
@@ -1026,6 +1016,17 @@
          "c": 5.15,
          "f": 5.42,
          "tags": []
+        },
+        {
+         "id": "6245",
+         "name": "Kitchen Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1157,26 +1158,6 @@
          "f": 2.66
         },
         {
-         "id": "2452",
-         "name": "Spicy Lentil",
-         "serving": "2.37oz",
-         "cal": 102.0,
-         "p": 6.14,
-         "c": 16.28,
-         "f": 1.54,
-         "tags": []
-        },
-        {
-         "id": "124",
-         "name": "Chicken Noodle Soup",
-         "serving": "6.01oz",
-         "cal": 178.0,
-         "p": 8.82,
-         "c": 27.04,
-         "f": 4.29,
-         "tags": []
-        },
-        {
          "id": "152",
          "name": "Creamy Tomato Basil Soup",
          "serving": "6.05oz",
@@ -1186,13 +1167,23 @@
          "f": 9.26
         },
         {
-         "id": "7302",
-         "name": "Huli Huli Roasted Chicken",
-         "serving": "2.52oz",
-         "cal": 137.0,
-         "p": 10.52,
-         "c": 5.19,
-         "f": 8.11,
+         "id": "6914",
+         "name": "Spicy Braised Lentils with Potato",
+         "serving": "4.85oz",
+         "cal": 122.0,
+         "p": 5.81,
+         "c": 18.95,
+         "f": 2.9,
+         "tags": []
+        },
+        {
+         "id": "1976",
+         "name": "Chicken Tortilla Soup",
+         "serving": "6.05oz",
+         "cal": 181.0,
+         "p": 9.39,
+         "c": 25.64,
+         "f": 4.32,
          "tags": []
         }
        ]
@@ -1358,26 +1349,6 @@
          "tags": []
         },
         {
-         "id": "4839",
-         "name": "White Chocolate Chip Cookie w/ Cranberries",
-         "serving": "1.29oz",
-         "cal": 157.0,
-         "p": 1.85,
-         "c": 20.97,
-         "f": 7.44,
-         "tags": []
-        },
-        {
-         "id": "228",
-         "name": "Dutch Apple Pie",
-         "serving": "4.4oz",
-         "cal": 323.0,
-         "p": 3.49,
-         "c": 47.09,
-         "f": 13.26,
-         "tags": []
-        },
-        {
          "id": "3958",
          "name": "Cranberry Crunch Bar",
          "serving": "1.92oz",
@@ -1385,16 +1356,6 @@
          "p": 2.8,
          "c": 29.91,
          "f": 9.39,
-         "tags": []
-        },
-        {
-         "id": "4925",
-         "name": "Oreo Mousse",
-         "serving": "3.98oz",
-         "cal": 424.0,
-         "p": 2.54,
-         "c": 28.11,
-         "f": 30.41,
          "tags": []
         },
         {
@@ -1420,13 +1381,32 @@
          "nodata": true
         },
         {
-         "id": "4849",
-         "name": "Pumpkin Bake",
-         "serving": "5.05oz",
-         "cal": 316,
-         "p": 5.27,
-         "c": 41.34,
-         "f": 15.31
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
+        },
+        {
+         "id": "5432",
+         "name": "Chocolate Ganache Cake",
+         "serving": "2.92oz",
+         "cal": 430,
+         "p": 4.94,
+         "c": 42.61,
+         "f": 28.36
+        },
+        {
+         "id": "297",
+         "name": "Red Velvet Brownie",
+         "serving": "2.49oz",
+         "cal": 290,
+         "p": 6.58,
+         "c": 36.32,
+         "f": 13.27
         }
        ]
       }
@@ -2236,7 +2216,7 @@
         },
         {
          "id": "1257",
-         "name": "Fudgy Brownie w/Nuts",
+         "name": "Fudgy Protein Brownie",
          "serving": "1.46oz",
          "cal": 131.0,
          "p": 4.42,
@@ -2723,16 +2703,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "2028",
-         "name": "Pipi Kalua Flank Steak",
-         "serving": "2.02oz",
-         "cal": 88.0,
-         "p": 10.78,
-         "c": 1.2,
-         "f": 4.1,
-         "tags": []
-        },
-        {
          "id": "4110",
          "name": "Grilled African Spiced Tofu",
          "serving": "2oz",
@@ -2743,13 +2713,23 @@
          "tags": []
         },
         {
-         "id": "2142",
-         "name": "Baked Russet Potato",
-         "serving": "3.36oz",
-         "cal": 75.0,
-         "p": 2.02,
-         "c": 17.07,
-         "f": 0.08,
+         "id": "2131",
+         "name": "Baked Purple Potato",
+         "serving": "3.09oz",
+         "cal": 87.0,
+         "p": 1.75,
+         "c": 14.91,
+         "f": 2.34,
+         "tags": []
+        },
+        {
+         "id": "1858",
+         "name": "Izmir Kofte (Turkish Lamb Meatball)",
+         "serving": "2oz",
+         "cal": 114.0,
+         "p": 5.91,
+         "c": 4.11,
+         "f": 7.97,
          "tags": []
         }
        ]
@@ -2874,7 +2854,7 @@
         },
         {
          "id": "1257",
-         "name": "Fudgy Brownie w/Nuts",
+         "name": "Fudgy Protein Brownie",
          "serving": "1.46oz",
          "cal": 131.0,
          "p": 4.42,
@@ -3524,6 +3504,16 @@
          "f": 2.91
         },
         {
+         "id": "6637",
+         "name": "Sun-Dried Tomato Pesto",
+         "serving": "0.98oz",
+         "cal": 146.0,
+         "p": 2.06,
+         "c": 7.15,
+         "f": 12.59,
+         "tags": []
+        },
+        {
          "id": "869",
          "name": "Garlic Oil",
          "serving": "1.46oz",
@@ -4013,6 +4003,16 @@
          "p": 11.54,
          "c": 30.55,
          "f": 5.94,
+         "tags": []
+        },
+        {
+         "id": "6306",
+         "name": "Mediterranean Spinach Frittata",
+         "serving": "6.26oz",
+         "cal": 341.0,
+         "p": 13.04,
+         "c": 9.38,
+         "f": 26.75,
          "tags": []
         },
         {
