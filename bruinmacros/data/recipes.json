@@ -8548,7 +8548,7 @@
   "p": 5.78,
   "tags": [],
   "fetched": "2026-09-27",
-  "seen": "2026-10-26"
+  "seen": "2026-10-27"
  },
  "9964": {
   "name": "Pre-Workout Protein Box",
@@ -14967,7 +14967,7 @@
   "p": 9.94,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-26"
+  "seen": "2026-10-27"
  },
  "7682": {
   "name": "Carrot Walnut Zucchini Quickbread",
@@ -17989,7 +17989,7 @@
   "p": 3.1,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-26"
+  "seen": "2026-10-27"
  },
  "10202": {
   "name": "Braised Pork Tenderloin",
@@ -23914,6 +23914,17 @@
   "f": 132.95,
   "c": 5.43,
   "p": 24.86,
+  "tags": [],
+  "fetched": "2026-10-27",
+  "seen": "2026-10-27"
+ },
+ "10689": {
+  "name": "Dim Sum Plate Special",
+  "serving": "9.73oz",
+  "cal": 526.0,
+  "f": 17.07,
+  "c": 71.43,
+  "p": 19.16,
   "tags": [],
   "fetched": "2026-10-27",
   "seen": "2026-10-27"

@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "updated": "2026-10-27T18:41:57+00:00",
+ "updated": "2026-10-27T22:57:20+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1178,6 +1178,26 @@
          "c": 6.12,
          "f": 0.65,
          "tags": []
+        },
+        {
+         "id": "2246",
+         "name": "Camarao de Coco",
+         "serving": "5.12oz",
+         "cal": 77.0,
+         "p": 5.32,
+         "c": 4.79,
+         "f": 3.81,
+         "tags": []
+        },
+        {
+         "id": "2233",
+         "name": "Orange Glazed Brazilian Chicken Wings",
+         "serving": "6.5oz",
+         "cal": 310.0,
+         "p": 22.14,
+         "c": 12.07,
+         "f": 19.41,
+         "tags": []
         }
        ]
       },
@@ -1287,6 +1307,47 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1374,6 +1435,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
         }
        ]
       }
@@ -2587,12 +2658,12 @@
          "tags": []
         },
         {
-         "id": "902",
-         "name": "Wheat Berry",
-         "serving": "2.01oz",
-         "cal": 93.0,
-         "p": 3.58,
-         "c": 20.19,
+         "id": "968",
+         "name": "Bulgur Wheat",
+         "serving": "2.03oz",
+         "cal": 81.0,
+         "p": 3.1,
+         "c": 15.68,
          "f": 0.44,
          "tags": []
         },

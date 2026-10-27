@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "updated": "2026-10-27T18:42:27+00:00",
+ "updated": "2026-10-27T22:57:45+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -4353,6 +4353,21 @@
          "p": 31.82,
          "c": 97.39,
          "f": 60.91,
+         "tags": []
+        }
+       ]
+      },
+      {
+       "name": "Iron Grill",
+       "items": [
+        {
+         "id": "10689",
+         "name": "Dim Sum Plate Special",
+         "serving": "9.73oz",
+         "cal": 526.0,
+         "p": 19.16,
+         "c": 71.43,
+         "f": 17.07,
          "tags": []
         }
        ]
