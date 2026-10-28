@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "updated": "2026-10-28T18:51:46+00:00",
+ "updated": "2026-10-28T23:13:59+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1189,6 +1189,16 @@
          "c": 10.11,
          "f": 9.26,
          "tags": []
+        },
+        {
+         "id": "6166",
+         "name": "Midwest Pepper Steak",
+         "serving": "3.7oz",
+         "cal": 310.0,
+         "p": 8.21,
+         "c": 3.54,
+         "f": 28.34,
+         "tags": []
         }
        ]
       },
@@ -1305,6 +1315,47 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
         }
        ]
       },
@@ -1362,16 +1413,6 @@
          "tags": []
         },
         {
-         "id": "229",
-         "name": "Deep Dish Blackout Cake",
-         "serving": "3.42oz",
-         "cal": 282.0,
-         "p": 4.9,
-         "c": 37.65,
-         "f": 18.21,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -1392,6 +1433,36 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "1088",
+         "name": "Pecan Pie",
+         "serving": "3.6oz",
+         "cal": 407.0,
+         "p": 3.19,
+         "c": 52.59,
+         "f": 20.72,
+         "tags": []
+        },
+        {
+         "id": "261",
+         "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
+         "serving": "2.23oz",
+         "cal": 227.0,
+         "p": 2.79,
+         "c": 26.64,
+         "f": 11.89,
+         "tags": []
+        },
+        {
+         "id": "4849",
+         "name": "Pumpkin Bake",
+         "serving": "5.05oz",
+         "cal": 316.0,
+         "p": 5.27,
+         "c": 41.34,
+         "f": 15.31,
+         "tags": []
         }
        ]
       }
@@ -3944,6 +4015,46 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "1980",
+         "name": "Za'Atar Fried Chicken",
+         "serving": "3.86oz",
+         "cal": 125.0,
+         "p": 16.71,
+         "c": 5.6,
+         "f": 3.39,
+         "tags": []
+        },
+        {
+         "id": "2209",
+         "name": "Cioppino",
+         "serving": "2.94oz",
+         "cal": 91.0,
+         "p": 7.21,
+         "c": 3.02,
+         "f": 5.54,
+         "tags": []
+        },
+        {
+         "id": "968",
+         "name": "Bulgur Wheat",
+         "serving": "2.03oz",
+         "cal": 81.0,
+         "p": 3.1,
+         "c": 15.68,
+         "f": 0.44,
+         "tags": []
+        },
+        {
+         "id": "7570",
+         "name": "Roasted Moroccan Carrots",
+         "serving": "3.9oz",
+         "cal": 69.0,
+         "p": 1.01,
+         "c": 10.33,
+         "f": 2.85,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
