@@ -473,12 +473,13 @@
  "3586": {
   "name": "Pan Roasted Brussels Sprouts",
   "serving": "1.45oz",
-  "cal": 28,
-  "p": 1.21,
+  "cal": 28.0,
   "f": 1.24,
   "c": 3.89,
-  "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "p": 1.21,
+  "tags": [],
+  "fetched": "2026-10-29",
+  "seen": "2026-10-29"
  },
  "203": {
   "name": "Greek Salad",
@@ -5937,7 +5938,7 @@
   "p": 3.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-28"
+  "seen": "2026-10-29"
  },
  "2565": {
   "name": "Cauliflower Skordalia Spread",
@@ -8597,7 +8598,7 @@
   "p": 5.78,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-27"
+  "seen": "2026-10-29"
  },
  "9964": {
   "name": "Pre-Workout Protein Box",
@@ -10400,7 +10401,7 @@
   "p": 9.53,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-10-28"
+  "seen": "2026-10-29"
  },
  "1222": {
   "name": "Beef, Beet, & Farro Salad Wrap",
@@ -11360,7 +11361,7 @@
   "p": 2.03,
   "tags": [],
   "fetched": "2026-09-29",
-  "seen": "2026-10-25"
+  "seen": "2026-10-29"
  },
  "6914": {
   "name": "Spicy Braised Lentils with Potato",
@@ -15016,7 +15017,7 @@
   "p": 9.94,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-28"
+  "seen": "2026-10-29"
  },
  "7682": {
   "name": "Carrot Walnut Zucchini Quickbread",
@@ -16219,7 +16220,7 @@
   "p": 0.98,
   "tags": [],
   "fetched": "2026-10-05",
-  "seen": "2026-10-20"
+  "seen": "2026-10-29"
  },
  "2828": {
   "name": "Peppercorn-Crusted Portobello Stacker",
@@ -19652,7 +19653,7 @@
   "p": 0.87,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-10-14"
+  "seen": "2026-10-29"
  },
  "2152": {
   "name": "Roasted Carrots",
@@ -23334,7 +23335,7 @@
   "p": 1.88,
   "tags": [],
   "fetched": "2026-10-21",
-  "seen": "2026-10-21"
+  "seen": "2026-10-29"
  },
  "2787": {
   "name": "Rice Pilaf",
@@ -23609,7 +23610,7 @@
   "p": 19.19,
   "tags": [],
   "fetched": "2026-10-22",
-  "seen": "2026-10-22"
+  "seen": "2026-10-29"
  },
  "1956": {
   "name": "Mediterranean Pasta Salad",
