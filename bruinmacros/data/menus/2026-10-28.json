@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "updated": "2026-10-29T02:28:21+00:00",
+ "updated": "2026-10-29T05:50:18+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -961,13 +961,13 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "1761",
-         "name": "Honey BBQ Salmon",
-         "serving": "4.9oz",
-         "cal": 246.0,
-         "p": 15.16,
-         "c": 18.78,
-         "f": 11.92,
+         "id": "998",
+         "name": "Barbecue Shrimp",
+         "serving": "3.84oz",
+         "cal": 170.0,
+         "p": 10.9,
+         "c": 4.57,
+         "f": 10.78,
          "tags": []
         },
         {
@@ -996,16 +996,6 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "6408",
-         "name": "St. Louis Style Pork Ribs",
-         "serving": "6.54oz",
-         "cal": 396.0,
-         "p": 31.5,
-         "c": 4.87,
-         "f": 27.63,
-         "tags": []
-        },
-        {
          "id": "7345",
          "name": "Oven Roasted Herb Potatoes",
          "serving": "3oz",
@@ -1023,6 +1013,16 @@
          "p": 18.45,
          "c": 18.45,
          "f": 15.81,
+         "tags": []
+        },
+        {
+         "id": "7261",
+         "name": "BBQ Pulled Pork",
+         "serving": "2oz",
+         "cal": 76.0,
+         "p": 7.45,
+         "c": 4.09,
+         "f": 3.48,
          "tags": []
         }
        ]
@@ -1141,13 +1141,13 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "6184",
-         "name": "Minnesota Hunters Chili",
-         "serving": "2.19oz",
-         "cal": 1138.0,
-         "p": 66.23,
-         "c": 43.13,
-         "f": 75.65,
+         "id": "2692",
+         "name": "Lemon Garlic Chicken Thighs",
+         "serving": "4.72oz",
+         "cal": 184.0,
+         "p": 22.57,
+         "c": 5.16,
+         "f": 7.34,
          "tags": []
         },
         {
@@ -1171,16 +1171,6 @@
          "tags": []
         },
         {
-         "id": "152",
-         "name": "Creamy Tomato Basil Soup",
-         "serving": "6.05oz",
-         "cal": 133.0,
-         "p": 1.85,
-         "c": 10.11,
-         "f": 9.26,
-         "tags": []
-        },
-        {
          "id": "1976",
          "name": "Chicken Tortilla Soup",
          "serving": "6.05oz",
@@ -1188,6 +1178,16 @@
          "p": 9.39,
          "c": 25.64,
          "f": 4.32,
+         "tags": []
+        },
+        {
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133.0,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26,
          "tags": []
         }
        ]
@@ -1363,16 +1363,6 @@
          "tags": []
         },
         {
-         "id": "5479",
-         "name": "Classic Chocolate Chip Cookie",
-         "serving": "1.3oz",
-         "cal": 162.0,
-         "p": 2.31,
-         "c": 22.79,
-         "f": 7.38,
-         "tags": []
-        },
-        {
          "id": "255",
          "name": "Blondie w/ Walnuts",
          "serving": "1.75oz",
@@ -1432,6 +1422,16 @@
          "p": 5.27,
          "c": 41.34,
          "f": 15.31,
+         "tags": []
+        },
+        {
+         "id": "284",
+         "name": "Tres Leches Cake",
+         "serving": "5.16oz",
+         "cal": 451.0,
+         "p": 7.89,
+         "c": 45.06,
+         "f": 26.1,
          "tags": []
         }
        ]
