@@ -18,7 +18,7 @@
   "p": 3.48,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3423": {
   "name": "Texas BBQ Beef Brisket Nachos w/ Spicy Green Chili Cheese Sauce",
@@ -49,7 +49,7 @@
   "p": 8.98,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2370": {
   "name": "Cheese Pizza",
@@ -60,7 +60,7 @@
   "p": 7.44,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1882": {
   "name": "Garlic Chicken Pizza",
@@ -82,7 +82,7 @@
   "p": 33.45,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6205": {
   "name": "Bruin Cheeseburger",
@@ -93,7 +93,7 @@
   "p": 36.42,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1922": {
   "name": "LA Hot Chicken Sandwich",
@@ -104,7 +104,7 @@
   "p": 22.72,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1933": {
   "name": "Brunch Burger",
@@ -119,12 +119,13 @@
  "1798": {
   "name": "D.F.C.",
   "serving": "7.56oz",
-  "cal": 570,
-  "p": 21.96,
+  "cal": 570.0,
   "f": 32.09,
   "c": 48.49,
-  "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "p": 21.96,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "8468": {
   "name": "Beyond Burger",
@@ -135,7 +136,7 @@
   "p": 26.46,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6931": {
   "name": "Sweet Potato Fries",
@@ -209,7 +210,7 @@
   "p": 1.85,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2706": {
   "name": "Grilled Tri-color Carrots w/ Peruvian Salsa Verde",
@@ -230,7 +231,7 @@
   "p": 2.65,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7338": {
   "name": "Roasted Fingerling Potato",
@@ -241,7 +242,7 @@
   "p": 0.6,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3210": {
   "name": "Ranch Dressing",
@@ -252,7 +253,7 @@
   "p": 0.43,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "112": {
   "name": "Caesar Salad Dressing",
@@ -263,7 +264,7 @@
   "p": 1.1,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "142": {
   "name": "Grilled Rosemary Chicken Breast",
@@ -274,7 +275,7 @@
   "p": 26.08,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "465": {
   "name": "Watermelon",
@@ -285,7 +286,7 @@
   "p": 0.17,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "463": {
   "name": "Cantaloupe",
@@ -296,7 +297,7 @@
   "p": 0.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "813": {
   "name": "Pineapple",
@@ -307,17 +308,18 @@
   "p": 0.15,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7941": {
   "name": "Shrimp Ceviche Tostada Bar",
   "serving": "3.42oz",
-  "cal": 71,
-  "p": 12.66,
+  "cal": 71.0,
   "f": 1.25,
   "c": 2.87,
-  "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "p": 12.66,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -403,12 +405,13 @@
  "4906": {
   "name": "Magic Bar",
   "serving": "1.48oz",
-  "cal": 190,
-  "p": 2.89,
+  "cal": 190.0,
   "f": 9.63,
   "c": 23.24,
-  "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "p": 2.89,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "1875": {
   "name": "Cheese Ravioli w/ Marinara",
@@ -491,7 +494,7 @@
   "p": 0.4,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5077": {
   "name": "Moroccan Couscous Salad",
@@ -502,7 +505,7 @@
   "p": 2.88,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10383": {
   "name": "Bean Salad w/ Sundried Tomato",
@@ -534,7 +537,7 @@
   "p": 0.88,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1884": {
   "name": "Risotto Parmigiano",
@@ -555,7 +558,7 @@
   "p": 3.68,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10040": {
   "name": "Potato Dumpling Soup",
@@ -578,7 +581,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "300": {
   "name": "Double Chocolate Cookie",
@@ -589,7 +592,7 @@
   "p": 2.04,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "299": {
   "name": "Old-Fashioned Oatmeal Raisin Cookie",
@@ -600,7 +603,7 @@
   "p": 2.11,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4622": {
   "name": "Cannoli",
@@ -611,7 +614,7 @@
   "p": 10.3,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8016": {
   "name": "Yogurt Bar",
@@ -623,7 +626,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3652": {
   "name": "Moroccan Spiced Chocolate Mousse",
@@ -686,7 +689,7 @@
   "p": 7.42,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5986": {
   "name": "Lavash Chips",
@@ -697,7 +700,7 @@
   "p": 2.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "869": {
   "name": "Garlic Oil",
@@ -708,7 +711,7 @@
   "p": 0.9,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6696": {
   "name": "Parsley Pesto",
@@ -730,7 +733,7 @@
   "p": 0.26,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2748": {
   "name": "Tzatziki",
@@ -741,7 +744,7 @@
   "p": 2.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4416": {
   "name": "Baba Ghanoush",
@@ -763,7 +766,7 @@
   "p": 1.68,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1511": {
   "name": "Artichoke Spinach Dip",
@@ -774,7 +777,7 @@
   "p": 2.8,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1105": {
   "name": "Smoked Mozzarella Spread",
@@ -785,7 +788,7 @@
   "p": 3.17,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1277": {
   "name": "Paprika Garlic Spread",
@@ -807,7 +810,7 @@
   "p": 12.44,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1274": {
   "name": "White Bean, Feta, & Za'atar Spread",
@@ -818,7 +821,7 @@
   "p": 1.89,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3043": {
   "name": "Zhug",
@@ -829,7 +832,7 @@
   "p": 0.48,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8142": {
   "name": "Garlic Lebneh",
@@ -840,7 +843,7 @@
   "p": 23.13,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1870": {
   "name": "Htipiti Feta Spread",
@@ -851,7 +854,7 @@
   "p": 2.87,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9172": {
   "name": "Dolma",
@@ -862,7 +865,7 @@
   "p": 1.88,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1703": {
   "name": "Cheese Pizza",
@@ -873,7 +876,7 @@
   "p": 7.47,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1714": {
   "name": "Pepperoni Pizza",
@@ -884,7 +887,7 @@
   "p": 9.2,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2190": {
   "name": "Mushroom, Pepper, & Onion Pizza",
@@ -905,7 +908,7 @@
   "p": 2.27,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10025": {
   "name": "Prosciutto, Melon & Burrata",
@@ -916,7 +919,7 @@
   "p": 19.92,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10027": {
   "name": "Pastrami French Dip Sandwich",
@@ -927,7 +930,7 @@
   "p": 21.74,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10045": {
   "name": "Buffalo Chicken Wrap",
@@ -938,7 +941,7 @@
   "p": 19.71,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10047": {
   "name": "Cali Turkey Wrap",
@@ -949,7 +952,7 @@
   "p": 47.2,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10051": {
   "name": "Chia Pudding Parfait",
@@ -960,7 +963,7 @@
   "p": 5.65,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1011": {
   "name": "Ham & Swiss Croissant Sandwich",
@@ -971,7 +974,7 @@
   "p": 25.88,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1012": {
   "name": "The Study Sandwich",
@@ -982,7 +985,7 @@
   "p": 44.51,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10121": {
   "name": "Pumpkin Chia Pudding w/ Cloud Cream",
@@ -993,7 +996,7 @@
   "p": 2.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10135": {
   "name": "Cobb Salad w/ Chicken",
@@ -1004,7 +1007,7 @@
   "p": 45.04,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10137": {
   "name": "S'mores Tart",
@@ -1015,7 +1018,7 @@
   "p": 4.81,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10153": {
   "name": "Peach Cobbler",
@@ -1026,7 +1029,7 @@
   "p": 3.21,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10289": {
   "name": "Praline Eclair",
@@ -1037,7 +1040,7 @@
   "p": 2.33,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10347": {
   "name": "Maple Pecan Danish",
@@ -1048,7 +1051,7 @@
   "p": 4.8,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1095": {
   "name": "Lamb, Whole Wheat Penne, & Swiss Chard Bowl",
@@ -1070,7 +1073,7 @@
   "p": 0.84,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1135": {
   "name": "Lentil, Beet, Wheat Berry, & Kale Bowl",
@@ -1092,7 +1095,7 @@
   "p": 8.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "119": {
   "name": "Balsamic Vinaigrette",
@@ -1103,7 +1106,7 @@
   "p": 0.05,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1192": {
   "name": "Raisin Walnut Bread",
@@ -1114,7 +1117,7 @@
   "p": 2.58,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "123": {
   "name": "Tomatillo Salsa",
@@ -1125,7 +1128,7 @@
   "p": 1.93,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1230": {
   "name": "LA Street Food",
@@ -1137,7 +1140,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "124": {
   "name": "Chicken Noodle Soup",
@@ -1148,7 +1151,7 @@
   "p": 8.82,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "126": {
   "name": "Roasted Tomato Salsa",
@@ -1159,7 +1162,7 @@
   "p": 0.53,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-28"
+  "seen": "2026-10-30"
  },
  "1260": {
   "name": "Spiced Apple Bread",
@@ -1192,7 +1195,7 @@
   "p": 3.78,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1325": {
   "name": "Green Bean Stir Fry",
@@ -1225,7 +1228,7 @@
   "p": 5.04,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1411": {
   "name": "Olive Oil Mocha Bread",
@@ -1247,7 +1250,7 @@
   "p": 4.75,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1475": {
   "name": "French Toast",
@@ -1257,8 +1260,8 @@
   "c": 31.89,
   "p": 6.53,
   "tags": [],
-  "fetched": "2026-09-27",
-  "seen": "2026-10-24"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "1487": {
   "name": "Oatmeal",
@@ -1269,7 +1272,7 @@
   "p": 2.89,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1501": {
   "name": "Bodega Egg & Bacon Roll",
@@ -1280,7 +1283,7 @@
   "p": 18.88,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1528": {
   "name": "Tarragon Chicken Salad",
@@ -1291,7 +1294,7 @@
   "p": 25.82,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1530": {
   "name": "Vietnamese Pickled Daikon",
@@ -1302,7 +1305,7 @@
   "p": 0.19,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1539": {
   "name": "Sirloin Steak Quesadilla",
@@ -1335,7 +1338,7 @@
   "p": 2.16,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1624": {
   "name": "Spinach",
@@ -1346,7 +1349,7 @@
   "p": 2.43,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1655": {
   "name": "Romaine Lettuce",
@@ -1357,7 +1360,7 @@
   "p": 1.04,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1667": {
   "name": "Cucumber",
@@ -1368,7 +1371,7 @@
   "p": 0.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1676": {
   "name": "Avocado Topping",
@@ -1379,7 +1382,7 @@
   "p": 0.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1737": {
   "name": "Avocado Pulp",
@@ -1390,7 +1393,7 @@
   "p": 1.13,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "176": {
   "name": "Whole Wheat Sourdough Bread",
@@ -1401,7 +1404,7 @@
   "p": 5.03,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1932": {
   "name": "Beef & Broccoli",
@@ -1423,7 +1426,7 @@
   "p": 9.39,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1996": {
   "name": "Power Greens Blend",
@@ -1434,7 +1437,7 @@
   "p": 3.08,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2031": {
   "name": "Pork Sausage",
@@ -1445,7 +1448,7 @@
   "p": 7.84,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-27"
+  "seen": "2026-10-30"
  },
  "2034": {
   "name": "Seasoned Blanched Spinach",
@@ -1456,7 +1459,7 @@
   "p": 0.83,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2035": {
   "name": "Red Potato Hash",
@@ -1478,7 +1481,7 @@
   "p": 0.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2047": {
   "name": "Orange Chicken",
@@ -1500,7 +1503,7 @@
   "p": 0.32,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2131": {
   "name": "Baked Purple Potato",
@@ -1533,7 +1536,7 @@
   "p": 6.39,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2200": {
   "name": "Yukon Gold Potato & Celery Root Mash",
@@ -1555,7 +1558,7 @@
   "p": 0.06,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2256": {
   "name": "Almond Butter",
@@ -1566,7 +1569,7 @@
   "p": 5.48,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "234": {
   "name": "Vegan Cranberry Apple Crisp",
@@ -1588,7 +1591,7 @@
   "p": 0.22,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2499": {
   "name": "Roasted Lemongrass-Ginger Chicken",
@@ -1632,7 +1635,7 @@
   "p": 29.3,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2579": {
   "name": "Chicken Caesar Salad",
@@ -1643,7 +1646,7 @@
   "p": 41.67,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "262": {
   "name": "Mini Croissant",
@@ -1654,7 +1657,7 @@
   "p": 2.05,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "266": {
   "name": "Blueberry Muffin",
@@ -1676,7 +1679,7 @@
   "p": 9.55,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2733": {
   "name": "Apple & Asian Pear Compote",
@@ -1698,7 +1701,7 @@
   "p": 5.62,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2852": {
   "name": "Thai Tea Boba",
@@ -1710,7 +1713,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2856": {
   "name": "Vietnamese Coffee Boba",
@@ -1722,7 +1725,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2862": {
   "name": "Milk Tea Boba",
@@ -1734,7 +1737,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2867": {
   "name": "Green Milk Tea Boba",
@@ -1745,7 +1748,7 @@
   "p": 0.05,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2880": {
   "name": "Mango Boba",
@@ -1756,7 +1759,7 @@
   "p": 0.11,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2887": {
   "name": "Horchata Boba",
@@ -1767,7 +1770,7 @@
   "p": 0.42,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2892": {
   "name": "Taro Boba",
@@ -1779,7 +1782,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2895": {
   "name": "Cucumber & Lime Fresca Boba",
@@ -1791,7 +1794,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2917": {
   "name": "Pomegranate & Date Compote",
@@ -1813,7 +1816,7 @@
   "p": 0.56,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2938": {
   "name": "Kale & Squash Salad w/ Gorgonzola",
@@ -1835,7 +1838,7 @@
   "p": 5.12,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2972": {
   "name": "Caramelized Onion, Gouda & White Bean Flatbread",
@@ -1857,7 +1860,7 @@
   "p": 5.64,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3002": {
   "name": "Roasted Red Breakfast Potato Wedges",
@@ -1868,7 +1871,7 @@
   "p": 1.45,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3003": {
   "name": "Vegan Scrambled Eggs",
@@ -1879,7 +1882,7 @@
   "p": 10.29,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3004": {
   "name": "Waffle",
@@ -1890,7 +1893,7 @@
   "p": 1.49,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3022": {
   "name": "Oatmeal",
@@ -1901,7 +1904,7 @@
   "p": 8.4,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "306": {
   "name": "Fluffy Potato Bun",
@@ -1934,7 +1937,7 @@
   "p": 3.21,
   "tags": [],
   "fetched": "2026-10-28",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3156": {
   "name": "Chocolate Peanut Butter",
@@ -1945,7 +1948,7 @@
   "p": 3.66,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3175": {
   "name": "Jalapeño-Lime Slaw",
@@ -1979,7 +1982,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3270": {
   "name": "Pulled Pork Tenderloin Taco",
@@ -2089,7 +2092,7 @@
   "p": 2.07,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3528": {
   "name": "Mini Almond Bear Claw",
@@ -2133,7 +2136,7 @@
   "p": 2.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3686": {
   "name": "Chili Tofu Over Quinoa Vegetable Pilaf",
@@ -2156,7 +2159,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "371": {
   "name": "Bruin Fresh Smoothie",
@@ -2168,7 +2171,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3713": {
   "name": "Flaxsnax Breakfast Cookie w/ Pecans",
@@ -2178,8 +2181,8 @@
   "c": 8.58,
   "p": 3.11,
   "tags": [],
-  "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "3716": {
   "name": "BBQ Chicken Salad",
@@ -2190,7 +2193,7 @@
   "p": 30.13,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "372": {
   "name": "Mango Madness Smoothie",
@@ -2201,7 +2204,7 @@
   "p": 1.25,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "374": {
   "name": "Smoothie #06: Alooooha",
@@ -2213,7 +2216,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3742": {
   "name": "Craft Your Own Salad",
@@ -2225,7 +2228,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3748": {
   "name": "Cherry Compote",
@@ -2248,7 +2251,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "376": {
   "name": "Caribbean Island Smoothie",
@@ -2260,7 +2263,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3773": {
   "name": "Carrot Pancake",
@@ -2293,7 +2296,7 @@
   "p": 11.03,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3825": {
   "name": "Craft Your Own Pizza",
@@ -2305,7 +2308,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "385": {
   "name": "Peanut Butter & Strawberry Preserves Sandwich",
@@ -2316,7 +2319,7 @@
   "p": 17.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3885": {
   "name": "Pumpkin Walnut Bread",
@@ -2340,7 +2343,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3896": {
   "name": "Vanilla Glazed Cake Donut",
@@ -2363,7 +2366,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "394": {
   "name": "BBQ Beef Brisket Sandwich",
@@ -2375,7 +2378,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "396": {
   "name": "Buffalo Chicken Sandwich",
@@ -2387,7 +2390,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "398": {
   "name": "Cheesesteak",
@@ -2399,7 +2402,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3983": {
   "name": "Low Fat Cream Cheese",
@@ -2410,7 +2413,7 @@
   "p": 3.02,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "399": {
   "name": "Chicken Caesar Sandwich",
@@ -2422,7 +2425,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "400": {
   "name": "Chicken Pesto Sandwich",
@@ -2434,7 +2437,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "401": {
   "name": "Chicken Ranch & Swiss Sandwich",
@@ -2446,7 +2449,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "403": {
   "name": "Chipotle BBQ Turkey Sandwich",
@@ -2458,7 +2461,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "404": {
   "name": "Ham & Swiss Sandwich",
@@ -2470,7 +2473,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "407": {
   "name": "Pastrami & Swiss Sandwich",
@@ -2482,7 +2485,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "408": {
   "name": "Roasted Portobello Mushroom Sandwich",
@@ -2494,7 +2497,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "409": {
   "name": "Roasted Kale",
@@ -2505,7 +2508,7 @@
   "p": 2.31,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "411": {
   "name": "Roasted Salmon Sandwich",
@@ -2517,7 +2520,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4136": {
   "name": "Lemon Muffin",
@@ -2528,7 +2531,7 @@
   "p": 10.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "414": {
   "name": "The Cuban Sandwich",
@@ -2540,7 +2543,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "415": {
   "name": "Smoky BBQ Sandwich",
@@ -2552,7 +2555,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "417": {
   "name": "Vegan Chicken Caesar Sandwich",
@@ -2564,7 +2567,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "418": {
   "name": "Chipotle BBQ Sandwich",
@@ -2576,7 +2579,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "419": {
   "name": "Havana Press Sandwich",
@@ -2588,7 +2591,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "421": {
   "name": "Roasted Garden \"Salmon\" Sandwich",
@@ -2600,7 +2603,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "422": {
   "name": "Vegetarian Chicken Ranch & Swiss Sandwich",
@@ -2612,7 +2615,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "423": {
   "name": "Vegetarian Ham & Swiss Sandwich",
@@ -2624,7 +2627,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4236": {
   "name": "Spicy Beef & Eggplant Flatbread",
@@ -2647,7 +2650,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "433": {
   "name": "Caesar Wrap",
@@ -2658,7 +2661,7 @@
   "p": 22.19,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "439": {
   "name": "Asian Chicken Salad",
@@ -2669,7 +2672,7 @@
   "p": 29.92,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4395": {
   "name": "Grilled Mustard Maple Pork Tenderloin",
@@ -2691,7 +2694,7 @@
   "p": 1.38,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "441": {
   "name": "Asian Wonton Salad",
@@ -2702,7 +2705,7 @@
   "p": 10.51,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "442": {
   "name": "Caesar Salad",
@@ -2713,7 +2716,7 @@
   "p": 47.72,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "443": {
   "name": "Chicken Caesar Salad",
@@ -2724,7 +2727,7 @@
   "p": 46.18,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4430": {
   "name": "Vietnamese Shredded Green Papaya Salad",
@@ -2735,7 +2738,7 @@
   "p": 0.56,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4432": {
   "name": "Green Sriracha",
@@ -2746,7 +2749,7 @@
   "p": 0.39,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4433": {
   "name": "Red Sriracha",
@@ -2757,7 +2760,7 @@
   "p": 0.71,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4435": {
   "name": "Chojang Korean Dipping Sauce",
@@ -2768,7 +2771,7 @@
   "p": 0.11,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4436": {
   "name": "Dumpling Dipping Sauce",
@@ -2779,7 +2782,7 @@
   "p": 0.51,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "444": {
   "name": "Mixed Green Salad",
@@ -2790,7 +2793,7 @@
   "p": 11.77,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "445": {
   "name": "Vegetarian Cobb Salad",
@@ -2801,7 +2804,7 @@
   "p": 15.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "447": {
   "name": "Chicken Noodle Soup",
@@ -2812,7 +2815,7 @@
   "p": 9.96,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4480": {
   "name": "Tea Latte",
@@ -2823,7 +2826,7 @@
   "p": 0.9,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "451": {
   "name": "Fuji Apple",
@@ -2834,7 +2837,7 @@
   "p": 0.32,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "452": {
   "name": "Granny Smith Apple",
@@ -2845,7 +2848,7 @@
   "p": 0.8,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4608": {
   "name": "Latin Topping Selections",
@@ -2857,7 +2860,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4644": {
   "name": "Sweet Chili Mayo",
@@ -2868,7 +2871,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4648": {
   "name": "Satay Dipping Sauce",
@@ -2879,7 +2882,7 @@
   "p": 0.6,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "466": {
   "name": "Fresh Fruit Cup",
@@ -2890,7 +2893,7 @@
   "p": 2.58,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "467": {
   "name": "Espresso",
@@ -2901,7 +2904,7 @@
   "p": 0.01,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "468": {
   "name": "Americano",
@@ -2912,7 +2915,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "469": {
   "name": "Brewed Coffee",
@@ -2923,7 +2926,7 @@
   "p": 2.36,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "470": {
   "name": "Café Caramel",
@@ -2934,7 +2937,7 @@
   "p": 2.63,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "471": {
   "name": "Café Latte",
@@ -2945,7 +2948,7 @@
   "p": 11.49,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "472": {
   "name": "Café Mocha",
@@ -2956,7 +2959,7 @@
   "p": 6.82,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "473": {
   "name": "Café Vanilla",
@@ -2967,7 +2970,7 @@
   "p": 2.59,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "474": {
   "name": "Cappuccino",
@@ -2978,7 +2981,7 @@
   "p": 3.89,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "475": {
   "name": "Caramel Latte",
@@ -2989,7 +2992,7 @@
   "p": 7.66,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "477": {
   "name": "Chai Tea Latte",
@@ -3000,7 +3003,7 @@
   "p": 0.95,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "480": {
   "name": "Horchata Latte",
@@ -3011,7 +3014,7 @@
   "p": 0.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "481": {
   "name": "Hot Chocolate",
@@ -3022,7 +3025,7 @@
   "p": 16.64,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "482": {
   "name": "Hot Vanilla",
@@ -3033,7 +3036,7 @@
   "p": 12.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "483": {
   "name": "Mocha Latte",
@@ -3044,7 +3047,7 @@
   "p": 12.84,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "484": {
   "name": "Vanilla Latte",
@@ -3055,7 +3058,7 @@
   "p": 8.6,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "485": {
   "name": "White Chocolate Latte",
@@ -3066,7 +3069,7 @@
   "p": 13.46,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "487": {
   "name": "Apple Turnover",
@@ -3077,7 +3080,7 @@
   "p": 5.01,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "500": {
   "name": "Chocolate Croissant",
@@ -3088,7 +3091,7 @@
   "p": 7.92,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5036": {
   "name": "Chicken Parmesan Sandwich",
@@ -3100,7 +3103,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "506": {
   "name": "Scrambled Eggs",
@@ -3111,7 +3114,7 @@
   "p": 11.19,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "507": {
   "name": "Sticky Rice",
@@ -3122,7 +3125,7 @@
   "p": 13.29,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5104": {
   "name": "Quinoa Grain Bowl with Chicken",
@@ -3133,7 +3136,7 @@
   "p": 40.28,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5147": {
   "name": "Forbidden Rice Grain Bowl with Shrimp",
@@ -3144,7 +3147,7 @@
   "p": 24.95,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5265": {
   "name": "Cucumber Sunomono Salad",
@@ -3155,7 +3158,7 @@
   "p": 0.18,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5418": {
   "name": "Butter Croissant",
@@ -3166,7 +3169,7 @@
   "p": 8.73,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5419": {
   "name": "Cheese Danish",
@@ -3177,7 +3180,7 @@
   "p": 4.9,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5421": {
   "name": "Blueberry Muffin",
@@ -3188,7 +3191,7 @@
   "p": 9.55,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5422": {
   "name": "Banana Walnut Muffin",
@@ -3199,7 +3202,7 @@
   "p": 14.59,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5427": {
   "name": "Multi-Grain Bread",
@@ -3210,7 +3213,7 @@
   "p": 3.41,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5428": {
   "name": "Chocolate Chip Cookie",
@@ -3221,7 +3224,7 @@
   "p": 7.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5429": {
   "name": "Oatmeal Raisin Cookie",
@@ -3232,7 +3235,7 @@
   "p": 7.79,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5601": {
   "name": "Fudge Brownie",
@@ -3265,7 +3268,7 @@
   "p": 10.4,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5894": {
   "name": "Smoothie #15: Chocolate Banana",
@@ -3276,7 +3279,7 @@
   "p": 15.7,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5898": {
   "name": "Chinese Freestyle Bowl",
@@ -3300,7 +3303,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5915": {
   "name": "Chow Mein Noodles",
@@ -3367,7 +3370,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5942": {
   "name": "Salsa Bar",
@@ -3379,7 +3382,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5988": {
   "name": "Agua de Jamaica",
@@ -3390,7 +3393,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6019": {
   "name": "Passion Fruit Tangerine Kombucha",
@@ -3402,7 +3405,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6024": {
   "name": "Build Your Own Acai Bowl",
@@ -3414,7 +3417,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6120": {
   "name": "Buttery Hash Browns",
@@ -3425,7 +3428,7 @@
   "p": 1.68,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6121": {
   "name": "Fried Eggs",
@@ -3436,7 +3439,7 @@
   "p": 6.25,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6161": {
   "name": "Belgian Waffles",
@@ -3447,7 +3450,7 @@
   "p": 4.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6199": {
   "name": "Arugula",
@@ -3458,7 +3461,7 @@
   "p": 1.46,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6209": {
   "name": "Spring Mix",
@@ -3469,7 +3472,7 @@
   "p": 1.15,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "628": {
   "name": "Roasted Turkey & Provolone Sandwich",
@@ -3481,7 +3484,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6308": {
   "name": "Kimchi",
@@ -3492,7 +3495,7 @@
   "p": 1.01,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6309": {
   "name": "Edamame",
@@ -3503,7 +3506,7 @@
   "p": 3.16,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6310": {
   "name": "Seaweed Salad",
@@ -3514,7 +3517,7 @@
   "p": 0.33,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6322": {
   "name": "Build-Your-Own Tacos",
@@ -3526,7 +3529,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6324": {
   "name": "Build-Your-Own Taco Salad",
@@ -3538,7 +3541,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6328": {
   "name": "Build-Your-Own Burrito Bowl",
@@ -3550,7 +3553,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6434": {
   "name": "Apple",
@@ -3561,7 +3564,7 @@
   "p": 0.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6437": {
   "name": "Banana",
@@ -3572,7 +3575,7 @@
   "p": 1.54,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6438": {
   "name": "Oranges",
@@ -3583,7 +3586,7 @@
   "p": 1.33,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6440": {
   "name": "Pineapple",
@@ -3594,7 +3597,7 @@
   "p": 0.46,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6442": {
   "name": "Kiwi",
@@ -3605,7 +3608,7 @@
   "p": 0.77,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6443": {
   "name": "Watermelon",
@@ -3616,7 +3619,7 @@
   "p": 0.86,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6445": {
   "name": "Cantaloupe",
@@ -3627,7 +3630,7 @@
   "p": 0.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6448": {
   "name": "Red Grapes",
@@ -3638,7 +3641,7 @@
   "p": 0.2,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6449": {
   "name": "Green Grapes",
@@ -3649,7 +3652,7 @@
   "p": 0.2,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6472": {
   "name": "Everything Bagels",
@@ -3660,7 +3663,7 @@
   "p": 3.98,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6497": {
   "name": "Plain Bagel",
@@ -3671,7 +3674,7 @@
   "p": 12.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6498": {
   "name": "Everything Bagel",
@@ -3682,7 +3685,7 @@
   "p": 12.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6513": {
   "name": "Grapefruit",
@@ -3693,7 +3696,7 @@
   "p": 0.44,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6514": {
   "name": "Cheese Whipped Creamy Spread",
@@ -3704,7 +3707,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6515": {
   "name": "Lowfat Cottage Cheese",
@@ -3715,7 +3718,7 @@
   "p": 3.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6516": {
   "name": "Lowfat Greek Yogurt",
@@ -3726,7 +3729,7 @@
   "p": 2.87,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6517": {
   "name": "Vegan Vanilla Coconut Yogurt",
@@ -3737,7 +3740,7 @@
   "p": 0.2,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6518": {
   "name": "Wild Blueberries",
@@ -3748,7 +3751,7 @@
   "p": 0.12,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6519": {
   "name": "Mango",
@@ -3759,7 +3762,7 @@
   "p": 0.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6520": {
   "name": "Strawberry Yogurt",
@@ -3770,7 +3773,7 @@
   "p": 1.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6542": {
   "name": "Scrambled Eggs",
@@ -3781,7 +3784,7 @@
   "p": 11.18,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6545": {
   "name": "Nanami Togarashi Spice",
@@ -3793,7 +3796,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6546": {
   "name": "Fried Shallots",
@@ -3804,7 +3807,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6547": {
   "name": "Fried Garlic",
@@ -3815,7 +3818,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6549": {
   "name": "Low Fat Greek Yogurt",
@@ -3826,7 +3829,7 @@
   "p": 11.55,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6557": {
   "name": "Sea Salt Kettle Chips",
@@ -3837,7 +3840,7 @@
   "p": 3.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6558": {
   "name": "BBQ Kettle Chips",
@@ -3848,7 +3851,7 @@
   "p": 3.03,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6560": {
   "name": "Jalapeno Kettle Chips",
@@ -3859,7 +3862,7 @@
   "p": 3.03,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6563": {
   "name": "Smartfood White Cheddar Popcorn",
@@ -3870,7 +3873,7 @@
   "p": 4.54,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6567": {
   "name": "Apple Juice",
@@ -3881,7 +3884,7 @@
   "p": 0.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6568": {
   "name": "Orange Juice",
@@ -3892,7 +3895,7 @@
   "p": 2.13,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6569": {
   "name": "Nonfat Milk",
@@ -3903,7 +3906,7 @@
   "p": 7.64,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6570": {
   "name": "Lowfat Milk",
@@ -3914,7 +3917,7 @@
   "p": 7.64,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6571": {
   "name": "Chocolate Milk",
@@ -3925,7 +3928,7 @@
   "p": 10.38,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6572": {
   "name": "Soy Milk",
@@ -3936,7 +3939,7 @@
   "p": 6.66,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6581": {
   "name": "Create Your Own Breakfast Croissant",
@@ -3948,7 +3951,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6582": {
   "name": "Cream Cheese",
@@ -3959,7 +3962,7 @@
   "p": 4.04,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6619": {
   "name": "Turkey & Provolone Sandwich",
@@ -3970,7 +3973,7 @@
   "p": 33.01,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6622": {
   "name": "Ham & Swiss Sandwich",
@@ -3981,7 +3984,7 @@
   "p": 39.29,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6634": {
   "name": "Tuna Salad Croissant Sandwich",
@@ -3992,7 +3995,7 @@
   "p": 38.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6675": {
   "name": "Sweet Chili Mae Ploy Sauce",
@@ -4004,7 +4007,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6676": {
   "name": "Sweet and Sour Sauce",
@@ -4015,7 +4018,7 @@
   "p": 0.08,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6677": {
   "name": "Plain Bagel",
@@ -4026,7 +4029,7 @@
   "p": 3.98,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6755": {
   "name": "Dole Whip Bowl",
@@ -4038,7 +4041,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6787": {
   "name": "Onion Bagel",
@@ -4049,7 +4052,7 @@
   "p": 12.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6791": {
   "name": "Whole Wheat Bagel",
@@ -4060,7 +4063,7 @@
   "p": 8.99,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "680": {
   "name": "Chicken Salad Sandwich",
@@ -4071,7 +4074,7 @@
   "p": 24.13,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6807": {
   "name": "Parfait Oatmeal Blueberry & Apple",
@@ -4082,7 +4085,7 @@
   "p": 14.7,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "684": {
   "name": "Egg Salad Sandwich",
@@ -4093,7 +4096,7 @@
   "p": 19.45,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "686": {
   "name": "Peanut Butter & Strawberry Preserves Sandwich",
@@ -4104,7 +4107,7 @@
   "p": 11.46,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "689": {
   "name": "Ultimate BLT Sandwich",
@@ -4115,7 +4118,7 @@
   "p": 53.45,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6903": {
   "name": "Pan Roasted Mushrooms with Onions",
@@ -4126,7 +4129,7 @@
   "p": 2.07,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6915": {
   "name": "Quinoa Pilaf",
@@ -4148,7 +4151,7 @@
   "p": 39.52,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6937": {
   "name": "Italian Sandwich",
@@ -4159,7 +4162,7 @@
   "p": 52.33,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6938": {
   "name": "Parfait Fresh Berry",
@@ -4170,7 +4173,7 @@
   "p": 13.06,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6981": {
   "name": "Cinnamon Raisin Bagel",
@@ -4181,7 +4184,7 @@
   "p": 10.66,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7006": {
   "name": "Peanut Butter and Egg Protein Box",
@@ -4192,7 +4195,7 @@
   "p": 28.18,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "702": {
   "name": "Louie Shrimp & Avocado Salad",
@@ -4203,7 +4206,7 @@
   "p": 26.28,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "704": {
   "name": "Bircher Muesli w/ Nuts",
@@ -4214,7 +4217,7 @@
   "p": 20.34,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7041": {
   "name": "Cottage Cheese",
@@ -4225,7 +4228,7 @@
   "p": 3.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "705": {
   "name": "Blueberry Strudel Parfait",
@@ -4236,7 +4239,7 @@
   "p": 21.67,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "708": {
   "name": "Caprese Sandwich",
@@ -4247,7 +4250,7 @@
   "p": 35.95,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "709": {
   "name": "Chipotle Turkey Club Sandwich",
@@ -4258,7 +4261,7 @@
   "p": 48.99,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7095": {
   "name": "Crudite Box",
@@ -4270,7 +4273,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "711": {
   "name": "Pepper Steak Salad",
@@ -4281,7 +4284,7 @@
   "p": 51.26,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7110": {
   "name": "Maple Flavored Syrup",
@@ -4292,7 +4295,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7126": {
   "name": "Capers",
@@ -4304,7 +4307,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7128": {
   "name": "Sliced Tomatoes",
@@ -4315,7 +4318,7 @@
   "p": 0.5,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7129": {
   "name": "Sliced Swiss Cheese",
@@ -4326,7 +4329,7 @@
   "p": 8.06,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7130": {
   "name": "Julienne Red Onion",
@@ -4337,7 +4340,7 @@
   "p": 0.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "716": {
   "name": "Cheese & Cracker Protein Box",
@@ -4348,7 +4351,7 @@
   "p": 31.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "719": {
   "name": "Fresh Fruit Cup",
@@ -4359,7 +4362,7 @@
   "p": 2.18,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "720": {
   "name": "Spiced Apple Caramel Parfait",
@@ -4370,7 +4373,7 @@
   "p": 21.55,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "722": {
   "name": "Vegan Muesli",
@@ -4381,7 +4384,7 @@
   "p": 10.2,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "727": {
   "name": "Pink Lady Apple Kombucha",
@@ -4393,7 +4396,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "728": {
   "name": "Pomegranate Kombucha",
@@ -4405,7 +4408,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7378": {
   "name": "Roasted Vegetable & Ricotta Cheese Wrap",
@@ -4416,7 +4419,7 @@
   "p": 10.05,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "740": {
   "name": "Bavarian Pretzel and Sausage Platter",
@@ -4427,7 +4430,7 @@
   "p": 33.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "744": {
   "name": "French Fries",
@@ -4438,7 +4441,7 @@
   "p": 2.7,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-28"
+  "seen": "2026-10-30"
  },
  "7457": {
   "name": "Cinnamon Raisin Bagel",
@@ -4449,7 +4452,7 @@
   "p": 10.66,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7530": {
   "name": "Assorted Cereal Cups",
@@ -4460,7 +4463,7 @@
   "p": 3.43,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7531": {
   "name": "Original Lays Baked Chips",
@@ -4471,7 +4474,7 @@
   "p": 1.99,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7539": {
   "name": "Chicken Caesar Wrap",
@@ -4482,7 +4485,7 @@
   "p": 40.18,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7584": {
   "name": "Halal Lemon Oregano Chicken Thigh",
@@ -4493,7 +4496,7 @@
   "p": 7.69,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7605": {
   "name": "Croissant",
@@ -4504,7 +4507,7 @@
   "p": 6.97,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "763": {
   "name": "Swiss Fondue Frites",
@@ -4515,7 +4518,7 @@
   "p": 12.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "764": {
   "name": "Fondue Frites w/ Rasher",
@@ -4526,7 +4529,7 @@
   "p": 23.21,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-27"
+  "seen": "2026-10-30"
  },
  "7644": {
   "name": "Kickin' Mayo",
@@ -4537,7 +4540,7 @@
   "p": 0.55,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "765": {
   "name": "Chocolate-Hazelnut & Seasonal Fresh Fruit Crepe",
@@ -4548,7 +4551,7 @@
   "p": 8.83,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "767": {
   "name": "Croque Madame",
@@ -4559,7 +4562,7 @@
   "p": 39.29,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "768": {
   "name": "Croque Monsieur",
@@ -4570,7 +4573,7 @@
   "p": 35.18,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "771": {
   "name": "Chocolate-Hazelnut & Seasonal Fresh Fruit Belgian Waffle",
@@ -4581,7 +4584,7 @@
   "p": 17.62,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "773": {
   "name": "Whipped Cream & Seasonal Fresh Fruit Belgian Waffle",
@@ -4592,7 +4595,7 @@
   "p": 15.25,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "775": {
   "name": "Brewed Tea",
@@ -4604,7 +4607,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "776": {
   "name": "Iced Brewed Coffee",
@@ -4615,7 +4618,7 @@
   "p": 7.07,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "777": {
   "name": "Nitro Cold Coffee",
@@ -4626,7 +4629,7 @@
   "p": 14.19,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7937": {
   "name": "Salad Bar Selection",
@@ -4638,7 +4641,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "798": {
   "name": "Avocado BLT Sandwich",
@@ -4649,7 +4652,7 @@
   "p": 8.08,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "799": {
   "name": "Apple & Peanut Butter Box",
@@ -4660,7 +4663,7 @@
   "p": 14.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8005": {
   "name": "Late Night Chicken Tenders Combo",
@@ -4693,7 +4696,7 @@
   "p": 7.54,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8041": {
   "name": "Gluten Free Italian Sandwich",
@@ -4704,7 +4707,7 @@
   "p": 43.58,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8042": {
   "name": "Gluten Free Avocado BLT Sandwich",
@@ -4715,7 +4718,7 @@
   "p": 6.65,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8063": {
   "name": "1/2 Turkey & Provolone Sandwich",
@@ -4726,7 +4729,7 @@
   "p": 20.36,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8064": {
   "name": "1/2 Ham & Swiss Sandwich",
@@ -4737,7 +4740,7 @@
   "p": 22.19,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8081": {
   "name": "Nut Free Asian Wonton Salad",
@@ -4748,7 +4751,7 @@
   "p": 7.69,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8122": {
   "name": "Frozen Yogurt Bar",
@@ -4760,7 +4763,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "821": {
   "name": "Fudgy Brownie",
@@ -4771,7 +4774,7 @@
   "p": 2.78,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "829": {
   "name": "Farro",
@@ -4793,7 +4796,7 @@
   "p": 29.91,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8296": {
   "name": "Vegan Chicken Caesar Wrap",
@@ -4804,7 +4807,7 @@
   "p": 26.26,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8383": {
   "name": "Cranberry Spritzer",
@@ -4815,7 +4818,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8384": {
   "name": "Apple Spritzer",
@@ -4826,7 +4829,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8385": {
   "name": "Orange Spritzer",
@@ -4837,7 +4840,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "846": {
   "name": "Panini Roll",
@@ -4860,7 +4863,7 @@
   "p": 15.01,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8471": {
   "name": "Vegan Chicken Caesar Salad",
@@ -4871,7 +4874,7 @@
   "p": 19.04,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8473": {
   "name": "Strawberry Hibiscus Lemonade",
@@ -4882,7 +4885,7 @@
   "p": 1.47,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8475": {
   "name": "Mango Mint",
@@ -4893,7 +4896,7 @@
   "p": 3.21,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8544": {
   "name": "Create-Your-Own Omelet Bar",
@@ -4904,8 +4907,8 @@
   "p": 0,
   "tags": [],
   "nodata": true,
-  "fetched": "2026-09-27",
-  "seen": "2026-10-25"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "8573": {
   "name": "Beef Chili Fondue Fries",
@@ -4916,7 +4919,7 @@
   "p": 21.63,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8580": {
   "name": "Zatar Chicken & Yam Soup",
@@ -4938,7 +4941,7 @@
   "p": 5.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8832": {
   "name": "Build and Go Frozen Yogurt",
@@ -4950,7 +4953,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "884": {
   "name": "Whole Grain Banana Waffle",
@@ -4961,7 +4964,7 @@
   "p": 2.22,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8840": {
   "name": "BUILD AND GO BREAKFAST YOGURT",
@@ -4973,7 +4976,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "886": {
   "name": "Oven Roasted Red Beets",
@@ -4984,7 +4987,7 @@
   "p": 1.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "888": {
   "name": "Cacao Butter",
@@ -4995,7 +4998,7 @@
   "p": 0.97,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8950": {
   "name": "Late Night Spicy Nashville Chicken Tenders Combo",
@@ -5017,7 +5020,7 @@
   "p": 24.99,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "901": {
   "name": "Brown Rice",
@@ -5028,7 +5031,7 @@
   "p": 3.34,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "908": {
   "name": "Brown Jasmine Rice",
@@ -5039,7 +5042,7 @@
   "p": 4.28,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9195": {
   "name": "Late Night Spicy Nashville Beyond Tenders Combo",
@@ -5061,7 +5064,7 @@
   "p": 5.1,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "930": {
   "name": "Tuna Salad Croissant Sandwich",
@@ -5072,7 +5075,7 @@
   "p": 45.86,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "946": {
   "name": "Roasted Cauliflower",
@@ -5083,7 +5086,7 @@
   "p": 1.65,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9516": {
   "name": "Chive Cream Cheese",
@@ -5094,7 +5097,7 @@
   "p": 2.84,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "956": {
   "name": "Brown Calrose Rice",
@@ -5105,7 +5108,7 @@
   "p": 2.16,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "957": {
   "name": "Roasted Butternut Squash",
@@ -5116,7 +5119,7 @@
   "p": 1.13,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9599": {
   "name": "Yogurt Bar",
@@ -5128,7 +5131,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9600": {
   "name": "Ice Cream & Frozen Yogurt Bar",
@@ -5140,7 +5143,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "961": {
   "name": "Marinated Roma Tomato Pizza",
@@ -5162,7 +5165,7 @@
   "p": 1.19,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9742": {
   "name": "Scrambled Egg Whites",
@@ -5173,7 +5176,7 @@
   "p": 9.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "984": {
   "name": "Roasted Broccoli",
@@ -5184,7 +5187,7 @@
   "p": 2.54,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "985": {
   "name": "Sauteed Kale",
@@ -5195,7 +5198,7 @@
   "p": 2.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "989": {
   "name": "Scrambled Egg Whites",
@@ -5206,7 +5209,7 @@
   "p": 9.25,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "994": {
   "name": "Pear-Pineapple Compote",
@@ -5217,7 +5220,7 @@
   "p": 0.3,
   "tags": [],
   "fetched": "2026-10-28",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10056": {
   "name": "Turkey, Sausage, & Egg English Muffin Sandwich",
@@ -5228,7 +5231,7 @@
   "p": 25.72,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10059": {
   "name": "Breakfast Ham, Cheese, & Egg Croissant",
@@ -5239,7 +5242,7 @@
   "p": 33.99,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10087": {
   "name": "Lebanese Rice Pudding",
@@ -5250,7 +5253,7 @@
   "p": 3.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10089": {
   "name": "Strawberry Iced Mocha Coffee",
@@ -5261,7 +5264,7 @@
   "p": 8.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10316": {
   "name": "Italian Tuna Sandwich",
@@ -5272,7 +5275,7 @@
   "p": 32.39,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10368": {
   "name": "Beef Hayashi Flatbread",
@@ -5305,7 +5308,7 @@
   "p": 31.6,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10386": {
   "name": "Breakfast Skillet Bowl",
@@ -5316,7 +5319,7 @@
   "p": 23.16,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10390": {
   "name": "Vegetarian Breakfast Skillet",
@@ -5327,7 +5330,7 @@
   "p": 17.41,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10394": {
   "name": "Coconut Matcha Cream Roll",
@@ -5338,7 +5341,7 @@
   "p": 12.57,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10470": {
   "name": "Chicken Vegetable Dumplings",
@@ -5349,7 +5352,7 @@
   "p": 16.13,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10472": {
   "name": "Vegetable Dumplings",
@@ -5360,7 +5363,7 @@
   "p": 2.15,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1069": {
   "name": "Sautéed Spinach",
@@ -5371,7 +5374,7 @@
   "p": 1.58,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1114": {
   "name": "Grilled Chicken",
@@ -5382,7 +5385,7 @@
   "p": 26.08,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1165": {
   "name": "Vegetable Egg Roll",
@@ -5393,7 +5396,7 @@
   "p": 1.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1167": {
   "name": "Multi-Grain Bread",
@@ -5404,7 +5407,7 @@
   "p": 3.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "117": {
   "name": "Marinara Sauce",
@@ -5415,7 +5418,7 @@
   "p": 1.29,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1180": {
   "name": "Roasted Eggplant",
@@ -5505,7 +5508,7 @@
   "p": 23.97,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1568": {
   "name": "Vegetable Dumplings",
@@ -5516,7 +5519,7 @@
   "p": 4.66,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-28"
+  "seen": "2026-10-30"
  },
  "1569": {
   "name": "Tunisian Vegetable Dip",
@@ -5561,7 +5564,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1631": {
   "name": "Lost Coast Downtown Brown",
@@ -5573,7 +5576,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1637": {
   "name": "Dark Horse Cabernet Sauvignon",
@@ -5584,7 +5587,7 @@
   "p": 0.12,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1640": {
   "name": "Line 39 Sauvignon Blanc",
@@ -5595,7 +5598,7 @@
   "p": 0.12,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1642": {
   "name": "OZV Red Blend",
@@ -5607,7 +5610,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1643": {
   "name": "Dark Horse Chardonnay",
@@ -5619,7 +5622,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1715": {
   "name": "Radish",
@@ -5641,7 +5644,7 @@
   "p": 1.87,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1892": {
   "name": "Thu - Lasagna Bolognese",
@@ -5652,7 +5655,7 @@
   "p": 49.72,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1915": {
   "name": "Garlic Fried Rice",
@@ -5708,7 +5711,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1954": {
   "name": "Lasagna Impossible Bolognese",
@@ -5730,7 +5733,7 @@
   "p": 4.04,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2028": {
   "name": "Pipi Kalua Flank Steak",
@@ -5762,8 +5765,8 @@
   "c": 17.07,
   "p": 2.02,
   "tags": [],
-  "fetched": "2026-09-27",
-  "seen": "2026-10-26"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "2184": {
   "name": "Olivada Fettuccine",
@@ -5807,7 +5810,7 @@
   "p": 2.08,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "228": {
   "name": "Dutch Apple Pie",
@@ -5840,7 +5843,7 @@
   "p": 3.38,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2376": {
   "name": "Spicy Tuna Roll",
@@ -5851,7 +5854,7 @@
   "p": 21.56,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2379": {
   "name": "Spicy Tuna Roll",
@@ -5862,7 +5865,7 @@
   "p": 8.32,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2396": {
   "name": "California Roll",
@@ -5873,7 +5876,7 @@
   "p": 16.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2401": {
   "name": "California Roll",
@@ -5884,7 +5887,7 @@
   "p": 10.32,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2409": {
   "name": "Cucumber & Avocado Roll",
@@ -5895,7 +5898,7 @@
   "p": 13.4,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2461": {
   "name": "Miso Soup",
@@ -5906,7 +5909,7 @@
   "p": 7.98,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2496": {
   "name": "Rotini, Pesto, & Kale Bowl",
@@ -5928,7 +5931,7 @@
   "p": 44.41,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "255": {
   "name": "Blondie w/ Walnuts",
@@ -5961,7 +5964,7 @@
   "p": 28.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2595": {
   "name": "Col. Karapet's Yardbird Cruncher",
@@ -5994,7 +5997,7 @@
   "p": 3.17,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2623": {
   "name": "Spiced Apple Caramel Parfait",
@@ -6005,7 +6008,7 @@
   "p": 22.81,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2630": {
   "name": "Blueberry Strudel Parfait",
@@ -6016,7 +6019,7 @@
   "p": 28.71,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2638": {
   "name": "Santa Cruz Spicy Lentil & Avocado Crema Tacos",
@@ -6082,7 +6085,7 @@
   "p": 0.92,
   "tags": [],
   "fetched": "2026-10-28",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "279": {
   "name": "Antipasto Salad",
@@ -6093,7 +6096,7 @@
   "p": 19.21,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "281": {
   "name": "White Cupcake",
@@ -6126,7 +6129,7 @@
   "p": 40.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "289": {
   "name": "White Chocolate Raspberry Pie",
@@ -6170,7 +6173,7 @@
   "p": 25.12,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2937": {
   "name": "Orange Chicken Bowl",
@@ -6181,7 +6184,7 @@
   "p": 30.38,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2945": {
   "name": "Peanut Butter",
@@ -6192,7 +6195,7 @@
   "p": 3.81,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "295": {
   "name": "Mini Maple Pecan Danish",
@@ -6214,7 +6217,7 @@
   "p": 35.46,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2976": {
   "name": "Grilled Sundried Tomato Marinated Chicken Thigh",
@@ -6247,7 +6250,7 @@
   "p": 42.63,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3017": {
   "name": "Herbed Cream Cheese",
@@ -6280,7 +6283,7 @@
   "p": 38.55,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3057": {
   "name": "Bean & Cheese Bowl",
@@ -6291,7 +6294,7 @@
   "p": 18.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3083": {
   "name": "Four Grain Waffles",
@@ -6313,7 +6316,7 @@
   "p": 6.8,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3114": {
   "name": "Beef Pho",
@@ -6324,7 +6327,7 @@
   "p": 11.07,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "320": {
   "name": "Grilled Salmon",
@@ -6335,7 +6338,7 @@
   "p": 23.19,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "321": {
   "name": "Roasted Seitan Skewer",
@@ -6346,7 +6349,7 @@
   "p": 27.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3221": {
   "name": "Raspberry Water",
@@ -6390,7 +6393,7 @@
   "p": 49.81,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3339": {
   "name": "Vegetable Hot Pot",
@@ -6412,7 +6415,7 @@
   "p": 36.78,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3376": {
   "name": "Crostini",
@@ -6446,7 +6449,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "344": {
   "name": "Chicken Fettuccine",
@@ -6458,7 +6461,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3441": {
   "name": "Green Tea Mousse",
@@ -6492,7 +6495,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3507": {
   "name": "BBQ Tempeh Wrap",
@@ -6514,7 +6517,7 @@
   "p": 13.88,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3561": {
   "name": "Zucchini Fritters w/ Cilantro Lime Cream",
@@ -6592,7 +6595,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3852": {
   "name": "Marinated Red Grape Tomatoes",
@@ -6757,7 +6760,7 @@
   "p": 65.56,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "457": {
   "name": "Baked Lays Potato Chips",
@@ -6768,7 +6771,7 @@
   "p": 1.99,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4614": {
   "name": "Butternut Squash Confit",
@@ -6845,7 +6848,7 @@
   "p": 17.52,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5276": {
   "name": "Tacchino",
@@ -6856,7 +6859,7 @@
   "p": 50.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5376": {
   "name": "Turkey Caprese Sandwich",
@@ -6867,7 +6870,7 @@
   "p": 47.8,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5378": {
   "name": "Greek Honey Pistachio Cake",
@@ -6878,7 +6881,7 @@
   "p": 3.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5379": {
   "name": "Ricotta Rosa Baked Pasta",
@@ -6890,7 +6893,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5384": {
   "name": "Portobello Sandwich",
@@ -6901,7 +6904,7 @@
   "p": 13.02,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5385": {
   "name": "Mozzarella Di Bufala Sandwich",
@@ -6912,7 +6915,7 @@
   "p": 30.81,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5400": {
   "name": "Smoked Salmon Bagel",
@@ -6923,7 +6926,7 @@
   "p": 29.21,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5479": {
   "name": "Classic Chocolate Chip Cookie",
@@ -6934,7 +6937,7 @@
   "p": 2.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5604": {
   "name": "Boston Brown Quickbread",
@@ -6957,7 +6960,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5611": {
   "name": "Boomtown Hazy IPA",
@@ -6969,7 +6972,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5857": {
   "name": "Garden Vegetable Macaroni & Cheese",
@@ -6991,7 +6994,7 @@
   "p": 7.28,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5889": {
   "name": "General Mills Cereal",
@@ -7013,7 +7016,7 @@
   "p": 31.26,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5896": {
   "name": "Formaggi",
@@ -7024,7 +7027,7 @@
   "p": 35.07,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5897": {
   "name": "Genova",
@@ -7035,7 +7038,7 @@
   "p": 58.28,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5899": {
   "name": "Korean Freestyle Bowl",
@@ -7047,7 +7050,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5905": {
   "name": "Carnivora",
@@ -7058,7 +7061,7 @@
   "p": 39.79,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5906": {
   "name": "Margherita",
@@ -7069,7 +7072,7 @@
   "p": 35.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5907": {
   "name": "Pepperoni",
@@ -7080,7 +7083,7 @@
   "p": 42.41,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5913": {
   "name": "Campania",
@@ -7091,7 +7094,7 @@
   "p": 21.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5916": {
   "name": "Jalapeño Cheese Sauce",
@@ -7102,7 +7105,7 @@
   "p": 5.4,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5926": {
   "name": "Vegetarian Japchae",
@@ -7113,7 +7116,7 @@
   "p": 1.67,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5927": {
   "name": "Kimchi Fried Rice",
@@ -7124,7 +7127,7 @@
   "p": 9.16,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5931": {
   "name": "Vegetable Egg Roll (Chunjuan)",
@@ -7135,7 +7138,7 @@
   "p": 3.0,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5932": {
   "name": "Kimchi Stir Fry w/ Tofu & Bell Pepper",
@@ -7146,7 +7149,7 @@
   "p": 6.6,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5933": {
   "name": "Korean Eggplant",
@@ -7157,7 +7160,7 @@
   "p": 6.96,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5934": {
   "name": "Vegetable Stir Fry",
@@ -7168,7 +7171,7 @@
   "p": 5.43,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5970": {
   "name": "Margherita Pizza",
@@ -7179,7 +7182,7 @@
   "p": 7.47,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-28"
+  "seen": "2026-10-30"
  },
  "6126": {
   "name": "Pork Riblets",
@@ -7190,7 +7193,7 @@
   "p": 14.65,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6135": {
   "name": "Miso Soup",
@@ -7213,7 +7216,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6185": {
   "name": "Sun Dried Tomato Cream Sauce",
@@ -7247,7 +7250,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6319": {
   "name": "Ramen Soup Broth",
@@ -7258,7 +7261,7 @@
   "p": 6.39,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6321": {
   "name": "Build-Your-Own Breakfast Bowl",
@@ -7293,7 +7296,7 @@
   "p": 35.9,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "634": {
   "name": "Chicken Caesar",
@@ -7304,7 +7307,7 @@
   "p": 43.64,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "636": {
   "name": "Mediterranean Salad",
@@ -7315,7 +7318,7 @@
   "p": 6.74,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6385": {
   "name": "Pepper Steak Salad",
@@ -7326,7 +7329,7 @@
   "p": 51.26,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6386": {
   "name": "Caprese Sandwich",
@@ -7337,7 +7340,7 @@
   "p": 32.12,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6387": {
   "name": "Chipotle Turkey Club Sandwich",
@@ -7348,7 +7351,7 @@
   "p": 45.17,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6390": {
   "name": "Ham & Swiss Croissant",
@@ -7359,7 +7362,7 @@
   "p": 27.64,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6395": {
   "name": "Cereal Bircher Muesli",
@@ -7370,7 +7373,7 @@
   "p": 20.34,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6396": {
   "name": "Vegan Cereal Muesli",
@@ -7381,7 +7384,7 @@
   "p": 10.2,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6397": {
   "name": "Apples & Peanut Butter Box",
@@ -7392,7 +7395,7 @@
   "p": 7.27,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6398": {
   "name": "Protein, Cheese, and Cracker Box",
@@ -7403,7 +7406,7 @@
   "p": 31.37,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "646": {
   "name": "Pollo Verdura",
@@ -7414,7 +7417,7 @@
   "p": 31.59,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "649": {
   "name": "Vegetarian Tagliata Salad",
@@ -7425,7 +7428,7 @@
   "p": 10.24,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6536": {
   "name": "Three Bean Portobello Chili",
@@ -7447,7 +7450,7 @@
   "p": 15.28,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6540": {
   "name": "Caesar",
@@ -7458,7 +7461,7 @@
   "p": 24.75,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6553": {
   "name": "Pitted Kalamata Olives",
@@ -7480,7 +7483,7 @@
   "p": 1.01,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "656": {
   "name": "Mon - Polpetta Italiano",
@@ -7491,7 +7494,7 @@
   "p": 53.42,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6576": {
   "name": "Italian Broccoli & Cauliflower",
@@ -7535,7 +7538,7 @@
   "p": 2.06,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "664": {
   "name": "Pollo Parma",
@@ -7546,7 +7549,7 @@
   "p": 51.59,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "666": {
   "name": "Florentino",
@@ -7557,7 +7560,7 @@
   "p": 43.12,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6855": {
   "name": "Corn & Lima Bean Succotash",
@@ -7579,7 +7582,7 @@
   "p": 40.47,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6904": {
   "name": "Garlicky Green Beans",
@@ -7645,7 +7648,7 @@
   "p": 1.3,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7145": {
   "name": "Pescado a La Veracruzana",
@@ -7689,7 +7692,7 @@
   "p": 26.07,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7204": {
   "name": "Oatmeal",
@@ -7712,7 +7715,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7219": {
   "name": "Dried Cranberry",
@@ -7723,7 +7726,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7220": {
   "name": "Oreo Cookie Pieces",
@@ -7734,7 +7737,7 @@
   "p": 1.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7221": {
   "name": "Dark Chocolate Sauce",
@@ -7745,7 +7748,7 @@
   "p": 0.94,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7222": {
   "name": "M&M Milk Chocolate Chopped",
@@ -7756,7 +7759,7 @@
   "p": 2.71,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7223": {
   "name": "Gummy Bears",
@@ -7767,7 +7770,7 @@
   "p": 0.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7224": {
   "name": "Rainbow Sprinkles",
@@ -7778,7 +7781,7 @@
   "p": 0.93,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7225": {
   "name": "Whipped Cream",
@@ -7790,7 +7793,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7226": {
   "name": "Semi Sweet Chocolate Chips",
@@ -7801,7 +7804,7 @@
   "p": 3.78,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7227": {
   "name": "Coconut Flakes",
@@ -7812,7 +7815,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7228": {
   "name": "Granola Clusters",
@@ -7823,7 +7826,7 @@
   "p": 4.35,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7295": {
   "name": "Santa Maria Grilled Tofu",
@@ -7855,8 +7858,8 @@
   "c": 4.99,
   "p": 1.82,
   "tags": [],
-  "fetched": "2026-09-27",
-  "seen": "2026-10-24"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "7345": {
   "name": "Oven Roasted Herb Potatoes",
@@ -7878,7 +7881,7 @@
   "p": 126.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7348": {
   "name": "Caramel Sea Salt",
@@ -7889,7 +7892,7 @@
   "p": 11.34,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7349": {
   "name": "Chocolate Chip Coffee",
@@ -7900,7 +7903,7 @@
   "p": 10.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7350": {
   "name": "Cookies and Cream",
@@ -7911,7 +7914,7 @@
   "p": 10.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7351": {
   "name": "Dark Chocolate",
@@ -7922,7 +7925,7 @@
   "p": 12.88,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7352": {
   "name": "Mint Chocolate Chip",
@@ -7933,7 +7936,7 @@
   "p": 10.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7353": {
   "name": "Pistachio",
@@ -7944,7 +7947,7 @@
   "p": 12.88,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7355": {
   "name": "Spumoni",
@@ -7955,7 +7958,7 @@
   "p": 10.07,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7356": {
   "name": "Peanut Butter Cup",
@@ -7966,7 +7969,7 @@
   "p": 15.46,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7357": {
   "name": "Strawberry Cheesecake",
@@ -7977,7 +7980,7 @@
   "p": 10.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7358": {
   "name": "Vanilla Bean",
@@ -7988,7 +7991,7 @@
   "p": 7.55,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7359": {
   "name": "Banana Dulce de Leche",
@@ -7999,7 +8002,7 @@
   "p": 7.73,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7360": {
   "name": "Birthday Cake",
@@ -8010,7 +8013,7 @@
   "p": 7.73,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7361": {
   "name": "Raspberry Pan Sorbet",
@@ -8022,7 +8025,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7362": {
   "name": "Strawberry Pan Sorbet",
@@ -8034,7 +8037,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7363": {
   "name": "Alphonso Mango Sorbet",
@@ -8045,7 +8048,7 @@
   "p": 0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7392": {
   "name": "Multi Grain Cheerios",
@@ -8134,7 +8137,7 @@
   "p": 2.53,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7425": {
   "name": "Chicken Teriyaki",
@@ -8145,7 +8148,7 @@
   "p": 20.06,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "753": {
   "name": "Garden Vegetable Soup",
@@ -8156,7 +8159,7 @@
   "p": 1.29,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7560": {
   "name": "Diced Tofu",
@@ -8178,7 +8181,7 @@
   "p": 1.12,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7807": {
   "name": "Chinese Cucumber Salad",
@@ -8189,7 +8192,7 @@
   "p": 0.44,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7824": {
   "name": "Coca-Cola Freestyle Soda",
@@ -8201,7 +8204,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7889": {
   "name": "Green Papaya Salad",
@@ -8223,7 +8226,7 @@
   "p": 23.98,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7934": {
   "name": "Roasted Zucchini",
@@ -8256,7 +8259,7 @@
   "p": 29.44,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8008": {
   "name": "Jalapeno",
@@ -8267,7 +8270,7 @@
   "p": 25.22,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8077": {
   "name": "Calamari Fritto",
@@ -8290,7 +8293,7 @@
   "p": 38.74,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8679": {
   "name": "Pancit Canton",
@@ -8312,7 +8315,7 @@
   "p": 12.67,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8779": {
   "name": "Shrimp Spring Roll",
@@ -8323,7 +8326,7 @@
   "p": 18.43,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8831": {
   "name": "Lemon Pepper Chicken Wings",
@@ -8334,7 +8337,7 @@
   "p": 85.14,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "887": {
   "name": "Sauteed Spinach & Kale",
@@ -8345,7 +8348,7 @@
   "p": 1.95,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8937": {
   "name": "Chimichanga Steak",
@@ -8367,7 +8370,7 @@
   "p": 37.09,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9295": {
   "name": "Teriyaki Seitan Burger",
@@ -8412,7 +8415,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9485": {
   "name": "Beef Scallion Pancake Roll",
@@ -8434,7 +8437,7 @@
   "p": 0.41,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9676": {
   "name": "Sausage & Pancakes",
@@ -8445,7 +8448,7 @@
   "p": 22.47,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9681": {
   "name": "Fresno Chili Shrimp",
@@ -8489,7 +8492,7 @@
   "p": 58.14,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9736": {
   "name": "Sausage and Cheese Calzone",
@@ -8500,7 +8503,7 @@
   "p": 64.08,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9737": {
   "name": "Pepperoni and Cheese Calzone",
@@ -8511,7 +8514,7 @@
   "p": 63.09,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9738": {
   "name": "Chicken, Pesto, and Cheese calzone",
@@ -8522,7 +8525,7 @@
   "p": 76.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9739": {
   "name": "Tue - Chicken Parmesan",
@@ -8533,7 +8536,7 @@
   "p": 61.53,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9801": {
   "name": "Italian Sausage Sandwich w/ Peppers & Onions",
@@ -8544,7 +8547,7 @@
   "p": 48.03,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9809": {
   "name": "Turkey Sausage Breakfast Burrito",
@@ -8555,7 +8558,7 @@
   "p": 25.52,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9811": {
   "name": "Yogurt & Egg Protein Box",
@@ -8566,7 +8569,7 @@
   "p": 24.25,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9883": {
   "name": "Chicken Salad Protein Box",
@@ -8577,7 +8580,7 @@
   "p": 69.74,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9886": {
   "name": "Chorizo Breakfast Burrito",
@@ -8588,7 +8591,7 @@
   "p": 38.31,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9958": {
   "name": "Blueberry Cobbler",
@@ -8610,7 +8613,7 @@
   "p": 34.14,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "997": {
   "name": "Pepperoni Deluxe Pizza",
@@ -8753,8 +8756,8 @@
   "c": 115.71,
   "p": 11.22,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "1456": {
   "name": "Japanese Curry",
@@ -8764,8 +8767,8 @@
   "c": 5.03,
   "p": 0.89,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "1458": {
   "name": "Stuffed Shells w/ Marinara",
@@ -8786,8 +8789,8 @@
   "c": 39.11,
   "p": 5.81,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "1589": {
   "name": "Vegetarian Nachos",
@@ -8808,8 +8811,8 @@
   "c": 20.09,
   "p": 20.3,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "1634": {
   "name": "Roasted Marinated Cherry Tomatoes",
@@ -8874,8 +8877,8 @@
   "c": 4.03,
   "p": 0.46,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "1705": {
   "name": "Pork Gyoza Dumpling",
@@ -9108,7 +9111,7 @@
   "p": 3.37,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2599": {
   "name": "Chimichurri Chicken Sandwich",
@@ -9252,7 +9255,7 @@
   "p": 2.69,
   "tags": [],
   "fetched": "2026-10-28",
-  "seen": "2026-10-28"
+  "seen": "2026-10-30"
  },
  "2864": {
   "name": "Chocolate Cake Donut",
@@ -9284,8 +9287,8 @@
   "c": 2.84,
   "p": 0.22,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "2997": {
   "name": "Halloumi Grilled Cheese Pita",
@@ -9538,7 +9541,7 @@
   "p": 3.66,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4273": {
   "name": "Roasted Chicken w/ Grilled Potato & Apple",
@@ -9592,8 +9595,8 @@
   "c": 13.48,
   "p": 17.33,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "5439": {
   "name": "Lentil Ragu, Egg, & Swiss Chard Bowl w/ Toast",
@@ -9626,8 +9629,8 @@
   "p": 0,
   "tags": [],
   "nodata": true,
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "6008": {
   "name": "Bacon, Spinach & Onion Pizza",
@@ -9648,8 +9651,8 @@
   "c": 11.86,
   "p": 13.45,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-27"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "6173": {
   "name": "Arrabbiata Sauce",
@@ -9770,7 +9773,7 @@
   "p": 34.91,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6760": {
   "name": "Vegetarian Bibimbap Bowl",
@@ -9781,7 +9784,7 @@
   "p": 22.8,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6840": {
   "name": "Four Cheese Ziti",
@@ -9846,8 +9849,8 @@
   "c": 10.67,
   "p": 2.63,
   "tags": [],
-  "fetched": "2026-09-28",
-  "seen": "2026-10-25"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "7609": {
   "name": "Green Onion Pancake",
@@ -9990,7 +9993,7 @@
   "p": 3.58,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "912": {
   "name": "Chipotle BBQ Grilled Chicken Thigh",
@@ -10100,7 +10103,7 @@
   "p": 40.25,
   "tags": [],
   "fetched": "2026-10-28",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10382": {
   "name": "Chickpea Salad w/ Roasted Chilies",
@@ -10122,7 +10125,7 @@
   "p": 4.84,
   "tags": [],
   "fetched": "2026-10-28",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10502": {
   "name": "Froot Loops",
@@ -10133,7 +10136,7 @@
   "p": 3.48,
   "tags": [],
   "fetched": "2026-10-28",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10503": {
   "name": "Honey Nut Cherrios",
@@ -10144,7 +10147,7 @@
   "p": 5.07,
   "tags": [],
   "fetched": "2026-10-28",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2077": {
   "name": "Honey Huli Huli Rotisserie Chicken",
@@ -10189,7 +10192,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-28",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6189": {
   "name": "Soup Special",
@@ -10291,7 +10294,7 @@
   "p": 1.73,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6663": {
   "name": "Peach Yogurt",
@@ -10513,7 +10516,7 @@
   "p": 2.04,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1418": {
   "name": "Chicken Adobo",
@@ -10645,8 +10648,8 @@
   "c": 3.95,
   "p": 0.54,
   "tags": [],
-  "fetched": "2026-09-29",
-  "seen": "2026-10-28"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "229": {
   "name": "Deep Dish Blackout Cake",
@@ -11207,7 +11210,7 @@
   "p": 2.02,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5387": {
   "name": "Savory Oatmeal w/Spinach, Mushrooms & Egg",
@@ -11351,7 +11354,7 @@
   "p": 7.78,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6905": {
   "name": "Roasted Brussels Sprouts",
@@ -11362,7 +11365,7 @@
   "p": 2.03,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6914": {
   "name": "Spicy Braised Lentils with Potato",
@@ -11395,7 +11398,7 @@
   "p": 13.29,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7972": {
   "name": "Marinara & Meatballs",
@@ -11682,7 +11685,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2602": {
   "name": "Pasta Arrabbiata",
@@ -11737,7 +11740,7 @@
   "p": 12.41,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1174": {
   "name": "Mixed Grains--Farro, Wheatberry, & Brown Rice",
@@ -11748,7 +11751,7 @@
   "p": 3.08,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1195": {
   "name": "Mignardise Gianduja Tart",
@@ -11816,7 +11819,7 @@
   "p": 3.28,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1431": {
   "name": "Fried Eggs",
@@ -11948,7 +11951,7 @@
   "p": 9.64,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2301": {
   "name": "Salmon, Dill Goat Cheese, & Cucumber Stacker",
@@ -12179,7 +12182,7 @@
   "p": 0.09,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3205": {
   "name": "Grilled Balsamic Eggplant",
@@ -12212,7 +12215,7 @@
   "p": 0.82,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3438": {
   "name": "Spicy Coleslaw",
@@ -12366,7 +12369,7 @@
   "p": 13.06,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4190": {
   "name": "White Bean Ragout w/ Quinoa, Green Beans, & Mushroom",
@@ -12509,7 +12512,7 @@
   "p": 18.45,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6192": {
   "name": "Cream of Rice Cereal",
@@ -12520,7 +12523,7 @@
   "p": 1.38,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6210": {
   "name": "Mushroom & Mozzarella Stromboli",
@@ -12697,7 +12700,7 @@
   "p": 4.66,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7608": {
   "name": "Balsamic Chicken Wings",
@@ -12862,7 +12865,7 @@
   "p": 1.01,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9876": {
   "name": "BBQ Beef Chili",
@@ -12884,7 +12887,7 @@
   "p": 6.7,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6574": {
   "name": "Chicken Tenders",
@@ -12953,7 +12956,7 @@
   "p": 6.96,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3900": {
   "name": "Chocolate Chip Cream Cheese",
@@ -13009,7 +13012,7 @@
   "p": 42.32,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "108": {
   "name": "Boston Clam Chowder",
@@ -13020,7 +13023,7 @@
   "p": 6.9,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1156": {
   "name": "Mexican Rice",
@@ -13042,7 +13045,7 @@
   "p": 10.63,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1241": {
   "name": "Red Velvet Torte w/ Champagne Mousse",
@@ -13053,7 +13056,7 @@
   "p": 4.51,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1263": {
   "name": "Dark Chocolate Loaf",
@@ -13064,7 +13067,7 @@
   "p": 3.54,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "130": {
   "name": "Seafood, Leek & Tomato Chowder",
@@ -13075,7 +13078,7 @@
   "p": 9.96,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1381": {
   "name": "Chipotle Chicken, Brown Rice, & Avocado Bowl",
@@ -13086,7 +13089,7 @@
   "p": 14.93,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1384": {
   "name": "Potato, Kale, Brown Rice, & Red Bean Bowl",
@@ -13097,7 +13100,7 @@
   "p": 4.19,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1392": {
   "name": "Lemon Poppy Bread",
@@ -13108,7 +13111,7 @@
   "p": 2.99,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1417": {
   "name": "Apricot Almond Bar",
@@ -13119,7 +13122,7 @@
   "p": 2.55,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1421": {
   "name": "Stewed Cannellini Beans w/ Tomatoes",
@@ -13130,7 +13133,7 @@
   "p": 2.69,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1560": {
   "name": "Naan Bread",
@@ -13185,7 +13188,7 @@
   "p": 22.39,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "178": {
   "name": "Mashed Potatoes",
@@ -13196,7 +13199,7 @@
   "p": 1.81,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1998": {
   "name": "Grilled Purple Sweet Potato",
@@ -13207,7 +13210,7 @@
   "p": 0.87,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2173": {
   "name": "Shrimp in Lobster Sauce",
@@ -13229,7 +13232,7 @@
   "p": 7.67,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2292": {
   "name": "Pear-Date Compote",
@@ -13240,7 +13243,7 @@
   "p": 0.36,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2335": {
   "name": "Boston Baked Lentils",
@@ -13262,7 +13265,7 @@
   "p": 2.89,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2515": {
   "name": "Cioppino Flatbread",
@@ -13273,7 +13276,7 @@
   "p": 9.67,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2531": {
   "name": "Baked Yam",
@@ -13284,7 +13287,7 @@
   "p": 0.82,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "257": {
   "name": "Cinnamon Streusel Coffee Cake",
@@ -13295,7 +13298,7 @@
   "p": 2.54,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2740": {
   "name": "Fried Calamari, Spinach, & Fennel Pita Sandwich",
@@ -13306,7 +13309,7 @@
   "p": 8.68,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2772": {
   "name": "Chicken Currant Pecan Salad",
@@ -13317,7 +13320,7 @@
   "p": 5.71,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2801": {
   "name": "Cucumber & Tomato Salad",
@@ -13328,7 +13331,7 @@
   "p": 2.32,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2827": {
   "name": "Daube Beef Provençal",
@@ -13339,7 +13342,7 @@
   "p": 4.78,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2942": {
   "name": "Butter Mochi",
@@ -13350,7 +13353,7 @@
   "p": 4.13,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2943": {
   "name": "Chinese Broccoli Stir Fry",
@@ -13372,7 +13375,7 @@
   "p": 2.14,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "307": {
   "name": "Cherry Almond Crumble Pie",
@@ -13383,7 +13386,7 @@
   "p": 3.41,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "312": {
   "name": "Almond Fudge Bar",
@@ -13394,7 +13397,7 @@
   "p": 4.21,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3185": {
   "name": "Mexican Style Deviled Shrimp (Camarones a la Diabla)",
@@ -13416,7 +13419,7 @@
   "p": 7.43,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3246": {
   "name": "BBQ Tofu Flatbread",
@@ -13427,7 +13430,7 @@
   "p": 6.38,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3250": {
   "name": "Chicken Tikka",
@@ -13438,7 +13441,7 @@
   "p": 25.35,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3271": {
   "name": "Malt-O-Meal",
@@ -13449,7 +13452,7 @@
   "p": 3.34,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3358": {
   "name": "Beef Birria Ramen",
@@ -13471,7 +13474,7 @@
   "p": 0.27,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3464": {
   "name": "Kumquat Compote",
@@ -13482,7 +13485,7 @@
   "p": 0.41,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3491": {
   "name": "Tuscan Kale Salad",
@@ -13493,7 +13496,7 @@
   "p": 5.6,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3493": {
   "name": "Barley Salad",
@@ -13504,7 +13507,7 @@
   "p": 3.48,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3508": {
   "name": "Thai Tofu Stacker",
@@ -13515,7 +13518,7 @@
   "p": 3.64,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3563": {
   "name": "Farro, White Bean, & Endive Flatbread",
@@ -13526,7 +13529,7 @@
   "p": 3.65,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3811": {
   "name": "Three Cheese & Tomato Pizza",
@@ -13537,7 +13540,7 @@
   "p": 8.12,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3996": {
   "name": "Roasted Summer Squash w/ Caramelized Onions",
@@ -13548,7 +13551,7 @@
   "p": 0.56,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4037": {
   "name": "Mushroom-Spinach Lasagna",
@@ -13559,7 +13562,7 @@
   "p": 6.12,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4052": {
   "name": "Whole Wheat Spaghetti w/ Garlic Clam Sauce",
@@ -13570,7 +13573,7 @@
   "p": 5.36,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4115": {
   "name": "Spiced Catfish w/ Cardamom Quinoa & Raita",
@@ -13581,7 +13584,7 @@
   "p": 9.68,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4250": {
   "name": "Chocolate Protein Donut",
@@ -13592,7 +13595,7 @@
   "p": 0.02,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4313": {
   "name": "Spaghetti Squash, Cauliflower, & Escarole Sauté Bowl",
@@ -13603,7 +13606,7 @@
   "p": 3.76,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4340": {
   "name": "French Green Lentil Pancake",
@@ -13614,7 +13617,7 @@
   "p": 8.71,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4489": {
   "name": "Induur Roasted Tri-Color Cauliflower",
@@ -13625,7 +13628,7 @@
   "p": 4.81,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4511": {
   "name": "Indian Rice Pudding",
@@ -13636,7 +13639,7 @@
   "p": 4.35,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5332": {
   "name": "Egg Drop Soup",
@@ -13647,7 +13650,7 @@
   "p": 2.75,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5935": {
   "name": "Beef Birria Plate",
@@ -13658,7 +13661,7 @@
   "p": 28.29,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6342": {
   "name": "Grilled Cheese Spanakopita",
@@ -13669,7 +13672,7 @@
   "p": 7.25,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6367": {
   "name": "Pork Torta Ahogada",
@@ -13724,7 +13727,7 @@
   "p": 4.99,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7627": {
   "name": "Induur Citrus Basmati Rice",
@@ -13746,7 +13749,7 @@
   "p": 15.17,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7765": {
   "name": "Tri-Color Roasted Cauliflower",
@@ -13768,7 +13771,7 @@
   "p": 4.64,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7993": {
   "name": "Salmon Succotash Bowl",
@@ -13801,7 +13804,7 @@
   "p": 22.76,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8377": {
   "name": "Jackfruit Birria Ramen",
@@ -13823,7 +13826,7 @@
   "p": 7.81,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "881": {
   "name": "Tri-Tip, Red Potato, Egg, & Arugula Bowl",
@@ -13834,7 +13837,7 @@
   "p": 14.25,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "890": {
   "name": "Roasted Gold & Red Beets",
@@ -13845,7 +13848,7 @@
   "p": 1.62,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9043": {
   "name": "Curly Fries",
@@ -13856,7 +13859,7 @@
   "p": 2.66,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9066": {
   "name": "Imogene's Black Bean & Potato Saute",
@@ -13867,7 +13870,7 @@
   "p": 18.55,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "918": {
   "name": "Golden Beet Poke Salad",
@@ -13878,7 +13881,7 @@
   "p": 1.92,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9399": {
   "name": "Chicken Sinigang",
@@ -13889,7 +13892,7 @@
   "p": 1.96,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "947": {
   "name": "Curried Cauliflower Salad",
@@ -13900,7 +13903,7 @@
   "p": 1.29,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "954": {
   "name": "Flatbread Sticks",
@@ -13911,7 +13914,7 @@
   "p": 1.49,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9604": {
   "name": "Naan Bread",
@@ -13922,7 +13925,7 @@
   "p": 3.23,
   "tags": [],
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9807": {
   "name": "Jackfruit Tinga Chilaquiles",
@@ -14077,7 +14080,7 @@
   "p": 15.22,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "1415": {
   "name": "Carrot Zucchini Bread",
@@ -14089,7 +14092,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "1465": {
   "name": "BBQ Chicken Quesadilla",
@@ -14100,7 +14103,7 @@
   "p": 59.34,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "1486": {
   "name": "Smoky Chick'n Quesadilla",
@@ -14111,7 +14114,7 @@
   "p": 22.01,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "1971": {
   "name": "Black Eyed Peas & Collard Greens",
@@ -14122,7 +14125,7 @@
   "p": 1.29,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-23"
+  "seen": "2026-10-30"
  },
  "2064": {
   "name": "Tri-Color Quinoa Pancake w/ Blueberries",
@@ -14133,7 +14136,7 @@
   "p": 4.21,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-17"
+  "seen": "2026-10-30"
  },
  "2102": {
   "name": "Spinach, Arugula, & White Bean Guacamole Wrap",
@@ -14144,7 +14147,7 @@
   "p": 5.74,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-17"
+  "seen": "2026-10-30"
  },
  "2130": {
   "name": "Falafel Stacker",
@@ -14155,7 +14158,7 @@
   "p": 7.88,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-17"
+  "seen": "2026-10-30"
  },
  "2255": {
   "name": "Steamed Barley",
@@ -14166,7 +14169,7 @@
   "p": 2.82,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-17"
+  "seen": "2026-10-30"
  },
  "2351": {
   "name": "Roasted Carrots & Onions",
@@ -14177,7 +14180,7 @@
   "p": 0.62,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-19"
+  "seen": "2026-10-30"
  },
  "2368": {
   "name": "Shrimp Scampi Pizza",
@@ -14199,7 +14202,7 @@
   "p": 37.74,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "2385": {
   "name": "Honey Lime Chicken Thighs",
@@ -14210,7 +14213,7 @@
   "p": 15.56,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "244": {
   "name": "Banana Cream Pie",
@@ -14221,7 +14224,7 @@
   "p": 3.19,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "247": {
   "name": "Banana Bread Pudding",
@@ -14232,7 +14235,7 @@
   "p": 8.01,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "269": {
   "name": "Banana Walnut Muffin",
@@ -14243,7 +14246,7 @@
   "p": 2.9,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "2795": {
   "name": "Chocolate Chip Pancakes",
@@ -14265,7 +14268,7 @@
   "p": 6.85,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "283": {
   "name": "Red Velvet Cupcake",
@@ -14276,7 +14279,7 @@
   "p": 5.82,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "2831": {
   "name": "Grilled Flank Steak Taco w/ Jicama-Chipotle Salsa",
@@ -14287,7 +14290,7 @@
   "p": 15.51,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-03"
+  "seen": "2026-10-30"
  },
  "3084": {
   "name": "Green Chile Rice w/ Black Beans & Egg",
@@ -14298,7 +14301,7 @@
   "p": 10.3,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-06"
+  "seen": "2026-10-30"
  },
  "3101": {
   "name": "Orange-Papaya Marmalade",
@@ -14309,7 +14312,7 @@
   "p": 0.1,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "3143": {
   "name": "Roasted Pork, Sorrel, & Goat Cheese Pizza",
@@ -14320,7 +14323,7 @@
   "p": 6.6,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-21"
+  "seen": "2026-10-30"
  },
  "3153": {
   "name": "Pear, Thyme, & Blue Cheese Pizza",
@@ -14331,7 +14334,7 @@
   "p": 4.65,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "3198": {
   "name": "Seitan, Brown Rice, Kale, & Carrot Bowl",
@@ -14342,7 +14345,7 @@
   "p": 12.61,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-03"
+  "seen": "2026-10-30"
  },
  "3354": {
   "name": "Lemon-Mint Water",
@@ -14353,7 +14356,7 @@
   "p": 0.09,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-22"
+  "seen": "2026-10-30"
  },
  "3756": {
   "name": "Flao Tart",
@@ -14364,7 +14367,7 @@
   "p": 3.06,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "3815": {
   "name": "Margherita Pizza",
@@ -14375,7 +14378,7 @@
   "p": 7.87,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4020": {
   "name": "Grilled Ginger Miso Tofu",
@@ -14386,7 +14389,7 @@
   "p": 6.54,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-23"
+  "seen": "2026-10-30"
  },
  "4133": {
   "name": "Wild Mushroom & Arugula Flatbread",
@@ -14397,7 +14400,7 @@
   "p": 4.72,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "4425": {
   "name": "Chile Roasted Turkey w/ Jalapeno-Lime Slaw",
@@ -14408,7 +14411,7 @@
   "p": 17.45,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-03"
+  "seen": "2026-10-30"
  },
  "4426": {
   "name": "Lentils w/ Roasted Beets & Carrots",
@@ -14419,7 +14422,7 @@
   "p": 6.42,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-03"
+  "seen": "2026-10-30"
  },
  "4615": {
   "name": "Green Lentil Butter",
@@ -14430,7 +14433,7 @@
   "p": 3.9,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "4782": {
   "name": "Protein Yeast Donut Sweetened",
@@ -14441,7 +14444,7 @@
   "p": 3.59,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "4881": {
   "name": "Salvadorian Coffee Cake",
@@ -14452,7 +14455,7 @@
   "p": 3.58,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "5595": {
   "name": "Apple Quickbread",
@@ -14463,7 +14466,7 @@
   "p": 2.35,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "5951": {
   "name": "Freshly Bowled Special",
@@ -14486,7 +14489,7 @@
   "p": 1.84,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "7343": {
   "name": "Country Fried Beef Steak",
@@ -14508,7 +14511,7 @@
   "p": 7.75,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-17"
+  "seen": "2026-10-30"
  },
  "8020": {
   "name": "Halal Orange Chipotle Herb Chicken Thigh",
@@ -14519,7 +14522,7 @@
   "p": 7.84,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-10"
+  "seen": "2026-10-30"
  },
  "8962": {
   "name": "Country-Style Gravy",
@@ -15007,7 +15010,7 @@
   "p": 0.92,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-28"
+  "seen": "2026-10-30"
  },
  "7086": {
   "name": "Sonoma Walnut Chicken Salad",
@@ -15018,7 +15021,7 @@
   "p": 9.94,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7682": {
   "name": "Carrot Walnut Zucchini Quickbread",
@@ -15866,7 +15869,7 @@
   "p": 3.51,
   "tags": [],
   "fetched": "2026-10-05",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1848": {
   "name": "Moroccan-Style Roasted Potatoes",
@@ -15932,7 +15935,7 @@
   "p": 3.57,
   "tags": [],
   "fetched": "2026-10-05",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5473": {
   "name": "Sliced Raisin Bread",
@@ -15943,7 +15946,7 @@
   "p": 2.69,
   "tags": [],
   "fetched": "2026-10-05",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5954": {
   "name": "Stone Oven Special",
@@ -17401,7 +17404,7 @@
   "p": 15.05,
   "tags": [],
   "fetched": "2026-10-06",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2209": {
   "name": "Cioppino",
@@ -17611,7 +17614,7 @@
   "p": 9.68,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2987": {
   "name": "Italian Marinated Grilled Chicken Thigh",
@@ -18151,7 +18154,7 @@
   "p": 23.1,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1540": {
   "name": "Spiced Baby Carrots w/ Cardamom Yogurt",
@@ -18206,7 +18209,7 @@
   "p": 45.43,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2675": {
   "name": "Santa Maria Rubbed Grilled Tofu",
@@ -18228,7 +18231,7 @@
   "p": 22.74,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2763": {
   "name": "Smash Beyond Taco",
@@ -18239,7 +18242,7 @@
   "p": 17.31,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2791": {
   "name": "Yaki Sake (Grilled Salmon)",
@@ -18261,7 +18264,7 @@
   "p": 3.0,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3166": {
   "name": "Orange Chipotle Herb Marinated Grilled Chicken Thigh",
@@ -18305,7 +18308,7 @@
   "p": 1.92,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "3513": {
   "name": "Albacore Tuna, Beet, Roasted Potato, & Egg Salad",
@@ -18415,7 +18418,7 @@
   "p": 1.92,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6193": {
   "name": "Quesabirria Taco",
@@ -18426,7 +18429,7 @@
   "p": 8.7,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "6491": {
   "name": "Lamb Kabsa",
@@ -18459,7 +18462,7 @@
   "p": 0.82,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7420": {
   "name": "Rice Jollof",
@@ -18470,7 +18473,7 @@
   "p": 2.01,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7590": {
   "name": "Halal Garlic Chicken Thigh",
@@ -18536,7 +18539,7 @@
   "p": 17.41,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8502": {
   "name": "Mixed Vegetable Fritto",
@@ -18680,7 +18683,7 @@
   "p": 55.33,
   "tags": [],
   "fetched": "2026-10-08",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8880": {
   "name": "Hibernation Habanero: Wake Up Your Taste Buds Within",
@@ -18801,7 +18804,7 @@
   "p": 9.34,
   "tags": [],
   "fetched": "2026-10-09",
-  "seen": "2026-10-10"
+  "seen": "2026-10-30"
  },
  "4057": {
   "name": "Warm Lentil & Arugula Salad",
@@ -20727,7 +20730,7 @@
   "p": 6.25,
   "tags": [],
   "fetched": "2026-10-13",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "877": {
   "name": "Spaghetti w/ Eggplant, Tomatoes & Olives",
@@ -20848,7 +20851,7 @@
   "p": 5.75,
   "tags": [],
   "fetched": "2026-10-13",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "4502": {
   "name": "Tiramisu",
@@ -20859,7 +20862,7 @@
   "p": 3.36,
   "tags": [],
   "fetched": "2026-10-13",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2253": {
   "name": "Roasted Yams",
@@ -21590,7 +21593,7 @@
   "p": 25.17,
   "tags": [],
   "fetched": "2026-10-15",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7373": {
   "name": "Poke Tuna Roll Sandwich",
@@ -21601,7 +21604,7 @@
   "p": 29.5,
   "tags": [],
   "fetched": "2026-10-15",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "8717": {
   "name": "Bistek Tagalog",
@@ -21667,7 +21670,7 @@
   "p": 13.57,
   "tags": [],
   "fetched": "2026-10-15",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9305": {
   "name": "Mango Shrimp Ceviche",
@@ -21678,7 +21681,7 @@
   "p": 18.26,
   "tags": [],
   "fetched": "2026-10-15",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9361": {
   "name": "Mango Salad",
@@ -23083,7 +23086,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-20",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5396": {
   "name": "Mashed Potatoes",
@@ -23578,7 +23581,7 @@
   "p": 8.74,
   "tags": [],
   "fetched": "2026-10-22",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7589": {
   "name": "Halal Herbs de Provencal Chicken Thigh",
@@ -23710,7 +23713,7 @@
   "p": 4.23,
   "tags": [],
   "fetched": "2026-10-23",
-  "seen": "2026-10-24"
+  "seen": "2026-10-30"
  },
  "5958": {
   "name": "Freshly Bowled Vegetarian Special",
@@ -23833,7 +23836,7 @@
   "p": 19.02,
   "tags": [],
   "fetched": "2026-10-26",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2524": {
   "name": "Black Quinoa",
@@ -23934,7 +23937,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "1936": {
   "name": "Roasted Red Potato Wedges",
@@ -24077,7 +24080,7 @@
   "p": 3.59,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "5993": {
   "name": "Okonomiyaki w/ Braised Pork Belly",
@@ -24089,7 +24092,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "7465": {
   "name": "Glazed Pork Adobo",
@@ -24100,7 +24103,7 @@
   "p": 28.59,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "9235": {
   "name": "Egg and Tomato Salad",
@@ -24111,6 +24114,163 @@
   "p": 7.4,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
+ },
+ "1356": {
+  "name": "Chocolate Cream Cheese",
+  "serving": "1.03oz",
+  "cal": 108.0,
+  "f": 7.45,
+  "c": 8.59,
+  "p": 1.75,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "3927": {
+  "name": "Raisin Bran Bread",
+  "serving": "23.41oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "6554": {
+  "name": "Dolci Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "7835": {
+  "name": "Vegan Brownie Bar",
+  "serving": "1.48oz",
+  "cal": 152.0,
+  "f": 8.61,
+  "c": 18.32,
+  "p": 2.26,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "10695": {
+  "name": "Halloween",
+  "serving": "0.1oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "1374": {
+  "name": "Cornbread",
+  "serving": "2.15oz",
+  "cal": 211.0,
+  "f": 12.08,
+  "c": 22.08,
+  "p": 2.8,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "2829": {
+  "name": "Baked Cod w/ Spicy Roma Sauce over Herbed Spaghetti",
+  "serving": "5.6oz",
+  "cal": 130.0,
+  "f": 5.21,
+  "c": 12.27,
+  "p": 9.86,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "4320": {
+  "name": "Carrot Cupcake",
+  "serving": "3.45oz",
+  "cal": 335.0,
+  "f": 20.7,
+  "c": 32.6,
+  "p": 3.88,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "8231": {
+  "name": "Monster Seafood Lobster Mac N Cheese",
+  "serving": "5.5oz",
+  "cal": 214.0,
+  "f": 14.54,
+  "c": 13.15,
+  "p": 8.13,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "8232": {
+  "name": "The Pep-Mallow Nightmare Pizza",
+  "serving": "3.64oz",
+  "cal": 330.0,
+  "f": 20.76,
+  "c": 25.16,
+  "p": 8.95,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "8233": {
+  "name": "The Boo-B-Q Bones",
+  "serving": "3.55oz",
+  "cal": 228.0,
+  "f": 14.26,
+  "c": 9.48,
+  "p": 15.38,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "8234": {
+  "name": "Crypt Keeper's Creamy Cabbage",
+  "serving": "4.24oz",
+  "cal": 302.0,
+  "f": 28.97,
+  "c": 8.7,
+  "p": 1.32,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "8250": {
+  "name": "Witches Brew Stew",
+  "serving": "7.58oz",
+  "cal": 101.0,
+  "f": 2.04,
+  "c": 5.58,
+  "p": 12.85,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "8251": {
+  "name": "Cursed Chicken Claws",
+  "serving": "3.6oz",
+  "cal": 210.0,
+  "f": 12.99,
+  "c": 4.09,
+  "p": 16.5,
+  "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  }
 }
