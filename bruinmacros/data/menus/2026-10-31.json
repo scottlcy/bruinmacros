@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "updated": "2026-10-30T18:38:46+00:00",
+ "updated": "2026-10-30T22:59:05+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -4855,14 +4855,15 @@
        "name": "DAILY SPECIALS",
        "items": [
         {
-         "id": "8929",
-         "name": "Mango Chia Pudding",
-         "serving": "2.86oz",
-         "cal": 407.0,
-         "p": 4.23,
-         "c": 33.16,
-         "f": 28.54,
-         "tags": []
+         "id": "10679",
+         "name": "Dr. Finkelstein Brain Dome",
+         "serving": "1oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },

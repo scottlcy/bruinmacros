@@ -5942,7 +5942,7 @@
   "p": 3.23,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2565": {
   "name": "Cauliflower Skordalia Spread",
@@ -10114,7 +10114,7 @@
   "p": 2.78,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10501": {
   "name": "Speical K Berry",
@@ -10560,8 +10560,8 @@
   "c": 24.09,
   "p": 6.86,
   "tags": [],
-  "fetched": "2026-09-29",
-  "seen": "2026-10-28"
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
  },
  "1912": {
   "name": "Pilipino Style Bihon Stir-Fried Noodles",
@@ -10693,7 +10693,7 @@
   "p": 3.13,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2516": {
   "name": "Grilled Santa Maria Tri-Tip",
@@ -12921,7 +12921,7 @@
   "p": 7.28,
   "tags": [],
   "fetched": "2026-09-30",
-  "seen": "2026-10-07"
+  "seen": "2026-10-30"
  },
  "5956": {
   "name": "Flex Bar Vegetarian Special",
@@ -12979,7 +12979,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-01",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "10038": {
   "name": "Nashville Hot Fish Sandwich",
@@ -15825,7 +15825,7 @@
   "p": 7.87,
   "tags": [],
   "fetched": "2026-10-04",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "287": {
   "name": "Cranberry Apple Crisp",
@@ -16048,7 +16048,7 @@
   "p": 2.5,
   "tags": [],
   "fetched": "2026-10-05",
-  "seen": "2026-10-27"
+  "seen": "2026-10-30"
  },
  "1985": {
   "name": "Baby Potatoes w/ Smoked Paprika",
@@ -17592,7 +17592,7 @@
   "p": 7.41,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-29"
+  "seen": "2026-10-30"
  },
  "2729": {
   "name": "Vegetable Pot Pie",
@@ -21813,7 +21813,7 @@
   "p": 6.36,
   "tags": [],
   "fetched": "2026-10-16",
-  "seen": "2026-10-17"
+  "seen": "2026-10-30"
  },
  "4349": {
   "name": "Shrimp w/ Red Beans, Polenta, & Swiss Chard",
@@ -24270,6 +24270,30 @@
   "c": 4.09,
   "p": 16.5,
   "tags": [],
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "10680": {
+  "name": "Zero Dog Bone Rice Krispy",
+  "serving": "1oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-10-30",
+  "seen": "2026-10-30"
+ },
+ "10679": {
+  "name": "Dr. Finkelstein Brain Dome",
+  "serving": "1oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
   "fetched": "2026-10-30",
   "seen": "2026-10-30"
  }
