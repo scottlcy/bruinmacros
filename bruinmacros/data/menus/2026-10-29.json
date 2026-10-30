@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "updated": "2026-10-29T23:17:57+00:00",
+ "updated": "2026-10-30T05:51:25+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -992,16 +992,6 @@
        "name": "The Pizzeria",
        "items": [
         {
-         "id": "3818",
-         "name": "Meatball Pizza",
-         "serving": "3.81oz",
-         "cal": 324.0,
-         "p": 9.93,
-         "c": 24.88,
-         "f": 19.76,
-         "tags": []
-        },
-        {
          "id": "3821",
          "name": "Pepper & Mushroom Pizza",
          "serving": "3.67oz",
@@ -1019,6 +1009,16 @@
          "p": 8.98,
          "c": 23.35,
          "f": 20.84,
+         "tags": []
+        },
+        {
+         "id": "3815",
+         "name": "Margherita Pizza",
+         "serving": "3.39oz",
+         "cal": 293.0,
+         "p": 7.87,
+         "c": 23.6,
+         "f": 17.8,
          "tags": []
         }
        ]
@@ -1103,16 +1103,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "2692",
-         "name": "Lemon Garlic Chicken Thighs",
-         "serving": "4.72oz",
-         "cal": 184.0,
-         "p": 22.57,
-         "c": 5.16,
-         "f": 7.34,
-         "tags": []
-        },
-        {
          "id": "6917",
          "name": "Spinach Lemon Rice",
          "serving": "3.56oz",
@@ -1150,6 +1140,16 @@
          "p": 1.29,
          "c": 6.12,
          "f": 0.65,
+         "tags": []
+        },
+        {
+         "id": "6366",
+         "name": "Mesquite BBQ Chicken",
+         "serving": "2.95oz",
+         "cal": 127.0,
+         "p": 15.05,
+         "c": 0,
+         "f": 5.78,
          "tags": []
         }
        ]
@@ -2595,16 +2595,6 @@
          "tags": []
         },
         {
-         "id": "1069",
-         "name": "Sautéed Spinach",
-         "serving": "2.27oz",
-         "cal": 27.0,
-         "p": 1.58,
-         "c": 3.12,
-         "f": 1.22,
-         "tags": []
-        },
-        {
          "id": "5953",
          "name": "Farm Stand Special",
          "serving": "4oz",
@@ -2614,6 +2604,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "887",
+         "name": "Sauteed Spinach & Kale",
+         "serving": "1.64oz",
+         "cal": 30.0,
+         "p": 1.95,
+         "c": 4.1,
+         "f": 1.15,
+         "tags": []
         }
        ]
       },
@@ -3929,13 +3929,23 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "7933",
-         "name": "Spaghetti & Meatballs",
-         "serving": "6.31oz",
-         "cal": 523.0,
-         "p": 19.19,
-         "c": 94.35,
-         "f": 8.62,
+         "id": "3220",
+         "name": "French Green Lentil Sauté",
+         "serving": "3.12oz",
+         "cal": 133.0,
+         "p": 7.53,
+         "c": 22.1,
+         "f": 2.28,
+         "tags": []
+        },
+        {
+         "id": "8659",
+         "name": "4 Cheese Baked Lasagna",
+         "serving": "5.96oz",
+         "cal": 408.0,
+         "p": 19.76,
+         "c": 33.16,
+         "f": 21.37,
          "tags": []
         },
         {
