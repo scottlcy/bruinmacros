@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "updated": "2026-10-30T22:58:44+00:00",
+ "updated": "2026-10-31T02:22:41+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -941,13 +941,13 @@
          "tags": []
         },
         {
-         "id": "3042",
-         "name": "Al Pastor-Style Mushroom Taco (Taco de Hongos)",
-         "serving": "3.72oz",
-         "cal": 141.0,
-         "p": 3.48,
-         "c": 22.2,
-         "f": 4.83,
+         "id": "7783",
+         "name": "Beyond Beef Tacos",
+         "serving": "4.75oz",
+         "cal": 272.0,
+         "p": 22.92,
+         "c": 26.48,
+         "f": 9.38,
          "tags": []
         }
        ]
@@ -3971,6 +3971,31 @@
        ]
       },
       {
+       "name": "Spice Kitchen",
+       "items": [
+        {
+         "id": "3465",
+         "name": "Baby Bok Choy Stir Fry",
+         "serving": "4.36oz",
+         "cal": 52.0,
+         "p": 1.94,
+         "c": 5.5,
+         "f": 2.79,
+         "tags": []
+        },
+        {
+         "id": "1568",
+         "name": "Vegetable Dumplings",
+         "serving": "2.16oz",
+         "cal": 136.0,
+         "p": 4.66,
+         "c": 15.31,
+         "f": 6.53,
+         "tags": []
+        }
+       ]
+      },
+      {
        "name": "Stone Oven",
        "items": [
         {
@@ -5892,6 +5917,17 @@
          "c": 3.13,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "10697",
+         "name": "Sliced Takuan",
+         "serving": "0.5oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },

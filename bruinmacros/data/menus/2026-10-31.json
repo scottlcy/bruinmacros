@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "updated": "2026-10-30T22:59:05+00:00",
+ "updated": "2026-10-31T02:23:06+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2494,13 +2494,13 @@
          "tags": []
         },
         {
-         "id": "3198",
-         "name": "Seitan, Brown Rice, Kale, & Carrot Bowl",
-         "serving": "6.15oz",
-         "cal": 267.0,
-         "p": 12.61,
-         "c": 35.22,
-         "f": 8.88,
+         "id": "2520",
+         "name": "Herbed Whole Wheat Spaghetti",
+         "serving": "2.14oz",
+         "cal": 59.0,
+         "p": 2.08,
+         "c": 9.96,
+         "f": 1.73,
          "tags": []
         }
        ]
@@ -4559,6 +4559,17 @@
          "c": 3.13,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "10697",
+         "name": "Sliced Takuan",
+         "serving": "0.5oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
