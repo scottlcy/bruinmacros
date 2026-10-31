@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "updated": "2026-10-31T02:22:41+00:00",
+ "updated": "2026-10-31T05:43:40+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1101,14 +1101,15 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "6366",
-         "name": "Mesquite BBQ Chicken",
-         "serving": "2.95oz",
-         "cal": 127.0,
-         "p": 15.05,
+         "id": "5876",
+         "name": "Front Burner Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
          "c": 0,
-         "f": 5.78,
-         "tags": []
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "7420",
@@ -3949,16 +3950,6 @@
        "name": "Bruin Wok",
        "items": [
         {
-         "id": "7465",
-         "name": "Glazed Pork Adobo",
-         "serving": "4.07oz",
-         "cal": 282.0,
-         "p": 28.59,
-         "c": 2.55,
-         "f": 17.01,
-         "tags": []
-        },
-        {
          "id": "9235",
          "name": "Egg and Tomato Salad",
          "serving": "2.31oz",
@@ -3966,6 +3957,16 @@
          "p": 7.4,
          "c": 1.64,
          "f": 4.48,
+         "tags": []
+        },
+        {
+         "id": "1418",
+         "name": "Chicken Adobo",
+         "serving": "4.07oz",
+         "cal": 349.0,
+         "p": 23.91,
+         "c": 2.55,
+         "f": 25.99,
          "tags": []
         }
        ]
