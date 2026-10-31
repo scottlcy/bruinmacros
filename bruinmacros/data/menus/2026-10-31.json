@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "updated": "2026-10-31T17:43:19+00:00",
+ "updated": "2026-10-31T21:32:59+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2087,13 +2087,13 @@
          "tags": []
         },
         {
-         "id": "2130",
-         "name": "Falafel Stacker",
-         "serving": "4.22oz",
-         "cal": 159.0,
-         "p": 7.88,
-         "c": 23.58,
-         "f": 4.04,
+         "id": "4001",
+         "name": "Chickpea Stacker w/ Yogurt-Tahini Sauce",
+         "serving": "5.24oz",
+         "cal": 245.0,
+         "p": 11.0,
+         "c": 35.74,
+         "f": 6.85,
          "tags": []
         },
         {
