@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "updated": "2026-10-31T21:32:59+00:00",
+ "updated": "2026-11-01T01:08:51+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1348,6 +1348,47 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
          "tags": []
         }
        ]
