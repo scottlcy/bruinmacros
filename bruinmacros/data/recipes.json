@@ -323,7 +323,7 @@
   "p": 12.66,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-10-30"
+  "seen": "2026-11-01"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -4940,7 +4940,7 @@
   "p": 5.4,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-10-29"
+  "seen": "2026-11-01"
  },
  "8598": {
   "name": "Turkey Bacon",
@@ -10293,7 +10293,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-29",
-  "seen": "2026-10-29"
+  "seen": "2026-11-01"
  },
  "6273": {
   "name": "Wilted Collard Greens",
@@ -12158,8 +12158,8 @@
   "c": 13.56,
   "p": 2.84,
   "tags": [],
-  "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "fetched": "2026-11-01",
+  "seen": "2026-11-01"
  },
  "3055": {
   "name": "Pear Butter",
@@ -12389,8 +12389,8 @@
   "c": 27.05,
   "p": 7.77,
   "tags": [],
-  "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "fetched": "2026-11-01",
+  "seen": "2026-11-01"
  },
  "4282": {
   "name": "Pork w/ Buckwheat Noodle in Roasted Vegetable Broth",
@@ -13131,8 +13131,8 @@
   "c": 17.05,
   "p": 2.55,
   "tags": [],
-  "fetched": "2026-10-01",
-  "seen": "2026-10-30"
+  "fetched": "2026-11-01",
+  "seen": "2026-11-01"
  },
  "1421": {
   "name": "Stewed Cannellini Beans w/ Tomatoes",
@@ -14577,7 +14577,7 @@
   "p": 5.42,
   "tags": [],
   "fetched": "2026-10-02",
-  "seen": "2026-10-02"
+  "seen": "2026-11-01"
  },
  "1674": {
   "name": "Rich Chocolate Cake",
@@ -14975,7 +14975,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-03",
-  "seen": "2026-10-18"
+  "seen": "2026-11-01"
  },
  "6245": {
   "name": "Kitchen Special",
@@ -16796,7 +16796,7 @@
   "p": 11.61,
   "tags": [],
   "fetched": "2026-10-06",
-  "seen": "2026-10-07"
+  "seen": "2026-11-01"
  },
  "2178": {
   "name": "Corn Couscous Fritter",
@@ -18053,7 +18053,7 @@
   "p": 3.1,
   "tags": [],
   "fetched": "2026-10-07",
-  "seen": "2026-10-28"
+  "seen": "2026-11-01"
  },
  "10202": {
   "name": "Braised Pork Tenderloin",
@@ -21890,7 +21890,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-16",
-  "seen": "2026-10-20"
+  "seen": "2026-11-01"
  },
  "7261": {
   "name": "BBQ Pulled Pork",
@@ -24270,7 +24270,7 @@
   "p": 12.85,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-10-31"
+  "seen": "2026-11-01"
  },
  "8251": {
   "name": "Cursed Chicken Claws",
@@ -24361,6 +24361,17 @@
   "p": 0,
   "tags": [],
   "nodata": true,
+  "fetched": "2026-11-01",
+  "seen": "2026-11-01"
+ },
+ "10627": {
+  "name": "Tomato Corn Salad w/ Queso Fresco",
+  "serving": "15.43oz",
+  "cal": 854.0,
+  "f": 67.04,
+  "c": 33.5,
+  "p": 24.4,
+  "tags": [],
   "fetched": "2026-11-01",
   "seen": "2026-11-01"
  }

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "updated": "2026-11-01T18:25:53+00:00",
+ "updated": "2026-11-01T22:49:22+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -731,16 +731,6 @@
          "tags": []
         },
         {
-         "id": "7336",
-         "name": "Roasted Cauliflower",
-         "serving": "3.37oz",
-         "cal": 54.0,
-         "p": 1.82,
-         "c": 4.99,
-         "f": 3.4,
-         "tags": []
-        },
-        {
          "id": "7338",
          "name": "Roasted Fingerling Potato",
          "serving": "1.11oz",
@@ -748,6 +738,16 @@
          "p": 0.6,
          "c": 5.07,
          "f": 0.27,
+         "tags": []
+        },
+        {
+         "id": "6904",
+         "name": "Garlicky Green Beans",
+         "serving": "2.22oz",
+         "cal": 29.0,
+         "p": 1.4,
+         "c": 5.85,
+         "f": 0.38,
          "tags": []
         }
        ]
@@ -1205,6 +1205,27 @@
          "c": 13.19,
          "f": 9.49,
          "tags": []
+        },
+        {
+         "id": "8250",
+         "name": "Witches Brew Stew",
+         "serving": "7.58oz",
+         "cal": 101.0,
+         "p": 12.85,
+         "c": 5.58,
+         "f": 2.04,
+         "tags": []
+        },
+        {
+         "id": "5948",
+         "name": "Flex Bar Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1222,16 +1243,6 @@
          "tags": []
         },
         {
-         "id": "7336",
-         "name": "Roasted Cauliflower",
-         "serving": "3.37oz",
-         "cal": 54.0,
-         "p": 1.82,
-         "c": 4.99,
-         "f": 3.4,
-         "tags": []
-        },
-        {
          "id": "6903",
          "name": "Pan Roasted Mushrooms with Onions",
          "serving": "2.8oz",
@@ -1239,6 +1250,16 @@
          "p": 2.07,
          "c": 4.4,
          "f": 1.51,
+         "tags": []
+        },
+        {
+         "id": "7338",
+         "name": "Roasted Fingerling Potato",
+         "serving": "1.11oz",
+         "cal": 25.0,
+         "p": 0.6,
+         "c": 5.07,
+         "f": 0.27,
          "tags": []
         }
        ]
@@ -1320,6 +1341,46 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 78.0,
+         "p": 8.35,
+         "c": 1.62,
+         "f": 3.95,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "10627",
+         "name": "Tomato Corn Salad w/ Queso Fresco",
+         "serving": "15.43oz",
+         "cal": 854.0,
+         "p": 24.4,
+         "c": 33.5,
+         "f": 67.04,
+         "tags": []
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168.0,
+         "p": 4.26,
+         "c": 17.16,
+         "f": 8.76,
          "tags": []
         }
        ]
@@ -2039,6 +2100,28 @@
          "c": 3.12,
          "f": 1.22,
          "tags": []
+        },
+        {
+         "id": "5953",
+         "name": "Farm Stand Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "6266",
+         "name": "Farmstand Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -2081,13 +2164,13 @@
          "tags": []
         },
         {
-         "id": "3508",
-         "name": "Thai Tofu Stacker",
-         "serving": "2.1oz",
-         "cal": 74.0,
-         "p": 3.64,
-         "c": 10.03,
-         "f": 2.17,
+         "id": "2996",
+         "name": "Farro-Mushroom Stacker",
+         "serving": "4.18oz",
+         "cal": 175.0,
+         "p": 2.84,
+         "c": 13.56,
+         "f": 13.07,
          "tags": []
         },
         {
@@ -2171,16 +2254,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -2191,13 +2264,13 @@
          "tags": []
         },
         {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
+         "id": "1417",
+         "name": "Apricot Almond Bar",
+         "serving": "1.37oz",
+         "cal": 126.0,
+         "p": 2.55,
+         "c": 17.05,
+         "f": 5.57,
          "tags": []
         },
         {
@@ -2242,13 +2315,23 @@
          "tags": []
         },
         {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
+         "id": "2728",
+         "name": "Fig Compote",
+         "serving": "1.27oz",
+         "cal": 71.0,
+         "p": 0.92,
+         "c": 17.4,
+         "f": 0.26,
+         "tags": []
+        },
+        {
+         "id": "2179",
+         "name": "Pineapple Compote",
+         "serving": "1.02oz",
+         "cal": 35.0,
+         "p": 0.12,
+         "c": 9.09,
+         "f": 0.03,
          "tags": []
         },
         {
@@ -2259,26 +2342,6 @@
          "p": 3.81,
          "c": 6.0,
          "f": 6.21,
-         "tags": []
-        },
-        {
-         "id": "3454",
-         "name": "Apple, Grapefruit, & Ginger Marmalade",
-         "serving": "1.58oz",
-         "cal": 70.0,
-         "p": 0.17,
-         "c": 17.89,
-         "f": 0.05,
-         "tags": []
-        },
-        {
-         "id": "3436",
-         "name": "Green Tea-Shiso Marmalade",
-         "serving": "1.52oz",
-         "cal": 49.0,
-         "p": 0.12,
-         "c": 12.29,
-         "f": 0.06,
          "tags": []
         }
        ]
@@ -2639,16 +2702,6 @@
          "tags": []
         },
         {
-         "id": "929",
-         "name": "Red Quinoa",
-         "serving": "2.33oz",
-         "cal": 97.0,
-         "p": 3.68,
-         "c": 17.13,
-         "f": 1.54,
-         "tags": []
-        },
-        {
          "id": "984",
          "name": "Roasted Broccoli",
          "serving": "3.21oz",
@@ -2666,6 +2719,46 @@
          "p": 1.95,
          "c": 4.1,
          "f": 1.15,
+         "tags": []
+        },
+        {
+         "id": "4197",
+         "name": "Tempeh Chili",
+         "serving": "8.1oz",
+         "cal": 100.0,
+         "p": 5.42,
+         "c": 11.68,
+         "f": 3.81,
+         "tags": []
+        },
+        {
+         "id": "4190",
+         "name": "White Bean Ragout w/ Quinoa, Green Beans, & Mushroom",
+         "serving": "4.98oz",
+         "cal": 160.0,
+         "p": 7.77,
+         "c": 27.05,
+         "f": 2.99,
+         "tags": []
+        },
+        {
+         "id": "968",
+         "name": "Bulgur Wheat",
+         "serving": "2.03oz",
+         "cal": 81.0,
+         "p": 3.1,
+         "c": 15.68,
+         "f": 0.44,
+         "tags": []
+        },
+        {
+         "id": "2134",
+         "name": "Honey-Glazed Tempeh",
+         "serving": "2.53oz",
+         "cal": 140.0,
+         "p": 11.61,
+         "c": 12.29,
+         "f": 6.11,
          "tags": []
         }
        ]
@@ -3299,13 +3392,13 @@
          "tags": []
         },
         {
-         "id": "8581",
-         "name": "Beef Barley Soup",
-         "serving": "4oz",
-         "cal": 49.0,
-         "p": 3.68,
-         "c": 6.24,
-         "f": 1.12,
+         "id": "8580",
+         "name": "Zatar Chicken & Yam Soup",
+         "serving": "5.95oz",
+         "cal": 66.0,
+         "p": 5.4,
+         "c": 7.57,
+         "f": 1.6,
          "tags": []
         },
         {
