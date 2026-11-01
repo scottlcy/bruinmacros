@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "updated": "2026-11-01T06:07:48+00:00",
+ "updated": "2026-11-01T18:25:53+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -343,6 +343,26 @@
          "c": 2.3,
          "f": 0.05,
          "tags": []
+        },
+        {
+         "id": "7658",
+         "name": "Sliced Mozzarella Cheese",
+         "serving": "3oz",
+         "cal": 122.0,
+         "p": 12.13,
+         "c": 2.02,
+         "f": 7.08,
+         "tags": []
+        },
+        {
+         "id": "204",
+         "name": "Diced Ham",
+         "serving": "0.13lb",
+         "cal": 2.0,
+         "p": 0.22,
+         "c": 0.04,
+         "f": 0.04,
+         "tags": []
         }
        ]
       },
@@ -387,6 +407,16 @@
          "p": 2.2,
          "c": 14.19,
          "f": 10.17,
+         "tags": []
+        },
+        {
+         "id": "229",
+         "name": "Deep Dish Blackout Cake",
+         "serving": "3.42oz",
+         "cal": 282.0,
+         "p": 4.9,
+         "c": 37.65,
+         "f": 18.21,
          "tags": []
         }
        ]
@@ -711,13 +741,13 @@
          "tags": []
         },
         {
-         "id": "6903",
-         "name": "Pan Roasted Mushrooms with Onions",
-         "serving": "2.8oz",
-         "cal": 36.0,
-         "p": 2.07,
-         "c": 4.4,
-         "f": 1.51,
+         "id": "7338",
+         "name": "Roasted Fingerling Potato",
+         "serving": "1.11oz",
+         "cal": 25.0,
+         "p": 0.6,
+         "c": 5.07,
+         "f": 0.27,
          "tags": []
         }
        ]
@@ -800,6 +830,37 @@
          "c": 2.3,
          "f": 0.05,
          "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 78.0,
+         "p": 8.35,
+         "c": 1.62,
+         "f": 3.95,
+         "tags": []
         }
        ]
       },
@@ -857,16 +918,6 @@
          "tags": []
         },
         {
-         "id": "4849",
-         "name": "Pumpkin Bake",
-         "serving": "5.05oz",
-         "cal": 316.0,
-         "p": 5.27,
-         "c": 41.34,
-         "f": 15.31,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -887,6 +938,26 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4906",
+         "name": "Magic Bar",
+         "serving": "1.48oz",
+         "cal": 190.0,
+         "p": 2.89,
+         "c": 23.24,
+         "f": 9.63,
+         "tags": []
+        },
+        {
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
         }
        ]
       }
@@ -1446,16 +1517,6 @@
          "tags": []
         },
         {
-         "id": "2179",
-         "name": "Pineapple Compote",
-         "serving": "1.02oz",
-         "cal": 35.0,
-         "p": 0.12,
-         "c": 9.09,
-         "f": 0.03,
-         "tags": []
-        },
-        {
          "id": "3004",
          "name": "Waffle",
          "serving": "1.25oz",
@@ -1463,6 +1524,16 @@
          "p": 1.49,
          "c": 12.43,
          "f": 1.49,
+         "tags": []
+        },
+        {
+         "id": "994",
+         "name": "Pear-Pineapple Compote",
+         "serving": "1.76oz",
+         "cal": 48.0,
+         "p": 0.3,
+         "c": 11.92,
+         "f": 0.06,
          "tags": []
         }
        ]
@@ -1571,24 +1642,26 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
+         "id": "1415",
+         "name": "Carrot Zucchini Bread",
+         "serving": "57.86oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
-         "tags": []
+         "id": "3927",
+         "name": "Raisin Bran Bread",
+         "serving": "23.41oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "176",
@@ -1659,6 +1732,26 @@
          "p": 0.12,
          "c": 12.29,
          "f": 0.06,
+         "tags": []
+        },
+        {
+         "id": "2179",
+         "name": "Pineapple Compote",
+         "serving": "1.02oz",
+         "cal": 35.0,
+         "p": 0.12,
+         "c": 9.09,
+         "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "2728",
+         "name": "Fig Compote",
+         "serving": "1.27oz",
+         "cal": 71.0,
+         "p": 0.92,
+         "c": 17.4,
+         "f": 0.26,
          "tags": []
         }
        ]
