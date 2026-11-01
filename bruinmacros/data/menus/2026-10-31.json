@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "updated": "2026-11-01T01:08:51+00:00",
+ "updated": "2026-11-01T06:07:28+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -995,16 +995,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "8231",
-         "name": "Monster Seafood Lobster Mac N Cheese",
-         "serving": "5.5oz",
-         "cal": 214.0,
-         "p": 8.13,
-         "c": 13.15,
-         "f": 14.54,
-         "tags": []
-        },
-        {
          "id": "2884",
          "name": "Macaroni & Cheese",
          "serving": "3.15oz",
@@ -1013,6 +1003,17 @@
          "c": 22.55,
          "f": 9.9,
          "tags": []
+        },
+        {
+         "id": "5876",
+         "name": "Front Burner Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1195,16 +1196,6 @@
          "tags": []
         },
         {
-         "id": "1976",
-         "name": "Chicken Tortilla Soup",
-         "serving": "6.05oz",
-         "cal": 181.0,
-         "p": 9.39,
-         "c": 25.64,
-         "f": 4.32,
-         "tags": []
-        },
-        {
          "id": "753",
          "name": "Garden Vegetable Soup",
          "serving": "6oz",
@@ -1232,6 +1223,16 @@
          "p": 16.5,
          "c": 4.09,
          "f": 12.99,
+         "tags": []
+        },
+        {
+         "id": "10041",
+         "name": "Rustic Sausage Potato Kale Soup",
+         "serving": "5.98oz",
+         "cal": 63.0,
+         "p": 3.22,
+         "c": 8.88,
+         "f": 1.9,
          "tags": []
         }
        ]
@@ -1437,16 +1438,6 @@
          "tags": []
         },
         {
-         "id": "247",
-         "name": "Banana Bread Pudding",
-         "serving": "6.53oz",
-         "cal": 413.0,
-         "p": 8.01,
-         "c": 40.11,
-         "f": 23.96,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -1476,6 +1467,26 @@
          "p": 3.88,
          "c": 32.6,
          "f": 20.7,
+         "tags": []
+        },
+        {
+         "id": "4910",
+         "name": "Peach Cobbler",
+         "serving": "5.55oz",
+         "cal": 277.0,
+         "p": 3.44,
+         "c": 52.17,
+         "f": 11.22,
+         "tags": []
+        },
+        {
+         "id": "229",
+         "name": "Deep Dish Blackout Cake",
+         "serving": "3.42oz",
+         "cal": 282.0,
+         "p": 4.9,
+         "c": 37.65,
+         "f": 18.21,
          "tags": []
         }
        ]
@@ -2571,16 +2582,6 @@
        "name": "Soups",
        "items": [
         {
-         "id": "447",
-         "name": "Chicken Noodle Soup",
-         "serving": "6.05oz",
-         "cal": 217.0,
-         "p": 9.96,
-         "c": 36.03,
-         "f": 4.23,
-         "tags": []
-        },
-        {
          "id": "152",
          "name": "Creamy Tomato Basil Soup",
          "serving": "6.05oz",
@@ -2589,22 +2590,22 @@
          "c": 10.11,
          "f": 9.26,
          "tags": []
+        },
+        {
+         "id": "1976",
+         "name": "Chicken Tortilla Soup",
+         "serving": "6.05oz",
+         "cal": 181.0,
+         "p": 9.39,
+         "c": 25.64,
+         "f": 4.32,
+         "tags": []
         }
        ]
       },
       {
        "name": "Freshly Bowled",
        "items": [
-        {
-         "id": "2829",
-         "name": "Baked Cod w/ Spicy Roma Sauce over Herbed Spaghetti",
-         "serving": "5.6oz",
-         "cal": 130.0,
-         "p": 9.86,
-         "c": 12.27,
-         "f": 5.21,
-         "tags": []
-        },
         {
          "id": "2520",
          "name": "Herbed Whole Wheat Spaghetti",
@@ -2614,22 +2615,23 @@
          "c": 9.96,
          "f": 1.73,
          "tags": []
+        },
+        {
+         "id": "5951",
+         "name": "Freshly Bowled Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
       {
        "name": "Harvest",
        "items": [
-        {
-         "id": "2831",
-         "name": "Grilled Flank Steak Taco w/ Jicama-Chipotle Salsa",
-         "serving": "5.05oz",
-         "cal": 184.0,
-         "p": 15.51,
-         "c": 19.73,
-         "f": 4.49,
-         "tags": []
-        },
         {
          "id": "4426",
          "name": "Lentils w/ Roasted Beets & Carrots",
@@ -2639,6 +2641,17 @@
          "c": 21.77,
          "f": 7.81,
          "tags": []
+        },
+        {
+         "id": "5957",
+         "name": "Harvest Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -2727,16 +2740,6 @@
          "tags": []
         },
         {
-         "id": "4020",
-         "name": "Grilled Ginger Miso Tofu",
-         "serving": "2.56oz",
-         "cal": 127.0,
-         "p": 6.54,
-         "c": 5.0,
-         "f": 9.4,
-         "tags": []
-        },
-        {
          "id": "971",
          "name": "Potato & Red Pepper Hash",
          "serving": "2.31oz",
@@ -2744,6 +2747,16 @@
          "p": 1.01,
          "c": 8.31,
          "f": 4.38,
+         "tags": []
+        },
+        {
+         "id": "4048",
+         "name": "Lemon Ginger Tofu",
+         "serving": "2.85oz",
+         "cal": 99.0,
+         "p": 6.52,
+         "c": 7.02,
+         "f": 5.6,
          "tags": []
         }
        ]

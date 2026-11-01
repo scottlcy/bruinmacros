@@ -10669,8 +10669,8 @@
   "c": 37.65,
   "p": 4.9,
   "tags": [],
-  "fetched": "2026-09-29",
-  "seen": "2026-10-28"
+  "fetched": "2026-10-31",
+  "seen": "2026-10-31"
  },
  "2297": {
   "name": "Cinnamon Polenta Pancake w/ Apple Cranberry Compote",
@@ -12466,8 +12466,8 @@
   "c": 52.17,
   "p": 3.44,
   "tags": [],
-  "fetched": "2026-09-30",
-  "seen": "2026-10-29"
+  "fetched": "2026-10-31",
+  "seen": "2026-10-31"
  },
  "5438": {
   "name": "Jalapeno Egg, Plantain & Black Bean Bowl",
@@ -12955,7 +12955,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-30",
-  "seen": "2026-10-30"
+  "seen": "2026-10-31"
  },
  "2050": {
   "name": "Penne Pasta",
@@ -14488,7 +14488,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-02",
-  "seen": "2026-10-18"
+  "seen": "2026-10-31"
  },
  "7333": {
   "name": "Garlic Flavored Rice",
@@ -20187,7 +20187,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-12",
-  "seen": "2026-10-16"
+  "seen": "2026-10-31"
  },
  "6170": {
   "name": "Roasted Broccolini",
@@ -24317,6 +24317,17 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-30",
+  "seen": "2026-10-31"
+ },
+ "4048": {
+  "name": "Lemon Ginger Tofu",
+  "serving": "2.85oz",
+  "cal": 99.0,
+  "f": 5.6,
+  "c": 7.02,
+  "p": 6.52,
+  "tags": [],
+  "fetched": "2026-10-31",
   "seen": "2026-10-31"
  }
 }
