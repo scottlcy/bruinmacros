@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "updated": "2026-11-02T02:30:39+00:00",
+ "updated": "2026-11-02T06:06:29+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -986,16 +986,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "3018",
-         "name": "Al Pastor Pork Street Tacos",
-         "serving": "5.71oz",
-         "cal": 249.0,
-         "p": 14.42,
-         "c": 23.85,
-         "f": 10.76,
-         "tags": []
-        },
-        {
          "id": "3042",
          "name": "Al Pastor-Style Mushroom Taco (Taco de Hongos)",
          "serving": "3.72oz",
@@ -1004,22 +994,22 @@
          "c": 22.2,
          "f": 4.83,
          "tags": []
+        },
+        {
+         "id": "10668",
+         "name": "Birria Taco",
+         "serving": "3oz",
+         "cal": 71.0,
+         "p": 1.95,
+         "c": 14.39,
+         "f": 0.87,
+         "tags": []
         }
        ]
       },
       {
        "name": "The Kitchen",
        "items": [
-        {
-         "id": "6239",
-         "name": "Pescado a la Veracruzana",
-         "serving": "5.45oz",
-         "cal": 98.0,
-         "p": 14.64,
-         "c": 5.96,
-         "f": 1.79,
-         "tags": []
-        },
         {
          "id": "1931",
          "name": "Mexican Rice",
@@ -1039,6 +1029,17 @@
          "c": 8.45,
          "f": 8.77,
          "tags": []
+        },
+        {
+         "id": "6245",
+         "name": "Kitchen Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1197,17 +1198,6 @@
          "tags": []
         },
         {
-         "id": "5948",
-         "name": "Flex Bar Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
          "id": "766",
          "name": "Tomato & Fresh Basil Soup",
          "serving": "6oz",
@@ -1233,16 +1223,6 @@
        "name": "Seasonal Sides",
        "items": [
         {
-         "id": "7335",
-         "name": "Roasted Broccoli w/ Garlic",
-         "serving": "3.24oz",
-         "cal": 85.0,
-         "p": 2.65,
-         "c": 5.21,
-         "f": 6.36,
-         "tags": []
-        },
-        {
          "id": "6903",
          "name": "Pan Roasted Mushrooms with Onions",
          "serving": "2.8oz",
@@ -1260,6 +1240,16 @@
          "p": 0.6,
          "c": 5.07,
          "f": 0.27,
+         "tags": []
+        },
+        {
+         "id": "6904",
+         "name": "Garlicky Green Beans",
+         "serving": "2.22oz",
+         "cal": 29.0,
+         "p": 1.4,
+         "c": 5.85,
+         "f": 0.38,
          "tags": []
         }
        ]
@@ -1399,26 +1389,6 @@
          "tags": []
         },
         {
-         "id": "309",
-         "name": "Snickerdoodle Cookies",
-         "serving": "1.3oz",
-         "cal": 141.0,
-         "p": 0.86,
-         "c": 31.26,
-         "f": 2.36,
-         "tags": []
-        },
-        {
-         "id": "242",
-         "name": "Chocolate Silk Pie",
-         "serving": "2.48oz",
-         "cal": 224.0,
-         "p": 2.91,
-         "c": 20.06,
-         "f": 17.39,
-         "tags": []
-        },
-        {
          "id": "297",
          "name": "Red Velvet Brownie",
          "serving": "2.49oz",
@@ -1469,6 +1439,26 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "5601",
+         "name": "Fudge Brownie",
+         "serving": "2.2oz",
+         "cal": 229.0,
+         "p": 3.7,
+         "c": 28.69,
+         "f": 14.48,
+         "tags": []
+        },
+        {
+         "id": "1088",
+         "name": "Pecan Pie",
+         "serving": "3.6oz",
+         "cal": 407.0,
+         "p": 3.19,
+         "c": 52.59,
+         "f": 20.72,
+         "tags": []
         }
        ]
       }
@@ -2587,16 +2577,6 @@
        "name": "Soups",
        "items": [
         {
-         "id": "10041",
-         "name": "Rustic Sausage Potato Kale Soup",
-         "serving": "5.98oz",
-         "cal": 63.0,
-         "p": 3.22,
-         "c": 8.88,
-         "f": 1.9,
-         "tags": []
-        },
-        {
          "id": "152",
          "name": "Creamy Tomato Basil Soup",
          "serving": "6.05oz",
@@ -2604,6 +2584,16 @@
          "p": 1.85,
          "c": 10.11,
          "f": 9.26,
+         "tags": []
+        },
+        {
+         "id": "1976",
+         "name": "Chicken Tortilla Soup",
+         "serving": "6.05oz",
+         "cal": 181.0,
+         "p": 9.39,
+         "c": 25.64,
+         "f": 4.32,
          "tags": []
         }
        ]
@@ -2630,6 +2620,16 @@
          "c": 21.88,
          "f": 5.43,
          "tags": []
+        },
+        {
+         "id": "1976",
+         "name": "Chicken Tortilla Soup",
+         "serving": "6.05oz",
+         "cal": 181.0,
+         "p": 9.39,
+         "c": 25.64,
+         "f": 4.32,
+         "tags": []
         }
        ]
       },
@@ -2637,14 +2637,15 @@
        "name": "Harvest",
        "items": [
         {
-         "id": "1085",
-         "name": "Roasted Lamb",
-         "serving": "2.17oz",
-         "cal": 104.0,
-         "p": 8.57,
-         "c": 0.69,
-         "f": 7.17,
-         "tags": []
+         "id": "5957",
+         "name": "Harvest Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "2200",
@@ -3235,13 +3236,13 @@
        "name": "Psistaris",
        "items": [
         {
-         "id": "2013",
-         "name": "Spanish Style Grilled Pork Chop",
-         "serving": "3.55oz",
-         "cal": 106.0,
-         "p": 0.15,
-         "c": 0.84,
-         "f": 10.88,
+         "id": "2741",
+         "name": "Lemon & Sage Marinated Pork Chops",
+         "serving": "3.74oz",
+         "cal": 70.0,
+         "p": 0.43,
+         "c": 3.06,
+         "f": 6.9,
          "tags": []
         },
         {
@@ -3351,13 +3352,13 @@
          "tags": []
         },
         {
-         "id": "8580",
-         "name": "Zatar Chicken & Yam Soup",
-         "serving": "5.95oz",
-         "cal": 66.0,
-         "p": 5.4,
-         "c": 7.57,
-         "f": 1.6,
+         "id": "8581",
+         "name": "Beef Barley Soup",
+         "serving": "4oz",
+         "cal": 49.0,
+         "p": 3.68,
+         "c": 6.24,
+         "f": 1.12,
          "tags": []
         },
         {
@@ -3443,17 +3444,6 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "6181",
-         "name": "Mezze Vegetarian Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
          "id": "5962",
          "name": "Mezze Special",
          "serving": "4oz",
@@ -3474,16 +3464,6 @@
          "f": 0,
          "tags": [],
          "nodata": true
-        },
-        {
-         "id": "2360",
-         "name": "Turkish Eggplant Gratin w/ Mustard Greens & Bulgur",
-         "serving": "6.99oz",
-         "cal": 285.0,
-         "p": 7.23,
-         "c": 33.7,
-         "f": 13.63,
-         "tags": []
         },
         {
          "id": "5476",
