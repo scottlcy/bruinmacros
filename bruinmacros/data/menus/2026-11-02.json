@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "updated": "2026-11-03T03:55:53+00:00",
+ "updated": "2026-11-03T06:49:19+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -961,16 +961,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "9813",
-         "name": "Seared Salmon w/Spicy Peruvian Salsa Verde",
-         "serving": "4.41oz",
-         "cal": 236.0,
-         "p": 20.56,
-         "c": 0.76,
-         "f": 15.97,
-         "tags": []
-        },
-        {
          "id": "6915",
          "name": "Quinoa Pilaf",
          "serving": "4.45oz",
@@ -988,6 +978,16 @@
          "p": 6.42,
          "c": 3.31,
          "f": 11.79,
+         "tags": []
+        },
+        {
+         "id": "2692",
+         "name": "Lemon Garlic Chicken Thighs",
+         "serving": "4.72oz",
+         "cal": 184.0,
+         "p": 22.57,
+         "c": 5.16,
+         "f": 7.34,
          "tags": []
         }
        ]
@@ -1352,16 +1352,6 @@
          "tags": []
         },
         {
-         "id": "228",
-         "name": "Dutch Apple Pie",
-         "serving": "4.4oz",
-         "cal": 323.0,
-         "p": 3.5,
-         "c": 46.86,
-         "f": 13.26,
-         "tags": []
-        },
-        {
          "id": "3958",
          "name": "Cranberry Crunch Bar",
          "serving": "1.92oz",
@@ -1369,16 +1359,6 @@
          "p": 2.8,
          "c": 29.91,
          "f": 9.39,
-         "tags": []
-        },
-        {
-         "id": "4925",
-         "name": "Oreo Mousse",
-         "serving": "3.98oz",
-         "cal": 424.0,
-         "p": 2.54,
-         "c": 28.11,
-         "f": 30.41,
          "tags": []
         },
         {
@@ -1421,6 +1401,16 @@
          "p": 1.47,
          "c": 29.65,
          "f": 3.21,
+         "tags": []
+        },
+        {
+         "id": "297",
+         "name": "Red Velvet Brownie",
+         "serving": "2.49oz",
+         "cal": 290.0,
+         "p": 6.58,
+         "c": 36.32,
+         "f": 13.27,
          "tags": []
         }
        ]
@@ -4006,25 +3996,14 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "2741",
-         "name": "Lemon & Sage Marinated Pork Chops",
-         "serving": "3.74oz",
-         "cal": 70.0,
-         "p": 0.43,
-         "c": 3.06,
-         "f": 6.9,
+         "id": "5341",
+         "name": "Braised Lamb",
+         "serving": "2.31oz",
+         "cal": 76.0,
+         "p": 5.62,
+         "c": 3.64,
+         "f": 4.17,
          "tags": []
-        },
-        {
-         "id": "5962",
-         "name": "Mezze Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         },
         {
          "id": "1989",
@@ -4034,6 +4013,16 @@
          "p": 3.96,
          "c": 13.05,
          "f": 2.27,
+         "tags": []
+        },
+        {
+         "id": "3561",
+         "name": "Zucchini Fritters w/ Cilantro Lime Cream",
+         "serving": "4.1oz",
+         "cal": 92.0,
+         "p": 3.34,
+         "c": 8.67,
+         "f": 5.62,
          "tags": []
         },
         {
