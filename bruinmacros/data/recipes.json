@@ -679,7 +679,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-11-01",
-  "seen": "2026-11-02"
+  "seen": "2026-11-03"
  },
  "6379": {
   "name": "Bulgur Wheat",
@@ -15088,8 +15088,8 @@
   "c": 29.22,
   "p": 5.98,
   "tags": [],
-  "fetched": "2026-10-04",
-  "seen": "2026-11-02"
+  "fetched": "2026-11-03",
+  "seen": "2026-11-03"
  },
  "1525": {
   "name": "Pomodoro",
@@ -19614,7 +19614,7 @@
   "p": 9.87,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-11-02"
+  "seen": "2026-11-03"
  },
  "9813": {
   "name": "Seared Salmon w/Spicy Peruvian Salsa Verde",
@@ -19658,7 +19658,7 @@
   "p": 10.47,
   "tags": [],
   "fetched": "2026-10-11",
-  "seen": "2026-11-02"
+  "seen": "2026-11-03"
  },
  "2006": {
   "name": "Sautéed Mushrooms",
@@ -20189,7 +20189,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-12",
-  "seen": "2026-11-01"
+  "seen": "2026-11-03"
  },
  "6170": {
   "name": "Roasted Broccolini",
@@ -20200,7 +20200,7 @@
   "p": 3.6,
   "tags": [],
   "fetched": "2026-10-12",
-  "seen": "2026-10-22"
+  "seen": "2026-11-03"
  },
  "6534": {
   "name": "Pork al Pastor",

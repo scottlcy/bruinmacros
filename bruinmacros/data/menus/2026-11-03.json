@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "updated": "2026-11-04T00:36:49+00:00",
+ "updated": "2026-11-04T06:24:50+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1076,16 +1076,6 @@
          "tags": []
         },
         {
-         "id": "6527",
-         "name": "Coney Island Hot Dog",
-         "serving": "10oz",
-         "cal": 1624.0,
-         "p": 81.85,
-         "c": 114.24,
-         "f": 105.28,
-         "tags": []
-        },
-        {
          "id": "7183",
          "name": "Blue Buffalo Chicken Sandwich",
          "serving": "8.25oz",
@@ -1106,31 +1096,20 @@
          "tags": []
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
       {
        "name": "Harvest Kitchen",
        "items": [
-        {
-         "id": "10635",
-         "name": "New England Baked White Fish",
-         "serving": "4.25oz",
-         "cal": 239.0,
-         "p": 16.05,
-         "c": 25.34,
-         "f": 7.78,
-         "tags": []
-        },
         {
          "id": "7331",
          "name": "Herbed Rice Pilaf",
@@ -1162,33 +1141,33 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149.0,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49,
+         "id": "9521",
+         "name": "Colombian Lentil and Chorizo Stew",
+         "serving": "8.6oz",
+         "cal": 223.0,
+         "p": 9.87,
+         "c": 31.22,
+         "f": 6.97,
          "tags": []
         },
         {
-         "id": "3190",
-         "name": "New England Style Clambake",
-         "serving": "6.67oz",
-         "cal": 329.0,
-         "p": 14.42,
-         "c": 13.97,
-         "f": 23.45,
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133.0,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26,
          "tags": []
         },
         {
-         "id": "2385",
-         "name": "Honey Lime Chicken Thighs",
-         "serving": "3.26oz",
-         "cal": 125.0,
-         "p": 15.56,
-         "c": 5.35,
-         "f": 3.83,
+         "id": "9881",
+         "name": "Beyond Beef and Rice",
+         "serving": "5.51oz",
+         "cal": 301.0,
+         "p": 10.47,
+         "c": 51.29,
+         "f": 5.09,
          "tags": []
         }
        ]
@@ -2553,14 +2532,15 @@
        "name": "Harvest",
        "items": [
         {
-         "id": "3985",
-         "name": "Chipotle Beef Taco w/ Curtido",
-         "serving": "3.43oz",
-         "cal": 231.0,
-         "p": 11.45,
-         "c": 19.59,
-         "f": 12.1,
-         "tags": []
+         "id": "5957",
+         "name": "Harvest Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "4202",
@@ -3920,6 +3900,48 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "1485",
+         "name": "Carrot-Cumin Farro",
+         "serving": "4.39oz",
+         "cal": 157.0,
+         "p": 5.98,
+         "c": 29.22,
+         "f": 2.28,
+         "tags": []
+        },
+        {
+         "id": "6170",
+         "name": "Roasted Broccolini",
+         "serving": "4.02oz",
+         "cal": 26.0,
+         "p": 3.6,
+         "c": 3.25,
+         "f": 0.56,
+         "tags": []
+        },
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -4157,16 +4179,6 @@
          "p": 9.4,
          "c": 0,
          "f": 4.7,
-         "tags": []
-        },
-        {
-         "id": "1047",
-         "name": "Italiano Panini",
-         "serving": "4.83oz",
-         "cal": 309.0,
-         "p": 17.8,
-         "c": 15.84,
-         "f": 21.37,
          "tags": []
         }
        ]
