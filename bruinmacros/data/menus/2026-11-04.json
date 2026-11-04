@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated": "2026-11-03T20:07:50+00:00",
+ "updated": "2026-11-04T00:37:18+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -3279,10 +3279,10 @@
          "id": "1606",
          "name": "Chicken Noodle Soup",
          "serving": "6.01oz",
-         "cal": 340.0,
+         "cal": 438.0,
          "p": 14.12,
          "c": 65.16,
-         "f": 3.25,
+         "f": 14.12,
          "tags": []
         },
         {
@@ -3828,10 +3828,10 @@
          "id": "1606",
          "name": "Chicken Noodle Soup",
          "serving": "6.01oz",
-         "cal": 340.0,
+         "cal": 438.0,
          "p": 14.12,
          "c": 65.16,
-         "f": 3.25,
+         "f": 14.12,
          "tags": []
         },
         {

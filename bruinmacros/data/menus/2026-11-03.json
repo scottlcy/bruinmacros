@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "updated": "2026-11-03T20:06:41+00:00",
+ "updated": "2026-11-04T00:36:49+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1170,6 +1170,26 @@
          "c": 13.19,
          "f": 9.49,
          "tags": []
+        },
+        {
+         "id": "3190",
+         "name": "New England Style Clambake",
+         "serving": "6.67oz",
+         "cal": 329.0,
+         "p": 14.42,
+         "c": 13.97,
+         "f": 23.45,
+         "tags": []
+        },
+        {
+         "id": "2385",
+         "name": "Honey Lime Chicken Thighs",
+         "serving": "3.26oz",
+         "cal": 125.0,
+         "p": 15.56,
+         "c": 5.35,
+         "f": 3.83,
+         "tags": []
         }
        ]
       },
@@ -1285,6 +1305,46 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168.0,
+         "p": 4.26,
+         "c": 17.16,
+         "f": 8.76,
+         "tags": []
+        },
+        {
+         "id": "10627",
+         "name": "Tomato Corn Salad w/ Queso Fresco",
+         "serving": "15.43oz",
+         "cal": 854.0,
+         "p": 24.4,
+         "c": 33.5,
+         "f": 67.04,
+         "tags": []
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 78.0,
+         "p": 8.35,
+         "c": 1.62,
+         "f": 3.95,
          "tags": []
         }
        ]
@@ -3370,13 +3430,13 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "1029",
-         "name": "Beef Brisket",
-         "serving": "3.07oz",
-         "cal": 126.0,
-         "p": 14.6,
-         "c": 0.75,
-         "f": 7.11,
+         "id": "8491",
+         "name": "Apple-Glazed Pork",
+         "serving": "3.92oz",
+         "cal": 211.0,
+         "p": 15.38,
+         "c": 5.94,
+         "f": 12.81,
          "tags": []
         },
         {
@@ -3583,16 +3643,6 @@
          "p": 7.47,
          "c": 23.68,
          "f": 8.3,
-         "tags": []
-        },
-        {
-         "id": "1697",
-         "name": "Chicken & Sundried Tomato Pizza",
-         "serving": "4.03oz",
-         "cal": 220.0,
-         "p": 14.73,
-         "c": 23.52,
-         "f": 7.03,
          "tags": []
         },
         {
@@ -4107,6 +4157,16 @@
          "p": 9.4,
          "c": 0,
          "f": 4.7,
+         "tags": []
+        },
+        {
+         "id": "1047",
+         "name": "Italiano Panini",
+         "serving": "4.83oz",
+         "cal": 309.0,
+         "p": 17.8,
+         "c": 15.84,
+         "f": 21.37,
          "tags": []
         }
        ]
