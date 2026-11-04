@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated": "2026-11-04T06:25:14+00:00",
+ "updated": "2026-11-04T20:26:28+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -531,13 +531,13 @@
          "tags": []
         },
         {
-         "id": "3801",
-         "name": "Pepperoni Pizza",
-         "serving": "3.55oz",
-         "cal": 324.0,
-         "p": 8.98,
-         "c": 23.35,
-         "f": 20.84,
+         "id": "995",
+         "name": "Detroit-Style Pepperoni Pizza",
+         "serving": "4.08oz",
+         "cal": 364.0,
+         "p": 11.21,
+         "c": 23.67,
+         "f": 24.54,
          "tags": []
         }
        ]
@@ -784,6 +784,47 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 78.0,
+         "p": 8.35,
+         "c": 1.62,
+         "f": 3.95,
+         "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "10627",
+         "name": "Tomato Corn Salad w/ Queso Fresco",
+         "serving": "15.43oz",
+         "cal": 854.0,
+         "p": 24.4,
+         "c": 33.5,
+         "f": 67.04,
          "tags": []
         }
        ]
@@ -1429,13 +1470,13 @@
          "tags": []
         },
         {
-         "id": "2733",
-         "name": "Apple & Asian Pear Compote",
-         "serving": "1.34oz",
-         "cal": 25.0,
-         "p": 0.18,
-         "c": 5.53,
-         "f": 0.29,
+         "id": "994",
+         "name": "Pear-Pineapple Compote",
+         "serving": "1.76oz",
+         "cal": 48.0,
+         "p": 0.3,
+         "c": 11.92,
+         "f": 0.06,
          "tags": []
         },
         {
@@ -2239,13 +2280,13 @@
        "name": "Beverage Special",
        "items": [
         {
-         "id": "3163",
-         "name": "Pineapple Water",
-         "serving": "11.01oz",
-         "cal": 9.0,
-         "p": 0.09,
-         "c": 2.15,
-         "f": 0.03,
+         "id": "3390",
+         "name": "Orange Pomegranate Water",
+         "serving": "10.92oz",
+         "cal": 27.0,
+         "p": 0.19,
+         "c": 6.5,
+         "f": 0.12,
          "tags": []
         },
         {
@@ -3368,6 +3409,36 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "7641",
+         "name": "Chicken Spinach Florentine Lasagna",
+         "serving": "9.24oz",
+         "cal": 505.0,
+         "p": 30.03,
+         "c": 31.99,
+         "f": 28.77,
+         "tags": []
+        },
+        {
+         "id": "1820",
+         "name": "Bouillabaisse",
+         "serving": "3.37oz",
+         "cal": 74.0,
+         "p": 7.72,
+         "c": 4.73,
+         "f": 2.97,
+         "tags": []
+        },
+        {
+         "id": "968",
+         "name": "Bulgur Wheat",
+         "serving": "2.03oz",
+         "cal": 81.0,
+         "p": 3.1,
+         "c": 15.68,
+         "f": 0.44,
+         "tags": []
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3408,16 +3479,6 @@
          "tags": []
         },
         {
-         "id": "6696",
-         "name": "Parsley Pesto",
-         "serving": "1.31oz",
-         "cal": 159.0,
-         "p": 4.86,
-         "c": 2.09,
-         "f": 14.78,
-         "tags": []
-        },
-        {
          "id": "173",
          "name": "Hummus",
          "serving": "0.13lb",
@@ -3435,16 +3496,6 @@
          "p": 2.57,
          "c": 1.22,
          "f": 0.53,
-         "tags": []
-        },
-        {
-         "id": "4416",
-         "name": "Baba Ghanoush",
-         "serving": "4.64oz",
-         "cal": 71.0,
-         "p": 2.1,
-         "c": 8.55,
-         "f": 3.8,
          "tags": []
         },
         {
@@ -3488,36 +3539,6 @@
          "tags": []
         },
         {
-         "id": "1277",
-         "name": "Paprika Garlic Spread",
-         "serving": "1.18oz",
-         "cal": 227.0,
-         "p": 0.41,
-         "c": 1.63,
-         "f": 24.29,
-         "tags": []
-        },
-        {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
-        },
-        {
-         "id": "1323",
-         "name": "Morrocan Spicy Lentil Dip",
-         "serving": "4.19oz",
-         "cal": 190.0,
-         "p": 12.44,
-         "c": 32.65,
-         "f": 1.69,
-         "tags": []
-        },
-        {
          "id": "1274",
          "name": "White Bean, Feta, & Za'atar Spread",
          "serving": "1.14oz",
@@ -3548,46 +3569,6 @@
          "tags": []
         },
         {
-         "id": "1870",
-         "name": "Htipiti Feta Spread",
-         "serving": "1oz",
-         "cal": 70.0,
-         "p": 2.87,
-         "c": 2.65,
-         "f": 5.24,
-         "tags": []
-        },
-        {
-         "id": "3852",
-         "name": "Marinated Red Grape Tomatoes",
-         "serving": "4.7oz",
-         "cal": 307.0,
-         "p": 0.88,
-         "c": 4.34,
-         "f": 30.93,
-         "tags": []
-        },
-        {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -3595,16 +3576,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75,
-         "tags": []
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
          "tags": []
         }
        ]
