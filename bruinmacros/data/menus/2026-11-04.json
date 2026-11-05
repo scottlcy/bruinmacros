@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated": "2026-11-04T20:26:28+00:00",
+ "updated": "2026-11-05T01:28:05+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -407,11 +407,11 @@
         {
          "id": "1106",
          "name": "Whole Wheat Bread",
-         "serving": "1.59oz",
-         "cal": 105.0,
-         "p": 3.51,
-         "c": 19.34,
-         "f": 1.48,
+         "serving": "1.6oz",
+         "cal": 106.0,
+         "p": 3.53,
+         "c": 19.55,
+         "f": 1.49,
          "tags": []
         },
         {
@@ -1111,23 +1111,33 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "9689",
-         "name": "Mahi Mahi with Tomatillo",
-         "serving": "2.52oz",
-         "cal": 55.0,
-         "p": 10.98,
-         "c": 1.14,
-         "f": 0.41,
+         "id": "3183",
+         "name": "Salvadorian Chicken",
+         "serving": "4.39oz",
+         "cal": 190.0,
+         "p": 16.12,
+         "c": 15.64,
+         "f": 6.12,
          "tags": []
         },
         {
-         "id": "3278",
-         "name": "Latin Beans & Rice",
-         "serving": "3.9oz",
-         "cal": 213.0,
-         "p": 6.08,
-         "c": 38.83,
-         "f": 3.26,
+         "id": "6240",
+         "name": "Lobster & Shrimp Mac N Cheese",
+         "serving": "4.99oz",
+         "cal": 204.0,
+         "p": 7.64,
+         "c": 11.14,
+         "f": 13.89,
+         "tags": []
+        },
+        {
+         "id": "10566",
+         "name": "Sofrito Rice",
+         "serving": "1.89oz",
+         "cal": 56.0,
+         "p": 0.71,
+         "c": 7.16,
+         "f": 2.52,
          "tags": []
         },
         {
@@ -1275,6 +1285,47 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168.0,
+         "p": 4.26,
+         "c": 17.16,
+         "f": 8.76,
+         "tags": []
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 78.0,
+         "p": 8.35,
+         "c": 1.62,
+         "f": 3.95,
+         "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3409,16 +3460,6 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "7641",
-         "name": "Chicken Spinach Florentine Lasagna",
-         "serving": "9.24oz",
-         "cal": 505.0,
-         "p": 30.03,
-         "c": 31.99,
-         "f": 28.77,
-         "tags": []
-        },
-        {
          "id": "1820",
          "name": "Bouillabaisse",
          "serving": "3.37oz",
@@ -3437,6 +3478,17 @@
          "c": 15.68,
          "f": 0.44,
          "tags": []
+        },
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "5476",
@@ -3786,13 +3838,13 @@
          "tags": []
         },
         {
-         "id": "2134",
-         "name": "Honey-Glazed Tempeh",
-         "serving": "2.53oz",
-         "cal": 140.0,
-         "p": 11.61,
-         "c": 12.29,
-         "f": 6.11,
+         "id": "6631",
+         "name": "Grilled Tofu w/ Salsa Verde",
+         "serving": "4.22oz",
+         "cal": 186.0,
+         "p": 10.36,
+         "c": 6.29,
+         "f": 13.99,
          "tags": []
         },
         {
@@ -3888,6 +3940,37 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "3220",
+         "name": "French Green Lentil Sauté",
+         "serving": "3.12oz",
+         "cal": 133.0,
+         "p": 7.53,
+         "c": 22.1,
+         "f": 2.28,
+         "tags": []
+        },
+        {
+         "id": "968",
+         "name": "Bulgur Wheat",
+         "serving": "2.03oz",
+         "cal": 81.0,
+         "p": 3.1,
+         "c": 15.68,
+         "f": 0.44,
+         "tags": []
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3928,16 +4011,6 @@
          "tags": []
         },
         {
-         "id": "6696",
-         "name": "Parsley Pesto",
-         "serving": "1.31oz",
-         "cal": 159.0,
-         "p": 4.86,
-         "c": 2.09,
-         "f": 14.78,
-         "tags": []
-        },
-        {
          "id": "173",
          "name": "Hummus",
          "serving": "0.13lb",
@@ -3955,16 +4028,6 @@
          "p": 2.57,
          "c": 1.22,
          "f": 0.53,
-         "tags": []
-        },
-        {
-         "id": "4416",
-         "name": "Baba Ghanoush",
-         "serving": "4.64oz",
-         "cal": 71.0,
-         "p": 2.1,
-         "c": 8.55,
-         "f": 3.8,
          "tags": []
         },
         {
@@ -4008,36 +4071,6 @@
          "tags": []
         },
         {
-         "id": "1277",
-         "name": "Paprika Garlic Spread",
-         "serving": "1.18oz",
-         "cal": 227.0,
-         "p": 0.41,
-         "c": 1.63,
-         "f": 24.29,
-         "tags": []
-        },
-        {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
-        },
-        {
-         "id": "1323",
-         "name": "Morrocan Spicy Lentil Dip",
-         "serving": "4.19oz",
-         "cal": 190.0,
-         "p": 12.44,
-         "c": 32.65,
-         "f": 1.69,
-         "tags": []
-        },
-        {
          "id": "1274",
          "name": "White Bean, Feta, & Za'atar Spread",
          "serving": "1.14oz",
@@ -4068,46 +4101,6 @@
          "tags": []
         },
         {
-         "id": "1870",
-         "name": "Htipiti Feta Spread",
-         "serving": "1oz",
-         "cal": 70.0,
-         "p": 2.87,
-         "c": 2.65,
-         "f": 5.24,
-         "tags": []
-        },
-        {
-         "id": "3852",
-         "name": "Marinated Red Grape Tomatoes",
-         "serving": "4.7oz",
-         "cal": 307.0,
-         "p": 0.88,
-         "c": 4.34,
-         "f": 30.93,
-         "tags": []
-        },
-        {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -4115,16 +4108,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75,
-         "tags": []
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
          "tags": []
         }
        ]
@@ -4191,17 +4174,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
