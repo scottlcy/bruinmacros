@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated": "2026-11-05T01:28:05+00:00",
+ "updated": "2026-11-05T06:49:16+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1111,43 +1111,23 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "3183",
-         "name": "Salvadorian Chicken",
-         "serving": "4.39oz",
-         "cal": 190.0,
-         "p": 16.12,
-         "c": 15.64,
-         "f": 6.12,
+         "id": "9689",
+         "name": "Mahi Mahi with Tomatillo",
+         "serving": "2.52oz",
+         "cal": 55.0,
+         "p": 10.98,
+         "c": 1.14,
+         "f": 0.41,
          "tags": []
         },
         {
-         "id": "6240",
-         "name": "Lobster & Shrimp Mac N Cheese",
-         "serving": "4.99oz",
-         "cal": 204.0,
-         "p": 7.64,
-         "c": 11.14,
-         "f": 13.89,
-         "tags": []
-        },
-        {
-         "id": "10566",
-         "name": "Sofrito Rice",
-         "serving": "1.89oz",
-         "cal": 56.0,
-         "p": 0.71,
-         "c": 7.16,
-         "f": 2.52,
-         "tags": []
-        },
-        {
-         "id": "3279",
-         "name": "Refried Beans w/ Cheese",
-         "serving": "2.18oz",
-         "cal": 223.0,
-         "p": 14.23,
-         "c": 36.14,
-         "f": 2.5,
+         "id": "3278",
+         "name": "Latin Beans & Rice",
+         "serving": "3.9oz",
+         "cal": 213.0,
+         "p": 6.08,
+         "c": 38.83,
+         "f": 3.26,
          "tags": []
         },
         {
@@ -1168,6 +1148,16 @@
          "p": 8.57,
          "c": 11.03,
          "f": 31.72,
+         "tags": []
+        },
+        {
+         "id": "6536",
+         "name": "Three Bean Portobello Chili",
+         "serving": "4.81oz",
+         "cal": 69.0,
+         "p": 2.66,
+         "c": 10.24,
+         "f": 2.29,
          "tags": []
         }
        ]
@@ -1638,6 +1628,16 @@
          "p": 0.77,
          "c": 9.95,
          "f": 0.35,
+         "tags": []
+        },
+        {
+         "id": "6438",
+         "name": "Oranges",
+         "serving": "5oz",
+         "cal": 67.0,
+         "p": 1.33,
+         "c": 16.64,
+         "f": 0.17,
          "tags": []
         }
        ]
@@ -2153,6 +2153,16 @@
          "p": 0.77,
          "c": 9.95,
          "f": 0.35,
+         "tags": []
+        },
+        {
+         "id": "6438",
+         "name": "Oranges",
+         "serving": "5oz",
+         "cal": 67.0,
+         "p": 1.33,
+         "c": 16.64,
+         "f": 0.17,
          "tags": []
         }
        ]
@@ -2688,13 +2698,13 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "1983",
-         "name": "Classic Steakhouse Tri-Tip",
-         "serving": "1.66oz",
-         "cal": 74.0,
-         "p": 9.37,
-         "c": 0.42,
-         "f": 3.46,
+         "id": "10544",
+         "name": "Roasted Salmon",
+         "serving": "2.07oz",
+         "cal": 87.0,
+         "p": 12.41,
+         "c": 0.03,
+         "f": 4.11,
          "tags": []
         },
         {
@@ -2718,13 +2728,13 @@
          "tags": []
         },
         {
-         "id": "2531",
-         "name": "Baked Yam",
-         "serving": "2oz",
-         "cal": 445.0,
-         "p": 0.82,
-         "c": 14.94,
-         "f": 42.39,
+         "id": "2131",
+         "name": "Baked Purple Potato",
+         "serving": "3.09oz",
+         "cal": 87.0,
+         "p": 1.75,
+         "c": 14.91,
+         "f": 2.34,
          "tags": []
         }
        ]
@@ -3940,15 +3950,14 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "5962",
-         "name": "Mezze Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "7612",
+         "name": "Beef Pita Shawarma",
+         "serving": "4.37oz",
+         "cal": 217.0,
+         "p": 13.06,
+         "c": 10.67,
+         "f": 13.07,
+         "tags": []
         },
         {
          "id": "3220",
@@ -6371,16 +6380,6 @@
          "tags": []
         },
         {
-         "id": "2041",
-         "name": "Salted Cucumber",
-         "serving": "2.02oz",
-         "cal": 9.0,
-         "p": 0.37,
-         "c": 2.06,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "1530",
          "name": "Vietnamese Pickled Daikon",
          "serving": "1.18oz",
@@ -6388,6 +6387,16 @@
          "p": 0.19,
          "c": 1.68,
          "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "2041",
+         "name": "Salted Cucumber",
+         "serving": "2.02oz",
+         "cal": 9.0,
+         "p": 0.37,
+         "c": 2.06,
+         "f": 0.06,
          "tags": []
         },
         {
