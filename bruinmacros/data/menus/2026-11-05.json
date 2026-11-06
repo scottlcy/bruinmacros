@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "updated": "2026-11-06T01:32:14+00:00",
+ "updated": "2026-11-06T06:48:57+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1143,6 +1143,16 @@
        "name": "Harvest Kitchen",
        "items": [
         {
+         "id": "9522",
+         "name": "Spicy Caribbean Mahi Mahi",
+         "serving": "6.36oz",
+         "cal": 195.0,
+         "p": 18.18,
+         "c": 13.12,
+         "f": 7.44,
+         "tags": []
+        },
+        {
          "id": "7327",
          "name": "Cilantro Rice",
          "serving": "3.68oz",
@@ -1183,23 +1193,24 @@
          "tags": []
         },
         {
-         "id": "3228",
-         "name": "Oven Roasted Mojito Chicken",
-         "serving": "9.12oz",
-         "cal": 368.0,
-         "p": 26.64,
-         "c": 16.59,
-         "f": 22.4,
-         "tags": []
+         "id": "6247",
+         "name": "Chef's Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
-         "id": "6267",
-         "name": "Camarones Guisados",
-         "serving": "4.46oz",
-         "cal": 216.0,
-         "p": 9.16,
-         "c": 5.67,
-         "f": 16.41,
+         "id": "8876",
+         "name": "BBQ Pork Ribs",
+         "serving": "4.44oz",
+         "cal": 266.0,
+         "p": 18.43,
+         "c": 11.66,
+         "f": 16.4,
          "tags": []
         }
        ]
@@ -2630,16 +2641,6 @@
        "name": "Freshly Bowled",
        "items": [
         {
-         "id": "4406",
-         "name": "Romesco Cod w/ Saffron & Green Chickpea Risotto",
-         "serving": "3.97oz",
-         "cal": 127.0,
-         "p": 9.78,
-         "c": 15.21,
-         "f": 2.81,
-         "tags": []
-        },
-        {
          "id": "979",
          "name": "Lentil Bolognese w/ Whole Wheat Rotini",
          "serving": "5.48oz",
@@ -2647,6 +2648,26 @@
          "p": 7.7,
          "c": 27.57,
          "f": 2.05,
+         "tags": []
+        },
+        {
+         "id": "2180",
+         "name": "Moroccan Salmon",
+         "serving": "1.66oz",
+         "cal": 96.0,
+         "p": 9.37,
+         "c": 0.15,
+         "f": 6.15,
+         "tags": []
+        },
+        {
+         "id": "4402",
+         "name": "Saffron Chickpea Risotto",
+         "serving": "2.56oz",
+         "cal": 71.0,
+         "p": 2.1,
+         "c": 14.28,
+         "f": 0.59,
          "tags": []
         }
        ]
@@ -2745,14 +2766,15 @@
          "tags": []
         },
         {
-         "id": "2947",
-         "name": "Southwest Black Bean & Avocado Tortilla Pizza",
-         "serving": "2.08oz",
-         "cal": 225.0,
-         "p": 2.84,
-         "c": 11.32,
-         "f": 18.88,
-         "tags": []
+         "id": "6243",
+         "name": "Stove Fired Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -4011,23 +4033,23 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "2448",
-         "name": "Baharat Grilled Chicken",
-         "serving": "3.84oz",
-         "cal": 137.0,
-         "p": 11.99,
-         "c": 13.26,
-         "f": 5.17,
+         "id": "8082",
+         "name": "Spanish Pork Chop",
+         "serving": "4.56oz",
+         "cal": 106.0,
+         "p": 0.36,
+         "c": 1.67,
+         "f": 10.72,
          "tags": []
         },
         {
-         "id": "3220",
-         "name": "French Green Lentil Sauté",
-         "serving": "3.12oz",
-         "cal": 133.0,
-         "p": 7.53,
-         "c": 22.1,
-         "f": 2.28,
+         "id": "883",
+         "name": "Polenta",
+         "serving": "3.74oz",
+         "cal": 271.0,
+         "p": 12.06,
+         "c": 14.98,
+         "f": 18.98,
          "tags": []
         },
         {
@@ -4226,16 +4248,6 @@
          "tags": []
         },
         {
-         "id": "6288",
-         "name": "Rosemary Ham & Provoline Stromboli",
-         "serving": "3.73oz",
-         "cal": 214.0,
-         "p": 14.98,
-         "c": 19.81,
-         "f": 8.68,
-         "tags": []
-        },
-        {
          "id": "2967",
          "name": "Caesar Salad",
          "serving": "3oz",
@@ -4263,6 +4275,16 @@
          "p": 2.88,
          "c": 16.76,
          "f": 6.01,
+         "tags": []
+        },
+        {
+         "id": "5970",
+         "name": "Margherita Pizza",
+         "serving": "3.49oz",
+         "cal": 201.0,
+         "p": 7.47,
+         "c": 23.68,
+         "f": 8.3,
          "tags": []
         }
        ]

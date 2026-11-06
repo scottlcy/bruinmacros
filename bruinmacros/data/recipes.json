@@ -18905,7 +18905,7 @@
   "p": 2.1,
   "tags": [],
   "fetched": "2026-10-09",
-  "seen": "2026-10-09"
+  "seen": "2026-11-05"
  },
  "7783": {
   "name": "Beyond Beef Tacos",
@@ -21430,7 +21430,7 @@
   "p": 9.37,
   "tags": [],
   "fetched": "2026-10-15",
-  "seen": "2026-10-18"
+  "seen": "2026-11-05"
  },
  "2238": {
   "name": "Oven-Roasted Cod w/ Almonds",
@@ -24642,6 +24642,41 @@
   "f": 17.6,
   "c": 0,
   "p": 14.3,
+  "tags": [],
+  "fetched": "2026-11-05",
+  "seen": "2026-11-05"
+ },
+ "6243": {
+  "name": "Stove Fired Vegetarian Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-11-05",
+  "seen": "2026-11-05"
+ },
+ "6247": {
+  "name": "Chef's Special",
+  "serving": "4oz",
+  "cal": 0,
+  "f": 0,
+  "c": 0,
+  "p": 0,
+  "tags": [],
+  "nodata": true,
+  "fetched": "2026-11-05",
+  "seen": "2026-11-05"
+ },
+ "8876": {
+  "name": "BBQ Pork Ribs",
+  "serving": "4.44oz",
+  "cal": 266.0,
+  "f": 16.4,
+  "c": 11.66,
+  "p": 18.43,
   "tags": [],
   "fetched": "2026-11-05",
   "seen": "2026-11-05"
