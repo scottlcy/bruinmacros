@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "updated": "2026-11-05T20:39:45+00:00",
+ "updated": "2026-11-06T01:32:14+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1143,16 +1143,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "9522",
-         "name": "Spicy Caribbean Mahi Mahi",
-         "serving": "6.36oz",
-         "cal": 195.0,
-         "p": 18.18,
-         "c": 13.12,
-         "f": 7.44,
-         "tags": []
-        },
-        {
          "id": "7327",
          "name": "Cilantro Rice",
          "serving": "3.68oz",
@@ -1190,6 +1180,26 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49,
+         "tags": []
+        },
+        {
+         "id": "3228",
+         "name": "Oven Roasted Mojito Chicken",
+         "serving": "9.12oz",
+         "cal": 368.0,
+         "p": 26.64,
+         "c": 16.59,
+         "f": 22.4,
+         "tags": []
+        },
+        {
+         "id": "6267",
+         "name": "Camarones Guisados",
+         "serving": "4.46oz",
+         "cal": 216.0,
+         "p": 9.16,
+         "c": 5.67,
+         "f": 16.41,
          "tags": []
         }
        ]
@@ -1307,6 +1317,46 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "812",
+         "name": "Mexican Street Corn Salad",
+         "serving": "1.86oz",
+         "cal": 158.0,
+         "p": 1.94,
+         "c": 5.41,
+         "f": 13.74,
+         "tags": []
+        },
+        {
+         "id": "1795",
+         "name": "Cole Slaw",
+         "serving": "3.99oz",
+         "cal": 299.0,
+         "p": 1.21,
+         "c": 8.01,
+         "f": 29.0,
+         "tags": []
+        },
+        {
+         "id": "10627",
+         "name": "Tomato Corn Salad w/ Queso Fresco",
+         "serving": "15.43oz",
+         "cal": 854.0,
+         "p": 24.4,
+         "c": 33.5,
+         "f": 67.04,
+         "tags": []
         }
        ]
       },
@@ -1394,6 +1444,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "255",
+         "name": "Blondie w/ Walnuts",
+         "serving": "1.75oz",
+         "cal": 220.0,
+         "p": 3.23,
+         "c": 24.62,
+         "f": 12.21,
+         "tags": []
         }
        ]
       }
@@ -2650,16 +2710,6 @@
          "tags": []
         },
         {
-         "id": "1196",
-         "name": "Garlicky Green Beans",
-         "serving": "2.22oz",
-         "cal": 55.0,
-         "p": 1.4,
-         "c": 5.85,
-         "f": 3.32,
-         "tags": []
-        },
-        {
          "id": "4323",
          "name": "Garlic Bok Choy",
          "serving": "3.1oz",
@@ -2667,6 +2717,16 @@
          "p": 1.41,
          "c": 2.6,
          "f": 0.75,
+         "tags": []
+        },
+        {
+         "id": "1176",
+         "name": "Edamame Beans",
+         "serving": "3oz",
+         "cal": 94.0,
+         "p": 9.53,
+         "c": 6.46,
+         "f": 4.02,
          "tags": []
         }
        ]
@@ -2790,16 +2850,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -2807,16 +2857,6 @@
          "p": 2.58,
          "c": 18.57,
          "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
          "tags": []
         },
         {
@@ -2847,6 +2887,16 @@
          "p": 2.78,
          "c": 22.48,
          "f": 10.91,
+         "tags": []
+        },
+        {
+         "id": "1244",
+         "name": "Raspberry Ginger Oat Bar",
+         "serving": "2.48oz",
+         "cal": 247.0,
+         "p": 4.72,
+         "c": 34.1,
+         "f": 10.7,
          "tags": []
         },
         {
@@ -2890,23 +2940,13 @@
          "tags": []
         },
         {
-         "id": "3055",
-         "name": "Pear Butter",
-         "serving": "1.09oz",
-         "cal": 44.0,
-         "p": 0.12,
-         "c": 10.92,
-         "f": 0.04,
-         "tags": []
-        },
-        {
-         "id": "3419",
-         "name": "Roasted Beet & Grilled Pineapple Butter",
-         "serving": "2.79oz",
-         "cal": 119.0,
-         "p": 0.82,
-         "c": 23.37,
-         "f": 3.03,
+         "id": "994",
+         "name": "Pear-Pineapple Compote",
+         "serving": "1.76oz",
+         "cal": 48.0,
+         "p": 0.3,
+         "c": 11.92,
+         "f": 0.06,
          "tags": []
         }
        ]
@@ -3483,23 +3523,23 @@
          "tags": []
         },
         {
-         "id": "2352",
-         "name": "Mediterranean Roasted Chicken",
-         "serving": "7.07oz",
-         "cal": 439.0,
-         "p": 36.92,
-         "c": 0.26,
-         "f": 31.01,
+         "id": "8076",
+         "name": "Mushroom Pizzaiola Sandwich",
+         "serving": "3.58oz",
+         "cal": 99.0,
+         "p": 5.25,
+         "c": 5.81,
+         "f": 6.51,
          "tags": []
         },
         {
-         "id": "2495",
-         "name": "Lebanese Rice",
-         "serving": "3.93oz",
-         "cal": 172.0,
-         "p": 3.13,
-         "c": 35.62,
-         "f": 1.62,
+         "id": "883",
+         "name": "Polenta",
+         "serving": "3.74oz",
+         "cal": 271.0,
+         "p": 12.06,
+         "c": 14.98,
+         "f": 18.98,
          "tags": []
         },
         {
@@ -3842,17 +3882,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
@@ -3982,6 +4011,36 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "2448",
+         "name": "Baharat Grilled Chicken",
+         "serving": "3.84oz",
+         "cal": 137.0,
+         "p": 11.99,
+         "c": 13.26,
+         "f": 5.17,
+         "tags": []
+        },
+        {
+         "id": "3220",
+         "name": "French Green Lentil Sauté",
+         "serving": "3.12oz",
+         "cal": 133.0,
+         "p": 7.53,
+         "c": 22.1,
+         "f": 2.28,
+         "tags": []
+        },
+        {
+         "id": "3601",
+         "name": "Pearled Couscous w/ Roasted Zucchini",
+         "serving": "4.09oz",
+         "cal": 326.0,
+         "p": 10.01,
+         "c": 55.42,
+         "f": 6.38,
+         "tags": []
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -4022,16 +4081,6 @@
          "tags": []
         },
         {
-         "id": "6696",
-         "name": "Parsley Pesto",
-         "serving": "1.31oz",
-         "cal": 159.0,
-         "p": 4.86,
-         "c": 2.09,
-         "f": 14.78,
-         "tags": []
-        },
-        {
          "id": "173",
          "name": "Hummus",
          "serving": "0.13lb",
@@ -4049,16 +4098,6 @@
          "p": 2.57,
          "c": 1.22,
          "f": 0.53,
-         "tags": []
-        },
-        {
-         "id": "4416",
-         "name": "Baba Ghanoush",
-         "serving": "4.64oz",
-         "cal": 71.0,
-         "p": 2.1,
-         "c": 8.55,
-         "f": 3.8,
          "tags": []
         },
         {
@@ -4102,26 +4141,6 @@
          "tags": []
         },
         {
-         "id": "1277",
-         "name": "Paprika Garlic Spread",
-         "serving": "1.18oz",
-         "cal": 227.0,
-         "p": 0.41,
-         "c": 1.63,
-         "f": 24.29,
-         "tags": []
-        },
-        {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
-        },
-        {
          "id": "1323",
          "name": "Morrocan Spicy Lentil Dip",
          "serving": "4.19oz",
@@ -4162,16 +4181,6 @@
          "tags": []
         },
         {
-         "id": "1870",
-         "name": "Htipiti Feta Spread",
-         "serving": "1oz",
-         "cal": 70.0,
-         "p": 2.87,
-         "c": 2.65,
-         "f": 5.24,
-         "tags": []
-        },
-        {
          "id": "3852",
          "name": "Marinated Red Grape Tomatoes",
          "serving": "4.7oz",
@@ -4182,26 +4191,6 @@
          "tags": []
         },
         {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -4209,16 +4198,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75,
-         "tags": []
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
          "tags": []
         }
        ]
@@ -4285,17 +4264,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
