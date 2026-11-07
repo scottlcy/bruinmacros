@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated": "2026-11-07T18:02:11+00:00",
+ "updated": "2026-11-07T21:49:53+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2605,24 +2605,25 @@
          "tags": []
         },
         {
-         "id": "829",
-         "name": "Farro",
-         "serving": "3.22oz",
-         "cal": 134.0,
-         "p": 5.75,
-         "c": 27.67,
-         "f": 0.43,
+         "id": "8087",
+         "name": "Wild Rice",
+         "serving": "2.13oz",
+         "cal": 108.0,
+         "p": 4.44,
+         "c": 22.58,
+         "f": 0.33,
          "tags": []
         },
         {
-         "id": "1176",
-         "name": "Edamame Beans",
-         "serving": "3oz",
-         "cal": 94.0,
-         "p": 9.53,
-         "c": 6.46,
-         "f": 4.02,
-         "tags": []
+         "id": "5953",
+         "name": "Farm Stand Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "1069",
