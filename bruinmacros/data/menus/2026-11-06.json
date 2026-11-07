@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated": "2026-11-07T00:06:47+00:00",
+ "updated": "2026-11-07T05:59:48+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1135,23 +1135,13 @@
          "tags": []
         },
         {
-         "id": "1307",
-         "name": "Jerk Chicken",
-         "serving": "3.18oz",
-         "cal": 248.0,
-         "p": 21.25,
-         "c": 1.32,
-         "f": 17.19,
-         "tags": []
-        },
-        {
-         "id": "8663",
-         "name": "Roasted Plantains",
-         "serving": "2oz",
-         "cal": 98.0,
-         "p": 0.71,
-         "c": 19.28,
-         "f": 1.9,
+         "id": "8861",
+         "name": "Mojo Pork Tenderloin",
+         "serving": "2.25oz",
+         "cal": 93.0,
+         "p": 11.82,
+         "c": 0.96,
+         "f": 4.31,
          "tags": []
         }
        ]
@@ -2761,6 +2751,27 @@
        "name": "Sweet Bites",
        "items": [
         {
+         "id": "3927",
+         "name": "Raisin Bran Bread",
+         "serving": "23.41oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "1400",
+         "name": "Coconut Pineapple Bread",
+         "serving": "2.63oz",
+         "cal": 282.0,
+         "p": 3.28,
+         "c": 28.12,
+         "f": 17.08,
+         "tags": []
+        },
+        {
          "id": "1392",
          "name": "Lemon Poppy Bread",
          "serving": "2.05oz",
@@ -2808,6 +2819,36 @@
          "p": 5.48,
          "c": 5.49,
          "f": 17.92,
+         "tags": []
+        },
+        {
+         "id": "3156",
+         "name": "Chocolate Peanut Butter",
+         "serving": "1.03oz",
+         "cal": 99.0,
+         "p": 3.66,
+         "c": 5.36,
+         "f": 6.59,
+         "tags": []
+        },
+        {
+         "id": "2179",
+         "name": "Pineapple Compote",
+         "serving": "1.02oz",
+         "cal": 35.0,
+         "p": 0.12,
+         "c": 9.09,
+         "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -6104,6 +6145,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "10737",
+         "name": "Pumpkin Spice Waffle w/ Spiced Whip",
+         "serving": "8.62oz",
+         "cal": 720.0,
+         "p": 12.26,
+         "c": 73.68,
+         "f": 41.63,
+         "tags": []
         }
        ]
       },
