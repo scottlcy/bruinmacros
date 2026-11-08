@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated": "2026-11-08T01:26:37+00:00",
+ "updated": "2026-11-08T06:03:52+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1144,16 +1144,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "3169",
-         "name": "Spicy Peruvian Chicken",
-         "serving": "2oz",
-         "cal": 82.0,
-         "p": 9.15,
-         "c": 1.54,
-         "f": 3.7,
-         "tags": []
-        },
-        {
          "id": "7333",
          "name": "Garlic Flavored Rice",
          "serving": "3.25oz",
@@ -1164,43 +1154,43 @@
          "tags": []
         },
         {
-         "id": "1976",
-         "name": "Chicken Tortilla Soup",
-         "serving": "6.05oz",
-         "cal": 181.0,
-         "p": 9.39,
-         "c": 25.64,
-         "f": 4.32,
+         "id": "6907",
+         "name": "Garlic Marinated Chicken Thigh",
+         "serving": "3.05oz",
+         "cal": 115.0,
+         "p": 15.57,
+         "c": 0.77,
+         "f": 4.58,
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
+         "id": "6916",
+         "name": "Spicy Black Beans",
+         "serving": "2.03oz",
+         "cal": 32.0,
+         "p": 1.62,
+         "c": 5.15,
+         "f": 0.46,
+         "tags": []
+        },
+        {
+         "id": "108",
+         "name": "Boston Clam Chowder",
          "serving": "6oz",
-         "cal": 149.0,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49,
+         "cal": 158.0,
+         "p": 6.9,
+         "c": 13.02,
+         "f": 7.82,
          "tags": []
         },
         {
-         "id": "8861",
-         "name": "Mojo Pork Tenderloin",
-         "serving": "2.25oz",
-         "cal": 93.0,
-         "p": 11.82,
-         "c": 0.96,
-         "f": 4.31,
-         "tags": []
-        },
-        {
-         "id": "6536",
-         "name": "Three Bean Portobello Chili",
-         "serving": "4.81oz",
-         "cal": 69.0,
-         "p": 2.66,
-         "c": 10.24,
-         "f": 2.29,
+         "id": "753",
+         "name": "Garden Vegetable Soup",
+         "serving": "6oz",
+         "cal": 34.0,
+         "p": 1.29,
+         "c": 6.12,
+         "f": 0.65,
          "tags": []
         }
        ]
@@ -1357,6 +1347,16 @@
          "p": 8.35,
          "c": 1.62,
          "f": 3.95,
+         "tags": []
+        },
+        {
+         "id": "3451",
+         "name": "Elote (Mexican Street Corn)",
+         "serving": "1.88oz",
+         "cal": 126.0,
+         "p": 1.92,
+         "c": 7.5,
+         "f": 9.37,
          "tags": []
         }
        ]
