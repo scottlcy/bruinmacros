@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated": "2026-11-07T21:49:53+00:00",
+ "updated": "2026-11-08T01:26:37+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1164,16 +1164,6 @@
          "tags": []
         },
         {
-         "id": "7334",
-         "name": "Garbanzo Picadillo",
-         "serving": "2.99oz",
-         "cal": 71.0,
-         "p": 2.63,
-         "c": 10.67,
-         "f": 2.05,
-         "tags": []
-        },
-        {
          "id": "1976",
          "name": "Chicken Tortilla Soup",
          "serving": "6.05oz",
@@ -1191,6 +1181,26 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49,
+         "tags": []
+        },
+        {
+         "id": "8861",
+         "name": "Mojo Pork Tenderloin",
+         "serving": "2.25oz",
+         "cal": 93.0,
+         "p": 11.82,
+         "c": 0.96,
+         "f": 4.31,
+         "tags": []
+        },
+        {
+         "id": "6536",
+         "name": "Three Bean Portobello Chili",
+         "serving": "4.81oz",
+         "cal": 69.0,
+         "p": 2.66,
+         "c": 10.24,
+         "f": 2.29,
          "tags": []
         }
        ]
@@ -1308,6 +1318,46 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "10627",
+         "name": "Tomato Corn Salad w/ Queso Fresco",
+         "serving": "15.43oz",
+         "cal": 854.0,
+         "p": 24.4,
+         "c": 33.5,
+         "f": 67.04,
+         "tags": []
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168.0,
+         "p": 4.26,
+         "c": 17.16,
+         "f": 8.76,
+         "tags": []
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 78.0,
+         "p": 8.35,
+         "c": 1.62,
+         "f": 3.95,
+         "tags": []
         }
        ]
       },
@@ -1395,6 +1445,36 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "248",
+         "name": "Twinkie Cake",
+         "serving": "2.05oz",
+         "cal": 321.0,
+         "p": 2.89,
+         "c": 33.94,
+         "f": 20.31,
+         "tags": []
+        },
+        {
+         "id": "307",
+         "name": "Cherry Almond Crumble Pie",
+         "serving": "3.2oz",
+         "cal": 224.0,
+         "p": 3.42,
+         "c": 26.93,
+         "f": 11.2,
+         "tags": []
+        },
+        {
+         "id": "3954",
+         "name": "Chipmunk Bar",
+         "serving": "1.79oz",
+         "cal": 170.0,
+         "p": 3.26,
+         "c": 23.37,
+         "f": 8.22,
+         "tags": []
         }
        ]
       }
@@ -2756,16 +2836,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -2776,13 +2846,13 @@
          "tags": []
         },
         {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
+         "id": "1392",
+         "name": "Lemon Poppy Bread",
+         "serving": "2.05oz",
+         "cal": 209.0,
+         "p": 2.99,
+         "c": 17.38,
+         "f": 13.94,
          "tags": []
         },
         {
@@ -2847,32 +2917,22 @@
          "tags": []
         },
         {
-         "id": "3156",
-         "name": "Chocolate Peanut Butter",
-         "serving": "1.03oz",
-         "cal": 99.0,
-         "p": 3.66,
-         "c": 5.36,
-         "f": 6.59,
+         "id": "2945",
+         "name": "Peanut Butter",
+         "serving": "1oz",
+         "cal": 91.0,
+         "p": 3.81,
+         "c": 6.0,
+         "f": 6.21,
          "tags": []
         },
         {
-         "id": "4615",
-         "name": "Green Lentil Butter",
-         "serving": "1.18oz",
-         "cal": 68.0,
-         "p": 3.9,
-         "c": 13.23,
-         "f": 0.17,
-         "tags": []
-        },
-        {
-         "id": "3101",
-         "name": "Orange-Papaya Marmalade",
-         "serving": "0.58oz",
-         "cal": 9.0,
-         "p": 0.1,
-         "c": 2.23,
+         "id": "2179",
+         "name": "Pineapple Compote",
+         "serving": "1.02oz",
+         "cal": 35.0,
+         "p": 0.12,
+         "c": 9.09,
          "f": 0.03,
          "tags": []
         }
