@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated": "2026-11-08T18:21:12+00:00",
+ "updated": "2026-11-08T22:52:57+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -435,6 +435,16 @@
        "name": "The Front Burner",
        "items": [
         {
+         "id": "7300",
+         "name": "Buttermilk Pancakes",
+         "serving": "7.01oz",
+         "cal": 372.0,
+         "p": 8.22,
+         "c": 65.56,
+         "f": 8.8,
+         "tags": []
+        },
+        {
          "id": "7110",
          "name": "Maple Flavored Syrup",
          "serving": "1oz",
@@ -442,16 +452,6 @@
          "p": 0,
          "c": 18.47,
          "f": 0,
-         "tags": []
-        },
-        {
-         "id": "1475",
-         "name": "French Toast",
-         "serving": "2.48oz",
-         "cal": 188.0,
-         "p": 6.53,
-         "c": 31.89,
-         "f": 4.97,
          "tags": []
         }
        ]
@@ -877,16 +877,6 @@
          "tags": []
         },
         {
-         "id": "288",
-         "name": "Mixed Berry Crisp",
-         "serving": "3.2oz",
-         "cal": 150.0,
-         "p": 1.47,
-         "c": 29.65,
-         "f": 3.21,
-         "tags": []
-        },
-        {
          "id": "4849",
          "name": "Pumpkin Bake",
          "serving": "5.05oz",
@@ -926,6 +916,26 @@
          "p": 5.78,
          "c": 58.89,
          "f": 13.55,
+         "tags": []
+        },
+        {
+         "id": "4906",
+         "name": "Magic Bar",
+         "serving": "1.48oz",
+         "cal": 190.0,
+         "p": 2.89,
+         "c": 23.24,
+         "f": 9.63,
+         "tags": []
+        },
+        {
+         "id": "312",
+         "name": "Almond Fudge Bar",
+         "serving": "2.26oz",
+         "cal": 268.0,
+         "p": 4.21,
+         "c": 38.31,
+         "f": 13.75,
          "tags": []
         }
        ]
@@ -1280,6 +1290,46 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88.0,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168.0,
+         "p": 4.26,
+         "c": 17.16,
+         "f": 8.76,
+         "tags": []
         }
        ]
       },
@@ -1367,6 +1417,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
         }
        ]
       }
@@ -2604,6 +2664,26 @@
          "c": 5.96,
          "f": 2.18,
          "tags": []
+        },
+        {
+         "id": "2200",
+         "name": "Yukon Gold Potato & Celery Root Mash",
+         "serving": "2.06oz",
+         "cal": 53.0,
+         "p": 1.33,
+         "c": 10.83,
+         "f": 0.61,
+         "tags": []
+        },
+        {
+         "id": "3347",
+         "name": "Black-Eyed Peas",
+         "serving": "2oz",
+         "cal": 26.0,
+         "p": 0.98,
+         "c": 3.75,
+         "f": 0.76,
+         "tags": []
         }
        ]
       },
@@ -3322,6 +3402,16 @@
          "tags": []
         },
         {
+         "id": "4297",
+         "name": "Italian Cream Cake",
+         "serving": "1.9oz",
+         "cal": 207.0,
+         "p": 2.38,
+         "c": 20.43,
+         "f": 12.73,
+         "tags": []
+        },
+        {
          "id": "1138",
          "name": "Apple Crumble Tart",
          "serving": "1.16oz",
@@ -3341,12 +3431,53 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4322",
+         "name": "Flan",
+         "serving": "2.75oz",
+         "cal": 173.0,
+         "p": 3.97,
+         "c": 20.92,
+         "f": 7.77,
+         "tags": []
         }
        ]
       },
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "2059",
+         "name": "Spanish Style Trout",
+         "serving": "2.86oz",
+         "cal": 73.0,
+         "p": 10.85,
+         "c": 2.57,
+         "f": 1.85,
+         "tags": []
+        },
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "6378",
+         "name": "Tabouli Vegetable Lavash",
+         "serving": "5.67oz",
+         "cal": 309.0,
+         "p": 8.9,
+         "c": 37.56,
+         "f": 13.59,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -3368,36 +3499,6 @@
          "tags": []
         },
         {
-         "id": "6637",
-         "name": "Sun-Dried Tomato Pesto",
-         "serving": "0.98oz",
-         "cal": 146.0,
-         "p": 2.06,
-         "c": 7.15,
-         "f": 12.59,
-         "tags": []
-        },
-        {
-         "id": "869",
-         "name": "Garlic Oil",
-         "serving": "1.46oz",
-         "cal": 275.0,
-         "p": 0.9,
-         "c": 4.67,
-         "f": 27.25,
-         "tags": []
-        },
-        {
-         "id": "6696",
-         "name": "Parsley Pesto",
-         "serving": "1.31oz",
-         "cal": 159.0,
-         "p": 4.86,
-         "c": 2.09,
-         "f": 14.78,
-         "tags": []
-        },
-        {
          "id": "173",
          "name": "Hummus",
          "serving": "0.13lb",
@@ -3415,16 +3516,6 @@
          "p": 2.57,
          "c": 1.22,
          "f": 0.53,
-         "tags": []
-        },
-        {
-         "id": "4416",
-         "name": "Baba Ghanoush",
-         "serving": "4.64oz",
-         "cal": 71.0,
-         "p": 2.1,
-         "c": 8.55,
-         "f": 3.8,
          "tags": []
         },
         {
@@ -3478,26 +3569,6 @@
          "tags": []
         },
         {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
-        },
-        {
-         "id": "1323",
-         "name": "Morrocan Spicy Lentil Dip",
-         "serving": "4.19oz",
-         "cal": 190.0,
-         "p": 12.44,
-         "c": 32.65,
-         "f": 1.69,
-         "tags": []
-        },
-        {
          "id": "1274",
          "name": "White Bean, Feta, & Za'atar Spread",
          "serving": "1.14oz",
@@ -3538,36 +3609,6 @@
          "tags": []
         },
         {
-         "id": "3852",
-         "name": "Marinated Red Grape Tomatoes",
-         "serving": "4.7oz",
-         "cal": 307.0,
-         "p": 0.88,
-         "c": 4.34,
-         "f": 30.93,
-         "tags": []
-        },
-        {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -3575,16 +3616,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75,
-         "tags": []
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
          "tags": []
         }
        ]
