@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated": "2026-11-08T06:04:12+00:00",
+ "updated": "2026-11-08T18:21:12+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -435,16 +435,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "7300",
-         "name": "Buttermilk Pancakes",
-         "serving": "7.01oz",
-         "cal": 372.0,
-         "p": 8.22,
-         "c": 65.56,
-         "f": 8.8,
-         "tags": []
-        },
-        {
          "id": "7110",
          "name": "Maple Flavored Syrup",
          "serving": "1oz",
@@ -452,6 +442,16 @@
          "p": 0,
          "c": 18.47,
          "f": 0,
+         "tags": []
+        },
+        {
+         "id": "1475",
+         "name": "French Toast",
+         "serving": "2.48oz",
+         "cal": 188.0,
+         "p": 6.53,
+         "c": 31.89,
+         "f": 4.97,
          "tags": []
         }
        ]
@@ -701,23 +701,23 @@
          "tags": []
         },
         {
-         "id": "7335",
-         "name": "Roasted Broccoli w/ Garlic",
-         "serving": "3.24oz",
-         "cal": 85.0,
-         "p": 2.65,
-         "c": 5.21,
-         "f": 6.36,
+         "id": "6905",
+         "name": "Roasted Brussels Sprouts",
+         "serving": "2.15oz",
+         "cal": 35.0,
+         "p": 2.03,
+         "c": 5.4,
+         "f": 1.14,
          "tags": []
         },
         {
-         "id": "6903",
-         "name": "Pan Roasted Mushrooms with Onions",
-         "serving": "2.8oz",
-         "cal": 36.0,
-         "p": 2.07,
-         "c": 4.4,
-         "f": 1.51,
+         "id": "7338",
+         "name": "Roasted Fingerling Potato",
+         "serving": "1.11oz",
+         "cal": 25.0,
+         "p": 0.6,
+         "c": 5.07,
+         "f": 0.27,
          "tags": []
         }
        ]
@@ -799,6 +799,36 @@
          "p": 0.24,
          "c": 2.3,
          "f": 0.05,
+         "tags": []
+        },
+        {
+         "id": "2404",
+         "name": "Turkish Chicken Salad",
+         "serving": "1.95oz",
+         "cal": 57.0,
+         "p": 3.97,
+         "c": 2.04,
+         "f": 3.73,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "10383",
+         "name": "Bean Salad w/ Sundried Tomato",
+         "serving": "2oz",
+         "cal": 168.0,
+         "p": 4.26,
+         "c": 17.16,
+         "f": 8.76,
          "tags": []
         }
        ]
@@ -887,6 +917,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
         }
        ]
       }
@@ -1436,13 +1476,13 @@
          "tags": []
         },
         {
-         "id": "3259",
-         "name": "Apple, Pear & Cranberry Compote",
-         "serving": "1.73oz",
-         "cal": 33.0,
-         "p": 0.21,
-         "c": 7.6,
-         "f": 0.28,
+         "id": "994",
+         "name": "Pear-Pineapple Compote",
+         "serving": "1.76oz",
+         "cal": 48.0,
+         "p": 0.3,
+         "c": 11.92,
+         "f": 0.06,
          "tags": []
         },
         {
@@ -1551,13 +1591,13 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
+         "id": "7682",
+         "name": "Carrot Walnut Zucchini Quickbread",
+         "serving": "2.42oz",
+         "cal": 238.0,
+         "p": 4.28,
+         "c": 28.57,
+         "f": 11.84,
          "tags": []
         },
         {
@@ -1632,13 +1672,13 @@
          "tags": []
         },
         {
-         "id": "994",
-         "name": "Pear-Pineapple Compote",
-         "serving": "1.76oz",
-         "cal": 48.0,
-         "p": 0.3,
-         "c": 11.92,
-         "f": 0.06,
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -1727,13 +1767,23 @@
        "name": "Greens 'N More",
        "items": [
         {
-         "id": "6791",
-         "name": "Whole Wheat Bagel",
-         "serving": "3oz",
-         "cal": 211.0,
-         "p": 8.99,
-         "c": 43.94,
-         "f": 1.49,
+         "id": "6677",
+         "name": "Plain Bagel",
+         "serving": "1.33oz",
+         "cal": 103.0,
+         "p": 3.98,
+         "c": 21.23,
+         "f": 0.44,
+         "tags": []
+        },
+        {
+         "id": "6472",
+         "name": "Everything Bagels",
+         "serving": "1.33oz",
+         "cal": 111.0,
+         "p": 3.98,
+         "c": 21.23,
+         "f": 1.11,
          "tags": []
         },
         {
@@ -1802,13 +1852,13 @@
          "tags": []
         },
         {
-         "id": "3335",
-         "name": "Savory Grits",
-         "serving": "1.94oz",
-         "cal": 29.0,
-         "p": 0.61,
-         "c": 5.61,
-         "f": 0.46,
+         "id": "3026",
+         "name": "Cream of Wheat",
+         "serving": "6oz",
+         "cal": 90.0,
+         "p": 2.92,
+         "c": 18.02,
+         "f": 0.36,
          "tags": []
         }
        ]
