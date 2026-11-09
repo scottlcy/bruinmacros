@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated": "2026-11-08T22:52:57+00:00",
+ "updated": "2026-11-09T02:39:49+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1110,15 +1110,14 @@
          "tags": []
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1133,16 +1132,6 @@
          "p": 15.57,
          "c": 0.77,
          "f": 4.58,
-         "tags": []
-        },
-        {
-         "id": "7327",
-         "name": "Cilantro Rice",
-         "serving": "3.68oz",
-         "cal": 124.0,
-         "p": 2.1,
-         "c": 21.92,
-         "f": 2.66,
          "tags": []
         },
         {
@@ -1166,13 +1155,23 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149.0,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49,
+         "id": "7327",
+         "name": "Cilantro Rice",
+         "serving": "3.68oz",
+         "cal": 124.0,
+         "p": 2.1,
+         "c": 21.92,
+         "f": 2.66,
+         "tags": []
+        },
+        {
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133.0,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26,
          "tags": []
         }
        ]
@@ -2816,16 +2815,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
          "id": "1192",
          "name": "Raisin Walnut Bread",
          "serving": "1.75oz",
@@ -2833,16 +2822,6 @@
          "p": 2.58,
          "c": 18.57,
          "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
          "tags": []
         },
         {
@@ -2897,16 +2876,6 @@
          "tags": []
         },
         {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
-         "tags": []
-        },
-        {
          "id": "3156",
          "name": "Chocolate Peanut Butter",
          "serving": "1.03oz",
@@ -2917,23 +2886,23 @@
          "tags": []
         },
         {
-         "id": "994",
-         "name": "Pear-Pineapple Compote",
-         "serving": "1.76oz",
-         "cal": 48.0,
-         "p": 0.3,
-         "c": 11.92,
-         "f": 0.06,
+         "id": "2295",
+         "name": "Apple Cranberry Compote",
+         "serving": "1.26oz",
+         "cal": 30.0,
+         "p": 0.18,
+         "c": 6.6,
+         "f": 0.38,
          "tags": []
         },
         {
-         "id": "3384",
-         "name": "Nopales & Vanilla Marmalade",
-         "serving": "1.95oz",
-         "cal": 59.0,
-         "p": 0.51,
-         "c": 15.17,
-         "f": 0.04,
+         "id": "3855",
+         "name": "Mango Blueberry Compote",
+         "serving": "1.27oz",
+         "cal": 32.0,
+         "p": 0.26,
+         "c": 7.97,
+         "f": 0.12,
          "tags": []
         }
        ]
@@ -3382,16 +3351,6 @@
          "tags": []
         },
         {
-         "id": "3743",
-         "name": "Espresso Panna Cotta",
-         "serving": "2.04oz",
-         "cal": 141.0,
-         "p": 1.33,
-         "c": 6.56,
-         "f": 11.11,
-         "tags": []
-        },
-        {
          "id": "1148",
          "name": "Chocolate & Caramel Cream Cake",
          "serving": "1.53oz",
@@ -3409,16 +3368,6 @@
          "p": 2.38,
          "c": 20.43,
          "f": 12.73,
-         "tags": []
-        },
-        {
-         "id": "1138",
-         "name": "Apple Crumble Tart",
-         "serving": "1.16oz",
-         "cal": 101.0,
-         "p": 1.22,
-         "c": 14.79,
-         "f": 3.9,
          "tags": []
         },
         {
@@ -3448,17 +3397,7 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "2059",
-         "name": "Spanish Style Trout",
-         "serving": "2.86oz",
-         "cal": 73.0,
-         "p": 10.85,
-         "c": 2.57,
-         "f": 1.85,
-         "tags": []
-        },
-        {
-         "id": "5962",
+         "id": "8477",
          "name": "Mezze Special",
          "serving": "4oz",
          "cal": 0,
@@ -3476,6 +3415,16 @@
          "p": 8.9,
          "c": 37.56,
          "f": 13.59,
+         "tags": []
+        },
+        {
+         "id": "1639",
+         "name": "Spinach & Roasted Pepper Bulgur Wheat",
+         "serving": "2.8oz",
+         "cal": 167.0,
+         "p": 6.42,
+         "c": 32.37,
+         "f": 0.98,
          "tags": []
         },
         {
