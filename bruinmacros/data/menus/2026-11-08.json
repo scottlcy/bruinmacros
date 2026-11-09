@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated": "2026-11-09T02:39:49+00:00",
+ "updated": "2026-11-09T06:32:34+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -965,16 +965,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "1698",
-         "name": "Pollo Asado Tacos",
-         "serving": "3.7oz",
-         "cal": 156.0,
-         "p": 14.01,
-         "c": 14.5,
-         "f": 4.25,
-         "tags": []
-        },
-        {
          "id": "10692",
          "name": "Tofu Sofrito Taco",
          "serving": "6.87oz",
@@ -983,6 +973,17 @@
          "c": 43.22,
          "f": 12.52,
          "tags": []
+        },
+        {
+         "id": "5876",
+         "name": "Front Burner Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1125,16 +1126,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "6907",
-         "name": "Garlic Marinated Chicken Thigh",
-         "serving": "3.05oz",
-         "cal": 115.0,
-         "p": 15.57,
-         "c": 0.77,
-         "f": 4.58,
-         "tags": []
-        },
-        {
          "id": "7435",
          "name": "De la Olla Beans",
          "serving": "2oz",
@@ -1172,6 +1163,16 @@
          "p": 1.85,
          "c": 10.11,
          "f": 9.26,
+         "tags": []
+        },
+        {
+         "id": "2692",
+         "name": "Lemon Garlic Chicken Thighs",
+         "serving": "4.72oz",
+         "cal": 184.0,
+         "p": 22.57,
+         "c": 5.16,
+         "f": 7.34,
          "tags": []
         }
        ]
@@ -1353,16 +1354,6 @@
          "p": 0.86,
          "c": 31.26,
          "f": 2.36,
-         "tags": []
-        },
-        {
-         "id": "242",
-         "name": "Chocolate Silk Pie",
-         "serving": "2.48oz",
-         "cal": 224.0,
-         "p": 2.91,
-         "c": 20.06,
-         "f": 17.39,
          "tags": []
         },
         {
@@ -2715,16 +2706,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "3247",
-         "name": "Soy Garlic Grilled Flank Steak",
-         "serving": "2.23oz",
-         "cal": 103.0,
-         "p": 13.23,
-         "c": 0.18,
-         "f": 5.08,
-         "tags": []
-        },
-        {
          "id": "1999",
          "name": "Housemade Steak Sauce",
          "serving": "1.96oz",
@@ -2745,13 +2726,23 @@
          "tags": []
         },
         {
-         "id": "2035",
-         "name": "Red Potato Hash",
-         "serving": "2.12oz",
-         "cal": 47.0,
-         "p": 1.1,
-         "c": 9.26,
-         "f": 0.7,
+         "id": "3863",
+         "name": "Avocado-Stuffed Potato Skins",
+         "serving": "3.72oz",
+         "cal": 117.0,
+         "p": 2.66,
+         "c": 20.36,
+         "f": 3.04,
+         "tags": []
+        },
+        {
+         "id": "1221",
+         "name": "Santa Maria Tri-Tip",
+         "serving": "2.14oz",
+         "cal": 94.0,
+         "p": 12.4,
+         "c": 1.28,
+         "f": 4.13,
          "tags": []
         }
        ]
@@ -3351,6 +3342,16 @@
          "tags": []
         },
         {
+         "id": "3743",
+         "name": "Espresso Panna Cotta",
+         "serving": "2.04oz",
+         "cal": 141.0,
+         "p": 1.33,
+         "c": 6.56,
+         "f": 11.11,
+         "tags": []
+        },
+        {
          "id": "1148",
          "name": "Chocolate & Caramel Cream Cake",
          "serving": "1.53oz",
@@ -3371,6 +3372,16 @@
          "tags": []
         },
         {
+         "id": "1138",
+         "name": "Apple Crumble Tart",
+         "serving": "1.16oz",
+         "cal": 101.0,
+         "p": 1.22,
+         "c": 14.79,
+         "f": 3.9,
+         "tags": []
+        },
+        {
          "id": "8016",
          "name": "Yogurt Bar",
          "serving": "",
@@ -3380,16 +3391,6 @@
          "f": 0,
          "tags": [],
          "nodata": true
-        },
-        {
-         "id": "4322",
-         "name": "Flan",
-         "serving": "2.75oz",
-         "cal": 173.0,
-         "p": 3.97,
-         "c": 20.92,
-         "f": 7.77,
-         "tags": []
         }
        ]
       },
@@ -3408,13 +3409,13 @@
          "nodata": true
         },
         {
-         "id": "6378",
-         "name": "Tabouli Vegetable Lavash",
-         "serving": "5.67oz",
-         "cal": 309.0,
-         "p": 8.9,
-         "c": 37.56,
-         "f": 13.59,
+         "id": "2741",
+         "name": "Lemon & Sage Marinated Pork Chops",
+         "serving": "3.74oz",
+         "cal": 70.0,
+         "p": 0.43,
+         "c": 3.06,
+         "f": 6.9,
          "tags": []
         },
         {
