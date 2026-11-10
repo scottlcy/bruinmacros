@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updated": "2026-11-09T22:59:15+00:00",
+ "updated": "2026-11-10T04:37:45+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1005,16 +1005,6 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "2644",
-         "name": "Santa Maria Rubbed Tri Tip",
-         "serving": "1.47oz",
-         "cal": 61.0,
-         "p": 8.47,
-         "c": 0.98,
-         "f": 2.4,
-         "tags": []
-        },
-        {
          "id": "7345",
          "name": "Oven Roasted Herb Potatoes",
          "serving": "3oz",
@@ -1032,6 +1022,16 @@
          "p": 6.05,
          "c": 2.99,
          "f": 4.31,
+         "tags": []
+        },
+        {
+         "id": "3424",
+         "name": "Texas Oak-Smoked Brisket",
+         "serving": "3.39oz",
+         "cal": 146.0,
+         "p": 19.09,
+         "c": 1.02,
+         "f": 6.78,
          "tags": []
         }
        ]
@@ -1150,16 +1150,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "2692",
-         "name": "Lemon Garlic Chicken Thighs",
-         "serving": "4.72oz",
-         "cal": 184.0,
-         "p": 22.57,
-         "c": 5.16,
-         "f": 7.34,
-         "tags": []
-        },
-        {
          "id": "7328",
          "name": "Rice Pilaf",
          "serving": "5.44oz",
@@ -1200,14 +1190,15 @@
          "tags": []
         },
         {
-         "id": "9681",
-         "name": "Fresno Chili Shrimp",
-         "serving": "5.04oz",
-         "cal": 163.0,
-         "p": 11.48,
-         "c": 6.27,
-         "f": 10.04,
-         "tags": []
+         "id": "5948",
+         "name": "Flex Bar Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1225,16 +1216,6 @@
          "tags": []
         },
         {
-         "id": "7336",
-         "name": "Roasted Cauliflower",
-         "serving": "3.37oz",
-         "cal": 54.0,
-         "p": 1.82,
-         "c": 4.99,
-         "f": 3.4,
-         "tags": []
-        },
-        {
          "id": "6904",
          "name": "Garlicky Green Beans",
          "serving": "2.22oz",
@@ -1242,6 +1223,16 @@
          "p": 1.4,
          "c": 5.85,
          "f": 0.38,
+         "tags": []
+        },
+        {
+         "id": "6905",
+         "name": "Roasted Brussels Sprouts",
+         "serving": "2.15oz",
+         "cal": 35.0,
+         "p": 2.03,
+         "c": 5.4,
+         "f": 1.14,
          "tags": []
         }
        ]
@@ -1411,16 +1402,6 @@
          "tags": []
         },
         {
-         "id": "4925",
-         "name": "Oreo Mousse",
-         "serving": "3.98oz",
-         "cal": 424.0,
-         "p": 2.54,
-         "c": 28.11,
-         "f": 30.41,
-         "tags": []
-        },
-        {
          "id": "9958",
          "name": "Blueberry Cobbler",
          "serving": "5oz",
@@ -1451,6 +1432,26 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4114",
+         "name": "Chocolate Cream Mousse",
+         "serving": "4.07oz",
+         "cal": 413.0,
+         "p": 3.66,
+         "c": 17.16,
+         "f": 33.06,
+         "tags": []
+        },
+        {
+         "id": "4906",
+         "name": "Magic Bar",
+         "serving": "1.48oz",
+         "cal": 190.0,
+         "p": 2.89,
+         "c": 23.24,
+         "f": 9.63,
+         "tags": []
         }
        ]
       }
@@ -2717,16 +2718,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "2275",
-         "name": "Seared Steelhead Trout",
-         "serving": "1.63oz",
-         "cal": 61.0,
-         "p": 9.25,
-         "c": 0.01,
-         "f": 2.31,
-         "tags": []
-        },
-        {
          "id": "4110",
          "name": "Grilled African Spiced Tofu",
          "serving": "2oz",
@@ -2737,13 +2728,23 @@
          "tags": []
         },
         {
-         "id": "2131",
-         "name": "Baked Purple Potato",
-         "serving": "3.09oz",
-         "cal": 87.0,
-         "p": 1.75,
-         "c": 14.91,
-         "f": 2.34,
+         "id": "922",
+         "name": "Spicy Fingerling Potatoes",
+         "serving": "2.03oz",
+         "cal": 116.0,
+         "p": 1.16,
+         "c": 9.89,
+         "f": 7.97,
+         "tags": []
+        },
+        {
+         "id": "3179",
+         "name": "Seared Salmon",
+         "serving": "3.31oz",
+         "cal": 206.0,
+         "p": 18.73,
+         "c": 0.12,
+         "f": 13.81,
          "tags": []
         }
        ]
@@ -2887,16 +2888,6 @@
          "tags": []
         },
         {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
-         "tags": []
-        },
-        {
          "id": "2945",
          "name": "Peanut Butter",
          "serving": "1oz",
@@ -2907,23 +2898,23 @@
          "tags": []
         },
         {
-         "id": "2728",
-         "name": "Fig Compote",
-         "serving": "1.27oz",
-         "cal": 71.0,
-         "p": 0.92,
-         "c": 17.4,
-         "f": 0.26,
+         "id": "2295",
+         "name": "Apple Cranberry Compote",
+         "serving": "1.26oz",
+         "cal": 30.0,
+         "p": 0.18,
+         "c": 6.6,
+         "f": 0.38,
          "tags": []
         },
         {
-         "id": "4614",
-         "name": "Butternut Squash Confit",
-         "serving": "2.08oz",
-         "cal": 53.0,
-         "p": 0.52,
-         "c": 13.76,
-         "f": 0.09,
+         "id": "3928",
+         "name": "Peach Vanilla Compote",
+         "serving": "2.06oz",
+         "cal": 56.0,
+         "p": 0.25,
+         "c": 14.82,
+         "f": 0,
          "tags": []
         }
        ]
@@ -3883,17 +3874,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
@@ -4032,6 +4012,47 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "3149",
+         "name": "Couscous",
+         "serving": "2.06oz",
+         "cal": 225.0,
+         "p": 7.28,
+         "c": 44.13,
+         "f": 1.46,
+         "tags": []
+        },
+        {
+         "id": "2392",
+         "name": "Lebanese Lentil & Bulgur Pilaf w/ Roasted Squash",
+         "serving": "11.21oz",
+         "cal": 611.0,
+         "p": 25.83,
+         "c": 109.38,
+         "f": 7.72,
+         "tags": []
+        },
+        {
+         "id": "2489",
+         "name": "Peas & Carrots",
+         "serving": "2.94oz",
+         "cal": 32.0,
+         "p": 1.81,
+         "c": 7.06,
+         "f": 0.22,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -4336,17 +4357,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
