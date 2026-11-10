@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updated": "2026-11-10T04:37:45+00:00",
+ "updated": "2026-11-10T07:20:26+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1372,36 +1372,6 @@
          "tags": []
         },
         {
-         "id": "4839",
-         "name": "White Chocolate Chip Cookie w/ Cranberries",
-         "serving": "1.29oz",
-         "cal": 157.0,
-         "p": 1.85,
-         "c": 20.97,
-         "f": 7.44,
-         "tags": []
-        },
-        {
-         "id": "228",
-         "name": "Dutch Apple Pie",
-         "serving": "4.4oz",
-         "cal": 323.0,
-         "p": 3.5,
-         "c": 46.86,
-         "f": 13.26,
-         "tags": []
-        },
-        {
-         "id": "3958",
-         "name": "Cranberry Crunch Bar",
-         "serving": "1.92oz",
-         "cal": 213.0,
-         "p": 2.8,
-         "c": 29.91,
-         "f": 9.39,
-         "tags": []
-        },
-        {
          "id": "9958",
          "name": "Blueberry Cobbler",
          "serving": "5oz",
@@ -1434,16 +1404,6 @@
          "nodata": true
         },
         {
-         "id": "4114",
-         "name": "Chocolate Cream Mousse",
-         "serving": "4.07oz",
-         "cal": 413.0,
-         "p": 3.66,
-         "c": 17.16,
-         "f": 33.06,
-         "tags": []
-        },
-        {
          "id": "4906",
          "name": "Magic Bar",
          "serving": "1.48oz",
@@ -1451,6 +1411,26 @@
          "p": 2.89,
          "c": 23.24,
          "f": 9.63,
+         "tags": []
+        },
+        {
+         "id": "312",
+         "name": "Almond Fudge Bar",
+         "serving": "2.26oz",
+         "cal": 268.0,
+         "p": 4.21,
+         "c": 38.31,
+         "f": 13.75,
+         "tags": []
+        },
+        {
+         "id": "1144",
+         "name": "Dulce De Leche Mousse",
+         "serving": "3.27oz",
+         "cal": 324.0,
+         "p": 1.75,
+         "c": 12.04,
+         "f": 26.89,
          "tags": []
         }
        ]
