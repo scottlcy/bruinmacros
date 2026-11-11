@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated": "2026-11-11T01:14:20+00:00",
+ "updated": "2026-11-11T06:24:10+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1007,16 +1007,6 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "2668",
-         "name": "Chimichurri Pork Tenderloin",
-         "serving": "2.78oz",
-         "cal": 127.0,
-         "p": 13.66,
-         "c": 0.65,
-         "f": 7.52,
-         "tags": []
-        },
-        {
          "id": "2665",
          "name": "Steak Cut Fries",
          "serving": "3.02oz",
@@ -1035,6 +1025,17 @@
          "c": 3.19,
          "f": 7.84,
          "tags": []
+        },
+        {
+         "id": "6245",
+         "name": "Kitchen Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1183,16 +1184,6 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
-         "serving": "6oz",
-         "cal": 149.0,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49,
-         "tags": []
-        },
-        {
          "id": "7334",
          "name": "Garbanzo Picadillo",
          "serving": "2.99oz",
@@ -1213,13 +1204,13 @@
          "tags": []
         },
         {
-         "id": "6359",
-         "name": "Honey Roasted Chicken",
-         "serving": "4.45oz",
-         "cal": 300.0,
-         "p": 21.17,
-         "c": 4.91,
-         "f": 21.66,
+         "id": "152",
+         "name": "Creamy Tomato Basil Soup",
+         "serving": "6.05oz",
+         "cal": 133.0,
+         "p": 1.85,
+         "c": 10.11,
+         "f": 9.26,
          "tags": []
         }
        ]
@@ -1255,16 +1246,6 @@
          "p": 0.75,
          "c": 4.47,
          "f": 0.83,
-         "tags": []
-        },
-        {
-         "id": "1493",
-         "name": "Roasted Butternut Squash",
-         "serving": "3.1oz",
-         "cal": 46.0,
-         "p": 0.88,
-         "c": 10.19,
-         "f": 0.82,
          "tags": []
         }
        ]
@@ -1414,16 +1395,6 @@
          "tags": []
         },
         {
-         "id": "1088",
-         "name": "Pecan Pie",
-         "serving": "3.6oz",
-         "cal": 407.0,
-         "p": 3.19,
-         "c": 52.59,
-         "f": 20.72,
-         "tags": []
-        },
-        {
          "id": "285",
          "name": "Chocolate Cherry Crisp",
          "serving": "4.8oz",
@@ -1466,16 +1437,6 @@
          "nodata": true
         },
         {
-         "id": "281",
-         "name": "White Cupcake",
-         "serving": "3.51oz",
-         "cal": 342.0,
-         "p": 2.94,
-         "c": 28.09,
-         "f": 24.55,
-         "tags": []
-        },
-        {
          "id": "3958",
          "name": "Cranberry Crunch Bar",
          "serving": "1.92oz",
@@ -1483,6 +1444,16 @@
          "p": 2.8,
          "c": 29.91,
          "f": 9.39,
+         "tags": []
+        },
+        {
+         "id": "4041",
+         "name": "Pumpkin Pie",
+         "serving": "2.37oz",
+         "cal": 123.0,
+         "p": 2.8,
+         "c": 22.32,
+         "f": 2.7,
          "tags": []
         }
        ]
@@ -3632,6 +3603,16 @@
          "tags": []
         },
         {
+         "id": "6696",
+         "name": "Parsley Pesto",
+         "serving": "1.31oz",
+         "cal": 159.0,
+         "p": 4.86,
+         "c": 2.09,
+         "f": 14.78,
+         "tags": []
+        },
+        {
          "id": "173",
          "name": "Hummus",
          "serving": "0.13lb",
@@ -3649,6 +3630,16 @@
          "p": 2.57,
          "c": 1.22,
          "f": 0.53,
+         "tags": []
+        },
+        {
+         "id": "4416",
+         "name": "Baba Ghanoush",
+         "serving": "4.64oz",
+         "cal": 71.0,
+         "p": 2.1,
+         "c": 8.55,
+         "f": 3.8,
          "tags": []
         },
         {
@@ -4689,16 +4680,6 @@
          "p": 6.09,
          "c": 33.32,
          "f": 6.29,
-         "tags": []
-        },
-        {
-         "id": "1297",
-         "name": "Young Chow Vegetable Fried Rice",
-         "serving": "1.51oz",
-         "cal": 134.0,
-         "p": 3.61,
-         "c": 22.4,
-         "f": 2.86,
          "tags": []
         }
        ]
