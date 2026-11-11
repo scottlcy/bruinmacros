@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated": "2026-11-11T06:24:33+00:00",
+ "updated": "2026-11-11T20:12:18+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -785,6 +785,46 @@
          "c": 2.3,
          "f": 0.05,
          "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88.0,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
@@ -1339,16 +1379,6 @@
        "name": "Freshly Bowled",
        "items": [
         {
-         "id": "2066",
-         "name": "Bruin Scramble (Ham & Cheddar)",
-         "serving": "4.52oz",
-         "cal": 222.0,
-         "p": 12.65,
-         "c": 3.47,
-         "f": 17.29,
-         "tags": []
-        },
-        {
          "id": "2073",
          "name": "Bruin Scramble (Vegetarian)",
          "serving": "3.47oz",
@@ -1357,6 +1387,17 @@
          "c": 2.65,
          "f": 12.61,
          "tags": []
+        },
+        {
+         "id": "5951",
+         "name": "Freshly Bowled Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3136,13 +3177,13 @@
          "tags": []
         },
         {
-         "id": "1180",
-         "name": "Roasted Eggplant",
-         "serving": "2.98oz",
-         "cal": 52.0,
-         "p": 0.78,
-         "c": 4.72,
-         "f": 3.52,
+         "id": "7934",
+         "name": "Roasted Zucchini",
+         "serving": "2.05oz",
+         "cal": 25.0,
+         "p": 1.53,
+         "c": 1.76,
+         "f": 1.58,
          "tags": []
         },
         {
@@ -3323,16 +3364,6 @@
          "tags": []
         },
         {
-         "id": "299",
-         "name": "Old-Fashioned Oatmeal Raisin Cookie",
-         "serving": "1.3oz",
-         "cal": 152.0,
-         "p": 2.11,
-         "c": 22.86,
-         "f": 5.87,
-         "tags": []
-        },
-        {
          "id": "3743",
          "name": "Espresso Panna Cotta",
          "serving": "2.04oz",
@@ -3378,6 +3409,37 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "3422",
+         "name": "Chicken Tagine",
+         "serving": "5.2oz",
+         "cal": 191.0,
+         "p": 10.89,
+         "c": 8.06,
+         "f": 12.43,
+         "tags": []
+        },
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "2492",
+         "name": "Risi & Bisi Garlic Rice",
+         "serving": "3.13oz",
+         "cal": 97.0,
+         "p": 1.99,
+         "c": 18.64,
+         "f": 1.43,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -3449,16 +3511,6 @@
          "tags": []
         },
         {
-         "id": "4416",
-         "name": "Baba Ghanoush",
-         "serving": "4.64oz",
-         "cal": 71.0,
-         "p": 2.1,
-         "c": 8.55,
-         "f": 3.8,
-         "tags": []
-        },
-        {
          "id": "6203",
          "name": "Muhammara (Spicy Roasted Pepper Dip)",
          "serving": "1.99oz",
@@ -3509,16 +3561,6 @@
          "tags": []
         },
         {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
-         "tags": []
-        },
-        {
          "id": "1323",
          "name": "Morrocan Spicy Lentil Dip",
          "serving": "4.19oz",
@@ -3549,16 +3591,6 @@
          "tags": []
         },
         {
-         "id": "8142",
-         "name": "Garlic Lebneh",
-         "serving": "8.64oz",
-         "cal": 142.0,
-         "p": 23.13,
-         "c": 9.57,
-         "f": 0.88,
-         "tags": []
-        },
-        {
          "id": "1870",
          "name": "Htipiti Feta Spread",
          "serving": "1oz",
@@ -3569,36 +3601,6 @@
          "tags": []
         },
         {
-         "id": "3852",
-         "name": "Marinated Red Grape Tomatoes",
-         "serving": "4.7oz",
-         "cal": 307.0,
-         "p": 0.88,
-         "c": 4.34,
-         "f": 30.93,
-         "tags": []
-        },
-        {
-         "id": "6553",
-         "name": "Pitted Kalamata Olives",
-         "serving": "1oz",
-         "cal": 237.0,
-         "p": 0,
-         "c": 9.4,
-         "f": 28.2,
-         "tags": []
-        },
-        {
-         "id": "1267",
-         "name": "Pickled Vegetables",
-         "serving": "2.05oz",
-         "cal": 15.0,
-         "p": 0.31,
-         "c": 2.44,
-         "f": 0.06,
-         "tags": []
-        },
-        {
          "id": "9172",
          "name": "Dolma",
          "serving": "2.65oz",
@@ -3606,16 +3608,6 @@
          "p": 1.88,
          "c": 14.06,
          "f": 3.75,
-         "tags": []
-        },
-        {
-         "id": "7054",
-         "name": "Grated Parmesan Cheese",
-         "serving": "1oz",
-         "cal": 95.0,
-         "p": 9.4,
-         "c": 0,
-         "f": 4.7,
          "tags": []
         }
        ]
