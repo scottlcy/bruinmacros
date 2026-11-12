@@ -6092,8 +6092,8 @@
   "c": 30.55,
   "p": 11.54,
   "tags": [],
-  "fetched": "2026-09-27",
-  "seen": "2026-10-26"
+  "fetched": "2026-11-11",
+  "seen": "2026-11-11"
  },
  "2728": {
   "name": "Fig Compote",
@@ -6658,7 +6658,7 @@
   "p": 2.8,
   "tags": [],
   "fetched": "2026-11-01",
-  "seen": "2026-11-10"
+  "seen": "2026-11-11"
  },
  "4021": {
   "name": "Yukon Gold Potato Wedges",
@@ -8621,7 +8621,7 @@
   "p": 5.78,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-11-10"
+  "seen": "2026-11-11"
  },
  "9964": {
   "name": "Pre-Workout Protein Box",
@@ -18327,7 +18327,7 @@
   "p": 1.92,
   "tags": [],
   "fetched": "2026-11-07",
-  "seen": "2026-11-07"
+  "seen": "2026-11-11"
  },
  "3513": {
   "name": "Albacore Tuna, Beet, Roasted Potato, & Egg Salad",
@@ -18679,8 +18679,8 @@
   "p": 0,
   "tags": [],
   "nodata": true,
-  "fetched": "2026-10-08",
-  "seen": "2026-11-01"
+  "fetched": "2026-11-11",
+  "seen": "2026-11-11"
  },
  "9527": {
   "name": "Strawberry Compote & Red Wine",
@@ -19874,8 +19874,8 @@
   "c": 3.78,
   "p": 5.66,
   "tags": [],
-  "fetched": "2026-10-12",
-  "seen": "2026-11-10"
+  "fetched": "2026-11-11",
+  "seen": "2026-11-11"
  },
  "2343": {
   "name": "Sauteed Spinach",
@@ -24938,6 +24938,28 @@
   "f": 28.77,
   "c": 44.1,
   "p": 18.02,
+  "tags": [],
+  "fetched": "2026-11-11",
+  "seen": "2026-11-11"
+ },
+ "2265": {
+  "name": "Whole Wheat Couscous",
+  "serving": "3oz",
+  "cal": 217.0,
+  "f": 0.38,
+  "c": 44.57,
+  "p": 7.33,
+  "tags": [],
+  "fetched": "2026-11-11",
+  "seen": "2026-11-11"
+ },
+ "7597": {
+  "name": "Halal Moroccan Chicken Thigh",
+  "serving": "1.44oz",
+  "cal": 52.0,
+  "f": 1.78,
+  "c": 0.73,
+  "p": 7.77,
   "tags": [],
   "fetched": "2026-11-11",
   "seen": "2026-11-11"

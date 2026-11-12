@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated": "2026-11-11T20:12:18+00:00",
+ "updated": "2026-11-12T01:54:09+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1158,6 +1158,16 @@
          "c": 11.03,
          "f": 31.72,
          "tags": []
+        },
+        {
+         "id": "6356",
+         "name": "Avery Island Pasta",
+         "serving": "5.87oz",
+         "cal": 368.0,
+         "p": 12.42,
+         "c": 69.36,
+         "f": 5.49,
+         "tags": []
         }
        ]
       },
@@ -1274,6 +1284,56 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88.0,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "3451",
+         "name": "Elote (Mexican Street Corn)",
+         "serving": "1.88oz",
+         "cal": 126.0,
+         "p": 1.92,
+         "c": 7.5,
+         "f": 9.37,
+         "tags": []
         }
        ]
       },
@@ -1361,6 +1421,46 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "3958",
+         "name": "Cranberry Crunch Bar",
+         "serving": "1.92oz",
+         "cal": 213.0,
+         "p": 2.8,
+         "c": 29.91,
+         "f": 9.39,
+         "tags": []
+        },
+        {
+         "id": "261",
+         "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
+         "serving": "2.67oz",
+         "cal": 285.0,
+         "p": 3.52,
+         "c": 33.71,
+         "f": 14.82,
+         "tags": []
+        },
+        {
+         "id": "9958",
+         "name": "Blueberry Cobbler",
+         "serving": "5oz",
+         "cal": 379.0,
+         "p": 5.78,
+         "c": 58.89,
+         "f": 13.55,
+         "tags": []
+        },
+        {
+         "id": "237",
+         "name": "Blackberry Peach Crisp",
+         "serving": "4.34oz",
+         "cal": 111.0,
+         "p": 1.67,
+         "c": 39.78,
+         "f": 4.38,
+         "tags": []
         }
        ]
       }
@@ -2030,16 +2130,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "1292",
-         "name": "Grilled Dijon Chicken Thigh",
-         "serving": "1.57oz",
-         "cal": 67.0,
-         "p": 7.57,
-         "c": 0.12,
-         "f": 3.5,
-         "tags": []
-        },
-        {
          "id": "4001",
          "name": "Chickpea Stacker w/ Yogurt-Tahini Sauce",
          "serving": "5.24oz",
@@ -2057,6 +2147,16 @@
          "p": 1.6,
          "c": 13.2,
          "f": 7.71,
+         "tags": []
+        },
+        {
+         "id": "7597",
+         "name": "Halal Moroccan Chicken Thigh",
+         "serving": "1.44oz",
+         "cal": 52.0,
+         "p": 7.77,
+         "c": 0.73,
+         "f": 1.78,
          "tags": []
         }
        ]
@@ -2597,13 +2697,13 @@
          "tags": []
         },
         {
-         "id": "937",
-         "name": "Tri-Color Quinoa",
-         "serving": "2.34oz",
-         "cal": 98.0,
-         "p": 3.69,
-         "c": 17.3,
-         "f": 1.54,
+         "id": "2265",
+         "name": "Whole Wheat Couscous",
+         "serving": "3oz",
+         "cal": 217.0,
+         "p": 7.33,
+         "c": 44.57,
+         "f": 0.38,
          "tags": []
         },
         {
@@ -3410,25 +3510,14 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "3422",
-         "name": "Chicken Tagine",
-         "serving": "5.2oz",
-         "cal": 191.0,
-         "p": 10.89,
-         "c": 8.06,
-         "f": 12.43,
+         "id": "2323",
+         "name": "Grilled Tri Tip with Sumac",
+         "serving": "1.17oz",
+         "cal": 59.0,
+         "p": 5.66,
+         "c": 3.78,
+         "f": 1.83,
          "tags": []
-        },
-        {
-         "id": "5962",
-         "name": "Mezze Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         },
         {
          "id": "2492",
@@ -3478,16 +3567,6 @@
          "p": 0.9,
          "c": 4.67,
          "f": 27.25,
-         "tags": []
-        },
-        {
-         "id": "6696",
-         "name": "Parsley Pesto",
-         "serving": "1.31oz",
-         "cal": 159.0,
-         "p": 4.86,
-         "c": 2.09,
-         "f": 14.78,
          "tags": []
         },
         {
@@ -3939,6 +4018,37 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "6181",
+         "name": "Mezze Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "3601",
+         "name": "Pearled Couscous w/ Roasted Zucchini",
+         "serving": "4.09oz",
+         "cal": 326.0,
+         "p": 10.01,
+         "c": 55.42,
+         "f": 6.38,
+         "tags": []
+        },
+        {
+         "id": "2719",
+         "name": "French Green Lentils",
+         "serving": "2.18oz",
+         "cal": 219.0,
+         "p": 11.54,
+         "c": 30.55,
+         "f": 5.94,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
