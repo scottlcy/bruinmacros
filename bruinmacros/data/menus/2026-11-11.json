@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated": "2026-11-12T01:54:09+00:00",
+ "updated": "2026-11-12T07:12:47+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1160,14 +1160,15 @@
          "tags": []
         },
         {
-         "id": "6356",
-         "name": "Avery Island Pasta",
-         "serving": "5.87oz",
-         "cal": 368.0,
-         "p": 12.42,
-         "c": 69.36,
-         "f": 5.49,
-         "tags": []
+         "id": "6247",
+         "name": "Chef's Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1361,16 +1362,6 @@
          "tags": []
         },
         {
-         "id": "4041",
-         "name": "Pumpkin Pie",
-         "serving": "2.37oz",
-         "cal": 123.0,
-         "p": 2.8,
-         "c": 22.32,
-         "f": 2.7,
-         "tags": []
-        },
-        {
          "id": "255",
          "name": "Blondie w/ Walnuts",
          "serving": "1.75oz",
@@ -1433,16 +1424,6 @@
          "tags": []
         },
         {
-         "id": "261",
-         "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
-         "serving": "2.67oz",
-         "cal": 285.0,
-         "p": 3.52,
-         "c": 33.71,
-         "f": 14.82,
-         "tags": []
-        },
-        {
          "id": "9958",
          "name": "Blueberry Cobbler",
          "serving": "5oz",
@@ -1453,13 +1434,23 @@
          "tags": []
         },
         {
-         "id": "237",
-         "name": "Blackberry Peach Crisp",
-         "serving": "4.34oz",
-         "cal": 111.0,
-         "p": 1.67,
-         "c": 39.78,
-         "f": 4.38,
+         "id": "284",
+         "name": "Tres Leches Cake",
+         "serving": "5.16oz",
+         "cal": 451.0,
+         "p": 7.89,
+         "c": 45.06,
+         "f": 26.1,
+         "tags": []
+        },
+        {
+         "id": "238",
+         "name": "Mexican Wedding Cookie",
+         "serving": "1.51oz",
+         "cal": 240.0,
+         "p": 2.52,
+         "c": 18.92,
+         "f": 17.54,
          "tags": []
         }
        ]
@@ -4019,8 +4010,8 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "6181",
-         "name": "Mezze Vegetarian Special",
+         "id": "5962",
+         "name": "Mezze Special",
          "serving": "4oz",
          "cal": 0,
          "p": 0,
@@ -4028,6 +4019,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "6299",
+         "name": "Vegetable Rice Pilaf",
+         "serving": "3.12oz",
+         "cal": 154.0,
+         "p": 2.61,
+         "c": 24.08,
+         "f": 4.56,
+         "tags": []
         },
         {
          "id": "3601",
@@ -4040,14 +4041,15 @@
          "tags": []
         },
         {
-         "id": "2719",
-         "name": "French Green Lentils",
-         "serving": "2.18oz",
-         "cal": 219.0,
-         "p": 11.54,
-         "c": 30.55,
-         "f": 5.94,
-         "tags": []
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "5476",
