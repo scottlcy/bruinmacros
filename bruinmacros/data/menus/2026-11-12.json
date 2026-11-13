@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "updated": "2026-11-12T20:49:16+00:00",
+ "updated": "2026-11-13T01:49:45+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -982,13 +982,13 @@
          "tags": []
         },
         {
-         "id": "9675",
-         "name": "Roasted Corn & Red Bell Peppers",
-         "serving": "1.09oz",
-         "cal": 30.0,
-         "p": 0.75,
-         "c": 4.47,
-         "f": 0.83,
+         "id": "6855",
+         "name": "Corn & Lima Bean Succotash",
+         "serving": "2.09oz",
+         "cal": 63.0,
+         "p": 2.21,
+         "c": 10.24,
+         "f": 1.41,
          "tags": []
         }
        ]
@@ -1127,15 +1127,14 @@
          "tags": []
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1190,6 +1189,26 @@
          "p": 3.11,
          "c": 13.19,
          "f": 9.49,
+         "tags": []
+        },
+        {
+         "id": "6401",
+         "name": "Smoked Chicken w/ Alabama White Sauce",
+         "serving": "2.99oz",
+         "cal": 224.0,
+         "p": 12.46,
+         "c": 3.09,
+         "f": 17.62,
+         "tags": []
+        },
+        {
+         "id": "8707",
+         "name": "Seafood Jambalaya w/ Andouille",
+         "serving": "6oz",
+         "cal": 140.0,
+         "p": 10.15,
+         "c": 6.39,
+         "f": 8.14,
          "tags": []
         }
        ]
@@ -1307,6 +1326,46 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88.0,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
+         "tags": []
         }
        ]
       },
@@ -1394,6 +1453,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "255",
+         "name": "Blondie w/ Walnuts",
+         "serving": "1.75oz",
+         "cal": 220.0,
+         "p": 3.23,
+         "c": 24.62,
+         "f": 12.21,
+         "tags": []
         }
        ]
       }
@@ -2639,13 +2708,13 @@
          "tags": []
         },
         {
-         "id": "957",
-         "name": "Roasted Butternut Squash",
-         "serving": "4oz",
-         "cal": 51.0,
-         "p": 1.13,
-         "c": 13.24,
-         "f": 0.11,
+         "id": "3690",
+         "name": "Roasted Vegetables",
+         "serving": "2.87oz",
+         "cal": 36.0,
+         "p": 1.59,
+         "c": 5.39,
+         "f": 1.31,
          "tags": []
         },
         {
@@ -3462,16 +3531,6 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "883",
-         "name": "Polenta",
-         "serving": "3.74oz",
-         "cal": 271.0,
-         "p": 12.06,
-         "c": 14.98,
-         "f": 18.98,
-         "tags": []
-        },
-        {
          "id": "5962",
          "name": "Mezze Special",
          "serving": "4oz",
@@ -3483,23 +3542,23 @@
          "nodata": true
         },
         {
-         "id": "2279",
-         "name": "Basque Style Chicken",
-         "serving": "8.05oz",
-         "cal": 233.0,
-         "p": 19.53,
-         "c": 26.19,
-         "f": 5.61,
+         "id": "883",
+         "name": "Polenta",
+         "serving": "3.74oz",
+         "cal": 271.0,
+         "p": 12.06,
+         "c": 14.98,
+         "f": 18.98,
          "tags": []
         },
         {
-         "id": "6342",
-         "name": "Grilled Cheese Spanakopita",
-         "serving": "2.72oz",
-         "cal": 127.0,
-         "p": 7.25,
-         "c": 15.94,
-         "f": 4.44,
+         "id": "1485",
+         "name": "Carrot-Cumin Farro",
+         "serving": "4.39oz",
+         "cal": 157.0,
+         "p": 5.98,
+         "c": 29.22,
+         "f": 2.28,
          "tags": []
         },
         {
@@ -3926,6 +3985,26 @@
          "tags": []
         },
         {
+         "id": "302",
+         "name": "Sugar Cookies",
+         "serving": "1.3oz",
+         "cal": 180.0,
+         "p": 2.15,
+         "c": 18.9,
+         "f": 10.65,
+         "tags": []
+        },
+        {
+         "id": "5757",
+         "name": "Cappuccino Cookie",
+         "serving": "3.04oz",
+         "cal": 313.0,
+         "p": 4.14,
+         "c": 43.3,
+         "f": 13.35,
+         "tags": []
+        },
+        {
          "id": "299",
          "name": "Old-Fashioned Oatmeal Raisin Cookie",
          "serving": "1.3oz",
@@ -3981,6 +4060,36 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "2029",
+         "name": "Roasted Salmon w/ Creamy Herb Sauce",
+         "serving": "3.03oz",
+         "cal": 244.0,
+         "p": 14.29,
+         "c": 0.82,
+         "f": 19.81,
+         "tags": []
+        },
+        {
+         "id": "2904",
+         "name": "Kale & Mushroom Lasagna",
+         "serving": "7.76oz",
+         "cal": 445.0,
+         "p": 17.55,
+         "c": 31.12,
+         "f": 27.05,
+         "tags": []
+        },
+        {
+         "id": "9352",
+         "name": "Lebanese Lentils & Rice (Mujadara)",
+         "serving": "2.55oz",
+         "cal": 255.0,
+         "p": 6.81,
+         "c": 25.61,
+         "f": 14.24,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -4568,7 +4677,7 @@
          "serving": "2.62oz",
          "cal": 44.0,
          "p": 2.17,
-         "c": 3.23,
+         "c": 3.22,
          "f": 2.83,
          "tags": []
         }
@@ -9522,20 +9631,20 @@
         {
          "id": "4502",
          "name": "Tiramisu",
-         "serving": "1.48oz",
-         "cal": 133.0,
-         "p": 3.36,
-         "c": 11.49,
-         "f": 9.04,
+         "serving": "1.38oz",
+         "cal": 113.0,
+         "p": 2.82,
+         "c": 10.0,
+         "f": 8.83,
          "tags": []
         },
         {
          "id": "278",
          "name": "Cheesecake",
          "serving": "3.38oz",
-         "cal": 314.0,
+         "cal": 329.0,
          "p": 5.75,
-         "c": 27.29,
+         "c": 25.81,
          "f": 21.77,
          "tags": []
         }

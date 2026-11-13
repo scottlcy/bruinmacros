@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated": "2026-11-12T20:50:16+00:00",
+ "updated": "2026-11-13T01:50:11+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -3327,6 +3327,36 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "2029",
+         "name": "Roasted Salmon w/ Creamy Herb Sauce",
+         "serving": "3.03oz",
+         "cal": 244.0,
+         "p": 14.29,
+         "c": 0.82,
+         "f": 19.81,
+         "tags": []
+        },
+        {
+         "id": "2904",
+         "name": "Kale & Mushroom Lasagna",
+         "serving": "7.76oz",
+         "cal": 445.0,
+         "p": 17.55,
+         "c": 31.12,
+         "f": 27.05,
+         "tags": []
+        },
+        {
+         "id": "2495",
+         "name": "Lebanese Rice",
+         "serving": "3.93oz",
+         "cal": 172.0,
+         "p": 3.13,
+         "c": 35.62,
+         "f": 1.62,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -8781,20 +8811,20 @@
         {
          "id": "4502",
          "name": "Tiramisu",
-         "serving": "1.48oz",
-         "cal": 133.0,
-         "p": 3.36,
-         "c": 11.49,
-         "f": 9.04,
+         "serving": "1.38oz",
+         "cal": 113.0,
+         "p": 2.82,
+         "c": 10.0,
+         "f": 8.83,
          "tags": []
         },
         {
          "id": "278",
          "name": "Cheesecake",
          "serving": "3.38oz",
-         "cal": 314.0,
+         "cal": 329.0,
          "p": 5.75,
-         "c": 27.29,
+         "c": 25.81,
          "f": 21.77,
          "tags": []
         }
