@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated": "2026-11-14T18:44:17+00:00",
+ "updated": "2026-11-14T22:58:43+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1079,13 +1079,13 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "2385",
-         "name": "Honey Lime Chicken Thighs",
-         "serving": "3.26oz",
-         "cal": 125.0,
-         "p": 15.56,
-         "c": 5.35,
-         "f": 3.83,
+         "id": "6358",
+         "name": "Blackened Salmon",
+         "serving": "2.6oz",
+         "cal": 126.0,
+         "p": 15.31,
+         "c": 2.73,
+         "f": 6.18,
          "tags": []
         },
         {
@@ -1242,6 +1242,46 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88.0,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
          "tags": []
         }
        ]
@@ -1547,6 +1587,16 @@
          "c": 9.95,
          "f": 0.35,
          "tags": []
+        },
+        {
+         "id": "6438",
+         "name": "Oranges",
+         "serving": "5oz",
+         "cal": 67.0,
+         "p": 1.33,
+         "c": 16.64,
+         "f": 0.17,
+         "tags": []
         }
        ]
       },
@@ -1814,23 +1864,23 @@
        "name": "Soups",
        "items": [
         {
-         "id": "447",
-         "name": "Chicken Noodle Soup",
-         "serving": "6.05oz",
-         "cal": 217.0,
-         "p": 9.96,
-         "c": 36.03,
-         "f": 4.23,
+         "id": "753",
+         "name": "Garden Vegetable Soup",
+         "serving": "6oz",
+         "cal": 34.0,
+         "p": 1.29,
+         "c": 6.12,
+         "f": 0.65,
          "tags": []
         },
         {
-         "id": "152",
-         "name": "Creamy Tomato Basil Soup",
-         "serving": "6.05oz",
-         "cal": 133.0,
-         "p": 1.85,
-         "c": 10.11,
-         "f": 9.26,
+         "id": "130",
+         "name": "Seafood, Leek & Tomato Chowder",
+         "serving": "7.16oz",
+         "cal": 80.0,
+         "p": 9.96,
+         "c": 6.13,
+         "f": 0.97,
          "tags": []
         }
        ]
@@ -1900,13 +1950,13 @@
          "tags": []
         },
         {
-         "id": "1174",
-         "name": "Mixed Grains--Farro, Wheatberry, & Brown Rice",
-         "serving": "2oz",
-         "cal": 93.0,
-         "p": 3.08,
-         "c": 19.62,
-         "f": 0.49,
+         "id": "3087",
+         "name": "Black Quinoa Granola",
+         "serving": "2.41oz",
+         "cal": 282.0,
+         "p": 9.98,
+         "c": 34.07,
+         "f": 12.79,
          "tags": []
         },
         {
@@ -1920,13 +1970,23 @@
          "tags": []
         },
         {
-         "id": "1971",
-         "name": "Black Eyed Peas & Collard Greens",
-         "serving": "2.38oz",
-         "cal": 66.0,
-         "p": 1.29,
-         "c": 3.69,
-         "f": 5.2,
+         "id": "985",
+         "name": "Sauteed Kale",
+         "serving": "2.33oz",
+         "cal": 48.0,
+         "p": 2.57,
+         "c": 5.96,
+         "f": 2.18,
+         "tags": []
+        },
+        {
+         "id": "1994",
+         "name": "BBQ Chicken",
+         "serving": "2.21oz",
+         "cal": 119.0,
+         "p": 11.81,
+         "c": 5.82,
+         "f": 5.25,
          "tags": []
         }
        ]
@@ -1960,13 +2020,13 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "2130",
-         "name": "Falafel Stacker",
-         "serving": "4.22oz",
-         "cal": 159.0,
-         "p": 7.88,
-         "c": 23.58,
-         "f": 4.04,
+         "id": "3508",
+         "name": "Thai Tofu Stacker",
+         "serving": "2.1oz",
+         "cal": 74.0,
+         "p": 3.64,
+         "c": 10.03,
+         "f": 2.17,
          "tags": []
         },
         {
@@ -2060,36 +2120,6 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
-         "tags": []
-        },
-        {
          "id": "5595",
          "name": "Apple Quickbread",
          "serving": "2.56oz",
@@ -2097,27 +2127,6 @@
          "p": 2.35,
          "c": 34.38,
          "f": 10.02,
-         "tags": []
-        },
-        {
-         "id": "1415",
-         "name": "Carrot Zucchini Bread",
-         "serving": "57.86oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
-        },
-        {
-         "id": "3713",
-         "name": "Flaxsnax Breakfast Cookie w/ Pecans",
-         "serving": "1.14oz",
-         "cal": 157.0,
-         "p": 3.11,
-         "c": 8.58,
-         "f": 11.8,
          "tags": []
         },
         {
@@ -2151,23 +2160,43 @@
          "tags": []
         },
         {
-         "id": "4615",
-         "name": "Green Lentil Butter",
-         "serving": "1.18oz",
-         "cal": 68.0,
-         "p": 3.9,
-         "c": 13.23,
-         "f": 0.17,
+         "id": "3046",
+         "name": "Banana Walnut Bread",
+         "serving": "2.69oz",
+         "cal": 280.0,
+         "p": 4.89,
+         "c": 37.04,
+         "f": 13.24,
          "tags": []
         },
         {
-         "id": "3101",
-         "name": "Orange-Papaya Marmalade",
-         "serving": "0.58oz",
-         "cal": 9.0,
-         "p": 0.1,
-         "c": 2.23,
-         "f": 0.03,
+         "id": "1392",
+         "name": "Lemon Poppy Bread",
+         "serving": "2.05oz",
+         "cal": 209.0,
+         "p": 2.99,
+         "c": 17.38,
+         "f": 13.94,
+         "tags": []
+        },
+        {
+         "id": "5473",
+         "name": "Sliced Raisin Bread",
+         "serving": "1.46oz",
+         "cal": 119.0,
+         "p": 2.69,
+         "c": 22.44,
+         "f": 2.2,
+         "tags": []
+        },
+        {
+         "id": "3928",
+         "name": "Peach Vanilla Compote",
+         "serving": "2.06oz",
+         "cal": 56.0,
+         "p": 0.25,
+         "c": 14.82,
+         "f": 0,
          "tags": []
         }
        ]

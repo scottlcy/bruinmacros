@@ -328,7 +328,7 @@
   "p": 12.66,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-11-13"
+  "seen": "2026-11-14"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -5219,7 +5219,7 @@
   "p": 2.57,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-11-13"
+  "seen": "2026-11-14"
  },
  "989": {
   "name": "Scrambled Egg Whites",
@@ -11320,7 +11320,7 @@
   "p": 15.31,
   "tags": [],
   "fetched": "2026-11-10",
-  "seen": "2026-11-11"
+  "seen": "2026-11-14"
  },
  "6477": {
   "name": "Cajun Chicken Wings",
@@ -13099,7 +13099,7 @@
   "p": 9.96,
   "tags": [],
   "fetched": "2026-11-03",
-  "seen": "2026-11-13"
+  "seen": "2026-11-14"
  },
  "1381": {
   "name": "Chipotle Chicken, Brown Rice, & Avocado Bowl",
@@ -13539,7 +13539,7 @@
   "p": 3.64,
   "tags": [],
   "fetched": "2026-10-31",
-  "seen": "2026-11-13"
+  "seen": "2026-11-14"
  },
  "3563": {
   "name": "Farro, White Bean, & Endive Flatbread",
@@ -15934,7 +15934,7 @@
   "p": 0.25,
   "tags": [],
   "fetched": "2026-11-09",
-  "seen": "2026-11-13"
+  "seen": "2026-11-14"
  },
  "4014": {
   "name": "Apple Cobbler",
@@ -25029,6 +25029,28 @@
   "f": 7.92,
   "c": 2.97,
   "p": 3.46,
+  "tags": [],
+  "fetched": "2026-11-14",
+  "seen": "2026-11-14"
+ },
+ "1994": {
+  "name": "BBQ Chicken",
+  "serving": "2.21oz",
+  "cal": 119.0,
+  "f": 5.25,
+  "c": 5.82,
+  "p": 11.81,
+  "tags": [],
+  "fetched": "2026-11-14",
+  "seen": "2026-11-14"
+ },
+ "3087": {
+  "name": "Black Quinoa Granola",
+  "serving": "2.41oz",
+  "cal": 282.0,
+  "f": 12.79,
+  "c": 34.07,
+  "p": 9.98,
   "tags": [],
   "fetched": "2026-11-14",
   "seen": "2026-11-14"
