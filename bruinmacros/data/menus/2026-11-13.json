@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated": "2026-11-13T20:29:25+00:00",
+ "updated": "2026-11-14T01:26:56+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1090,13 +1090,13 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "3185",
-         "name": "Mexican Style Deviled Shrimp (Camarones a la Diabla)",
-         "serving": "3.03oz",
-         "cal": 64.0,
-         "p": 7.3,
-         "c": 4.96,
-         "f": 1.4,
+         "id": "9689",
+         "name": "Mahi Mahi with Tomatillo",
+         "serving": "2.52oz",
+         "cal": 55.0,
+         "p": 10.98,
+         "c": 1.14,
+         "f": 0.41,
          "tags": []
         },
         {
@@ -1137,6 +1137,16 @@
          "p": 8.57,
          "c": 11.03,
          "f": 31.72,
+         "tags": []
+        },
+        {
+         "id": "8707",
+         "name": "Seafood Jambalaya w/ Andouille",
+         "serving": "6oz",
+         "cal": 140.0,
+         "p": 10.15,
+         "c": 6.39,
+         "f": 8.14,
          "tags": []
         }
        ]
@@ -1253,6 +1263,46 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88.0,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "7941",
+         "name": "Shrimp Ceviche Tostada Bar",
+         "serving": "3.42oz",
+         "cal": 71.0,
+         "p": 12.66,
+         "c": 2.87,
+         "f": 1.25,
          "tags": []
         }
        ]
@@ -2766,6 +2816,16 @@
          "tags": []
         },
         {
+         "id": "1244",
+         "name": "Raspberry Ginger Oat Bar",
+         "serving": "2.48oz",
+         "cal": 247.0,
+         "p": 4.72,
+         "c": 34.1,
+         "f": 10.7,
+         "tags": []
+        },
+        {
          "id": "2256",
          "name": "Almond Butter",
          "serving": "1.08oz",
@@ -2796,23 +2856,13 @@
          "tags": []
         },
         {
-         "id": "3464",
-         "name": "Kumquat Compote",
-         "serving": "1.27oz",
-         "cal": 44.0,
-         "p": 0.41,
-         "c": 11.04,
-         "f": 0.14,
-         "tags": []
-        },
-        {
-         "id": "2292",
-         "name": "Pear-Date Compote",
-         "serving": "1.12oz",
-         "cal": 55.0,
-         "p": 0.36,
-         "c": 14.05,
-         "f": 0.08,
+         "id": "3928",
+         "name": "Peach Vanilla Compote",
+         "serving": "2.06oz",
+         "cal": 56.0,
+         "p": 0.25,
+         "c": 14.82,
+         "f": 0,
          "tags": []
         }
        ]
@@ -3180,13 +3230,13 @@
          "tags": []
         },
         {
-         "id": "6170",
-         "name": "Roasted Broccolini",
-         "serving": "4.02oz",
-         "cal": 26.0,
-         "p": 3.6,
-         "c": 3.25,
-         "f": 0.56,
+         "id": "6906",
+         "name": "Roasted Broccoli",
+         "serving": "2.17oz",
+         "cal": 61.0,
+         "p": 1.69,
+         "c": 2.93,
+         "f": 4.92,
          "tags": []
         },
         {
@@ -3368,33 +3418,23 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "6604",
-         "name": "Moroccan Chicken Drumstick",
-         "serving": "4.6oz",
-         "cal": 366.0,
-         "p": 18.22,
-         "c": 1.81,
-         "f": 30.95,
-         "tags": []
-        },
-        {
          "id": "2264",
          "name": "Harissa Pork Ribs",
          "serving": "1.79oz",
          "cal": 88.0,
-         "p": 4.48,
-         "c": 5.96,
-         "f": 4.73,
+         "p": 4.53,
+         "c": 6.59,
+         "f": 4.46,
          "tags": []
         },
         {
-         "id": "2904",
-         "name": "Kale & Mushroom Lasagna",
-         "serving": "7.76oz",
-         "cal": 445.0,
-         "p": 17.55,
-         "c": 31.12,
-         "f": 27.05,
+         "id": "8627",
+         "name": "Stuffed Shells",
+         "serving": "4.75oz",
+         "cal": 372.0,
+         "p": 14.55,
+         "c": 37.63,
+         "f": 16.15,
          "tags": []
         },
         {
@@ -3405,6 +3445,16 @@
          "p": 3.02,
          "c": 18.28,
          "f": 0.15,
+         "tags": []
+        },
+        {
+         "id": "2817",
+         "name": "Red Roasted Potatoes",
+         "serving": "4.15oz",
+         "cal": 131.0,
+         "p": 3.13,
+         "c": 27.19,
+         "f": 1.79,
          "tags": []
         },
         {
@@ -3546,16 +3596,6 @@
          "c": 2.65,
          "f": 5.24,
          "tags": []
-        },
-        {
-         "id": "9172",
-         "name": "Dolma",
-         "serving": "2.65oz",
-         "cal": 94.0,
-         "p": 1.88,
-         "c": 14.06,
-         "f": 3.75,
-         "tags": []
         }
        ]
       },
@@ -3593,13 +3633,13 @@
          "tags": []
         },
         {
-         "id": "2460",
-         "name": "Meatball Pizza",
-         "serving": "4.32oz",
-         "cal": 287.0,
-         "p": 17.45,
-         "c": 25.99,
-         "f": 12.83,
+         "id": "5970",
+         "name": "Margherita Pizza",
+         "serving": "3.49oz",
+         "cal": 201.0,
+         "p": 7.47,
+         "c": 23.68,
+         "f": 8.3,
          "tags": []
         },
         {
