@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated": "2026-11-14T22:58:43+00:00",
+ "updated": "2026-11-15T02:39:13+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1079,13 +1079,23 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "6358",
-         "name": "Blackened Salmon",
-         "serving": "2.6oz",
-         "cal": 126.0,
-         "p": 15.31,
-         "c": 2.73,
-         "f": 6.18,
+         "id": "8876",
+         "name": "BBQ Pork Ribs",
+         "serving": "4.44oz",
+         "cal": 266.0,
+         "p": 18.43,
+         "c": 11.66,
+         "f": 16.4,
+         "tags": []
+        },
+        {
+         "id": "2758",
+         "name": "Braised Spicy Lentils w/ Potatoes & Tomatoes",
+         "serving": "4.85oz",
+         "cal": 128.0,
+         "p": 6.02,
+         "c": 20.43,
+         "f": 2.93,
          "tags": []
         },
         {
@@ -1096,16 +1106,6 @@
          "p": 1.84,
          "c": 19.57,
          "f": 1.94,
-         "tags": []
-        },
-        {
-         "id": "7334",
-         "name": "Garbanzo Picadillo",
-         "serving": "2.99oz",
-         "cal": 71.0,
-         "p": 2.63,
-         "c": 10.67,
-         "f": 2.05,
          "tags": []
         },
         {
@@ -1364,6 +1364,27 @@
          "id": "9600",
          "name": "Ice Cream & Frozen Yogurt Bar",
          "serving": "",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "312",
+         "name": "Almond Fudge Bar",
+         "serving": "2.26oz",
+         "cal": 268.0,
+         "p": 4.21,
+         "c": 38.31,
+         "f": 13.75,
+         "tags": []
+        },
+        {
+         "id": "6247",
+         "name": "Chef's Special",
+         "serving": "4oz",
          "cal": 0,
          "p": 0,
          "c": 0,
