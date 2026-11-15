@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated": "2026-11-15T06:34:39+00:00",
+ "updated": "2026-11-15T19:22:41+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -31,6 +31,16 @@
          "p": 0,
          "c": 18.47,
          "f": 0,
+         "tags": []
+        },
+        {
+         "id": "1475",
+         "name": "French Toast",
+         "serving": "2.48oz",
+         "cal": 188.0,
+         "p": 6.53,
+         "c": 31.89,
+         "f": 4.97,
          "tags": []
         }
        ]
@@ -666,13 +676,13 @@
          "tags": []
         },
         {
-         "id": "7435",
-         "name": "De la Olla Beans",
-         "serving": "2oz",
-         "cal": 192.0,
-         "p": 11.04,
-         "c": 32.43,
-         "f": 1.89,
+         "id": "6494",
+         "name": "Stewed Cannellini Beans",
+         "serving": "3.69oz",
+         "cal": 71.0,
+         "p": 2.57,
+         "c": 8.27,
+         "f": 3.0,
          "tags": []
         },
         {
@@ -810,22 +820,42 @@
          "c": 2.3,
          "f": 0.05,
          "tags": []
+        },
+        {
+         "id": "2404",
+         "name": "Turkish Chicken Salad",
+         "serving": "1.95oz",
+         "cal": 57.0,
+         "p": 3.97,
+         "c": 2.04,
+         "f": 3.73,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
       {
        "name": "The Sweet Stop",
        "items": [
-        {
-         "id": "5432",
-         "name": "Chocolate Ganache Cake",
-         "serving": "2.92oz",
-         "cal": 430.0,
-         "p": 4.94,
-         "c": 42.61,
-         "f": 28.36,
-         "tags": []
-        },
         {
          "id": "309",
          "name": "Snickerdoodle Cookies",
@@ -867,16 +897,6 @@
          "tags": []
         },
         {
-         "id": "4849",
-         "name": "Pumpkin Bake",
-         "serving": "5.05oz",
-         "cal": 316.0,
-         "p": 5.27,
-         "c": 41.34,
-         "f": 15.31,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -897,6 +917,46 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "247",
+         "name": "Banana Bread Pudding",
+         "serving": "6.53oz",
+         "cal": 413.0,
+         "p": 8.01,
+         "c": 40.11,
+         "f": 23.96,
+         "tags": []
+        },
+        {
+         "id": "312",
+         "name": "Almond Fudge Bar",
+         "serving": "2.26oz",
+         "cal": 268.0,
+         "p": 4.21,
+         "c": 38.31,
+         "f": 13.75,
+         "tags": []
+        },
+        {
+         "id": "4906",
+         "name": "Magic Bar",
+         "serving": "1.48oz",
+         "cal": 190.0,
+         "p": 2.89,
+         "c": 23.24,
+         "f": 9.63,
+         "tags": []
+        },
+        {
+         "id": "1146",
+         "name": "Chocolate & Caramel Cream Cake Sheet",
+         "serving": "2.46oz",
+         "cal": 342.0,
+         "p": 3.83,
+         "c": 33.2,
+         "f": 24.21,
+         "tags": []
         }
        ]
       }
@@ -1456,16 +1516,6 @@
          "tags": []
         },
         {
-         "id": "2179",
-         "name": "Pineapple Compote",
-         "serving": "1.02oz",
-         "cal": 35.0,
-         "p": 0.12,
-         "c": 9.09,
-         "f": 0.03,
-         "tags": []
-        },
-        {
          "id": "3004",
          "name": "Waffle",
          "serving": "1.25oz",
@@ -1473,6 +1523,16 @@
          "p": 1.49,
          "c": 12.43,
          "f": 1.49,
+         "tags": []
+        },
+        {
+         "id": "3160",
+         "name": "Plantain Butter",
+         "serving": "1.19oz",
+         "cal": 61.0,
+         "p": 0.37,
+         "c": 12.79,
+         "f": 0.93,
          "tags": []
         }
        ]
@@ -1652,16 +1712,6 @@
          "tags": []
         },
         {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
-         "tags": []
-        },
-        {
          "id": "2945",
          "name": "Peanut Butter",
          "serving": "1oz",
@@ -1672,13 +1722,13 @@
          "tags": []
         },
         {
-         "id": "3436",
-         "name": "Green Tea-Shiso Marmalade",
-         "serving": "1.52oz",
-         "cal": 49.0,
-         "p": 0.12,
-         "c": 12.29,
-         "f": 0.06,
+         "id": "888",
+         "name": "Cacao Butter",
+         "serving": "1.09oz",
+         "cal": 38.0,
+         "p": 0.97,
+         "c": 7.08,
+         "f": 0.69,
          "tags": []
         }
        ]
@@ -2118,13 +2168,13 @@
          "tags": []
         },
         {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
+         "id": "1417",
+         "name": "Apricot Almond Bar",
+         "serving": "1.37oz",
+         "cal": 126.0,
+         "p": 2.55,
+         "c": 17.05,
+         "f": 5.57,
          "tags": []
         },
         {
@@ -2169,13 +2219,13 @@
          "tags": []
         },
         {
-         "id": "1205",
-         "name": "Blueberry Compote",
-         "serving": "1.7oz",
-         "cal": 31.0,
-         "p": 0.07,
-         "c": 7.47,
-         "f": 0.11,
+         "id": "888",
+         "name": "Cacao Butter",
+         "serving": "1.09oz",
+         "cal": 38.0,
+         "p": 0.97,
+         "c": 7.08,
+         "f": 0.69,
          "tags": []
         },
         {
@@ -2186,26 +2236,6 @@
          "p": 3.81,
          "c": 6.0,
          "f": 6.21,
-         "tags": []
-        },
-        {
-         "id": "3454",
-         "name": "Apple, Grapefruit, & Ginger Marmalade",
-         "serving": "1.58oz",
-         "cal": 70.0,
-         "p": 0.17,
-         "c": 17.89,
-         "f": 0.05,
-         "tags": []
-        },
-        {
-         "id": "3436",
-         "name": "Green Tea-Shiso Marmalade",
-         "serving": "1.52oz",
-         "cal": 49.0,
-         "p": 0.12,
-         "c": 12.29,
-         "f": 0.06,
          "tags": []
         }
        ]
