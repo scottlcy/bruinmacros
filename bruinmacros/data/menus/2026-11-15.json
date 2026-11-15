@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated": "2026-11-15T19:22:41+00:00",
+ "updated": "2026-11-15T23:58:14+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -455,16 +455,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "7300",
-         "name": "Buttermilk Pancakes",
-         "serving": "7.01oz",
-         "cal": 372.0,
-         "p": 8.22,
-         "c": 65.56,
-         "f": 8.8,
-         "tags": []
-        },
-        {
          "id": "7110",
          "name": "Maple Flavored Syrup",
          "serving": "1oz",
@@ -472,6 +462,16 @@
          "p": 0,
          "c": 18.47,
          "f": 0,
+         "tags": []
+        },
+        {
+         "id": "7300",
+         "name": "Buttermilk Pancakes",
+         "serving": "7.01oz",
+         "cal": 372.0,
+         "p": 8.22,
+         "c": 65.56,
+         "f": 8.8,
          "tags": []
         }
        ]
@@ -1320,6 +1320,46 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "2400",
+         "name": "Larchmont Chicken Salad",
+         "serving": "3oz",
+         "cal": 88.0,
+         "p": 6.11,
+         "c": 3.14,
+         "f": 5.73,
+         "tags": []
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
         }
        ]
       },
@@ -1377,16 +1417,6 @@
          "tags": []
         },
         {
-         "id": "4849",
-         "name": "Pumpkin Bake",
-         "serving": "5.05oz",
-         "cal": 316.0,
-         "p": 5.27,
-         "c": 41.34,
-         "f": 15.31,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -1407,6 +1437,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4906",
+         "name": "Magic Bar",
+         "serving": "1.48oz",
+         "cal": 190.0,
+         "p": 2.89,
+         "c": 23.24,
+         "f": 9.63,
+         "tags": []
         }
        ]
       }
@@ -2556,6 +2596,16 @@
        "name": "Farmstand",
        "items": [
         {
+         "id": "4184",
+         "name": "White Bean Ragout",
+         "serving": "2.69oz",
+         "cal": 105.0,
+         "p": 6.36,
+         "c": 18.86,
+         "f": 0.89,
+         "tags": []
+        },
+        {
          "id": "145",
          "name": "Frijoles de la Olla",
          "serving": "1.99oz",
@@ -2576,13 +2626,13 @@
          "tags": []
         },
         {
-         "id": "929",
-         "name": "Red Quinoa",
-         "serving": "2.33oz",
-         "cal": 97.0,
-         "p": 3.68,
-         "c": 17.13,
-         "f": 1.54,
+         "id": "3787",
+         "name": "Mashed Cauliflower",
+         "serving": "2.1oz",
+         "cal": 31.0,
+         "p": 1.18,
+         "c": 4.54,
+         "f": 1.17,
          "tags": []
         },
         {
@@ -3338,6 +3388,27 @@
        "name": "Mezze",
        "items": [
         {
+         "id": "7972",
+         "name": "Marinara & Meatballs",
+         "serving": "7.44oz",
+         "cal": 451.0,
+         "p": 18.61,
+         "c": 61.36,
+         "f": 14.5,
+         "tags": []
+        },
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
          "id": "5476",
          "name": "Focaccia",
          "serving": "3.94oz",
@@ -3378,16 +3449,6 @@
          "tags": []
         },
         {
-         "id": "6696",
-         "name": "Parsley Pesto",
-         "serving": "1.31oz",
-         "cal": 159.0,
-         "p": 4.86,
-         "c": 2.09,
-         "f": 14.78,
-         "tags": []
-        },
-        {
          "id": "173",
          "name": "Hummus",
          "serving": "0.13lb",
@@ -3405,16 +3466,6 @@
          "p": 2.57,
          "c": 1.22,
          "f": 0.53,
-         "tags": []
-        },
-        {
-         "id": "4416",
-         "name": "Baba Ghanoush",
-         "serving": "4.64oz",
-         "cal": 71.0,
-         "p": 2.1,
-         "c": 8.55,
-         "f": 3.8,
          "tags": []
         },
         {
@@ -3438,13 +3489,13 @@
          "tags": []
         },
         {
-         "id": "2565",
-         "name": "Cauliflower Skordalia Spread",
-         "serving": "1.21oz",
-         "cal": 48.0,
-         "p": 1.5,
-         "c": 3.73,
-         "f": 3.24,
+         "id": "883",
+         "name": "Polenta",
+         "serving": "3.74oz",
+         "cal": 271.0,
+         "p": 12.06,
+         "c": 14.98,
+         "f": 18.98,
          "tags": []
         },
         {
@@ -3465,16 +3516,6 @@
          "p": 0.41,
          "c": 1.63,
          "f": 24.29,
-         "tags": []
-        },
-        {
-         "id": "1569",
-         "name": "Tunisian Vegetable Dip",
-         "serving": "1oz",
-         "cal": 33.0,
-         "p": 0.44,
-         "c": 4.2,
-         "f": 1.82,
          "tags": []
         },
         {
