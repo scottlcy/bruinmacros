@@ -8678,7 +8678,7 @@
   "p": 0.26,
   "tags": [],
   "fetched": "2026-11-08",
-  "seen": "2026-11-14"
+  "seen": "2026-11-15"
  },
  "1001": {
   "name": "Crunchy French Toast w/ Pistachio Butter & Pineapple",
@@ -10213,7 +10213,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-28",
-  "seen": "2026-11-12"
+  "seen": "2026-11-15"
  },
  "6189": {
   "name": "Soup Special",
@@ -13264,7 +13264,7 @@
   "p": 0.36,
   "tags": [],
   "fetched": "2026-11-01",
-  "seen": "2026-11-13"
+  "seen": "2026-11-15"
  },
  "2335": {
   "name": "Boston Baked Lentils",
@@ -14234,7 +14234,7 @@
   "p": 15.56,
   "tags": [],
   "fetched": "2026-11-03",
-  "seen": "2026-11-14"
+  "seen": "2026-11-15"
  },
  "244": {
   "name": "Banana Cream Pie",
@@ -18064,7 +18064,7 @@
   "p": 3.1,
   "tags": [],
   "fetched": "2026-11-07",
-  "seen": "2026-11-08"
+  "seen": "2026-11-15"
  },
  "10202": {
   "name": "Braised Pork Tenderloin",
@@ -18935,7 +18935,7 @@
   "p": 1.22,
   "tags": [],
   "fetched": "2026-11-09",
-  "seen": "2026-11-13"
+  "seen": "2026-11-15"
  },
  "1148": {
   "name": "Chocolate & Caramel Cream Cake",
@@ -21465,13 +21465,13 @@
  "2502": {
   "name": "Tuscan Grilled Kale Pizza w/ Orange Chili Oil",
   "serving": "3.91oz",
-  "cal": 208.0,
-  "f": 7.26,
+  "cal": 241.0,
+  "f": 10.9,
   "c": 27.72,
   "p": 7.46,
   "tags": [],
-  "fetched": "2026-10-15",
-  "seen": "2026-11-13"
+  "fetched": "2026-11-15",
+  "seen": "2026-11-15"
  },
  "2601": {
   "name": "Pastrami Burger",
@@ -21828,12 +21828,12 @@
  "4184": {
   "name": "White Bean Ragout",
   "serving": "2.69oz",
-  "cal": 105.0,
-  "f": 0.89,
+  "cal": 127.0,
+  "f": 3.35,
   "c": 18.86,
   "p": 6.36,
   "tags": [],
-  "fetched": "2026-10-16",
+  "fetched": "2026-11-15",
   "seen": "2026-11-15"
  },
  "4349": {
@@ -21872,12 +21872,12 @@
  "2119": {
   "name": "Lentils & Rice",
   "serving": "4.01oz",
-  "cal": 137.0,
-  "f": 0.74,
-  "c": 26.5,
+  "cal": 135.0,
+  "f": 0.53,
+  "c": 26.43,
   "p": 6.08,
   "tags": [],
-  "fetched": "2026-10-16",
+  "fetched": "2026-11-15",
   "seen": "2026-11-15"
  },
  "4505": {
@@ -22418,7 +22418,7 @@
   "p": 0.93,
   "tags": [],
   "fetched": "2026-10-18",
-  "seen": "2026-10-19"
+  "seen": "2026-11-15"
  },
  "8569": {
   "name": "Chocolate Tres Leches Cake Batter",

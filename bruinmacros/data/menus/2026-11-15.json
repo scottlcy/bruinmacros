@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated": "2026-11-15T23:58:14+00:00",
+ "updated": "2026-11-16T06:32:16+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1140,31 +1140,20 @@
          "tags": []
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
       {
        "name": "Harvest Kitchen",
        "items": [
-        {
-         "id": "6909",
-         "name": "Cilantro Jalapeno Chicken Thigh",
-         "serving": "3.05oz",
-         "cal": 112.0,
-         "p": 15.06,
-         "c": 0.96,
-         "f": 4.39,
-         "tags": []
-        },
         {
          "id": "7341",
          "name": "Steamed Rice",
@@ -1173,16 +1162,6 @@
          "p": 6.37,
          "c": 68.62,
          "f": 0.87,
-         "tags": []
-        },
-        {
-         "id": "7435",
-         "name": "De la Olla Beans",
-         "serving": "2oz",
-         "cal": 192.0,
-         "p": 11.04,
-         "c": 32.43,
-         "f": 1.89,
          "tags": []
         },
         {
@@ -1203,6 +1182,26 @@
          "p": 1.29,
          "c": 6.12,
          "f": 0.65,
+         "tags": []
+        },
+        {
+         "id": "2385",
+         "name": "Honey Lime Chicken Thighs",
+         "serving": "3.26oz",
+         "cal": 125.0,
+         "p": 15.56,
+         "c": 5.35,
+         "f": 3.83,
+         "tags": []
+        },
+        {
+         "id": "6494",
+         "name": "Stewed Cannellini Beans",
+         "serving": "3.69oz",
+         "cal": 71.0,
+         "p": 2.57,
+         "c": 8.27,
+         "f": 3.0,
          "tags": []
         }
        ]
@@ -1446,6 +1445,16 @@
          "p": 2.89,
          "c": 23.24,
          "f": 9.63,
+         "tags": []
+        },
+        {
+         "id": "4849",
+         "name": "Pumpkin Bake",
+         "serving": "5.05oz",
+         "cal": 316.0,
+         "p": 5.27,
+         "c": 41.34,
+         "f": 15.31,
          "tags": []
         }
        ]
@@ -2599,10 +2608,10 @@
          "id": "4184",
          "name": "White Bean Ragout",
          "serving": "2.69oz",
-         "cal": 105.0,
+         "cal": 127.0,
          "p": 6.36,
          "c": 18.86,
-         "f": 0.89,
+         "f": 3.35,
          "tags": []
         },
         {
@@ -2626,16 +2635,6 @@
          "tags": []
         },
         {
-         "id": "3787",
-         "name": "Mashed Cauliflower",
-         "serving": "2.1oz",
-         "cal": 31.0,
-         "p": 1.18,
-         "c": 4.54,
-         "f": 1.17,
-         "tags": []
-        },
-        {
          "id": "984",
          "name": "Roasted Broccoli",
          "serving": "3.21oz",
@@ -2653,6 +2652,16 @@
          "p": 1.95,
          "c": 4.1,
          "f": 1.15,
+         "tags": []
+        },
+        {
+         "id": "968",
+         "name": "Bulgur Wheat",
+         "serving": "2.03oz",
+         "cal": 81.0,
+         "p": 3.1,
+         "c": 15.68,
+         "f": 0.44,
          "tags": []
         }
        ]
@@ -2776,33 +2785,13 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
-         "tags": []
-        },
-        {
-         "id": "1192",
-         "name": "Raisin Walnut Bread",
-         "serving": "1.75oz",
-         "cal": 86.0,
-         "p": 2.58,
-         "c": 18.57,
-         "f": 0.4,
-         "tags": []
-        },
-        {
-         "id": "176",
-         "name": "Whole Wheat Sourdough Bread",
-         "serving": "2.49oz",
-         "cal": 148.0,
-         "p": 5.03,
-         "c": 30.18,
-         "f": 0.8,
+         "id": "5473",
+         "name": "Sliced Raisin Bread",
+         "serving": "1.46oz",
+         "cal": 119.0,
+         "p": 2.69,
+         "c": 22.44,
+         "f": 2.2,
          "tags": []
         },
         {
@@ -2867,33 +2856,23 @@
          "tags": []
         },
         {
-         "id": "3156",
-         "name": "Chocolate Peanut Butter",
-         "serving": "1.03oz",
-         "cal": 99.0,
-         "p": 3.66,
-         "c": 5.36,
-         "f": 6.59,
+         "id": "3855",
+         "name": "Mango Blueberry Compote",
+         "serving": "1.27oz",
+         "cal": 32.0,
+         "p": 0.26,
+         "c": 7.97,
+         "f": 0.12,
          "tags": []
         },
         {
-         "id": "994",
-         "name": "Pear-Pineapple Compote",
-         "serving": "1.76oz",
-         "cal": 48.0,
-         "p": 0.3,
-         "c": 11.92,
-         "f": 0.06,
-         "tags": []
-        },
-        {
-         "id": "3384",
-         "name": "Nopales & Vanilla Marmalade",
-         "serving": "1.95oz",
-         "cal": 59.0,
-         "p": 0.51,
-         "c": 15.17,
-         "f": 0.04,
+         "id": "2292",
+         "name": "Pear-Date Compote",
+         "serving": "1.12oz",
+         "cal": 55.0,
+         "p": 0.36,
+         "c": 14.05,
+         "f": 0.08,
          "tags": []
         }
        ]
@@ -3193,10 +3172,10 @@
          "id": "2119",
          "name": "Lentils & Rice",
          "serving": "4.01oz",
-         "cal": 137.0,
+         "cal": 135.0,
          "p": 6.08,
-         "c": 26.5,
-         "f": 0.74,
+         "c": 26.43,
+         "f": 0.53,
          "tags": []
         },
         {
@@ -3381,6 +3360,36 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "1138",
+         "name": "Apple Crumble Tart",
+         "serving": "1.16oz",
+         "cal": 101.0,
+         "p": 1.22,
+         "c": 14.79,
+         "f": 3.9,
+         "tags": []
+        },
+        {
+         "id": "4806",
+         "name": "Espresso Panna Cotta",
+         "serving": "1.32oz",
+         "cal": 89.0,
+         "p": 0.93,
+         "c": 4.13,
+         "f": 6.93,
+         "tags": []
+        },
+        {
+         "id": "309",
+         "name": "Snickerdoodle Cookies",
+         "serving": "1.3oz",
+         "cal": 141.0,
+         "p": 0.86,
+         "c": 31.26,
+         "f": 2.36,
+         "tags": []
         }
        ]
       },
@@ -3388,14 +3397,15 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "7972",
-         "name": "Marinara & Meatballs",
-         "serving": "7.44oz",
-         "cal": 451.0,
-         "p": 18.61,
-         "c": 61.36,
-         "f": 14.5,
-         "tags": []
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "8477",
@@ -3407,6 +3417,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "883",
+         "name": "Polenta",
+         "serving": "3.74oz",
+         "cal": 271.0,
+         "p": 12.06,
+         "c": 14.98,
+         "f": 18.98,
+         "tags": []
         },
         {
          "id": "5476",
@@ -3486,16 +3506,6 @@
          "p": 2.8,
          "c": 4.48,
          "f": 10.3,
-         "tags": []
-        },
-        {
-         "id": "883",
-         "name": "Polenta",
-         "serving": "3.74oz",
-         "cal": 271.0,
-         "p": 12.06,
-         "c": 14.98,
-         "f": 18.98,
          "tags": []
         },
         {
@@ -3644,13 +3654,13 @@
          "tags": []
         },
         {
-         "id": "5970",
-         "name": "Margherita Pizza",
-         "serving": "3.49oz",
-         "cal": 201.0,
-         "p": 7.47,
-         "c": 23.68,
-         "f": 8.3,
+         "id": "2502",
+         "name": "Tuscan Grilled Kale Pizza w/ Orange Chili Oil",
+         "serving": "3.91oz",
+         "cal": 241.0,
+         "p": 7.46,
+         "c": 27.72,
+         "f": 10.9,
          "tags": []
         },
         {
@@ -3682,17 +3692,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
