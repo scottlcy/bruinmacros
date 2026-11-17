@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updated": "2026-11-16T22:53:29+00:00",
+ "updated": "2026-11-17T05:04:46+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1238,6 +1238,27 @@
          "c": 10.11,
          "f": 9.26,
          "tags": []
+        },
+        {
+         "id": "5948",
+         "name": "Flex Bar Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "1942",
+         "name": "Beef Fajitas",
+         "serving": "4.99oz",
+         "cal": 138.0,
+         "p": 16.84,
+         "c": 4.99,
+         "f": 5.78,
+         "tags": []
         }
        ]
       },
@@ -1272,6 +1293,16 @@
          "p": 2.07,
          "c": 4.4,
          "f": 1.51,
+         "tags": []
+        },
+        {
+         "id": "6364",
+         "name": "Buttery Corn on the Cob",
+         "serving": "5.19oz",
+         "cal": 185.0,
+         "p": 5.06,
+         "c": 31.78,
+         "f": 5.48,
          "tags": []
         }
        ]
@@ -1354,6 +1385,46 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
         }
        ]
       },
@@ -1401,16 +1472,6 @@
          "tags": []
         },
         {
-         "id": "4925",
-         "name": "Oreo Mousse",
-         "serving": "3.98oz",
-         "cal": 424.0,
-         "p": 2.54,
-         "c": 28.11,
-         "f": 30.41,
-         "tags": []
-        },
-        {
          "id": "9958",
          "name": "Blueberry Cobbler",
          "serving": "5oz",
@@ -1441,6 +1502,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4906",
+         "name": "Magic Bar",
+         "serving": "1.48oz",
+         "cal": 190.0,
+         "p": 2.89,
+         "c": 23.24,
+         "f": 9.63,
+         "tags": []
         }
        ]
       }
@@ -1714,13 +1785,13 @@
          "tags": []
         },
         {
-         "id": "4620",
-         "name": "Cranberry Orange Bread",
-         "serving": "2.31oz",
-         "cal": 231.0,
-         "p": 3.06,
-         "c": 21.61,
-         "f": 14.43,
+         "id": "5531",
+         "name": "Cranberry Orange Quickbread",
+         "serving": "3.13oz",
+         "cal": 257.0,
+         "p": 3.85,
+         "c": 43.51,
+         "f": 7.55,
          "tags": []
         },
         {
@@ -2260,13 +2331,13 @@
          "tags": []
         },
         {
-         "id": "4620",
-         "name": "Cranberry Orange Bread",
-         "serving": "2.31oz",
-         "cal": 231.0,
-         "p": 3.06,
-         "c": 21.61,
-         "f": 14.43,
+         "id": "5531",
+         "name": "Cranberry Orange Quickbread",
+         "serving": "3.13oz",
+         "cal": 257.0,
+         "p": 3.85,
+         "c": 43.51,
+         "f": 7.55,
          "tags": []
         },
         {
@@ -2878,13 +2949,13 @@
          "tags": []
         },
         {
-         "id": "4620",
-         "name": "Cranberry Orange Bread",
-         "serving": "2.31oz",
-         "cal": 231.0,
-         "p": 3.06,
-         "c": 21.61,
-         "f": 14.43,
+         "id": "5531",
+         "name": "Cranberry Orange Quickbread",
+         "serving": "3.13oz",
+         "cal": 257.0,
+         "p": 3.85,
+         "c": 43.51,
+         "f": 7.55,
          "tags": []
         },
         {
@@ -3018,13 +3089,23 @@
        "name": "Beverage Special",
        "items": [
         {
-         "id": "3386",
-         "name": "Passion Fruit & Orange Water",
-         "serving": "10.42oz",
-         "cal": 14.0,
-         "p": 0.27,
-         "c": 3.1,
+         "id": "3064",
+         "name": "Lime Water",
+         "serving": "10.57oz",
+         "cal": 2.0,
+         "p": 0.03,
+         "c": 0.42,
          "f": 0,
+         "tags": []
+        },
+        {
+         "id": "2935",
+         "name": "Kiwi  Water",
+         "serving": "11.12oz",
+         "cal": 12.0,
+         "p": 0.22,
+         "c": 2.84,
+         "f": 0.09,
          "tags": []
         },
         {
@@ -3458,9 +3539,9 @@
          "id": "4368",
          "name": "Greek Cinnamon Olive Oil Cookies",
          "serving": "1oz",
-         "cal": 112.0,
+         "cal": 113.0,
          "p": 1.57,
-         "c": 15.28,
+         "c": 15.22,
          "f": 5.08,
          "tags": []
         },
@@ -3964,13 +4045,13 @@
          "tags": []
         },
         {
-         "id": "8662",
-         "name": "Arancini",
-         "serving": "2.67oz",
-         "cal": 148.0,
-         "p": 5.96,
-         "c": 15.61,
-         "f": 6.46,
+         "id": "2472",
+         "name": "Spicy Pomodoro Gnocchi",
+         "serving": "6.11oz",
+         "cal": 149.0,
+         "p": 4.03,
+         "c": 18.4,
+         "f": 7.72,
          "tags": []
         },
         {
@@ -4033,9 +4114,9 @@
          "id": "4368",
          "name": "Greek Cinnamon Olive Oil Cookies",
          "serving": "1oz",
-         "cal": 112.0,
+         "cal": 113.0,
          "p": 1.57,
-         "c": 15.28,
+         "c": 15.22,
          "f": 5.08,
          "tags": []
         },
@@ -4085,6 +4166,37 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "6181",
+         "name": "Mezze Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "883",
+         "name": "Polenta",
+         "serving": "3.74oz",
+         "cal": 271.0,
+         "p": 12.06,
+         "c": 14.98,
+         "f": 18.98,
+         "tags": []
+        },
+        {
+         "id": "3149",
+         "name": "Couscous",
+         "serving": "2.06oz",
+         "cal": 225.0,
+         "p": 7.28,
+         "c": 44.13,
+         "f": 1.46,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -4351,13 +4463,13 @@
          "tags": []
         },
         {
-         "id": "2251",
-         "name": "Shrimp Alfredo Pizza",
-         "serving": "3.16oz",
-         "cal": 196.0,
-         "p": 8.55,
-         "c": 23.65,
-         "f": 6.91,
+         "id": "6812",
+         "name": "Beef Gyro Pizza",
+         "serving": "3.7oz",
+         "cal": 266.0,
+         "p": 8.42,
+         "c": 27.34,
+         "f": 15.0,
          "tags": []
         },
         {
@@ -6312,21 +6424,6 @@
     {
      "name": "All Day",
      "stations": [
-      {
-       "name": "LATIN DAILY LUNCH SPECIAL 11AM - 3PM",
-       "items": [
-        {
-         "id": "8937",
-         "name": "Chimichanga Steak",
-         "serving": "13.55oz",
-         "cal": 626.0,
-         "p": 22.92,
-         "c": 76.22,
-         "f": 27.07,
-         "tags": []
-        }
-       ]
-      },
       {
        "name": "LATIN BUILD YOUR OWN",
        "items": [
