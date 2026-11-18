@@ -15042,7 +15042,7 @@
   "p": 9.94,
   "tags": [],
   "fetched": "2026-11-16",
-  "seen": "2026-11-16"
+  "seen": "2026-11-17"
  },
  "7682": {
   "name": "Carrot Walnut Zucchini Quickbread",
@@ -19144,7 +19144,7 @@
   "p": 1.59,
   "tags": [],
   "fetched": "2026-11-12",
-  "seen": "2026-11-12"
+  "seen": "2026-11-17"
  },
  "10380": {
   "name": "Cajun Red Potato Salad",
@@ -25110,5 +25110,27 @@
   "tags": [],
   "fetched": "2026-11-16",
   "seen": "2026-11-16"
+ },
+ "1060": {
+  "name": "Caprese Pork Sausage Sandwich",
+  "serving": "5.79oz",
+  "cal": 444.0,
+  "f": 30.26,
+  "c": 22.91,
+  "p": 17.78,
+  "tags": [],
+  "fetched": "2026-11-17",
+  "seen": "2026-11-17"
+ },
+ "4904": {
+  "name": "Chocolate Caramel Cake",
+  "serving": "5.68oz",
+  "cal": 789.0,
+  "f": 55.98,
+  "c": 76.75,
+  "p": 8.87,
+  "tags": [],
+  "fetched": "2026-11-17",
+  "seen": "2026-11-17"
  }
 }

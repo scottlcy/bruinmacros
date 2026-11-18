@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated": "2026-11-17T21:45:52+00:00",
+ "updated": "2026-11-18T03:43:04+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1036,13 +1036,13 @@
          "tags": []
         },
         {
-         "id": "6188",
-         "name": "Beyond Chicken Tenders",
-         "serving": "4oz",
-         "cal": 303.0,
-         "p": 18.45,
-         "c": 18.45,
-         "f": 15.81,
+         "id": "6182",
+         "name": "Peppered Beyond Steak",
+         "serving": "4.59oz",
+         "cal": 133.0,
+         "p": 12.97,
+         "c": 8.74,
+         "f": 5.04,
          "tags": []
         }
        ]
@@ -1146,15 +1146,14 @@
          "tags": []
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
@@ -1326,6 +1325,46 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "5612",
+         "name": "Balsamic & Parmesan Broccoli Salad",
+         "serving": "2oz",
+         "cal": 70.0,
+         "p": 3.46,
+         "c": 3.07,
+         "f": 5.2,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
         }
        ]
       },
@@ -1413,6 +1452,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4904",
+         "name": "Chocolate Caramel Cake",
+         "serving": "5.68oz",
+         "cal": 789.0,
+         "p": 8.87,
+         "c": 76.75,
+         "f": 55.98,
+         "tags": []
         }
        ]
       }
@@ -2628,16 +2677,6 @@
          "tags": []
         },
         {
-         "id": "2687",
-         "name": "Roasted Yams",
-         "serving": "2.68oz",
-         "cal": 92.0,
-         "p": 1.15,
-         "c": 21.06,
-         "f": 0.36,
-         "tags": []
-        },
-        {
          "id": "1069",
          "name": "Sautéed Spinach",
          "serving": "2.27oz",
@@ -2645,6 +2684,16 @@
          "p": 1.58,
          "c": 3.12,
          "f": 1.22,
+         "tags": []
+        },
+        {
+         "id": "3690",
+         "name": "Roasted Vegetables",
+         "serving": "2.87oz",
+         "cal": 36.0,
+         "p": 1.59,
+         "c": 5.39,
+         "f": 1.31,
          "tags": []
         }
        ]
@@ -3441,15 +3490,14 @@
          "nodata": true
         },
         {
-         "id": "1017",
-         "name": "Harissa Roast Beef Sandwich",
-         "serving": "34.7oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "1060",
+         "name": "Caprese Pork Sausage Sandwich",
+         "serving": "5.79oz",
+         "cal": 444.0,
+         "p": 17.78,
+         "c": 22.91,
+         "f": 30.26,
+         "tags": []
         },
         {
          "id": "1989",
@@ -3459,16 +3507,6 @@
          "p": 3.96,
          "c": 13.05,
          "f": 2.27,
-         "tags": []
-        },
-        {
-         "id": "890",
-         "name": "Roasted Gold & Red Beets",
-         "serving": "3oz",
-         "cal": 84.0,
-         "p": 1.62,
-         "c": 9.64,
-         "f": 4.61,
          "tags": []
         },
         {
@@ -3950,6 +3988,36 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "1820",
+         "name": "Bouillabaisse",
+         "serving": "3.37oz",
+         "cal": 74.0,
+         "p": 7.72,
+         "c": 4.73,
+         "f": 2.97,
+         "tags": []
+        },
+        {
+         "id": "2758",
+         "name": "Braised Spicy Lentils w/ Potatoes & Tomatoes",
+         "serving": "4.85oz",
+         "cal": 128.0,
+         "p": 6.02,
+         "c": 20.43,
+         "f": 2.93,
+         "tags": []
+        },
+        {
+         "id": "890",
+         "name": "Roasted Gold & Red Beets",
+         "serving": "3oz",
+         "cal": 84.0,
+         "p": 1.62,
+         "c": 9.64,
+         "f": 4.61,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
