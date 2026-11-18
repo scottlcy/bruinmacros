@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated": "2026-11-18T03:43:04+00:00",
+ "updated": "2026-11-18T07:30:29+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1016,16 +1016,6 @@
        "name": "The Kitchen",
        "items": [
         {
-         "id": "6473",
-         "name": "Picanha Sirloin Steak",
-         "serving": "3.19oz",
-         "cal": 124.0,
-         "p": 16.74,
-         "c": 3.6,
-         "f": 4.33,
-         "tags": []
-        },
-        {
          "id": "2277",
          "name": "Roasted Fingerling Potato & Cilantro Pesto",
          "serving": "3.1oz",
@@ -1044,6 +1034,17 @@
          "c": 8.74,
          "f": 5.04,
          "tags": []
+        },
+        {
+         "id": "6245",
+         "name": "Kitchen Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -3989,24 +3990,15 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "1820",
-         "name": "Bouillabaisse",
-         "serving": "3.37oz",
-         "cal": 74.0,
-         "p": 7.72,
-         "c": 4.73,
-         "f": 2.97,
-         "tags": []
-        },
-        {
-         "id": "2758",
-         "name": "Braised Spicy Lentils w/ Potatoes & Tomatoes",
-         "serving": "4.85oz",
-         "cal": 128.0,
-         "p": 6.02,
-         "c": 20.43,
-         "f": 2.93,
-         "tags": []
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "890",
@@ -4016,6 +4008,16 @@
          "p": 1.62,
          "c": 9.64,
          "f": 4.61,
+         "tags": []
+        },
+        {
+         "id": "1354",
+         "name": "Greek Chickpeas, Orange, Lemon, & Celery Saute",
+         "serving": "3.19oz",
+         "cal": 129.0,
+         "p": 4.29,
+         "c": 15.12,
+         "f": 5.67,
          "tags": []
         },
         {
@@ -4684,16 +4686,6 @@
        "name": "Iron Grill",
        "items": [
         {
-         "id": "9390",
-         "name": "Beef & Vegetable Dumplings",
-         "serving": "2.65oz",
-         "cal": 126.0,
-         "p": 6.25,
-         "c": 17.71,
-         "f": 3.13,
-         "tags": []
-        },
-        {
          "id": "1484",
          "name": "Seared Tofu w/ Spicy Sauce",
          "serving": "4.21oz",
@@ -4711,6 +4703,16 @@
          "p": 15.26,
          "c": 0.88,
          "f": 5.95,
+         "tags": []
+        },
+        {
+         "id": "10470",
+         "name": "Chicken Vegetable Dumplings",
+         "serving": "11.14oz",
+         "cal": 394.0,
+         "p": 16.13,
+         "c": 68.35,
+         "f": 6.12,
          "tags": []
         }
        ]
