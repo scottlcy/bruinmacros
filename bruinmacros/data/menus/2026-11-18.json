@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated": "2026-11-19T03:26:40+00:00",
+ "updated": "2026-11-19T07:28:09+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1011,16 +1011,6 @@
        "name": "The Front Burner",
        "items": [
         {
-         "id": "1761",
-         "name": "Honey BBQ Salmon",
-         "serving": "4.9oz",
-         "cal": 246.0,
-         "p": 15.16,
-         "c": 18.78,
-         "f": 11.92,
-         "tags": []
-        },
-        {
          "id": "6855",
          "name": "Corn & Lima Bean Succotash",
          "serving": "2.09oz",
@@ -1039,22 +1029,22 @@
          "c": 24.65,
          "f": 7.09,
          "tags": []
+        },
+        {
+         "id": "998",
+         "name": "Barbecue Shrimp",
+         "serving": "3.84oz",
+         "cal": 170.0,
+         "p": 10.9,
+         "c": 4.57,
+         "f": 10.78,
+         "tags": []
         }
        ]
       },
       {
        "name": "The Kitchen",
        "items": [
-        {
-         "id": "6408",
-         "name": "St. Louis Style Pork Ribs",
-         "serving": "6.54oz",
-         "cal": 396.0,
-         "p": 31.5,
-         "c": 4.87,
-         "f": 27.63,
-         "tags": []
-        },
         {
          "id": "7345",
          "name": "Oven Roasted Herb Potatoes",
@@ -1073,6 +1063,16 @@
          "p": 18.45,
          "c": 18.45,
          "f": 15.81,
+         "tags": []
+        },
+        {
+         "id": "7261",
+         "name": "BBQ Pulled Pork",
+         "serving": "2oz",
+         "cal": 76.0,
+         "p": 7.45,
+         "c": 4.09,
+         "f": 3.48,
          "tags": []
         }
        ]
@@ -1221,13 +1221,13 @@
          "tags": []
         },
         {
-         "id": "124",
-         "name": "Chicken Noodle Soup",
-         "serving": "6.01oz",
-         "cal": 178.0,
-         "p": 8.82,
-         "c": 27.04,
-         "f": 4.29,
+         "id": "1976",
+         "name": "Chicken Tortilla Soup",
+         "serving": "6.05oz",
+         "cal": 181.0,
+         "p": 9.39,
+         "c": 25.64,
+         "f": 4.32,
          "tags": []
         },
         {
@@ -1485,13 +1485,13 @@
          "nodata": true
         },
         {
-         "id": "261",
-         "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
-         "serving": "2.67oz",
-         "cal": 285.0,
-         "p": 3.52,
-         "c": 33.71,
-         "f": 14.82,
+         "id": "233",
+         "name": "Fudge Brownie",
+         "serving": "1.88oz",
+         "cal": 206.0,
+         "p": 3.38,
+         "c": 27.38,
+         "f": 10.67,
          "tags": []
         }
        ]
