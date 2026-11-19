@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated": "2026-11-18T21:26:30+00:00",
+ "updated": "2026-11-19T03:26:40+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1355,6 +1355,47 @@
          "c": 3.7,
          "f": 0.03,
          "tags": []
+        },
+        {
+         "id": "9799",
+         "name": "Shrimp Aguachile Tostada Bar",
+         "serving": "4.2oz",
+         "cal": 106.0,
+         "p": 7.87,
+         "c": 8.4,
+         "f": 4.36,
+         "tags": []
+        },
+        {
+         "id": "7086",
+         "name": "Sonoma Walnut Chicken Salad",
+         "serving": "3.01oz",
+         "cal": 245.0,
+         "p": 9.94,
+         "c": 4.75,
+         "f": 20.18,
+         "tags": []
+        },
+        {
+         "id": "10382",
+         "name": "Chickpea Salad w/ Roasted Chilies",
+         "serving": "2.01oz",
+         "cal": 76.0,
+         "p": 2.78,
+         "c": 7.66,
+         "f": 3.76,
+         "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         }
        ]
       },
@@ -1442,6 +1483,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "261",
+         "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
+         "serving": "2.67oz",
+         "cal": 285.0,
+         "p": 3.52,
+         "c": 33.71,
+         "f": 14.82,
+         "tags": []
         }
        ]
       }
@@ -3866,17 +3917,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
@@ -4005,6 +4045,47 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "6381",
+         "name": "Portuguese Roast Garlic Chicken",
+         "serving": "5.61oz",
+         "cal": 339.0,
+         "p": 25.12,
+         "c": 4.34,
+         "f": 24.15,
+         "tags": []
+        },
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "890",
+         "name": "Roasted Gold & Red Beets",
+         "serving": "3oz",
+         "cal": 84.0,
+         "p": 1.62,
+         "c": 9.64,
+         "f": 4.61,
+         "tags": []
+        },
+        {
+         "id": "2719",
+         "name": "French Green Lentils",
+         "serving": "2.18oz",
+         "cal": 219.0,
+         "p": 11.54,
+         "c": 30.55,
+         "f": 5.94,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -4309,17 +4390,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
@@ -7579,6 +7649,51 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        }
+       ]
+      },
+      {
+       "name": "Fries",
+       "items": [
+        {
+         "id": "763",
+         "name": "Swiss Fondue Frites",
+         "serving": "13.15oz",
+         "cal": 686.0,
+         "p": 12.0,
+         "c": 73.2,
+         "f": 34.47,
+         "tags": []
+        },
+        {
+         "id": "764",
+         "name": "Fondue Frites w/ Rasher",
+         "serving": "18.44oz",
+         "cal": 1011.0,
+         "p": 23.21,
+         "c": 80.13,
+         "f": 61.99,
+         "tags": []
+        },
+        {
+         "id": "8573",
+         "name": "Beef Chili Fondue Fries",
+         "serving": "16.1oz",
+         "cal": 865.0,
+         "p": 21.63,
+         "c": 74.83,
+         "f": 49.92,
+         "tags": []
+        },
+        {
+         "id": "8951",
+         "name": "Fish & Chips",
+         "serving": "16oz",
+         "cal": 1134.0,
+         "p": 24.99,
+         "c": 73.29,
+         "f": 81.4,
+         "tags": []
         }
        ]
       },

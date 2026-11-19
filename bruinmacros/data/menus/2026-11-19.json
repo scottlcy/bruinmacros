@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updated": "2026-11-18T21:27:45+00:00",
+ "updated": "2026-11-19T03:27:10+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -3259,16 +3259,6 @@
          "tags": []
         },
         {
-         "id": "2472",
-         "name": "Spicy Pomodoro Gnocchi",
-         "serving": "6.11oz",
-         "cal": 149.0,
-         "p": 4.03,
-         "c": 18.4,
-         "f": 7.72,
-         "tags": []
-        },
-        {
          "id": "8581",
          "name": "Beef Barley Soup",
          "serving": "4oz",
@@ -3732,16 +3722,6 @@
          "tags": []
         },
         {
-         "id": "2010",
-         "name": "Arancini",
-         "serving": "4.85oz",
-         "cal": 308.0,
-         "p": 9.04,
-         "c": 50.52,
-         "f": 8.09,
-         "tags": []
-        },
-        {
          "id": "1402",
          "name": "Mint Couscous",
          "serving": "2oz",
@@ -3749,6 +3729,16 @@
          "p": 3.02,
          "c": 18.28,
          "f": 0.15,
+         "tags": []
+        },
+        {
+         "id": "1961",
+         "name": "Traditional Falafel",
+         "serving": "1.53oz",
+         "cal": 95.0,
+         "p": 2.17,
+         "c": 7.08,
+         "f": 6.7,
          "tags": []
         },
         {
@@ -7571,33 +7561,13 @@
        "name": "Fries",
        "items": [
         {
-         "id": "763",
-         "name": "Swiss Fondue Frites",
-         "serving": "13.15oz",
-         "cal": 686.0,
-         "p": 12.0,
-         "c": 73.2,
-         "f": 34.47,
-         "tags": []
-        },
-        {
-         "id": "8573",
-         "name": "Beef Chili Fondue Fries",
-         "serving": "16.1oz",
-         "cal": 865.0,
-         "p": 21.63,
-         "c": 74.83,
-         "f": 49.92,
-         "tags": []
-        },
-        {
-         "id": "8951",
-         "name": "Fish & Chips",
-         "serving": "16oz",
-         "cal": 1134.0,
-         "p": 24.99,
-         "c": 73.29,
-         "f": 81.4,
+         "id": "764",
+         "name": "Fondue Frites w/ Rasher",
+         "serving": "18.44oz",
+         "cal": 1011.0,
+         "p": 23.21,
+         "c": 80.13,
+         "f": 61.99,
          "tags": []
         }
        ]
