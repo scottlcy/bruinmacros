@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updated": "2026-11-20T03:14:11+00:00",
+ "updated": "2026-11-20T07:18:37+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2709,16 +2709,6 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "3204",
-         "name": "Mojo-Marinated Flank Steak",
-         "serving": "2.27oz",
-         "cal": 120.0,
-         "p": 12.31,
-         "c": 0.92,
-         "f": 7.07,
-         "tags": []
-        },
-        {
          "id": "3459",
          "name": "Grilled Eggplant",
          "serving": "1.99oz",
@@ -2736,6 +2726,16 @@
          "p": 1.14,
          "c": 9.56,
          "f": 2.77,
+         "tags": []
+        },
+        {
+         "id": "1858",
+         "name": "Izmir Kofte (Turkish Lamb Meatball)",
+         "serving": "2oz",
+         "cal": 114.0,
+         "p": 5.91,
+         "c": 4.11,
+         "f": 7.97,
          "tags": []
         }
        ]
@@ -3991,24 +3991,23 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "8477",
-         "name": "Mezze Special",
-         "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "id": "2264",
+         "name": "Harissa Pork Ribs",
+         "serving": "1.79oz",
+         "cal": 88.0,
+         "p": 4.53,
+         "c": 6.59,
+         "f": 4.46,
+         "tags": []
         },
         {
-         "id": "750",
-         "name": "Baked Mac and Cheese",
-         "serving": "4.34oz",
-         "cal": 356.0,
-         "p": 13.85,
-         "c": 50.98,
-         "f": 11.34,
+         "id": "2694",
+         "name": "Chickpeas Fritters",
+         "serving": "2.14oz",
+         "cal": 209.0,
+         "p": 10.71,
+         "c": 33.38,
+         "f": 4.24,
          "tags": []
         },
         {
