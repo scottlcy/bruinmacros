@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated": "2026-11-21T02:12:51+00:00",
+ "updated": "2026-11-21T07:10:18+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1096,13 +1096,13 @@
          "tags": []
         },
         {
-         "id": "9043",
-         "name": "Curly Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 214.0,
-         "p": 2.66,
-         "c": 26.66,
-         "f": 10.66,
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
          "tags": []
         }
        ]
@@ -1110,16 +1110,6 @@
       {
        "name": "Harvest Kitchen",
        "items": [
-        {
-         "id": "6366",
-         "name": "Mesquite BBQ Chicken",
-         "serving": "2.95oz",
-         "cal": 127.0,
-         "p": 15.05,
-         "c": 0,
-         "f": 5.78,
-         "tags": []
-        },
         {
          "id": "7420",
          "name": "Rice Jollof",
@@ -1170,6 +1160,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "2385",
+         "name": "Honey Lime Chicken Thighs",
+         "serving": "3.26oz",
+         "cal": 125.0,
+         "p": 15.56,
+         "c": 5.35,
+         "f": 3.83,
+         "tags": []
         }
        ]
       },
@@ -1204,16 +1204,6 @@
          "p": 2.65,
          "c": 5.21,
          "f": 6.36,
-         "tags": []
-        },
-        {
-         "id": "6364",
-         "name": "Buttery Corn on the Cob",
-         "serving": "5.19oz",
-         "cal": 185.0,
-         "p": 5.06,
-         "c": 31.78,
-         "f": 5.48,
          "tags": []
         }
        ]
@@ -1394,16 +1384,6 @@
          "tags": []
         },
         {
-         "id": "8570",
-         "name": "Chocolate Tres Leches Cake",
-         "serving": "5.16oz",
-         "cal": 459.0,
-         "p": 7.81,
-         "c": 50.76,
-         "f": 24.43,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -1424,6 +1404,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4910",
+         "name": "Peach Cobbler",
+         "serving": "5.55oz",
+         "cal": 277.0,
+         "p": 3.44,
+         "c": 52.17,
+         "f": 11.22,
+         "tags": []
         }
        ]
       }
