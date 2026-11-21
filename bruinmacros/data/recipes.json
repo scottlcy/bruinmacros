@@ -12589,7 +12589,7 @@
   "p": 5.06,
   "tags": [],
   "fetched": "2026-11-11",
-  "seen": "2026-11-16"
+  "seen": "2026-11-20"
  },
  "6365": {
   "name": "Kansas City BBQ Pork Ribs",
@@ -14986,7 +14986,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-11-09",
-  "seen": "2026-11-16"
+  "seen": "2026-11-20"
  },
  "6245": {
   "name": "Kitchen Special",
@@ -15042,7 +15042,7 @@
   "p": 9.94,
   "tags": [],
   "fetched": "2026-11-16",
-  "seen": "2026-11-18"
+  "seen": "2026-11-20"
  },
  "7682": {
   "name": "Carrot Walnut Zucchini Quickbread",
@@ -15846,7 +15846,7 @@
   "p": 7.87,
   "tags": [],
   "fetched": "2026-11-15",
-  "seen": "2026-11-19"
+  "seen": "2026-11-20"
  },
  "287": {
   "name": "Cranberry Apple Crisp",
@@ -16652,7 +16652,7 @@
   "p": 0.24,
   "tags": [],
   "fetched": "2026-11-06",
-  "seen": "2026-11-19"
+  "seen": "2026-11-20"
  },
  "6955": {
   "name": "Orange Cranberry Quickbread",
@@ -18923,8 +18923,8 @@
   "c": 26.48,
   "p": 22.92,
   "tags": [],
-  "fetched": "2026-10-09",
-  "seen": "2026-10-30"
+  "fetched": "2026-11-20",
+  "seen": "2026-11-20"
  },
  "1138": {
   "name": "Apple Crumble Tart",
@@ -25263,6 +25263,17 @@
   "p": 0,
   "tags": [],
   "nodata": true,
+  "fetched": "2026-11-20",
+  "seen": "2026-11-20"
+ },
+ "5943": {
+  "name": "Birria Ramen Bowl",
+  "serving": "16.48oz",
+  "cal": 800.0,
+  "f": 43.21,
+  "c": 84.31,
+  "p": 18.82,
+  "tags": [],
   "fetched": "2026-11-20",
   "seen": "2026-11-20"
  }
