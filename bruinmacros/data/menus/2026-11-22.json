@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "updated": "2026-11-22T06:50:39+00:00",
+ "updated": "2026-11-22T20:21:11+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -721,13 +721,23 @@
          "tags": []
         },
         {
-         "id": "6903",
-         "name": "Pan Roasted Mushrooms with Onions",
-         "serving": "2.8oz",
-         "cal": 36.0,
-         "p": 2.07,
-         "c": 4.4,
-         "f": 1.51,
+         "id": "7338",
+         "name": "Roasted Fingerling Potato",
+         "serving": "1.11oz",
+         "cal": 25.0,
+         "p": 0.6,
+         "c": 5.07,
+         "f": 0.27,
+         "tags": []
+        },
+        {
+         "id": "7339",
+         "name": "Roasted Carrots",
+         "serving": "3.91oz",
+         "cal": 69.0,
+         "p": 1.01,
+         "c": 10.36,
+         "f": 2.86,
          "tags": []
         }
        ]
@@ -810,6 +820,37 @@
          "c": 2.3,
          "f": 0.05,
          "tags": []
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
+         "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "10381",
+         "name": "Huli Huli Chicken Salad",
+         "serving": "2oz",
+         "cal": 80.0,
+         "p": 9.23,
+         "c": 4.82,
+         "f": 1.51,
+         "tags": []
         }
        ]
       },
@@ -867,16 +908,6 @@
          "tags": []
         },
         {
-         "id": "4849",
-         "name": "Pumpkin Bake",
-         "serving": "5.05oz",
-         "cal": 316.0,
-         "p": 5.27,
-         "c": 41.34,
-         "f": 15.31,
-         "tags": []
-        },
-        {
          "id": "9599",
          "name": "Yogurt Bar",
          "serving": "",
@@ -897,6 +928,36 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "247",
+         "name": "Banana Bread Pudding",
+         "serving": "6.53oz",
+         "cal": 413.0,
+         "p": 8.01,
+         "c": 40.11,
+         "f": 23.96,
+         "tags": []
+        },
+        {
+         "id": "4906",
+         "name": "Magic Bar",
+         "serving": "1.48oz",
+         "cal": 190.0,
+         "p": 2.89,
+         "c": 23.24,
+         "f": 9.63,
+         "tags": []
+        },
+        {
+         "id": "4024",
+         "name": "Blueberry Crisp",
+         "serving": "5.49oz",
+         "cal": 338.0,
+         "p": 3.05,
+         "c": 62.28,
+         "f": 8.99,
+         "tags": []
         }
        ]
       }
@@ -1456,13 +1517,13 @@
          "tags": []
         },
         {
-         "id": "3259",
-         "name": "Apple, Pear & Cranberry Compote",
-         "serving": "1.73oz",
-         "cal": 33.0,
-         "p": 0.21,
-         "c": 7.6,
-         "f": 0.28,
+         "id": "2179",
+         "name": "Pineapple Compote",
+         "serving": "1.02oz",
+         "cal": 35.0,
+         "p": 0.12,
+         "c": 9.09,
+         "f": 0.03,
          "tags": []
         },
         {
@@ -1491,13 +1552,13 @@
          "tags": []
         },
         {
-         "id": "3774",
-         "name": "Carrot Marmalade",
-         "serving": "1.56oz",
-         "cal": 23.0,
-         "p": 0.36,
-         "c": 5.4,
-         "f": 0.08,
+         "id": "1205",
+         "name": "Blueberry Compote",
+         "serving": "1.7oz",
+         "cal": 31.0,
+         "p": 0.07,
+         "c": 7.47,
+         "f": 0.11,
          "tags": []
         },
         {
@@ -1581,13 +1642,13 @@
        "name": "Sweet Bites",
        "items": [
         {
-         "id": "5427",
-         "name": "Multi-Grain Bread",
-         "serving": "1.48oz",
-         "cal": 97.0,
-         "p": 3.41,
-         "c": 18.54,
-         "f": 1.06,
+         "id": "7682",
+         "name": "Carrot Walnut Zucchini Quickbread",
+         "serving": "2.42oz",
+         "cal": 238.0,
+         "p": 4.28,
+         "c": 28.57,
+         "f": 11.84,
          "tags": []
         },
         {
@@ -1642,33 +1703,23 @@
          "tags": []
         },
         {
-         "id": "888",
-         "name": "Cacao Butter",
-         "serving": "1.09oz",
-         "cal": 38.0,
-         "p": 0.97,
-         "c": 7.08,
-         "f": 0.69,
+         "id": "3928",
+         "name": "Peach Vanilla Compote",
+         "serving": "2.06oz",
+         "cal": 56.0,
+         "p": 0.25,
+         "c": 14.82,
+         "f": 0,
          "tags": []
         },
         {
-         "id": "3156",
-         "name": "Chocolate Peanut Butter",
-         "serving": "1.03oz",
-         "cal": 99.0,
-         "p": 3.66,
-         "c": 5.36,
-         "f": 6.59,
-         "tags": []
-        },
-        {
-         "id": "994",
-         "name": "Pear-Pineapple Compote",
-         "serving": "1.76oz",
-         "cal": 48.0,
-         "p": 0.3,
-         "c": 11.92,
-         "f": 0.06,
+         "id": "3703",
+         "name": "Black Pepper Strawberry Compote",
+         "serving": "2oz",
+         "cal": 72.0,
+         "p": 0.24,
+         "c": 18.5,
+         "f": 0.11,
          "tags": []
         }
        ]
@@ -1870,6 +1921,16 @@
          "c": 10.11,
          "f": 9.26,
          "tags": []
+        },
+        {
+         "id": "130",
+         "name": "Seafood, Leek & Tomato Chowder",
+         "serving": "7.16oz",
+         "cal": 80.0,
+         "p": 9.96,
+         "c": 6.13,
+         "f": 0.97,
+         "tags": []
         }
        ]
       },
@@ -1948,13 +2009,23 @@
          "tags": []
         },
         {
-         "id": "902",
-         "name": "Wheat Berry",
-         "serving": "2.01oz",
-         "cal": 93.0,
-         "p": 3.58,
-         "c": 20.19,
-         "f": 0.44,
+         "id": "2205",
+         "name": "Lentil Shepherd's Pie",
+         "serving": "6.28oz",
+         "cal": 866.0,
+         "p": 5.98,
+         "c": 30.55,
+         "f": 80.64,
+         "tags": []
+        },
+        {
+         "id": "2687",
+         "name": "Roasted Yams",
+         "serving": "2.68oz",
+         "cal": 92.0,
+         "p": 1.15,
+         "c": 21.06,
+         "f": 0.36,
          "tags": []
         },
         {
@@ -2216,16 +2287,6 @@
          "p": 0.3,
          "c": 11.92,
          "f": 0.06,
-         "tags": []
-        },
-        {
-         "id": "3384",
-         "name": "Nopales & Vanilla Marmalade",
-         "serving": "1.95oz",
-         "cal": 59.0,
-         "p": 0.51,
-         "c": 15.17,
-         "f": 0.04,
          "tags": []
         }
        ]
