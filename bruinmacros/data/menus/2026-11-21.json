@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated": "2026-11-22T00:20:12+00:00",
+ "updated": "2026-11-22T06:50:19+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1125,16 +1125,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "2385",
-         "name": "Honey Lime Chicken Thighs",
-         "serving": "3.26oz",
-         "cal": 125.0,
-         "p": 15.56,
-         "c": 5.35,
-         "f": 3.83,
-         "tags": []
-        },
-        {
          "id": "7333",
          "name": "Garlic Flavored Rice",
          "serving": "3.25oz",
@@ -1172,6 +1162,26 @@
          "p": 1.29,
          "c": 6.12,
          "f": 0.65,
+         "tags": []
+        },
+        {
+         "id": "7419",
+         "name": "Pork Carnitas with Salsa Verde",
+         "serving": "2oz",
+         "cal": 61.0,
+         "p": 7.67,
+         "c": 1.14,
+         "f": 2.7,
+         "tags": []
+        },
+        {
+         "id": "6902",
+         "name": "Pineapple Marinated Chicken Thigh",
+         "serving": "2.91oz",
+         "cal": 102.0,
+         "p": 14.62,
+         "c": 1.18,
+         "f": 3.39,
          "tags": []
         }
        ]
@@ -1288,6 +1298,37 @@
          "p": 0.15,
          "c": 3.7,
          "f": 0.03,
+         "tags": []
+        },
+        {
+         "id": "9349",
+         "name": "Sonoma Chicken Walnut Salad",
+         "serving": "3.28oz",
+         "cal": 247.0,
+         "p": 10.0,
+         "c": 5.28,
+         "f": 20.19,
+         "tags": []
+        },
+        {
+         "id": "10626",
+         "name": "Three-Bean Salad",
+         "serving": "160oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "133",
+         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
+         "serving": "2oz",
+         "cal": 40.0,
+         "p": 0.92,
+         "c": 6.67,
+         "f": 1.38,
          "tags": []
         }
        ]
@@ -2605,13 +2646,13 @@
          "tags": []
         },
         {
-         "id": "984",
-         "name": "Roasted Broccoli",
-         "serving": "3.21oz",
-         "cal": 79.0,
-         "p": 2.54,
-         "c": 4.39,
-         "f": 6.34,
+         "id": "1176",
+         "name": "Edamame Beans",
+         "serving": "3oz",
+         "cal": 94.0,
+         "p": 9.53,
+         "c": 6.46,
+         "f": 4.02,
          "tags": []
         },
         {
@@ -2655,24 +2696,26 @@
        "name": "Simply Grilled",
        "items": [
         {
-         "id": "7580",
-         "name": "Halal Chipotle BBQ Chicken Thigh",
-         "serving": "1.69oz",
-         "cal": 61.0,
-         "p": 7.78,
-         "c": 2.44,
-         "f": 1.96,
-         "tags": []
+         "id": "5955",
+         "name": "Simply Grilled Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
-         "id": "2697",
-         "name": "Grilled Portobello Mushroom",
-         "serving": "1.93oz",
-         "cal": 32.0,
-         "p": 1.08,
-         "c": 6.52,
-         "f": 0.15,
-         "tags": []
+         "id": "6242",
+         "name": "Simply Grilled Vegetarian Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
          "id": "2280",

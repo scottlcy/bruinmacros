@@ -10253,8 +10253,8 @@
   "p": 0,
   "tags": [],
   "nodata": true,
-  "fetched": "2026-09-28",
-  "seen": "2026-10-22"
+  "fetched": "2026-11-21",
+  "seen": "2026-11-21"
  },
  "1205": {
   "name": "Blueberry Compote",
@@ -21333,8 +21333,8 @@
   "p": 0,
   "tags": [],
   "nodata": true,
-  "fetched": "2026-10-14",
-  "seen": "2026-11-05"
+  "fetched": "2026-11-21",
+  "seen": "2026-11-21"
  },
  "3387": {
   "name": "Ziti Bolognese",
@@ -25290,6 +25290,17 @@
   "f": 13.29,
   "c": 2.61,
   "p": 9.84,
+  "tags": [],
+  "fetched": "2026-11-21",
+  "seen": "2026-11-21"
+ },
+ "7419": {
+  "name": "Pork Carnitas with Salsa Verde",
+  "serving": "2oz",
+  "cal": 61.0,
+  "f": 2.7,
+  "c": 1.14,
+  "p": 7.67,
   "tags": [],
   "fetched": "2026-11-21",
   "seen": "2026-11-21"
