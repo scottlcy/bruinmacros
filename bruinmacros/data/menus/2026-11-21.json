@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated": "2026-11-21T20:05:45+00:00",
+ "updated": "2026-11-22T00:20:12+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -2605,13 +2605,13 @@
          "tags": []
         },
         {
-         "id": "1176",
-         "name": "Edamame Beans",
-         "serving": "3oz",
-         "cal": 94.0,
-         "p": 9.53,
-         "c": 6.46,
-         "f": 4.02,
+         "id": "984",
+         "name": "Roasted Broccoli",
+         "serving": "3.21oz",
+         "cal": 79.0,
+         "p": 2.54,
+         "c": 4.39,
+         "f": 6.34,
          "tags": []
         },
         {
