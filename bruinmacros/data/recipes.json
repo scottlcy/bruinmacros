@@ -328,7 +328,7 @@
   "p": 12.66,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-11-20"
+  "seen": "2026-11-22"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -670,7 +670,7 @@
   "p": 1.65,
   "tags": [],
   "fetched": "2026-11-14",
-  "seen": "2026-11-20"
+  "seen": "2026-11-22"
  },
  "7680": {
   "name": "Chicken Turkish Borek",
@@ -2209,7 +2209,7 @@
   "p": 3.11,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-11-21"
+  "seen": "2026-11-22"
  },
  "3716": {
   "name": "BBQ Chicken Salad",
@@ -10009,7 +10009,7 @@
   "p": 12.06,
   "tags": [],
   "fetched": "2026-11-05",
-  "seen": "2026-11-16"
+  "seen": "2026-11-22"
  },
  "902": {
   "name": "Wheat Berry",
@@ -19883,7 +19883,7 @@
   "p": 5.66,
   "tags": [],
   "fetched": "2026-11-11",
-  "seen": "2026-11-20"
+  "seen": "2026-11-22"
  },
  "2343": {
   "name": "Sauteed Spinach",
@@ -22050,7 +22050,7 @@
   "p": 1.57,
   "tags": [],
   "fetched": "2026-11-16",
-  "seen": "2026-11-20"
+  "seen": "2026-11-22"
  },
  "4573": {
   "name": "Pistachio Raspberry Tart",
@@ -23486,8 +23486,8 @@
   "c": 3.08,
   "p": 18.91,
   "tags": [],
-  "fetched": "2026-10-22",
-  "seen": "2026-11-20"
+  "fetched": "2026-11-22",
+  "seen": "2026-11-22"
  },
  "3007": {
   "name": "Maple Chipotle Pork Tenderloin",
@@ -25312,6 +25312,17 @@
   "f": 53.23,
   "c": 95.38,
   "p": 13.61,
+  "tags": [],
+  "fetched": "2026-11-22",
+  "seen": "2026-11-22"
+ },
+ "6226": {
+  "name": "Raspberry Pistachio Tartelette",
+  "serving": "1.27oz",
+  "cal": 6.0,
+  "f": 0.6,
+  "c": 1.37,
+  "p": 0.23,
   "tags": [],
   "fetched": "2026-11-22",
   "seen": "2026-11-22"
