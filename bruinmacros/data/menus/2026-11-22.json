@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "updated": "2026-11-23T01:42:11+00:00",
+ "updated": "2026-11-23T07:41:13+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1141,31 +1141,20 @@
          "tags": []
         },
         {
-         "id": "6931",
-         "name": "Sweet Potato Fries",
+         "id": "744",
+         "name": "French Fries",
          "serving": "4oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
+         "cal": 163.0,
+         "p": 2.7,
+         "c": 26.98,
+         "f": 4.04,
+         "tags": []
         }
        ]
       },
       {
        "name": "Harvest Kitchen",
        "items": [
-        {
-         "id": "6902",
-         "name": "Pineapple Marinated Chicken Thigh",
-         "serving": "2.91oz",
-         "cal": 102.0,
-         "p": 14.62,
-         "c": 1.18,
-         "f": 3.39,
-         "tags": []
-        },
         {
          "id": "7341",
          "name": "Steamed Rice",
@@ -1197,13 +1186,23 @@
          "tags": []
         },
         {
-         "id": "10040",
-         "name": "Potato Dumpling Soup",
+         "id": "7419",
+         "name": "Pork Carnitas with Salsa Verde",
+         "serving": "2oz",
+         "cal": 61.0,
+         "p": 7.67,
+         "c": 1.14,
+         "f": 2.7,
+         "tags": []
+        },
+        {
+         "id": "753",
+         "name": "Garden Vegetable Soup",
          "serving": "6oz",
-         "cal": 149.0,
-         "p": 3.11,
-         "c": 13.19,
-         "f": 9.49,
+         "cal": 34.0,
+         "p": 1.29,
+         "c": 6.12,
+         "f": 0.65,
          "tags": []
         }
        ]
@@ -1386,16 +1385,6 @@
          "p": 0.86,
          "c": 31.26,
          "f": 2.36,
-         "tags": []
-        },
-        {
-         "id": "242",
-         "name": "Chocolate Silk Pie",
-         "serving": "2.48oz",
-         "cal": 224.0,
-         "p": 2.91,
-         "c": 20.06,
-         "f": 17.39,
          "tags": []
         },
         {
@@ -3394,23 +3383,13 @@
          "tags": []
         },
         {
-         "id": "10085",
-         "name": "Pumpkin Chai Tiramisu Cake",
-         "serving": "1.05oz",
-         "cal": 62.0,
-         "p": 1.65,
-         "c": 9.28,
-         "f": 3.55,
-         "tags": []
-        },
-        {
-         "id": "6226",
-         "name": "Raspberry Pistachio Tartelette",
-         "serving": "1.27oz",
-         "cal": 6.0,
-         "p": 0.23,
-         "c": 1.37,
-         "f": 0.6,
+         "id": "299",
+         "name": "Old-Fashioned Oatmeal Raisin Cookie",
+         "serving": "1.3oz",
+         "cal": 152.0,
+         "p": 2.11,
+         "c": 22.86,
+         "f": 5.87,
          "tags": []
         },
         {
@@ -3450,23 +3429,24 @@
        "name": "Mezze",
        "items": [
         {
-         "id": "2323",
-         "name": "Grilled Tri Tip with Sumac",
-         "serving": "1.17oz",
-         "cal": 59.0,
-         "p": 5.66,
-         "c": 3.78,
-         "f": 1.83,
-         "tags": []
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
         },
         {
-         "id": "2933",
-         "name": "Harissa Chicken Wings",
-         "serving": "4.35oz",
-         "cal": 227.0,
-         "p": 18.91,
-         "c": 3.08,
-         "f": 15.02,
+         "id": "1720",
+         "name": "Lavash Roll-up",
+         "serving": "5.62oz",
+         "cal": 359.0,
+         "p": 10.73,
+         "c": 17.11,
+         "f": 26.41,
          "tags": []
         },
         {
@@ -3477,6 +3457,16 @@
          "p": 12.06,
          "c": 14.98,
          "f": 18.98,
+         "tags": []
+        },
+        {
+         "id": "3261",
+         "name": "Flageolet Bean Ragout",
+         "serving": "2.92oz",
+         "cal": 107.0,
+         "p": 6.47,
+         "c": 19.67,
+         "f": 0.84,
          "tags": []
         },
         {
