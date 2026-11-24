@@ -328,7 +328,7 @@
   "p": 12.66,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -924,7 +924,7 @@
   "p": 7.94,
   "tags": [],
   "fetched": "2026-11-21",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "2967": {
   "name": "Caesar Salad",
@@ -1606,8 +1606,8 @@
   "c": 28.44,
   "p": 1.12,
   "tags": [],
-  "fetched": "2026-09-27",
-  "seen": "2026-09-27"
+  "fetched": "2026-11-24",
+  "seen": "2026-11-24"
  },
  "2440": {
   "name": "Vietnamese Pickled Vegetables",
@@ -3800,7 +3800,7 @@
   "p": 1.0,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "6542": {
   "name": "Scrambled Eggs",
@@ -6222,7 +6222,7 @@
   "p": 3.81,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "295": {
   "name": "Mini Maple Pecan Danish",
@@ -6666,7 +6666,7 @@
   "p": 2.8,
   "tags": [],
   "fetched": "2026-11-01",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "4021": {
   "name": "Yukon Gold Potato Wedges",
@@ -8186,7 +8186,7 @@
   "p": 1.29,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "7560": {
   "name": "Diced Tofu",
@@ -8629,7 +8629,7 @@
   "p": 5.78,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "9964": {
   "name": "Pre-Workout Protein Box",
@@ -10219,7 +10219,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-10-28",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "6189": {
   "name": "Soup Special",
@@ -11337,7 +11337,7 @@
   "p": 18.28,
   "tags": [],
   "fetched": "2026-11-10",
-  "seen": "2026-11-11"
+  "seen": "2026-11-24"
  },
  "6495": {
   "name": "Hush Puppy",
@@ -12209,7 +12209,7 @@
   "p": 0.09,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-11-18"
+  "seen": "2026-11-24"
  },
  "3205": {
   "name": "Grilled Balsamic Eggplant",
@@ -12308,7 +12308,7 @@
   "p": 6.95,
   "tags": [],
   "fetched": "2026-11-04",
-  "seen": "2026-11-19"
+  "seen": "2026-11-24"
  },
  "3695": {
   "name": "Pasta Frutti di Mare",
@@ -13105,7 +13105,7 @@
   "p": 9.96,
   "tags": [],
   "fetched": "2026-11-03",
-  "seen": "2026-11-22"
+  "seen": "2026-11-24"
  },
  "1381": {
   "name": "Chipotle Chicken, Brown Rice, & Avocado Bowl",
@@ -14207,7 +14207,7 @@
   "p": 0.62,
   "tags": [],
   "fetched": "2026-11-15",
-  "seen": "2026-11-16"
+  "seen": "2026-11-24"
  },
  "2368": {
   "name": "Shrimp Scampi Pizza",
@@ -15037,7 +15037,7 @@
   "p": 0.92,
   "tags": [],
   "fetched": "2026-11-19",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "7086": {
   "name": "Sonoma Walnut Chicken Salad",
@@ -15940,7 +15940,7 @@
   "p": 0.25,
   "tags": [],
   "fetched": "2026-11-09",
-  "seen": "2026-11-22"
+  "seen": "2026-11-24"
  },
  "4014": {
   "name": "Apple Cobbler",
@@ -16647,7 +16647,7 @@
   "p": 0.24,
   "tags": [],
   "fetched": "2026-11-23",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "3703": {
   "name": "Black Pepper Strawberry Compote",
@@ -16658,7 +16658,7 @@
   "p": 0.24,
   "tags": [],
   "fetched": "2026-11-06",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "6955": {
   "name": "Orange Cranberry Quickbread",
@@ -16989,7 +16989,7 @@
   "p": 10.01,
   "tags": [],
   "fetched": "2026-11-05",
-  "seen": "2026-11-15"
+  "seen": "2026-11-24"
  },
  "3783": {
   "name": "Butternut Squash Soup",
@@ -17110,7 +17110,7 @@
   "p": 0.26,
   "tags": [],
   "fetched": "2026-11-05",
-  "seen": "2026-11-17"
+  "seen": "2026-11-24"
  },
  "5189": {
   "name": "Crispy Tofu Stir Fry Hawaiian Style",
@@ -19172,7 +19172,7 @@
   "p": 9.23,
   "tags": [],
   "fetched": "2026-11-22",
-  "seen": "2026-11-22"
+  "seen": "2026-11-24"
  },
  "1022": {
   "name": "Pizzaiola Beef Sandwich",
@@ -19629,7 +19629,7 @@
   "p": 9.87,
   "tags": [],
   "fetched": "2026-11-22",
-  "seen": "2026-11-23"
+  "seen": "2026-11-24"
  },
  "9813": {
   "name": "Seared Salmon w/Spicy Peruvian Salsa Verde",
@@ -20225,8 +20225,8 @@
   "c": 2.02,
   "p": 11.79,
   "tags": [],
-  "fetched": "2026-10-12",
-  "seen": "2026-10-12"
+  "fetched": "2026-11-24",
+  "seen": "2026-11-24"
  },
  "5531": {
   "name": "Cranberry Orange Quickbread",
@@ -24804,7 +24804,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-11-09",
-  "seen": "2026-11-09"
+  "seen": "2026-11-24"
  },
  "10721": {
   "name": "Bulgogi Green Onion Pancake Roll",
