@@ -328,7 +328,7 @@
   "p": 12.66,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "2400": {
   "name": "Larchmont Chicken Salad",
@@ -481,7 +481,7 @@
   "p": 7.53,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-11-23"
+  "seen": "2026-11-25"
  },
  "1396": {
   "name": "Greek Style Roasted Carrot & Pepper Saute",
@@ -693,7 +693,7 @@
   "tags": [],
   "nodata": true,
   "fetched": "2026-11-01",
-  "seen": "2026-11-19"
+  "seen": "2026-11-25"
  },
  "6379": {
   "name": "Bulgur Wheat",
@@ -6398,7 +6398,7 @@
   "p": 6.47,
   "tags": [],
   "fetched": "2026-10-27",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "3288": {
   "name": "Pineapple & Goat Cheese Tortilla Pizza",
@@ -8883,7 +8883,7 @@
   "p": 1.2,
   "tags": [],
   "fetched": "2026-11-01",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "1661": {
   "name": "Tiramisu",
@@ -10009,7 +10009,7 @@
   "p": 12.06,
   "tags": [],
   "fetched": "2026-11-05",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "902": {
   "name": "Wheat Berry",
@@ -11392,7 +11392,7 @@
   "p": 2.03,
   "tags": [],
   "fetched": "2026-10-29",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "6914": {
   "name": "Spicy Braised Lentils with Potato",
@@ -13226,7 +13226,7 @@
   "p": 1.81,
   "tags": [],
   "fetched": "2026-11-17",
-  "seen": "2026-11-18"
+  "seen": "2026-11-25"
  },
  "1998": {
   "name": "Grilled Purple Sweet Potato",
@@ -15037,7 +15037,7 @@
   "p": 0.92,
   "tags": [],
   "fetched": "2026-11-19",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "7086": {
   "name": "Sonoma Walnut Chicken Salad",
@@ -16647,7 +16647,7 @@
   "p": 0.24,
   "tags": [],
   "fetched": "2026-11-23",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "3703": {
   "name": "Black Pepper Strawberry Compote",
@@ -19172,7 +19172,7 @@
   "p": 9.23,
   "tags": [],
   "fetched": "2026-11-22",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "1022": {
   "name": "Pizzaiola Beef Sandwich",
@@ -20336,8 +20336,8 @@
   "c": 2.68,
   "p": 13.39,
   "tags": [],
-  "fetched": "2026-10-13",
-  "seen": "2026-11-11"
+  "fetched": "2026-11-25",
+  "seen": "2026-11-25"
  },
  "1283": {
   "name": "Chipotle BBQ Pork Ribs",
@@ -21242,7 +21242,7 @@
   "p": 14.55,
   "tags": [],
   "fetched": "2026-11-13",
-  "seen": "2026-11-13"
+  "seen": "2026-11-25"
  },
  "8663": {
   "name": "Roasted Plantains",
@@ -24210,7 +24210,7 @@
   "p": 2.8,
   "tags": [],
   "fetched": "2026-10-30",
-  "seen": "2026-10-31"
+  "seen": "2026-11-25"
  },
  "2829": {
   "name": "Baked Cod w/ Spicy Roma Sauce over Herbed Spaghetti",
@@ -24390,7 +24390,7 @@
   "p": 24.4,
   "tags": [],
   "fetched": "2026-11-01",
-  "seen": "2026-11-24"
+  "seen": "2026-11-25"
  },
  "766": {
   "name": "Tomato & Fresh Basil Soup",
@@ -25379,6 +25379,61 @@
   "f": 13.54,
   "c": 0.91,
   "p": 8.47,
+  "tags": [],
+  "fetched": "2026-11-25",
+  "seen": "2026-11-25"
+ },
+ "10756": {
+  "name": "Sweet Potato Casserole",
+  "serving": "4.02oz",
+  "cal": 228.0,
+  "f": 10.11,
+  "c": 33.9,
+  "p": 1.47,
+  "tags": [],
+  "fetched": "2026-11-25",
+  "seen": "2026-11-25"
+ },
+ "10759": {
+  "name": "Buttery Herb Stuffing",
+  "serving": "3oz",
+  "cal": 170.0,
+  "f": 7.55,
+  "c": 22.01,
+  "p": 3.24,
+  "tags": [],
+  "fetched": "2026-11-25",
+  "seen": "2026-11-25"
+ },
+ "10760": {
+  "name": "Turkey Gravy",
+  "serving": "1.05oz",
+  "cal": 9.0,
+  "f": 0.17,
+  "c": 1.57,
+  "p": 0.25,
+  "tags": [],
+  "fetched": "2026-11-25",
+  "seen": "2026-11-25"
+ },
+ "3771": {
+  "name": "Roasted Turkey",
+  "serving": "2.17oz",
+  "cal": 77.0,
+  "f": 3.48,
+  "c": 0.01,
+  "p": 12.02,
+  "tags": [],
+  "fetched": "2026-11-25",
+  "seen": "2026-11-25"
+ },
+ "3944": {
+  "name": "Cranberry-Orange Sauce",
+  "serving": "1.01oz",
+  "cal": 32.0,
+  "f": 2.21,
+  "c": 2.89,
+  "p": 0.13,
   "tags": [],
   "fetched": "2026-11-25",
   "seen": "2026-11-25"
