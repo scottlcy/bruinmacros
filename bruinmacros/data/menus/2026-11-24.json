@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "updated": "2026-11-24T23:00:52+00:00",
+ "updated": "2026-11-25T05:26:03+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1173,16 +1173,6 @@
          "tags": []
         },
         {
-         "id": "6534",
-         "name": "Pork al Pastor",
-         "serving": "3.1oz",
-         "cal": 140.0,
-         "p": 11.79,
-         "c": 2.02,
-         "f": 9.01,
-         "tags": []
-        },
-        {
          "id": "9521",
          "name": "Colombian Lentil and Chorizo Stew",
          "serving": "8.6oz",
@@ -1319,16 +1309,6 @@
          "tags": []
         },
         {
-         "id": "133",
-         "name": "Golden Beet & Greens Salad w/ Blood Orange Mint Vinaigrette",
-         "serving": "2oz",
-         "cal": 40.0,
-         "p": 0.92,
-         "c": 6.67,
-         "f": 1.38,
-         "tags": []
-        },
-        {
          "id": "10626",
          "name": "Three-Bean Salad",
          "serving": "160oz",
@@ -1347,6 +1327,16 @@
          "p": 9.23,
          "c": 4.82,
          "f": 1.51,
+         "tags": []
+        },
+        {
+         "id": "10627",
+         "name": "Tomato Corn Salad w/ Queso Fresco",
+         "serving": "15.43oz",
+         "cal": 854.0,
+         "p": 24.4,
+         "c": 33.5,
+         "f": 67.04,
          "tags": []
         }
        ]
@@ -1382,16 +1372,6 @@
          "p": 3.19,
          "c": 52.59,
          "f": 20.72,
-         "tags": []
-        },
-        {
-         "id": "233",
-         "name": "Fudge Brownie",
-         "serving": "1.88oz",
-         "cal": 206.0,
-         "p": 3.38,
-         "c": 27.38,
-         "f": 10.67,
          "tags": []
         },
         {
@@ -3937,16 +3917,6 @@
          "tags": []
         },
         {
-         "id": "10087",
-         "name": "Lebanese Rice Pudding",
-         "serving": "5oz",
-         "cal": 142.0,
-         "p": 3.23,
-         "c": 26.82,
-         "f": 2.69,
-         "tags": []
-        },
-        {
          "id": "5378",
          "name": "Greek Honey Pistachio Cake",
          "serving": "1.83oz",
@@ -3982,6 +3952,37 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "1694",
+         "name": "Herbed Rice Pilaf",
+         "serving": "3oz",
+         "cal": 177.0,
+         "p": 3.53,
+         "c": 37.19,
+         "f": 1.05,
+         "tags": []
+        },
+        {
+         "id": "2152",
+         "name": "Roasted Carrots",
+         "serving": "3.91oz",
+         "cal": 69.0,
+         "p": 1.01,
+         "c": 10.36,
+         "f": 2.86,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -4286,17 +4287,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
