@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "updated": "2026-11-25T22:31:46+00:00",
+ "updated": "2026-11-26T05:02:16+00:00",
  "source": "https://dining.ucla.edu",
  "locations": [
   {
@@ -1151,26 +1151,6 @@
        "name": "Harvest Kitchen",
        "items": [
         {
-         "id": "3771",
-         "name": "Roasted Turkey",
-         "serving": "2.17oz",
-         "cal": 77.0,
-         "p": 12.02,
-         "c": 0.01,
-         "f": 3.48,
-         "tags": []
-        },
-        {
-         "id": "10760",
-         "name": "Turkey Gravy",
-         "serving": "1.05oz",
-         "cal": 9.0,
-         "p": 0.25,
-         "c": 1.57,
-         "f": 0.17,
-         "tags": []
-        },
-        {
          "id": "3944",
          "name": "Cranberry-Orange Sauce",
          "serving": "1.01oz",
@@ -1191,16 +1171,6 @@
          "tags": []
         },
         {
-         "id": "178",
-         "name": "Mashed Potatoes",
-         "serving": "4oz",
-         "cal": 102.0,
-         "p": 1.81,
-         "c": 13.61,
-         "f": 4.77,
-         "tags": []
-        },
-        {
          "id": "10759",
          "name": "Buttery Herb Stuffing",
          "serving": "3oz",
@@ -1208,6 +1178,26 @@
          "p": 3.24,
          "c": 22.01,
          "f": 7.55,
+         "tags": []
+        },
+        {
+         "id": "1942",
+         "name": "Beef Fajitas",
+         "serving": "4.99oz",
+         "cal": 138.0,
+         "p": 16.84,
+         "c": 4.99,
+         "f": 5.78,
+         "tags": []
+        },
+        {
+         "id": "1953",
+         "name": "Roasted Fingerling Potato",
+         "serving": "1.03oz",
+         "cal": 25.0,
+         "p": 0.59,
+         "c": 5.05,
+         "f": 0.25,
          "tags": []
         },
         {
@@ -1229,26 +1219,6 @@
          "c": 11.03,
          "f": 31.72,
          "tags": []
-        },
-        {
-         "id": "3183",
-         "name": "Salvadorian Chicken",
-         "serving": "4.39oz",
-         "cal": 190.0,
-         "p": 16.12,
-         "c": 15.64,
-         "f": 6.12,
-         "tags": []
-        },
-        {
-         "id": "3238",
-         "name": "Vegan Jack Fruit Tinga",
-         "serving": "17.01oz",
-         "cal": 236.0,
-         "p": 4.87,
-         "c": 23.86,
-         "f": 14.75,
-         "tags": []
         }
        ]
       },
@@ -1256,23 +1226,13 @@
        "name": "Seasonal Sides",
        "items": [
         {
-         "id": "10756",
-         "name": "Sweet Potato Casserole",
-         "serving": "4.02oz",
-         "cal": 228.0,
-         "p": 1.47,
-         "c": 33.9,
-         "f": 10.11,
-         "tags": []
-        },
-        {
-         "id": "6903",
-         "name": "Pan Roasted Mushrooms with Onions",
-         "serving": "2.8oz",
-         "cal": 36.0,
-         "p": 2.07,
-         "c": 4.4,
-         "f": 1.51,
+         "id": "7338",
+         "name": "Roasted Fingerling Potato",
+         "serving": "1.11oz",
+         "cal": 25.0,
+         "p": 0.6,
+         "c": 5.07,
+         "f": 0.27,
          "tags": []
         },
         {
@@ -1433,26 +1393,6 @@
          "tags": []
         },
         {
-         "id": "5479",
-         "name": "Classic Chocolate Chip Cookie",
-         "serving": "1.3oz",
-         "cal": 162.0,
-         "p": 2.31,
-         "c": 22.79,
-         "f": 7.38,
-         "tags": []
-        },
-        {
-         "id": "4041",
-         "name": "Pumpkin Pie",
-         "serving": "2.37oz",
-         "cal": 123.0,
-         "p": 2.8,
-         "c": 22.32,
-         "f": 2.7,
-         "tags": []
-        },
-        {
          "id": "255",
          "name": "Blondie w/ Walnuts",
          "serving": "1.75oz",
@@ -1503,6 +1443,16 @@
          "f": 0,
          "tags": [],
          "nodata": true
+        },
+        {
+         "id": "4849",
+         "name": "Pumpkin Bake",
+         "serving": "5.05oz",
+         "cal": 316.0,
+         "p": 5.27,
+         "c": 41.34,
+         "f": 15.31,
+         "tags": []
         }
        ]
       }
@@ -2252,17 +2202,6 @@
          "c": 16.76,
          "f": 6.01,
          "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
@@ -2356,16 +2295,6 @@
          "tags": []
         },
         {
-         "id": "10087",
-         "name": "Lebanese Rice Pudding",
-         "serving": "5oz",
-         "cal": 142.0,
-         "p": 3.23,
-         "c": 26.82,
-         "f": 2.69,
-         "tags": []
-        },
-        {
          "id": "5378",
          "name": "Greek Honey Pistachio Cake",
          "serving": "1.83oz",
@@ -2401,6 +2330,48 @@
       {
        "name": "Mezze",
        "items": [
+        {
+         "id": "8477",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "5962",
+         "name": "Mezze Special",
+         "serving": "4oz",
+         "cal": 0,
+         "p": 0,
+         "c": 0,
+         "f": 0,
+         "tags": [],
+         "nodata": true
+        },
+        {
+         "id": "1055",
+         "name": "Crusty Gruyere Grilled Cheese Sandwich w/ Braised Lamb",
+         "serving": "6.59oz",
+         "cal": 550.0,
+         "p": 24.55,
+         "c": 5.15,
+         "f": 46.45,
+         "tags": []
+        },
+        {
+         "id": "3220",
+         "name": "French Green Lentil Sauté",
+         "serving": "3.12oz",
+         "cal": 133.0,
+         "p": 7.53,
+         "c": 22.1,
+         "f": 2.28,
+         "tags": []
+        },
         {
          "id": "5476",
          "name": "Focaccia",
@@ -2645,27 +2616,6 @@
          "c": 4.49,
          "f": 6.76,
          "tags": []
-        },
-        {
-         "id": "5077",
-         "name": "Moroccan Couscous Salad",
-         "serving": "2.02oz",
-         "cal": 127.0,
-         "p": 2.88,
-         "c": 16.76,
-         "f": 6.01,
-         "tags": []
-        },
-        {
-         "id": "10626",
-         "name": "Three-Bean Salad",
-         "serving": "160oz",
-         "cal": 0,
-         "p": 0,
-         "c": 0,
-         "f": 0,
-         "tags": [],
-         "nodata": true
         }
        ]
       },
@@ -7794,7 +7744,7 @@
         },
         {
          "id": "9801",
-         "name": "Italian Sausage Sandwich w/ Peppers & Onions",
+         "name": "Wed - Italian Sausage Sandwich",
          "serving": "13.48oz",
          "cal": 1102.0,
          "p": 48.03,
